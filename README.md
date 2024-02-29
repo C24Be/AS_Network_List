@@ -1,28 +1,30 @@
-# AS Prefixes List Script
+# AS Network List
 
 ## Description
 
-* This Python script retrieves and prints the prefixes announced by a specified Autonomous System (AS). It uses the RIPE Stat Data API to fetch the data.
+This Python script retrieves and prints the network prefixes announced by a specified Autonomous System (AS). It leverages the RIPE Stat Data API to fetch the data.
 
-* Tested only on MacOS and Linux :)
+**Note:** This script has been tested on MacOS and Linux.
+
+## Prerequisites
+
+- Python 3: You can download it from the [official website](https://www.python.org/downloads/).
 
 ## Installation
 
-1. Make sure you have Python 3 installed. You can download it from the [official website](https://www.python.org/downloads/).
-
-2. Clone this repository:
+1. Clone this repository:
 
     ```bash
     git clone https://github.com/C24Be/AS_Network_List.git
     ```
 
-3. Navigate to the repository folder:
+2. Navigate to the repository folder:
 
     ```bash
     cd AS_Network_List
     ```
 
-4. Install requirements:
+3. Install the required Python packages:
 
     ```bash
     ./requirements.sh
@@ -36,18 +38,19 @@
     python as_network_list.py AS61280
     ```
 
-2. If you want to disable all output except the prefixes, use the --quiet or -q switch:
+2. To disable all output except the prefixes, use the `--quiet` or `-q` switch:
 
     ```bash
     python as_network_list.py AS61280 --quiet
     ```
 
-3. If you run the script with the -h or --help switch, it will print a help message:
+3. To print a help message, use the `-h` or `--help` switch:
 
     ```bash
     python as_network_list.py --help
     ```
 
-## ---
+## Screenshot
 
-<img width="372" alt="image" src="https://github.com/C24Be/AS_Network_List/assets/153936414/574b072c-9104-4e02-b2c0-3609433bdfc4">
+![Screenshot](https://github.com/C24Be/AS_Network_List/assets/153936414/574b072c-9104-4e02-b2c0-3609433bdfc4)
+
