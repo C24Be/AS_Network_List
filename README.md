@@ -33,17 +33,17 @@
 1. Run the script with the AS number as an argument:
 
     ```bash
-    python ASList.py AS61280
+    python as_network_list.py AS61280
     ```
 
 2. If you want to disable all output except the prefixes, use the --quiet or -q switch:
 
     ```bash
-    python ASList.py AS61280 --quiet
+    python as_network_list.py AS61280 --quiet
     ```
 
 3. If you run the script with the -h or --help switch, it will print a help message:
 
     ```bash
-    python ASList.py --help
+    python as_network_list.py --help
     ```

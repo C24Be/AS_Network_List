@@ -14,7 +14,7 @@ def get_as_prefixes(asn):
         return []
 
 def main():
-    parser = argparse.ArgumentParser(description='Get prefixes announced by an AS.')
+    parser = argparse.ArgumentParser(description='./as_network_list.py -q AS61280')
     parser.add_argument('asn', help='The AS number to get prefixes for.')
     parser.add_argument('-q', '--quiet', action='store_true', help='Disable all output except prefixes.')
     args = parser.parse_args()
