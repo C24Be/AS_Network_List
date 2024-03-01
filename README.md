@@ -9,7 +9,7 @@ This repository contains two Python scripts that allow you to retrieve network l
 
 <img width="240" alt="image" src="https://github.com/C24Be/AS_Network_List/assets/153936414/2ec89fa9-b39a-416d-b1a1-20ddc89377ed">
 
-These scripts have been tested on MacOS and Linux.
+These scripts have been tested on MacOS, FreeBSD and Linux.
 
 ## Prerequisites
 
@@ -62,7 +62,7 @@ These scripts have been tested on MacOS and Linux.
 1. Run the script with a file containing a list of network names as an argument:
 
     ```bash
-    ./network_list_from_netname.py files/blacklist4.txt
+    ./network_list_from_netname.py lists/run-gov-netnames.txt
     ```
 
 2. Run the script with a URL to a file in a GitHub repository as an argument:
