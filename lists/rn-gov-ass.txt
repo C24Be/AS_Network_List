@@ -1,0 +1,10 @@
+#
+# Just list of strings started with AS...
+#
+#  AS123
+#  AS1234
+#
+# Номер автономки у ГРЧЦ и подконтрольному ему ДЦОА
+AS61280
+# Test
+AS31430
