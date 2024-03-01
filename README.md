@@ -44,6 +44,12 @@ These scripts have been tested on MacOS, FreeBSD and Linux.
     ./requirements.sh
     ```
 
+    If this step causes issue `PEP 668` due to python version >=3.12 and you're unfamiliar with virtual environments, use this workaround:
+
+    ```bash
+    pip install -r requirements.txt --break-system-packages
+    ```
+
 ## Usage
 
 ### `network_list_from_as.py`
@@ -105,4 +111,4 @@ These scripts have been tested on MacOS, FreeBSD and Linux.
 
 ## Contributing
 
-Contributors are welcome!
+We are welcome contributions! Feel free to submit a pull request or open an issue.
