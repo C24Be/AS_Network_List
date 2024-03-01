@@ -37,19 +37,19 @@
 1. Run the script with the AS number as an argument:
 
     ```bash
-    python network_list_from_as.py AS61280
+    ./network_list_from_as.py AS61280
     ```
 
 2. To disable all output except the prefixes, use the `--quiet` or `-q` switch:
 
     ```bash
-    python network_list_from_as.py AS61280 -q
+    ./network_list_from_as.py AS61280 -q
     ```
 
 3. To print a help message, use the `-h` or `--help` switch:
 
     ```bash
-    python network_list_from_as.py --help
+    ./network_list_from_as.py --help
     ```
 
 ## Usage of the `network_list_from_netname.py` script
@@ -57,29 +57,28 @@
 1. Run the script with the list of network names in a file as an argument:
 
     ```bash
-    python network_list_from_netname.py files/blacklist4.txt
+    ./network_list_from_netname.py files/blacklist4.txt
     ```
 
 2. Run the script with the list of network names in the github repository as an argument:
 
     ```bash
-    python network_list_from_netname.py https://github.com/AntiZapret/antizapret/blob/master/blacklist4.txt
+    ./network_list_from_netname.py https://github.com/AntiZapret/antizapret/blob/master/blacklist4.txt
     ```
 
     or better use the raw file link:
 
     ```bash
-    python network_list_from_netname.py https://raw.githubusercontent.com/AntiZapret/antizapret/master/blacklist4.txt
+    ./network_list_from_netname.py https://raw.githubusercontent.com/AntiZapret/antizapret/master/blacklist4.txt
     ```
 
 3. To print a help message, use the `-h` or `--help` switch:
 
     ```bash
-    python network_list_from_netname.py --help
+    ./network_list_from_netname.py --help
     ```
 
 ## Screenshots
 
 ![Screenshot](https://github.com/C24Be/AS_Network_List/assets/153936414/574b072c-9104-4e02-b2c0-3609433bdfc4)
 <img width="1264" alt="image" src="https://github.com/C24Be/AS_Network_List/assets/153936414/354cd189-63d6-4685-953d-2d07cb1f8ace">
-
