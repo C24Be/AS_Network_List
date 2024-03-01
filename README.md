@@ -2,10 +2,15 @@
 
 This repository contains two Python scripts that allow you to retrieve network lists based on either an Autonomous System (AS) name or a Network name.
 
-## Features
+## Files and features
 
 - `network_list_from_as.py`: Retrieves a list of networks associated with a given AS name.
 - `network_list_from_netname.py`: Retrieves a list of networks associated with a given Network name.
+- `lists/ru-gov-netnames.txt`: A list of network names associated with the Russian government. **Contributors are welcome!**
+- `lists/ru-gov-ass.txt`: A list of AS numbers associated with the Russian government. **Contributors are welcome!**
+- `blacklist_updater.sh`: Static blacklist updater.
+- `blacklist.txt`: Static blacklist generated from both lists! **Will be periodically updated!**
+- `blacklist_comments.txt`: Static blacklist generated from both lists with comments! **Will be periodically updated!**
 
 <img width="240" alt="image" src="https://github.com/C24Be/AS_Network_List/assets/153936414/2ec89fa9-b39a-416d-b1a1-20ddc89377ed">
 
@@ -45,10 +50,16 @@ These scripts have been tested on MacOS, FreeBSD and Linux.
     ./network_list_from_as.py AS61280
     ```
 
-2. To suppress all output except the prefixes, use the `--quiet` or `-q` switch:
+2. Run the script with a URL to a file in a GitHub repository as an argument:
 
     ```bash
-    ./network_list_from_as.py AS61280 -q
+    ./network_list_from_as.py https://github.com/C24Be/AS_Network_List/blob/main/lists/ru-gov-ass.txt
+    ```
+
+    Or better use the raw file link:
+
+    ```bash
+    ./network_list_from_as.py https://raw.githubusercontent.com/C24Be/AS_Network_List/main/lists/ru-gov-ass.txt
     ```
 
 3. To display a help message, use the `-h` or `--help` switch:
@@ -62,19 +73,19 @@ These scripts have been tested on MacOS, FreeBSD and Linux.
 1. Run the script with a file containing a list of network names as an argument:
 
     ```bash
-    ./network_list_from_netname.py lists/run-gov-netnames.txt
+    ./network_list_from_netname.py lists/ru-gov-netnames.txt
     ```
 
 2. Run the script with a URL to a file in a GitHub repository as an argument:
 
     ```bash
-    ./network_list_from_netname.py https://github.com/AntiZapret/antizapret/blob/master/blacklist4.txt
+    ./network_list_from_netname.py https://github.com/C24Be/AS_Network_List/blob/main/lists/ru-gov-netnames.txt
     ```
 
     Or better use the raw file link:
 
     ```bash
-    ./network_list_from_netname.py https://raw.githubusercontent.com/AntiZapret/antizapret/master/blacklist4.txt
+    ./network_list_from_netname.py https://raw.githubusercontent.com/C24Be/AS_Network_List/main/lists/ru-gov-netnames.txt
     ```
 
 3. To display a help message, use the `-h` or `--help` switch:

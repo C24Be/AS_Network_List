@@ -57,8 +57,11 @@ def extract_netname(filename_or_url):
 
     for line in lines:
         if re.match(r'.*netname:', line):
-            response = whois_query(whois_server, line.split(':')[1].strip())
+            netname = line.split(':')[1].strip()
+            response = whois_query(whois_server, netname)
             if response is not None:
+                if not args.quiet:
+                    print(f"# Network name: {netname}")
                 ip_range = response.split(':')[1].strip()
                 cidrs = convert_to_cidr(ip_range)
                 for cidr in cidrs:
@@ -66,12 +69,9 @@ def extract_netname(filename_or_url):
 
     return None
 
-def main():
-    parser = argparse.ArgumentParser(description='Extract netname from file.')
-    parser.add_argument('filename_or_url', help='The file to extract netname from.')
-    args = parser.parse_args()
+parser = argparse.ArgumentParser(description='Extract netname from file.')
+parser.add_argument('filename_or_url', help='The file or URL to extract netnames from.')
+parser.add_argument('-q', '--quiet', action='store_true', help='Disable all output except prefixes.')
+args = parser.parse_args()
 
-    extract_netname(args.filename_or_url)
-
-if __name__ == "__main__":
-    main()
+extract_netname(args.filename_or_url)
