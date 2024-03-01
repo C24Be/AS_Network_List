@@ -81,3 +81,5 @@
 ## Screenshots
 
 ![Screenshot](https://github.com/C24Be/AS_Network_List/assets/153936414/574b072c-9104-4e02-b2c0-3609433bdfc4)
+<img width="1264" alt="image" src="https://github.com/C24Be/AS_Network_List/assets/153936414/354cd189-63d6-4685-953d-2d07cb1f8ace">
+
