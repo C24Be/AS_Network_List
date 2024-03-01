@@ -6,11 +6,14 @@ This repository contains two Python scripts that allow you to retrieve network l
 
 - `network_list_from_as.py`: Retrieves a list of networks associated with a given AS name.
 - `network_list_from_netname.py`: Retrieves a list of networks associated with a given Network name.
+
 - `lists/ru-gov-netnames.txt`: A list of network names associated with the Russian government. **Contributors are welcome!**
 - `lists/ru-gov-ass.txt`: A list of AS numbers associated with the Russian government. **Contributors are welcome!**
+
 - `blacklist_updater.sh`: Static blacklist updater.
+
 - `blacklist.txt`: Static blacklist generated from both lists! **Will be periodically updated!**
-- `blacklist_comments.txt`: Static blacklist generated from both lists with comments! **Will be periodically updated!**
+- `blacklist_with_comments.txt`: Static blacklist generated from both lists with comments! **Will be periodically updated!**
 
 <img width="240" alt="image" src="https://github.com/C24Be/AS_Network_List/assets/153936414/2ec89fa9-b39a-416d-b1a1-20ddc89377ed">
 
