@@ -7,6 +7,8 @@ This repository contains two Python scripts that allow you to retrieve network l
 - `network_list_from_as.py`: Retrieves a list of networks associated with a given AS name.
 - `network_list_from_netname.py`: Retrieves a list of networks associated with a given Network name.
 
+<img width="240" alt="image" src="https://github.com/C24Be/AS_Network_List/assets/153936414/2ec89fa9-b39a-416d-b1a1-20ddc89377ed">
+
 These scripts have been tested on MacOS and Linux.
 
 ## Prerequisites
