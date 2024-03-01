@@ -1,10 +1,12 @@
-# AS Network List
+# Get network lists from AS name or Network name
 
 ## Description
 
-This Python script retrieves and prints the network prefixes announced by a specified Autonomous System (AS). It leverages the RIPE Stat Data API to fetch the data.
+* If you know AS name, use the script `network_list_from_as.py` to get the list of networks.
+* If you know the network name, use the script `network_list_from_netname.py` to get the list of networks.
 
-**Note:** This script has been tested on MacOS and Linux.
+
+**Note:** This scripts has been tested on MacOS and Linux.
 
 ## Prerequisites
 
@@ -30,27 +32,52 @@ This Python script retrieves and prints the network prefixes announced by a spec
     ./requirements.sh
     ```
 
-## Usage
+## Usage of the `network_list_from_as.py` script
 
 1. Run the script with the AS number as an argument:
 
     ```bash
-    python as_network_list.py AS61280
+    python network_list_from_as.py AS61280
     ```
 
 2. To disable all output except the prefixes, use the `--quiet` or `-q` switch:
 
     ```bash
-    python as_network_list.py AS61280 --quiet
+    python network_list_from_as.py AS61280 -q
     ```
 
 3. To print a help message, use the `-h` or `--help` switch:
 
     ```bash
-    python as_network_list.py --help
+    python network_list_from_as.py --help
     ```
 
-## Screenshot
+## Usage of the `network_list_from_netname.py` script
+
+1. Run the script with the list of network names in a file as an argument:
+
+    ```bash
+    python network_list_from_netname.py files/blacklist4.txt
+    ```
+
+2. Run the script with the list of network names in the github repository as an argument:
+
+    ```bash
+    python network_list_from_netname.py https://github.com/AntiZapret/antizapret/blob/master/blacklist4.txt
+    ```
+
+    or better use the raw file link:
+
+    ```bash
+    python network_list_from_netname.py https://raw.githubusercontent.com/AntiZapret/antizapret/master/blacklist4.txt
+    ```
+
+3. To print a help message, use the `-h` or `--help` switch:
+
+    ```bash
+    python network_list_from_netname.py --help
+    ```
+
+## Screenshots
 
 ![Screenshot](https://github.com/C24Be/AS_Network_List/assets/153936414/574b072c-9104-4e02-b2c0-3609433bdfc4)
-
