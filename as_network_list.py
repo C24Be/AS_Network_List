@@ -2,6 +2,7 @@
 
 import requests
 import argparse
+from cymruwhois import Client
 
 def get_as_prefixes(asn):
     url = f"https://stat.ripe.net/data/announced-prefixes/data.json?resource={asn}"
@@ -13,6 +14,11 @@ def get_as_prefixes(asn):
     else:
         return []
 
+def get_as_whois(asn):
+    c = Client()
+    r = c.lookup(asn)
+    return r.owner
+
 def main():
     parser = argparse.ArgumentParser(description='./as_network_list.py -q AS61280')
     parser.add_argument('asn', help='The AS number to get prefixes for.')
@@ -21,9 +27,11 @@ def main():
 
     asn = args.asn
     prefixes = get_as_prefixes(asn)
+    whois_info = get_as_whois(asn)
 
     if not args.quiet:
         print(f"Prefixes announced by {asn}:")
+        print(f"Whois info for {asn}: {whois_info}")
 
     for prefix in prefixes:
         print(prefix)
