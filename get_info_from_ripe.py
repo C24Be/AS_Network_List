@@ -35,7 +35,10 @@ def get_data(json, file, attr, field, prefix=""):
         for x in json['data']['resources'][attr]:
             x = prefix+x.strip()
             response = whois_query(whois_server, x, field)
-            name = response.split(':')[1].strip()
+            if response is None:
+                name = "None"
+            else:
+                name = response.split(':')[1].strip()
             print(f"{x} {name}")
             f.write(str(x+" "+name) + '\n')
 
