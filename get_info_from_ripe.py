@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import argparse
 import requests
 import socket
 
@@ -42,11 +43,27 @@ def get_data(json, file, attr, field, prefix=""):
             print(f"{x} {name}")
             f.write(str(x+" "+name) + '\n')
 
+parser = argparse.ArgumentParser()
+parser.add_argument('--asn', action='store_true', help='Run the ASN query')
+parser.add_argument('--ipv4', action='store_true', help='Run the IPv4 query')
+parser.add_argument('--ipv6', action='store_true', help='Run the IPv6 query')
+parser.add_argument('--all', action='store_true', help='Run all queries')
+args = parser.parse_args()
+
+if not (args.asn or args.ipv4 or args.ipv6 or args.all):
+    parser.print_help()
+    exit()
+
 response = requests.get(url)
 response.raise_for_status()
 
 data = response.json()
 
-get_data(data, 'auto/all-ru-asn.txt',  'asn',  'as-name', "AS")
-get_data(data, 'auto/all-ru-ipv4.txt', 'ipv4', 'netname')
-get_data(data, 'auto/all-ru-ipv6.txt', 'ipv6', 'netname')
+if args.asn or args.all:
+    get_data(data, 'auto/all-ru-asn.txt',  'asn',  'as-name', "AS")
+
+if args.ipv4 or args.all:
+    get_data(data, 'auto/all-ru-ipv4.txt', 'ipv4', 'netname')
+
+if args.ipv6 or args.all:
+    get_data(data, 'auto/all-ru-ipv6.txt', 'ipv6', 'netname')

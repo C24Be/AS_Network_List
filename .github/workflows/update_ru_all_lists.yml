@@ -8,7 +8,7 @@ env:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * 0'
+    - cron: '0 0,2,4 * * *'
 
 jobs:
   build:
@@ -29,7 +29,15 @@ jobs:
         with:
           python-version: '3.12'
       - run: ./requirements.sh
-      - run: ./get_info_from_ripe.py
+      - run: |
+          hour=$(date +%H)
+          if (( 0 <= 10#$hour && 10#$hour < 1 )); then
+            ./get_info_from_ripe.py --asn
+          elif (( 2 <= 10#$hour && 10#$hour < 3 )); then
+            ./get_info_from_ripe.py --ipv4
+          else
+            ./get_info_from_ripe.py --ipv6
+          fi
       - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: auto/all-ru-*txt
