@@ -39,14 +39,17 @@ jobs:
         with:
           python-version: '3.12'
       - run: ./requirements.sh
-      - run: curl ifconfig.io -q
+      - run: curl -s ifconfig.io
       - run: ./blacklists_updater.sh
       - run: |
           timestamp=`date "+%Y.%m.%d %H:%M:%S"`
           git config --global user.name "${{ env.REPO_OWNER }}"
           git config --global user.email "${{ env.REPO_OWNER }}@github.com"
-          git status
-          git diff
           git add blacklist*txt
-          git commit -m "Update $timestamp"
-          git push https://${{ env.GH_PAT }}@github.com/${{ env.REPO_OWNER }}/${{ env.REPO_NAME }}.git
+          git diff --staged --exit-code || echo "No changes to commit"
+          if [ $? -ne 0 ]; then
+              git commit -m "Update $timestamp"
+              git push https://${{ env.GH_PAT }}@github.com/${{ env.REPO_OWNER }}/${{ env.REPO_NAME }}.git
+          else
+              echo "No changes to commit"
+          fi
