@@ -51,6 +51,4 @@ jobs:
           if [ $? -ne 0 ]; then
               git commit -m "Update $timestamp"
               git push https://${{ env.GH_PAT }}@github.com/${{ env.REPO_OWNER }}/${{ env.REPO_NAME }}.git
-          else
-              echo "No changes to commit"
           fi
