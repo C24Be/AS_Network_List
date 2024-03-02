@@ -1,7 +1,7 @@
 name: BlackLists updater
 
-#env:
-#  GITHUB_TOKEN: ${{ secrets.GHUB_TOKEN }}
+env:
+  GITHUB_TOKEN: ${{ secrets.GH_TOKEN_PUSH }}
 
 on:
   workflow_dispatch:
@@ -33,17 +33,17 @@ jobs:
         with:
           fetch-depth: 0  # this is required to fetch all history for all branches and tags
       - uses: actions/setup-python@v5
-      - run: pip install -r requirements.txt
+        with:
+          python-version: '3.12'
+      - run: ./requirements.sh
       - run: ./blacklists_updater.sh
       - run: curl ifconfig.io
       - run: |
           timestamp=`date "+%Y-%m-%d_%H-%M-%S"`
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
+          git config --global user.name 'C24Be'
+          git config --global user.email 'c24be@github.com'
           git status
           git diff
           git add blacklist*txt
           git commit -m "Update blacklists: $timestamp"
-          git push
-        env:
-          GH_PAT: ${{ secrets.GH_TOKEN_PUSH }}
+          git push https://${{ env.GITHUB_TOKEN }}@github.com/C24Be/AS_Network_List.git
