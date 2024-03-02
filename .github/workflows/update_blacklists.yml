@@ -12,7 +12,7 @@ on:
 
 jobs:
   build:
-    name: 'BL/Update'
+    name: 'Update'
 
     runs-on: ubuntu-22.04
 
@@ -30,6 +30,6 @@ jobs:
           python-version: '3.12'
       - run: ./requirements.sh
       - run: ./blacklists_updater.sh
-      - uses: ./.github/actions/dockerBuildPHP
+      - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: auto/blacklist*txt
