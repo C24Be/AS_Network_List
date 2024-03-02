@@ -1,7 +1,7 @@
 name: BlackLists updater
 
 env:
-  GITHUB_TOKEN: ${{ secrets.GH_TOKEN_PUSH }}
+  GH_PAT: ${{ secrets.GH_PAT }}
   REPO_NAME: AS_Network_List
   REPO_OWNER: C24Be
 
@@ -33,7 +33,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # this is required to fetch all history for all branches and tags
+          fetch-depth: 0            # this is required to fetch all history for all branches and tags
+          token: ${{ env.GH_PAT }}  # Use the token here for checkout
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -48,4 +49,4 @@ jobs:
           git diff
           git add blacklist*txt
           git commit -m "Update blacklists: $timestamp"
-          git push https://${{ env.REPO_OWNER }}:${{ env.GITHUB_TOKEN }}@github.com/${{ env.REPO_OWNER }}/${{ env.REPO_NAME }}.git
+          git push https://${{ env.GH_PAT }}@github.com/${{ env.REPO_OWNER }}/${{ env.REPO_NAME }}.git
