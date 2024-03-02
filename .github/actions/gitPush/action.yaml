@@ -1,0 +1,17 @@
+runs:
+    using: "composite"
+    steps:
+      - name: Push changes back to the repo
+        shell: bash
+        run: |
+          timestamp=`date "+%Y.%m.%d %H:%M:%S"`
+          git config --global user.name "${{ env.REPO_OWNER }}"
+          git config --global user.email "${{ env.REPO_OWNER }}@github.com"
+          git add ${{ env.PUSH_FILES }}
+          git diff --staged --quiet || CHANGED=true
+          if [ "$CHANGED" = true ]; then
+              git commit -m "Update $timestamp"
+              git push https://${{ env.GH_PAT }}@github.com/${{ env.REPO_OWNER }}/${{ env.REPO_NAME }}.git
+          else
+              echo "No changes to commit"
+          fi

@@ -1,0 +1,35 @@
+name: BlackLists updater
+
+env:
+  GH_PAT: ${{ secrets.GH_PAT }}
+  REPO_NAME: AS_Network_List
+  REPO_OWNER: C24Be
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    name: 'BL/Update'
+
+    runs-on: ubuntu-22.04
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0                         # this is required to fetch all history for all branches and tags
+          token: ${{ env.GH_PAT }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: ./requirements.sh
+      - run: ./blacklists_updater.sh
+      - uses: ./.github/actions/dockerBuildPHP
+        env:
+          PUSH_FILES: auto/blacklist*txt
