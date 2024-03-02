@@ -21,9 +21,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v2
         with:
-          python-version: 3.11
-      - run: ./requirements.sh
+          fetch-depth: 0  # this is required to fetch all history for all branches and tags
+      - uses: actions/setup-python@v5
+      - run: pip install -r requirements.txt
       - run: ./blacklists_updater.sh
       - run: cat blacklist*txt
+      - run: git diff
+      - run: git status
