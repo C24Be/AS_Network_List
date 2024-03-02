@@ -12,11 +12,9 @@ def whois_query(whois_server, query):
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.connect((whois_server, 43))
 
-    # Prepare the query
     query = f"{query}\r\n"
     s.send(query.encode())
 
-    # Collect the response
     response = ''
     while True:
         data = s.recv(4096)
@@ -28,7 +26,6 @@ def whois_query(whois_server, query):
             break
     s.close()
 
-    # Extract the inetnum line
     for line in response.split('\n'):
         if line.startswith('inetnum'):
             return line.strip()
