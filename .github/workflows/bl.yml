@@ -1,0 +1,29 @@
+name: BlackLists updater
+
+env:
+  #GITHUB_TOKEN: ${{ secrets.GHUB_TOKEN }}
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: 'Blacklists/update'
+
+    runs-on: ubuntu-22.04
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.11
+      - run: ./requirements.sh
+      - run: ./blacklists_updater.sh
+      - run: cat blacklist*txt
