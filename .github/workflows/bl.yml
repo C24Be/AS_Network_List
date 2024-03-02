@@ -35,8 +35,8 @@ jobs:
       - uses: actions/setup-python@v5
       - run: pip install -r requirements.txt
       - run: ./blacklists_updater.sh
+      - run: curl ifconfig.io
       - run: |
-          curl ifconfig.io
           timestamp=`date "+%Y-%m-%d_%H-%M-%S"`
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
@@ -45,3 +45,5 @@ jobs:
           git add blacklist*txt
           git commit -m "Update blacklists: $timestamp"
           git push
+        env:
+          GH_PAT: ${{ secrets.GH_TOKEN_PUSH }}
