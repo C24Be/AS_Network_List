@@ -41,7 +41,8 @@ jobs:
       - run: ./requirements.sh
       - run: curl -s ifconfig.io
       - run: ./blacklists_updater.sh
-      - run: |
+      - name: Push changes back to the repo
+        run: |
           timestamp=`date "+%Y.%m.%d %H:%M:%S"`
           git config --global user.name "${{ env.REPO_OWNER }}"
           git config --global user.email "${{ env.REPO_OWNER }}@github.com"
