@@ -33,20 +33,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0            # this is required to fetch all history for all branches and tags
-          token: ${{ env.GH_PAT }}  # Use the token here for checkout
+          fetch-depth: 0           # this is required to fetch all history for all branches and tags
+          token: ${{ env.GH_PAT }}
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - run: ./requirements.sh
-      - run: ./blacklists_updater.sh
       - run: curl ifconfig.io -q
+      - run: ./blacklists_updater.sh
       - run: |
-          timestamp=`date "+%Y-%m-%d_%H-%M-%S"`
+          timestamp=`date "+%Y.%m.%d %H:%M:%S"`
           git config --global user.name "${{ env.REPO_OWNER }}"
           git config --global user.email "${{ env.REPO_OWNER }}@github.com"
           git status
           git diff
           git add blacklist*txt
-          git commit -m "Update blacklists: $timestamp"
+          git commit -m "Update $timestamp"
           git push https://${{ env.GH_PAT }}@github.com/${{ env.REPO_OWNER }}/${{ env.REPO_NAME }}.git
