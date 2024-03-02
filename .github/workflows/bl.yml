@@ -1,7 +1,7 @@
 name: BlackLists updater
 
-env:
-  #GITHUB_TOKEN: ${{ secrets.GHUB_TOKEN }}
+#env:
+#  GITHUB_TOKEN: ${{ secrets.GHUB_TOKEN }}
 
 on:
   workflow_dispatch:
