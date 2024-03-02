@@ -2,6 +2,8 @@ name: BlackLists updater
 
 env:
   GITHUB_TOKEN: ${{ secrets.GH_TOKEN_PUSH }}
+  REPO_NAME: AS_Network_List
+  REPO_OWNER: C24Be
 
 on:
   workflow_dispatch:
@@ -37,13 +39,13 @@ jobs:
           python-version: '3.12'
       - run: ./requirements.sh
       - run: ./blacklists_updater.sh
-      - run: curl ifconfig.io
+      - run: curl ifconfig.io -q
       - run: |
           timestamp=`date "+%Y-%m-%d_%H-%M-%S"`
-          git config --global user.name 'C24Be'
-          git config --global user.email 'c24be@github.com'
+          git config --global user.name "${{ env.REPO_OWNER }}"
+          git config --global user.email "${{ env.REPO_OWNER }}@github.com"
           git status
           git diff
           git add blacklist*txt
           git commit -m "Update blacklists: $timestamp"
-          git push https://${{ env.GITHUB_TOKEN }}@github.com/C24Be/AS_Network_List.git
+          git push https://${{ env.REPO_OWNER }}:${{ env.GITHUB_TOKEN }}@github.com/${{ env.REPO_OWNER }}/${{ env.REPO_NAME }}.git
