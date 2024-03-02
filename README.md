@@ -13,8 +13,8 @@ This repository contains two Python scripts that allow you to retrieve network l
 
 - `blacklist_updater.sh`: Static blacklist updater.
 
-- `blacklist.txt`: Static blacklist generated from both lists! **Will be periodically updated!**
-- `blacklist_with_comments.txt`: Static blacklist generated from both lists with comments! **Will be periodically updated!**
+- `auto/blacklist.txt`: Static blacklist generated from both lists! **Will be periodically updated!**
+- `auto/blacklist_with_comments.txt`: Static blacklist generated from both lists with comments! **Will be periodically updated!**
 
 <img width="240" alt="image" src="https://github.com/C24Be/AS_Network_List/assets/153936414/2ec89fa9-b39a-416d-b1a1-20ddc89377ed">
 

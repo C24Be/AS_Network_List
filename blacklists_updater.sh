@@ -1,7 +1,7 @@
 #!/bin/sh
 
-outfile_wo_comments="blacklist.txt"
-outfile_w_comments="blacklist_with_comments.txt"
+outfile_wo_comments="auto/blacklist.txt"
+outfile_w_comments="auto/blacklist_with_comments.txt"
 
 url_ass="https://raw.githubusercontent.com/C24Be/AS_Network_List/main/lists/ru-gov-ass.txt"
 url_nets="https://raw.githubusercontent.com/C24Be/AS_Network_List/main/lists/ru-gov-netnames.txt"

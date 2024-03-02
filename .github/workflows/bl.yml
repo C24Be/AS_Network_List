@@ -36,7 +36,7 @@ jobs:
           timestamp=`date "+%Y.%m.%d %H:%M:%S"`
           git config --global user.name "${{ env.REPO_OWNER }}"
           git config --global user.email "${{ env.REPO_OWNER }}@github.com"
-          git add blacklist*txt
+          git add auto/blacklist*txt
           git diff --staged --quiet || CHANGED=true
           if [ "$CHANGED" = true ]; then
               git commit -m "Update $timestamp"
