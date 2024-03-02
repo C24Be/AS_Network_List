@@ -56,7 +56,7 @@ def extract_netname(filename_or_url):
             lines = file.readlines()
 
     for line in lines:
-        if re.match(r'.*netname:', line):
+        if re.match(r'^netname:', line):
             netname = line.split(':')[1].strip()
             response = whois_query(whois_server, netname)
             if response is not None:
