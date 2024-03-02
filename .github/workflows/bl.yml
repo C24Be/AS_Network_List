@@ -8,17 +8,7 @@ env:
 on:
   workflow_dispatch:
   schedule:
-    # At 00:00 on the first day of the month
-    #- cron: '0 0 1 * *'
-    # At 00:00 on Sunday
-    #- cron: '0 0 * * 0'
-    # At 00:00 every day
     - cron: '0 0 * * *'
-    # Every hour
-    #- cron: '0 * * * *'
-  push:
-    branches:
-      - main
 
 jobs:
   build:
