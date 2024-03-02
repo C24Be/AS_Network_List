@@ -5,13 +5,22 @@ name: BlackLists updater
 
 on:
   workflow_dispatch:
+  schedule:
+    # At 00:00 on the first day of the month
+    #- cron: '0 0 1 * *'
+    # At 00:00 on Sunday
+    #- cron: '0 0 * * 0'
+    # At 00:00 every day
+    - cron: '0 0 * * *'
+    # Every hour
+    #- cron: '0 * * * *'
   push:
     branches:
       - main
 
 jobs:
   build:
-    name: 'Blacklists/update'
+    name: 'BL/Update'
 
     runs-on: ubuntu-22.04
 
@@ -26,6 +35,13 @@ jobs:
       - uses: actions/setup-python@v5
       - run: pip install -r requirements.txt
       - run: ./blacklists_updater.sh
-      - run: cat blacklist*txt
-      - run: git diff
-      - run: git status
+      - run: |
+          curl ifconfig.io
+          timestamp=`date "+%Y-%m-%d_%H-%M-%S"`
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git status
+          git diff
+          git add blacklist*txt
+          git commit -m "Update blacklists: $timestamp"
+          git push
