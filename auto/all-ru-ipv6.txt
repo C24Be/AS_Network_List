@@ -8,106 +8,106 @@
 2001:678:ec::/48 SSAU-NET (Samara University named after Korolev)
 2001:678:f4::/48 PROGRESSTECH (Progress Technology LLC)
 2001:678:124::/48 ITAR-TASS-Datacentrers-and-Branch (ITAR-TASS State Enterprise)
-2001:678:128::/48 -no-description-
-2001:678:178::/48 -no-description-
-2001:678:190::/48 -no-description-
-2001:678:1b0::/48 -no-description-
-2001:678:1bc::/48 -no-description-
-2001:678:220::/48 -no-description-
-2001:678:278::/48 -no-description-
-2001:678:280::/48 -no-description-
-2001:678:2e8::/48 -no-description-
-2001:678:2ec::/48 -no-description-
-2001:678:344::/48 -no-description-
-2001:678:350::/48 -no-description-
-2001:678:384::/48 -no-description-
-2001:678:3d0::/48 -no-description-
-2001:678:40c::/48 -no-description-
-2001:678:414::/48 -no-description-
-2001:678:48c::/48 -no-description-
-2001:678:494::/48 -no-description-
-2001:678:4ac::/48 -no-description-
-2001:678:520::/48 -no-description-
-2001:678:534::/48 -no-description-
-2001:678:548::/48 -no-description-
-2001:678:568::/48 -no-description-
-2001:678:57c::/48 -no-description-
-2001:678:5c8::/48 -no-description-
-2001:678:600::/48 -no-description-
-2001:678:614::/48 -no-description-
-2001:678:62c::/48 -no-description-
-2001:678:630::/48 -no-description-
-2001:678:65c::/48 -no-description-
-2001:678:670::/48 -no-description-
-2001:678:674::/48 -no-description-
-2001:678:68c::/48 -no-description-
-2001:678:6a8::/48 -no-description-
-2001:678:6d0::/48 -no-description-
-2001:678:6dc::/48 -no-description-
-2001:678:700::/48 -no-description-
-2001:678:74c::/48 -no-description-
-2001:678:7a4::/48 -no-description-
-2001:678:7ac::/48 -no-description-
-2001:678:7d8::/48 -no-description-
-2001:678:7dc::/48 -no-description-
-2001:678:85c::/48 -no-description-
-2001:678:8fc::/48 -no-description-
-2001:678:99c::/48 -no-description-
-2001:678:9c4::/48 -no-description-
-2001:678:9d0::/48 -no-description-
-2001:678:9e8::/48 -no-description-
-2001:678:9f4::/48 -no-description-
-2001:678:a60::/48 -no-description-
-2001:678:a70::/48 -no-description-
-2001:678:ac0::/48 -no-description-
-2001:678:b3c::/48 -no-description-
-2001:678:b40::/48 -no-description-
-2001:678:b48::/48 -no-description-
-2001:678:b54::/48 -no-description-
-2001:678:b98::/48 -no-description-
-2001:678:b9c::/48 -no-description-
-2001:678:bb8::/48 -no-description-
-2001:678:bc8::/48 -no-description-
-2001:678:bd4::/48 -no-description-
-2001:678:bec::/48 -no-description-
-2001:678:bf4::/48 -no-description-
-2001:678:c00::/48 -no-description-
-2001:678:c5c::/48 -no-description-
-2001:678:c80::/48 -no-description-
-2001:678:c8c::/48 -no-description-
-2001:678:c94::/48 -no-description-
-2001:678:cf8::/48 -no-description-
-2001:678:dbc::/48 -no-description-
-2001:678:df4::/48 -no-description-
-2001:678:e2c::/48 -no-description-
-2001:678:e30::/48 -no-description-
-2001:678:e84::/48 -no-description-
-2001:678:ee4::/48 -no-description-
-2001:678:ee8::/48 -no-description-
-2001:678:eec::/48 -no-description-
-2001:678:f38::/48 -no-description-
-2001:678:f4c::/48 -no-description-
-2001:678:f6c::/48 -no-description-
-2001:67c:20::/48 -no-description-
-2001:67c:84::/48 -no-description-
-2001:67c:d4::/48 -no-description-
-2001:67c:e8::/48 -no-description-
-2001:67c:100::/48 -no-description-
-2001:67c:150::/48 -no-description-
-2001:67c:16c::/48 -no-description-
-2001:67c:18c::/48 -no-description-
-2001:67c:1c0::/48 -no-description-
-2001:67c:20c::/48 -no-description-
-2001:67c:29c::/48 -no-description-
-2001:67c:2b4::/48 -no-description-
-2001:67c:320::/48 -no-description-
-2001:67c:380::/48 -no-description-
-2001:67c:418::/48 -no-description-
-2001:67c:430::/48 -no-description-
-2001:67c:4b4::/48 -no-description-
-2001:67c:4ec::/48 -no-description-
-2001:67c:528::/48 -no-description-
-2001:67c:5ac::/48 -no-description-
+2001:678:128::/48 RU-GIPERCOM-20200708 (ISP Gipercom LLC)
+2001:678:178::/48 CZ-VISSADO-20200414 ("INTRAST" Ltd.)
+2001:678:190::/48 RU-FORESTNET-20162704 (Forest Net LTD)
+2001:678:1b0::/48 RU-STAVCOM-20160519 ("Molniya" OOO)
+2001:678:1bc::/48 RU-CSTNET-20160524 (Ivanteevskie telecommunicacii Ltd)
+2001:678:220::/48 KLIMENKO-AA-NET (Klimenko Anna Aleksandrovna)
+2001:678:278::/48 RU-ROSNIIROS-20161011 (Tinkoff Bank JSC)
+2001:678:280::/48 RU-ROSNIIROS-20161014 (LLC Inventos)
+2001:678:2e8::/48 CONNECT-IPV6-NET (Connect LLC)
+2001:678:2ec::/48 ROSSETI-SK (Rosseti Northern Caucasus, PJSC)
+2001:678:344::/48 RU-CRIMEACOM-20161221 (TDV "Teleradio company "Yalta")
+2001:678:350::/48 Eastwind-NET (ZAO Eastwind)
+2001:678:384::/48 RU-YANDEX-20170127 (Yandex.OFD LLC)
+2001:678:3d0::/48 RU-ROSNIIROS-20170317 (Joint-Stock Company Lenenergo)
+2001:678:40c::/48 CLOUDPRO (LLC Virtualization Technology Center)
+2001:678:414::/48 RU-CRIMEACOM-20240115 (Zinchenko Natalya)
+2001:678:48c::/48 www_24h_tv (OOO 24 chasa TV)
+2001:678:494::/48 AVGA-TERRA-IPv6 (AVGA-TERRA Ltd.)
+2001:678:4ac::/48 RU-ROSNIIROS-20170615 (JSC "Tander")
+2001:678:520::/48 RU-ROSNIIROS-20170911 (LLC Sistemy telecom)
+2001:678:534::/48 RUSPOST (JSC "Russian Post")
+2001:678:548::/48 RU-BCS-20171020 (BrokerCreditService Ltd.)
+2001:678:568::/48 RU-NTX-20171109 (Mamba JSC)
+2001:678:57c::/48 CYPHER-IPV6-NET (Ltd. "Cypher")
+2001:678:5c8::/48 EGY4v6-NET (Ellad G. Yatsko)
+2001:678:600::/48 ORG-ATL97-RIPE (Atlantic LLC.)
+2001:678:614::/48 CZ-VISSADO-20180306 (UnitTelecom Ltd)
+2001:678:62c::/48 IRONNET-IPV6-NET (IRONNET Ltd.)
+2001:678:630::/48 MEGAPOLIS-IPV6-NET (JSC TC "Megapolis")
+2001:678:65c::/48 RU-NETASSIST-20180416 (Smart Technology LLC)
+2001:678:670::/48 ARQA-TECH-NET (ARQA Technologies LLC)
+2001:678:674::/48 ARQA-TECH-NET (ARQA Technologies LLC)
+2001:678:68c::/48 DELTA-TELESYSTEMS-NET (Delta Telesystems Ltd.)
+2001:678:6a8::/48 RU-GOODNET-20180509 (Goodnet LLC)
+2001:678:6d0::/48 RU-HELIX-48 (LLC NPF HELIX)
+2001:678:6dc::/48 RU-SHM-20180528 (State Historical Museum)
+2001:678:700::/48 CBM-IPv6-NET (Credit bank of Moscow PJSC)
+2001:678:74c::/48 RU-BAIKAL-IX-INET-v6 (LLC Zero Kilometer)
+2001:678:7a4::/48 ISS-IPV6-NET ("INTEGRATED COMMUNICATION NETWORKS" LLC)
+2001:678:7ac::/48 RU-FREENET-20200715 (OOO Internet 04)
+2001:678:7d8::/48 IHEP (Federal State Budgetary Institution "Institute of High Energy Physics named after A.A.Logunov of National Research Center "Kurchatov Institute")
+2001:678:7dc::/48 RU-CSPFMBA (Centre for Strategic Planning of FMBA of Russia)
+2001:678:85c::/48 GIVC (Main Center of Information and Computing Ministry of culture of Russian Federation)
+2001:678:8fc::/48 RU-ROSNIIROS-20190111 (JSC Goznak)
+2001:678:99c::/48 CZ-VISSADO-20190515 (Mediasvyaz Ltd.)
+2001:678:9c4::/48 BCC (JSC Business-center Capital)
+2001:678:9d0::/48 RU-RETNNET-20190621 (LLC Zenit-Arena)
+2001:678:9e8::/48 FASTMILE (LLC FASTMILE)
+2001:678:9f4::/48 IT-ZAVOD-2001-678-9f4 (IT-Zavod LLC)
+2001:678:a60::/48 RU-ONGNETPLUS-20190411 (OngNet Plus LLC)
+2001:678:a70::/48 CZ-VISSADO-20190425 (VostokMediaSvyaz Ltd.)
+2001:678:ac0::/48 RU-PGK-IPV6 (JSC Freight One)
+2001:678:b3c::/48 RU-DSP-20191017 (INVITRO-Information technology LLC)
+2001:678:b40::/48 ORG-ITOA1-RIPE (IP Tsyapa Oleg Anatolyevich)
+2001:678:b48::/48 LEROYMERLIN-NET (LLC Leroy Merlin Vostok)
+2001:678:b54::/48 RITC (TOGBU "Regionalnyj informacionno-tekhnicheskij centr")
+2001:678:b98::/48 RU-NPK-MSA-V6-PI ("NPK Morsvyazavtomatica" LLC)
+2001:678:b9c::/48 RU-NPO-UNIMACH-V6-PI ("NPO Unimach" LLC)
+2001:678:bb8::/48 Workflow-subnet (LLC "Citilink")
+2001:678:bc8::/48 RAPPORTO (Limited Liability Company "RAPPORTO")
+2001:678:bd4::/48 CZ-VISSADO-20191224 (JSC R-Pharm)
+2001:678:bec::/48 RU-IHOME-20200114 (Destiny.Games LLC)
+2001:678:bf4::/48 TELEZON (Telezon-Seti LCC)
+2001:678:c00::/48 RU-RAS-20200123 (P.P.Shirshov Institute of Oceanology RAS)
+2001:678:c5c::/48 RU-PIN-20200221 (Transroute Telecom LTD)
+2001:678:c80::/48 V6-GGE (FAU GlavGosExpertiza Rossii)
+2001:678:c8c::/48 SibServisSvyaz (LTD SibServisSvyaz)
+2001:678:c94::/48 RU-RELCOMGROUP-20200303 (Federal State Budget Institution "Russian State Library")
+2001:678:cf8::/48 NET-3D-1-V6 (JSC Faberlic)
+2001:678:dbc::/48 RU-CONVEYPLUS-20200619 (Joint stock company Tuapse Commercial Sea Port)
+2001:678:df4::/48 RU-MSUNET-20200804 (State Educational Institution of Higher Professional Education "Moscow State Institute of a Radio engineering, Electronics and Automatics" (MIREA))
+2001:678:e2c::/48 DWDM-RU-V6-NET (DWDM.RU llc)
+2001:678:e30::/48 virtaldc-ipv6-backbone (Dmitrii Vladimirovich Malkov)
+2001:678:e84::/48 RU-MSP2018-20201023 (VIP-TELECOM LLC)
+2001:678:ee4::/48 IP-Petrosyan-Maksim-Markslenovicht (IP Petrosyan Maksim Markslenovich)
+2001:678:ee8::/48 TRC-BRT-IPV6 (Teleradiocompany Bytradiotehnika Ltd.)
+2001:678:eec::/48 NPI-TU (Federal State Budgetary Educational Institution of Higher Education "M.I.Platov South-Russian State Polytechnic University (NPI)")
+2001:678:f38::/48 RU-RETNNET-20210504 (Traffic Ltd)
+2001:678:f4c::/48 RU-EUROFIN-MOSNARBANK-NET (JSC Commercial Bank Evrofinance Mosnarbank)
+2001:678:f6c::/48 RU-SMART-20210614 (RusChemAlliance LLC)
+2001:67c:20::/48 ABSOLYT-NET (Limited liability company Absolyt)
+2001:67c:84::/48 MANNET-6NET (MAN net Ltd.)
+2001:67c:d4::/48 RU-TFM (TFM LLC)
+2001:67c:e8::/48 RU-NEMEROV (Nemerov Evgeniy Vladimirovish PE)
+2001:67c:100::/48 RU-DINET-20210819 (Limited Liability Company "R-Business Svyaz")
+2001:67c:150::/48 AZIMUT-TELECOM-IPV6-NET (AZIMUT TELECOM Ltd.)
+2001:67c:16c::/48 RU-ROSNIIROS-20150408 (LEGIONCOM LTD)
+2001:67c:18c::/48 A2T-NET6 (A2 Ltd)
+2001:67c:1c0::/48 RT-INFORM (LLC RT-INFORM)
+2001:67c:20c::/48 SKYDNS-IPv6-ANYCAST-NET (SkyDNS Ltd)
+2001:67c:29c::/48 RU-DINET-20211227 (AO ALMAZ)
+2001:67c:2b4::/48 RU-NTX-20150414 (OMZ-IT LLC)
+2001:67c:320::/48 agronet-ru-ipv6 (Agronet LLC)
+2001:67c:380::/48 RFEIV6NET (Private higher education institution autonomous nonprofit organisation 'Regional Finance and Economic Institute')
+2001:67c:418::/48 VSU-VORONEZH (Federal State Budgetary Educational Institution of Higher Education "Voronezh State University")
+2001:67c:430::/48 GYMN-PERSPEKTIVA-NET (Municipal Budgetary Educational Institution "Gymnasium Perspektiva" of the city district of Samara)
+2001:67c:4b4::/48 Prosveshcheniye-NET (Joint-Stock Company "Prosveshcheniye publishers")
+2001:67c:4ec::/48 IT-NET-IPV6 (IT-Net ltd.)
+2001:67c:528::/48 MARIINSKY-V6 (Federal Government Cultural Organization "State Academic Mariinsky Theatre")
+2001:67c:5ac::/48 ORG-LS521-RIPE (LLC STAVCOM)
 2001:67c:5c0::/48 -no-description-
 2001:67c:5c4::/48 -no-description-
 2001:67c:614::/48 -no-description-
