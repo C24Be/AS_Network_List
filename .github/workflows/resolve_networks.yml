@@ -1,0 +1,84 @@
+name: Resolve names of RU Networks and ASNs
+
+env:
+  GH_PAT: ${{ secrets.GH_PAT }}
+  REPO_NAME: AS_Network_List
+  REPO_OWNER: C24Be
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0,30 1-4 1 * *'
+
+jobs:
+  resolve_asn:
+    name: 'Resolve/ASN'
+
+    runs-on: ubuntu-22.04
+
+    defaults:
+      run:
+        shell: bash
+
+    needs: get_lists
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0                         # this is required to fetch all history for all branches and tags
+          token: ${{ env.GH_PAT }}
+          ref: ${{ github.branch }}
+      - uses: ./.github/actions/gitReset
+      - uses: ./.github/actions/pyInstall
+      - run: ./get_description.py auto/all-ru-asn.txt --limit 4000
+      - uses: ./.github/actions/gitPush
+        env:
+          PUSH_FILES: auto/*txt
+
+  resolve_ipv4:
+    name: 'Resolve/IPv4'
+
+    runs-on: ubuntu-22.04
+
+    defaults:
+      run:
+        shell: bash
+
+    needs: get_lists
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0                         # this is required to fetch all history for all branches and tags
+          token: ${{ env.GH_PAT }}
+          ref: ${{ github.branch }}
+      - uses: ./.github/actions/gitReset
+      - uses: ./.github/actions/pyInstall
+      - run: ./get_description.py auto/all-ru-ipv4.txt --limit 4000
+      - uses: ./.github/actions/gitPush
+        env:
+          PUSH_FILES: auto/*txt
+
+  resolve_ipv6:
+    name: 'Resolve/IPv6'
+
+    runs-on: ubuntu-22.04
+
+    defaults:
+      run:
+        shell: bash
+
+    needs: get_lists
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0                         # this is required to fetch all history for all branches and tags
+          token: ${{ env.GH_PAT }}
+          ref: ${{ github.branch }}
+      - uses: ./.github/actions/gitReset
+      - uses: ./.github/actions/pyInstall
+      - run: ./get_description.py auto/all-ru-ipv6.txt --limit 4000
+      - uses: ./.github/actions/gitPush
+        env:
+          PUSH_FILES: auto/*txt
