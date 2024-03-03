@@ -1,13 +1,13 @@
-2001:640::/32 -no-description-
-2001:678:13::/48 -no-description-
-2001:678:14::/48 -no-description-
-2001:678:15::/48 -no-description-
-2001:678:16::/48 -no-description-
-2001:678:17::/48 -no-description-
-2001:678:18::/48 -no-description-
-2001:678:ec::/48 -no-description-
-2001:678:f4::/48 -no-description-
-2001:678:124::/48 -no-description-
+2001:640::/32 RU-FREENET-19991115 (OOO FREEnet Group)
+2001:678:13::/48 MSKIX-NS-NET (Autonomous Nonprofit Organisation "Russian Scientific-Research Institute for Public Networks")
+2001:678:14::/48 f-dns-ripn-net (Autonomous Nonprofit Organisation "Russian Scientific-Research Institute for Public Networks")
+2001:678:15::/48 ns9-ripn-net (Autonomous Nonprofit Organisation "Russian Scientific-Research Institute for Public Networks")
+2001:678:16::/48 e-dns-ripn-net (Autonomous Nonprofit Organisation "Russian Scientific-Research Institute for Public Networks")
+2001:678:17::/48 ns5-msk-ix-net (Coordination Center for TLD RU)
+2001:678:18::/48 MSKIX-GDNS-NET (Coordination Center for TLD RU)
+2001:678:ec::/48 SSAU-NET (Samara University named after Korolev)
+2001:678:f4::/48 PROGRESSTECH (Progress Technology LLC)
+2001:678:124::/48 ITAR-TASS-Datacentrers-and-Branch (ITAR-TASS State Enterprise)
 2001:678:128::/48 -no-description-
 2001:678:178::/48 -no-description-
 2001:678:190::/48 -no-description-
