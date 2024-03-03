@@ -4,12 +4,12 @@ env:
   GH_PAT: ${{ secrets.GH_PAT }}
   REPO_NAME: AS_Network_List
   REPO_OWNER: C24Be
-  WHOIS_RESOLVE_LIMIT: 10
+  WHOIS_RESOLVE_LIMIT: 100
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0,30 1-4 1 * *'
+    - cron: '0 1-5 1 * *'
 
 jobs:
   resolve_asn:
