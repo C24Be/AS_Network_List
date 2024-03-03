@@ -2,7 +2,7 @@
 
 This repository contains Python scripts that allow you to retrieve network lists based on either an Autonomous System (AS) name or a Network name. Also you can download and parse the whole RIPE database to get information about Networks for the further analysis.
 
-- [look at compiled lists and blacklists in the folder `auto/`](https://github.com/C24Be/AS_Network_List/tree/main/auto)
+- [Look at compiled lists and blacklists in the folder `auto/`](https://github.com/C24Be/AS_Network_List/tree/main/auto)
 
 ## Files and features
 
