@@ -26,8 +26,12 @@ jobs:
           fetch-depth: 0                         # this is required to fetch all history for all branches and tags
           token: ${{ env.GH_PAT }}
           ref: ${{ github.branch }}
+      - run: |
+          git reset --hard
+          git clean -fdx
+          git pull
       - uses: ./.github/actions/pyInstall
-      - run: ./get_info_from_ripe.py --asn --limit 100
+      - run: ./get_info_from_ripe.py --asn --limit 10
       - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: auto/*txt
@@ -49,8 +53,12 @@ jobs:
           fetch-depth: 0                         # this is required to fetch all history for all branches and tags
           token: ${{ env.GH_PAT }}
           ref: ${{ github.branch }}
+      - run: |
+          git reset --hard
+          git clean -fdx
+          git pull
       - uses: ./.github/actions/pyInstall
-      - run: ./get_info_from_ripe.py --ipv4 --limit 100
+      - run: ./get_info_from_ripe.py --ipv4 --limit 10
       - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: auto/*txt
@@ -72,8 +80,12 @@ jobs:
           fetch-depth: 0                         # this is required to fetch all history for all branches and tags
           token: ${{ env.GH_PAT }}
           ref: ${{ github.branch }}
+      - run: |
+          git reset --hard
+          git clean -fdx
+          git pull
       - uses: ./.github/actions/pyInstall
-      - run: ./get_info_from_ripe.py --ipv6 --limit 100
+      - run: ./get_info_from_ripe.py --ipv6 --limit 10
       - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: auto/*txt
