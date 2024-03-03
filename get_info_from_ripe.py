@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 
 import requests
-from pylib.whois import whois_query
 
-url          = "https://stat.ripe.net/data/country-resource-list/data.json?resource=RU&v4_format=prefix"
+url = "https://stat.ripe.net/data/country-resource-list/data.json?resource=RU&v4_format=prefix"
 
 def get_data(json, file, attr, field, prefix=""):
     with open(file, 'w') as f:
