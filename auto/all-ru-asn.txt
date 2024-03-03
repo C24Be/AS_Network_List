@@ -8,106 +8,106 @@ AS2848 MSU (Federal State Budgetary Educational Institution of Higher Education 
 AS2854 ROSPRINT-AS (LLC Orange Business Services)
 AS2875 JINR-AS (Joint Institute for Nuclear Research)
 AS2878 ULRT-AS (PJSC Rostelecom)
-AS2895 -no-description-
-AS3058 -no-description-
-AS3167 -no-description-
-AS3168 -no-description-
-AS3175 -no-description-
-AS3179 -no-description-
-AS3181 -no-description-
-AS3191 -no-description-
-AS3200 -no-description-
-AS3203 -no-description-
-AS3205 -no-description-
-AS3216 -no-description-
-AS3217 -no-description-
-AS3218 -no-description-
-AS3226 -no-description-
-AS3227 -no-description-
-AS3229 -no-description-
-AS3235 -no-description-
-AS3239 -no-description-
-AS3253 -no-description-
-AS3267 -no-description-
-AS3276 -no-description-
-AS3277 -no-description-
-AS3284 -no-description-
-AS3285 -no-description-
-AS3287 -no-description-
-AS3312 -no-description-
-AS3315 -no-description-
-AS3316 -no-description-
-AS3325 -no-description-
-AS3335 -no-description-
-AS3343 -no-description-
-AS3351 -no-description-
-AS5386 -no-description-
-AS5387 -no-description-
-AS5429 -no-description-
-AS5431 -no-description-
-AS5433 -no-description-
-AS5461 -no-description-
-AS5467 -no-description-
-AS5468 -no-description-
-AS5473 -no-description-
-AS5480 -no-description-
-AS5495 -no-description-
-AS5514 -no-description-
-AS5523 -no-description-
-AS5537 -no-description-
-AS5543 -no-description-
-AS5547 -no-description-
-AS5548 -no-description-
-AS5553 -no-description-
-AS5563 -no-description-
-AS5567 -no-description-
-AS5568 -no-description-
-AS5572 -no-description-
-AS5573 -no-description-
-AS5589 -no-description-
-AS5591 -no-description-
-AS5598 -no-description-
-AS6662 -no-description-
-AS6672 -no-description-
-AS6673 -no-description-
-AS6679 -no-description-
-AS6694 -no-description-
-AS6699 -no-description-
-AS6704 -no-description-
-AS6719 -no-description-
-AS6731 -no-description-
-AS6761 -no-description-
-AS6789 -no-description-
-AS6801 -no-description-
-AS6820 -no-description-
-AS6828 -no-description-
-AS6844 -no-description-
-AS6850 -no-description-
-AS6854 -no-description-
-AS6856 -no-description-
-AS6857 -no-description-
-AS6858 -no-description-
-AS6863 -no-description-
-AS6868 -no-description-
-AS6869 -no-description-
-AS6870 -no-description-
-AS6874 -no-description-
-AS6880 -no-description-
-AS6903 -no-description-
-AS8219 -no-description-
-AS8241 -no-description-
-AS8242 -no-description-
-AS8249 -no-description-
-AS8263 -no-description-
-AS8279 -no-description-
-AS8291 -no-description-
-AS8299 -no-description-
-AS8305 -no-description-
-AS8324 -no-description-
-AS8325 -no-description-
-AS8331 -no-description-
-AS8334 -no-description-
-AS8342 -no-description-
+AS2895 FREE-NET-AS (OOO FREEnet Group)
+AS3058 RAS-AS (Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences")
+AS3167 ASINFOPRO (Group of Company INFOPRO Ltd.)
+AS3168 ASINTELECOMTV (PE Dityatev Sergey Yurievich)
+AS3175 CITYTELECOM-MSK (Citytelecom LLC)
+AS3179 AKVALIS-AS (Akvalis Ltd.)
+AS3181 ASN-MATRIXMOBILE (MATRIX TELECOM LLC)
+AS3191 CENTRINFORM-AS (JSC CentrInform)
+AS3200 ASNAVICON (UK Navikon LLC.)
+AS3203 ASVIDEOKANAL (PTO Videokanal, Ltd.)
+AS3205 ELECTRON-SERVICE-AS (Electron-Service Ltd.)
+AS3216 SOVAM-AS (PJSC "Vimpelcom")
+AS3217 AVANTEL-SPB (JSC Avantel)
+AS3218 COSMOS-3218-AS (Federal State Budgetary Institution of Science "Space Research Institute of the Russian Academy of Sciences".)
+AS3226 MARK-ITT-AS (OOO "NI")
+AS3227 Live_in_Sky_Ltd (Live in Sky Ltd)
+AS3229 DARINET-AS (Darinet Ltd.)
+AS3235 GOLDENISP-AS (PJSC "Vimpelcom")
+AS3239 RU-SUrNet (PJSC Rostelecom)
+AS3253 SOVINTEL-EF-AS (PJSC "Vimpelcom")
+AS3267 RUNNET (Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences")
+AS3276 IMC_Sogaz-AS ("OBIT" Ltd.)
+AS3277 RUSNET-AS (OOO "NPO FRACTEL")
+AS3284 ServiceCloud-AS (ServiceCloud Ltd.)
+AS3285 HOME-IP (Company Delfa Co. Ltd.)
+AS3287 REDLINE-AS (Redline LLC)
+AS3312 ELEKTRA-AS (IT Energy Service)
+AS3315 UNSPECIFIED (Join-stock company "Internet Exchange"MSK-IX")
+AS3316 RELARN (Join-stock company "Internet Exchange"MSK-IX")
+AS3325 KFU (Kazan University)
+AS3335 NSU-AS (Federal State Educational Institution of Higher Professional Education "Novosibirsk State University, National Research")
+AS3343 RUNNET-AS (Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences")
+AS3351 IOFFE-PHYSICAL-THECHICAL-INSTITUTE-AS (Ioffe Physical-Technical Institute of the Russian Academy of Sciences)
+AS5386 COSMOS-SN-AS (Federal State Budgetary Institution of Science "Space Research Institute of the Russian Academy of Sciences".)
+AS5387 NSC (Federal Research Center for Information and Computational Technologies)
+AS5429 IIP-NET-AS5429 (Telecommunications center UMOS, LLC)
+AS5431 FG-CORE (OOO FREEnet Group)
+AS5433 ROKSON-AS (VEROLINE Ltd)
+AS5461 UNSPECIFIED (OKB MEI)
+AS5467 MIPT (Non state educational institution "Educational Scientific and Experimental Center of Moscow Institute of Physics and Technology")
+AS5468 UrFU (Yeltsin UrFU, Ural Federal University)
+AS5473 ASNORILSK (Iterika LLC)
+AS5480 R61NET (State Educational institution for High professional education 'Southern Federal University')
+AS5495 ASN-SPBGU (Saint Petersburg State University)
+AS5514 BOSCOM-AS (Boscom LLC)
+AS5523 CREDO-TELECOM (JSC "CREDO-TELECOM")
+AS5537 RU-CENTER-AS (JSC "RU-CENTER")
+AS5543 ALTROUTER-ASN1 (Joint Stock Company TransTeleCom)
+AS5547 ORTEL-AS (JSC Orient-Telecom)
+AS5548 MIIT-RZD-AS (Federal State Budget Educational Establishment of Higher Education "Russian University Of Transport (MIIT)")
+AS5553 TAMBOVMAN-AS (Federal State Budgetary Educational Institution of Higher Education "Tambov State Technical University")
+AS5563 URAL (JSC "ER-Telecom Holding")
+AS5567 AS5567 (National Research Tomsk Polytechnic University)
+AS5568 RBNet (Join-stock company "Internet Exchange"MSK-IX")
+AS5572 BOTIK (Botik Technologies LTD)
+AS5573 KRASNET-AS (PJSC Rostelecom)
+AS5589 OPEN-FC-1-AS (Public Joint-Stock Company "Bank Otkritie Financial Corporation")
+AS5591 MARTELCOM-AS (PJSC Rostelecom)
+AS5598 NETLUX-AS (Anton Bobrovnikov)
+AS6662 RU-KTS-AS ("Krasnoyarsk network" Ltd.)
+AS6672 ASRELCOMSPB (LIMITED LIABILITY COMPANY RELCOM-SPB)
+AS6673 INCOMA-AS (INCOMA JSC)
+AS6679 IT-PARK-AS (IT PARK JSC)
+AS6694 RTSNET-AS (Association of financial market participants "Nonprofit Partnership for the Development of Financial Market RTS")
+AS6699 URAN-AS (Federal State Budgetary Institution of Science 'N.N. Krasovskii Institute of Mathematics and Mechanics' of the Ural Branch of the Russian Academy of Sciences)
+AS6704 CITYLAN-AS (Citylan LLC)
+AS6719 RADISTR-AS2 (Radistr LLC)
+AS6731 COMSTAR-AS (MTS PJSC)
+AS6761 INGATE (Invest Development LLC)
+AS6789 CRELCOM-NET (CRELCOM LLC)
+AS6801 UNSPECIFIED (National Research Center "Kurchatov Institute")
+AS6820 LEIVO (Communications Informatics Ltd.)
+AS6828 USI (PJSC Rostelecom)
+AS6844 TECHNODESIGN (PJSC Rostelecom)
+AS6850 MF-AS (PJSC MegaFon)
+AS6854 SYNTERRA-AS (PJSC MegaFon)
+AS6856 IC-VORONEZH-AS (AO IK "Informsvyaz-Chernozemye")
+AS6857 PTC-AS-1 (Saint Petersburg State University)
+AS6858 SEVEREN_COMLINK-AS (JSC "Severen-Telecom")
+AS6863 ROSNET-AS (PJSC Rostelecom)
+AS6868 BMSTU-AS (Federal State Budgetary Educational Institution of Higher Education "Moscow State Technical University named after N.E. Bauman (National Research University)")
+AS6869 FREE-6869 (OOO FREEnet Group)
+AS6870 SPACE-IX (RECONN LLC)
+AS6874 PSTU-AS (Perm National Research Polytechnic University)
+AS6880 UNSPECIFIED (OKB MEI)
+AS6903 ZENON-AS (Rusonyx, Ltd.)
+AS8219 RU-ISKH-20180719 (Inna Grigorevna Khoruzhaya)
+AS8241 RELLINE-AS (Nets and Services JCS)
+AS8242 INTELWAY-AS (Apex Telecom Ltd.)
+AS8249 TOTCOM-AS (PJSC Rostelecom)
+AS8263 Cloud-Megafon (PJSC MegaFon)
+AS8279 ASSTRATEGIYA (Novaya Strategia Ltd.)
+AS8291 RSNET-AS (The Federal Guard Service of the Russian Federation)
+AS8299 INFOTEL-AS (JSC INFOTEL)
+AS8305 NetLife (Yuri Lebedev)
+AS8324 URC-AS (South Ural State University)
+AS8325 NETIS-AS (OOO FREEnet Group)
+AS8331 RINET-AS (JSC "ER-Telecom Holding")
+AS8334 CO-2COM-AS (LLC SETEL)
+AS8342 RTCOMM-AS (JSC RTComm.RU)
 AS8345 -no-description-
 AS8350 -no-description-
 AS8359 -no-description-
