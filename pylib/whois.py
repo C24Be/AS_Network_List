@@ -22,12 +22,18 @@ def whois_query(query, get_field="netname", get_org=False):
     s.close()
 
     org_name = None
-    basic_name = None
+    if get_field == "inetnum":
+        basic_name = []
+    else:
+        basic_name = None
     for line in response.split('\n'):
         if line.startswith('org-name' + ':'):
             org_name = line.split(':')[1].strip()
         if line.startswith(get_field + ':'):
-            basic_name = line.split(':')[1].strip()
+            if get_field == "inetnum":
+                basic_name.append(line.split(':')[1].strip())
+            else:
+                basic_name = line.split(':')[1].strip()
 
     if basic_name is None:
         basic_name = '-no-description-'
@@ -36,6 +42,6 @@ def whois_query(query, get_field="netname", get_org=False):
         org_name = 'No org name found'
 
     if get_org is True:
-        return basic_name + ' (' + org_name + ')'
+        return str(basic_name) + ' (' + org_name + ')'
     else:
         return basic_name

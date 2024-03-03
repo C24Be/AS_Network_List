@@ -30,13 +30,13 @@ def extract_netname(filename_or_url):
         if re.match(r'^netname:', line):
             netname = line.split(':')[1].strip()
             response = whois_query(netname, "inetnum")
-            if response is not None:
+            if response is not None and len(response) > 0:
                 if not args.quiet:
                     print(f"# Network name: {netname}")
-                ip_range = response.strip()
-                cidrs = convert_to_cidr(ip_range)
-                for cidr in cidrs:
-                    print(cidr)
+                for cidr in response:
+                    net = convert_to_cidr(cidr)
+                    net = net[0]
+                    print(net)
 
     return None
 
