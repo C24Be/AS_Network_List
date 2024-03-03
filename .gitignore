@@ -1,0 +1,10 @@
+# Python #
+
+*.log
+*.pot
+*.pyc
+__pycache__
+
+# macOS #
+
+*.DS_Store
