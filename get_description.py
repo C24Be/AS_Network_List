@@ -22,7 +22,7 @@ def resolve(filename):
                 else:
                     response = whois_query(line[0], "netname", True)
                 if response is None:
-                    name = "-not-found-"
+                    name = "-no-description-"
                 else:
                     name = response.strip()
                 print(line[0] + " " + name)

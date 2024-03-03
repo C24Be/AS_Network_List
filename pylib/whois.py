@@ -29,6 +29,9 @@ def whois_query(query, get_field="netname", get_org=False):
         if line.startswith(get_field + ':'):
             basic_name = line.split(':')[1].strip()
 
+    if basic_name is None:
+        basic_name = '-no-description-'
+
     if org_name is None:
         org_name = 'No org name found'
 
