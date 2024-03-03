@@ -21,8 +21,6 @@ jobs:
       run:
         shell: bash
 
-    needs: get_lists
-
     steps:
       - uses: actions/checkout@v4
         with:
@@ -45,7 +43,7 @@ jobs:
       run:
         shell: bash
 
-    needs: get_lists
+    needs: resolve_asn
 
     steps:
       - uses: actions/checkout@v4
@@ -69,7 +67,7 @@ jobs:
       run:
         shell: bash
 
-    needs: get_lists
+    needs: resolve_ipv4
 
     steps:
       - uses: actions/checkout@v4
