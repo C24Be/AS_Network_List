@@ -1,13 +1,13 @@
-AS2148 -no-description-
-AS2585 -no-description-
-AS2587 -no-description-
-AS2599 -no-description-
-AS2683 -no-description-
-AS2766 -no-description-
-AS2848 -no-description-
-AS2854 -no-description-
-AS2875 -no-description-
-AS2878 -no-description-
+AS2148 ITEP (National Research Center "Kurchatov Institute")
+AS2585 OpticTelecom-AS (Optic Telecom LLC)
+AS2587 FREE-NET-AS2587 (OOO FREEnet Group)
+AS2599 UNSPECIFIED (PJSC "Vimpelcom")
+AS2683 RADIO-MSU (Federal State Budgetary Educational Institution of Higher Education Lomonosov Moscow State University)
+AS2766 GLASNET (PJSC "Vimpelcom")
+AS2848 MSU (Federal State Budgetary Educational Institution of Higher Education Lomonosov Moscow State University)
+AS2854 ROSPRINT-AS (LLC Orange Business Services)
+AS2875 JINR-AS (Joint Institute for Nuclear Research)
+AS2878 ULRT-AS (PJSC Rostelecom)
 AS2895 -no-description-
 AS3058 -no-description-
 AS3167 -no-description-
