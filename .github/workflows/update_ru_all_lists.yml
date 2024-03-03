@@ -28,7 +28,7 @@ jobs:
           ref: ${{ github.branch }}
       - uses: ./.github/actions/gitReset
       - uses: ./.github/actions/pyInstall
-      - run: ./get_info_from_ripe.py --asn --limit 10
+      - run: ./get_info_from_ripe.py --asn --limit 4000
       - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: auto/*txt
@@ -52,7 +52,7 @@ jobs:
           ref: ${{ github.branch }}
       - uses: ./.github/actions/gitReset
       - uses: ./.github/actions/pyInstall
-      - run: ./get_info_from_ripe.py --ipv4 --limit 10
+      - run: ./get_info_from_ripe.py --ipv4 --limit 4000
       - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: auto/*txt
@@ -76,7 +76,7 @@ jobs:
           ref: ${{ github.branch }}
       - uses: ./.github/actions/gitReset
       - uses: ./.github/actions/pyInstall
-      - run: ./get_info_from_ripe.py --ipv6 --limit 10
+      - run: ./get_info_from_ripe.py --ipv6 --limit 4000
       - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: auto/*txt
