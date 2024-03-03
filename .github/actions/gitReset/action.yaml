@@ -4,6 +4,14 @@ runs:
       - name: Git reset, clean, pull
         shell: bash
         run: |
+          daily_branch=`date "+%Y%m%d"`
+          if [ -n "${{ env.CUSTOM_BRANCH }}" ]; then
+              git reset --hard
+              git clean -fdx
+              git checkout "${daily_branch}"
+              git pull origin "${daily_branch}"
+              git push --set origin "${daily_branch}"
+          fi
           git reset --hard
           git clean -fdx
           git pull

@@ -4,7 +4,7 @@ env:
   GH_PAT: ${{ secrets.GH_PAT }}
   REPO_NAME: AS_Network_List
   REPO_OWNER: C24Be
-  WHOIS_RESOLVE_LIMIT: 3000
+  WHOIS_RESOLVE_LIMIT: 10
 
 on:
   workflow_dispatch:
@@ -28,11 +28,14 @@ jobs:
           token: ${{ env.GH_PAT }}
           ref: ${{ github.branch }}
       - uses: ./.github/actions/gitReset
+        env:
+          CUSTOM_BRANCH: true
       - uses: ./.github/actions/pyInstall
       - run: ./get_description.py auto/all-ru-asn.txt --limit ${{ env.WHOIS_RESOLVE_LIMIT }}
       - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: auto/*txt
+          CUSTOM_BRANCH: true
 
   resolve_ipv4:
     name: 'Resolve/IPv4'
@@ -52,11 +55,14 @@ jobs:
           token: ${{ env.GH_PAT }}
           ref: ${{ github.branch }}
       - uses: ./.github/actions/gitReset
+        env:
+          CUSTOM_BRANCH: true
       - uses: ./.github/actions/pyInstall
       - run: ./get_description.py auto/all-ru-ipv4.txt --limit ${{ env.WHOIS_RESOLVE_LIMIT }}
       - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: auto/*txt
+          CUSTOM_BRANCH: true
 
   resolve_ipv6:
     name: 'Resolve/IPv6'
@@ -76,8 +82,11 @@ jobs:
           token: ${{ env.GH_PAT }}
           ref: ${{ github.branch }}
       - uses: ./.github/actions/gitReset
+        env:
+          CUSTOM_BRANCH: true
       - uses: ./.github/actions/pyInstall
       - run: ./get_description.py auto/all-ru-ipv6.txt --limit ${{ env.WHOIS_RESOLVE_LIMIT }}
       - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: auto/*txt
+          CUSTOM_BRANCH: true
