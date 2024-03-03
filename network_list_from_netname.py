@@ -8,7 +8,7 @@ import re
 
 whois_server = "whois.ripe.net"
 
-def whois_query(whois_server, query):
+def whois_query(whois_server, query, get_field="netname"):
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.connect((whois_server, 43))
 
@@ -27,7 +27,7 @@ def whois_query(whois_server, query):
     s.close()
 
     for line in response.split('\n'):
-        if line.startswith('inetnum'):
+        if line.startswith(get_field + ':'):
             return line.strip()
 
     return None
@@ -55,7 +55,7 @@ def extract_netname(filename_or_url):
     for line in lines:
         if re.match(r'^netname:', line):
             netname = line.split(':')[1].strip()
-            response = whois_query(whois_server, netname)
+            response = whois_query(whois_server, netname, "inetnum")
             if response is not None:
                 if not args.quiet:
                     print(f"# Network name: {netname}")
