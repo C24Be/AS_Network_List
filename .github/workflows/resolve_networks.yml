@@ -4,6 +4,7 @@ env:
   GH_PAT: ${{ secrets.GH_PAT }}
   REPO_NAME: AS_Network_List
   REPO_OWNER: C24Be
+  WHOIS_RESOLVE_LIMIT: 3000
 
 on:
   workflow_dispatch:
@@ -30,7 +31,7 @@ jobs:
           ref: ${{ github.branch }}
       - uses: ./.github/actions/gitReset
       - uses: ./.github/actions/pyInstall
-      - run: ./get_description.py auto/all-ru-asn.txt --limit 4000
+      - run: ./get_description.py auto/all-ru-asn.txt --limit ${{ env.WHOIS_RESOLVE_LIMIT }}
       - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: auto/*txt
@@ -54,7 +55,7 @@ jobs:
           ref: ${{ github.branch }}
       - uses: ./.github/actions/gitReset
       - uses: ./.github/actions/pyInstall
-      - run: ./get_description.py auto/all-ru-ipv4.txt --limit 4000
+      - run: ./get_description.py auto/all-ru-ipv4.txt --limit ${{ env.WHOIS_RESOLVE_LIMIT }}
       - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: auto/*txt
@@ -78,7 +79,7 @@ jobs:
           ref: ${{ github.branch }}
       - uses: ./.github/actions/gitReset
       - uses: ./.github/actions/pyInstall
-      - run: ./get_description.py auto/all-ru-ipv6.txt --limit 4000
+      - run: ./get_description.py auto/all-ru-ipv6.txt --limit ${{ env.WHOIS_RESOLVE_LIMIT }}
       - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: auto/*txt
