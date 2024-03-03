@@ -8,11 +8,14 @@ env:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0,2,4 1 * *'
+    - cron: '0 0 1 * *'
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
-    name: 'Update'
+  get_as:
+    name: 'Get/ASN'
 
     runs-on: ubuntu-22.04
 
@@ -21,23 +24,32 @@ jobs:
         shell: bash
 
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0                         # this is required to fetch all history for all branches and tags
-          token: ${{ env.GH_PAT }}
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - run: ./requirements.sh
-      - run: |
-          hour=$(date +%H)
-          if (( 0 <= 10#$hour && 10#$hour < 1 )); then
-            ./get_info_from_ripe.py --asn
-          elif (( 2 <= 10#$hour && 10#$hour < 3 )); then
-            ./get_info_from_ripe.py --ipv4
-          else
-            ./get_info_from_ripe.py --ipv6
-          fi
-      - uses: ./.github/actions/gitPush
-        env:
-          PUSH_FILES: auto/all-ru-*txt
+      - run: curl -s ifconfig.io
+
+  get_ipv4:
+    name: 'Get/IPv4'
+
+    runs-on: ubuntu-22.04
+
+    defaults:
+      run:
+        shell: bash
+
+    needs: get_as
+
+    steps:
+      - run: curl -s ifconfig.io
+
+  get_ipv6:
+    name: 'Get/IPv6'
+
+    runs-on: ubuntu-22.04
+
+    defaults:
+      run:
+        shell: bash
+
+    needs: get_ipv4
+
+    steps:
+      - run: curl -s ifconfig.io
