@@ -1,13 +1,13 @@
-2.56.24.0/23 -no-description-
-2.56.26.0/23 -no-description-
-2.56.88.0/22 -no-description-
-2.56.180.0/22 -no-description-
-2.57.0.0/24 -no-description-
-2.57.36.0/22 -no-description-
-2.57.52.0/22 -no-description-
-2.57.80.0/22 -no-description-
-2.57.112.0/22 -no-description-
-2.57.184.0/22 -no-description-
+2.56.24.0/23 RU-K-TELEKOM-20190313 (K-telekom LLC)
+2.56.26.0/23 RU-IGKH-20190313 (Inna Grigorevna Khoruzhaya)
+2.56.88.0/22 RU-MCHOST1-20190313 (McHost LLC)
+2.56.180.0/22 RU-SKYNETWORK1-20190314 (Skynetwork LLC)
+2.57.0.0/24 RU-PSODNCC-20230307 (Perviy TSOD LLC)
+2.57.36.0/22 RU-GSYSTEM-20190315 (Limited Liability Company DZHISIIKS)
+2.57.52.0/22 RU-ACTIVEDOMAINS-20190318 (Active.domains LLC)
+2.57.80.0/22 RU-VRN-TELECOM-20190319 (VORONEZH TELECOM LLC)
+2.57.112.0/22 RU-TIMER-20190319 (Timer, LLC)
+2.57.184.0/22 RU-CLOUDLITE-20190320 (CloudLite LLC)
 2.58.68.0/22 -no-description-
 2.58.124.0/22 -no-description-
 2.59.51.0/24 -no-description-
