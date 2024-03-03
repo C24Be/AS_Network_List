@@ -11,8 +11,8 @@ on:
     - cron: '0 0 1 * *'
 
 jobs:
-  get_asn:
-    name: 'Get/ASN'
+  get_lists:
+    name: 'Get/Lists'
 
     runs-on: ubuntu-22.04
 
@@ -25,58 +25,78 @@ jobs:
         with:
           fetch-depth: 0                         # this is required to fetch all history for all branches and tags
           token: ${{ env.GH_PAT }}
-          ref: ${{ github.branch }}
-      - uses: ./.github/actions/gitReset
       - uses: ./.github/actions/pyInstall
-      - run: ./get_info_from_ripe.py --asn --limit 4000
+      - run: ./get_info_from_ripe.py
       - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: auto/*txt
 
-  get_ipv4:
-    name: 'Get/IPv4'
-
-    runs-on: ubuntu-22.04
-
-    defaults:
-      run:
-        shell: bash
-
-    needs: get_asn
-
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0                         # this is required to fetch all history for all branches and tags
-          token: ${{ env.GH_PAT }}
-          ref: ${{ github.branch }}
-      - uses: ./.github/actions/gitReset
-      - uses: ./.github/actions/pyInstall
-      - run: ./get_info_from_ripe.py --ipv4 --limit 4000
-      - uses: ./.github/actions/gitPush
-        env:
-          PUSH_FILES: auto/*txt
-
-  get_ipv6:
-    name: 'Get/IPv6'
-
-    runs-on: ubuntu-22.04
-
-    defaults:
-      run:
-        shell: bash
-
-    needs: get_ipv4
-
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0                         # this is required to fetch all history for all branches and tags
-          token: ${{ env.GH_PAT }}
-          ref: ${{ github.branch }}
-      - uses: ./.github/actions/gitReset
-      - uses: ./.github/actions/pyInstall
-      - run: ./get_info_from_ripe.py --ipv6 --limit 4000
-      - uses: ./.github/actions/gitPush
-        env:
-          PUSH_FILES: auto/*txt
+#  get_asn:
+#    name: 'Get/ASN'
+#
+#    runs-on: ubuntu-22.04
+#
+#    defaults:
+#      run:
+#        shell: bash
+#
+#    steps:
+#      - uses: actions/checkout@v4
+#        with:
+#          fetch-depth: 0                         # this is required to fetch all history for all branches and tags
+#          token: ${{ env.GH_PAT }}
+#          ref: ${{ github.branch }}
+#      - uses: ./.github/actions/gitReset
+#      - uses: ./.github/actions/pyInstall
+#      - run: ./get_info_from_ripe.py --asn --limit 4000
+#      - uses: ./.github/actions/gitPush
+#        env:
+#          PUSH_FILES: auto/*txt
+#
+#  get_ipv4:
+#    name: 'Get/IPv4'
+#
+#    runs-on: ubuntu-22.04
+#
+#    defaults:
+#      run:
+#        shell: bash
+#
+#    needs: get_asn
+#
+#    steps:
+#      - uses: actions/checkout@v4
+#        with:
+#          fetch-depth: 0                         # this is required to fetch all history for all branches and tags
+#          token: ${{ env.GH_PAT }}
+#          ref: ${{ github.branch }}
+#      - uses: ./.github/actions/gitReset
+#      - uses: ./.github/actions/pyInstall
+#      - run: ./get_info_from_ripe.py --ipv4 --limit 4000
+#      - uses: ./.github/actions/gitPush
+#        env:
+#          PUSH_FILES: auto/*txt
+#
+#  get_ipv6:
+#    name: 'Get/IPv6'
+#
+#    runs-on: ubuntu-22.04
+#
+#    defaults:
+#      run:
+#        shell: bash
+#
+#    needs: get_ipv4
+#
+#    steps:
+#      - uses: actions/checkout@v4
+#        with:
+#          fetch-depth: 0                         # this is required to fetch all history for all branches and tags
+#          token: ${{ env.GH_PAT }}
+#          ref: ${{ github.branch }}
+#      - uses: ./.github/actions/gitReset
+#      - uses: ./.github/actions/pyInstall
+#      - run: ./get_info_from_ripe.py --ipv6 --limit 4000
+#      - uses: ./.github/actions/gitPush
+#        env:
+#          PUSH_FILES: auto/*txt
