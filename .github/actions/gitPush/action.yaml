@@ -5,10 +5,16 @@ runs:
         shell: bash
         run: |
           timestamp=`date "+%Y.%m.%d %H:%M:%S"`
+          daily_branch=`date "+%Y%m%d"`
           git config --global user.name "${{ env.REPO_OWNER }}"
           git config --global user.email "${{ env.REPO_OWNER }}@github.com"
           git add ${{ env.PUSH_FILES }}
           git diff --staged --quiet || CHANGED=true
+          if [ -n "${{ env.CUSTOM_BRANCH }}" ]; then
+              git checkout "${daily_branch}" 2>/dev/null || git checkout -b "${daily_branch}"
+              git pull origin "${daily_branch}"
+              git push --set origin "${daily_branch}"
+          fi
           if [ "$CHANGED" = true ]; then
               git commit -m "Update $timestamp"
               git push https://${{ env.GH_PAT }}@github.com/${{ env.REPO_OWNER }}/${{ env.REPO_NAME }}.git

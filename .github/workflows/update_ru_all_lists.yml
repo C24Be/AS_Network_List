@@ -30,3 +30,4 @@ jobs:
       - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: auto/*txt
+          CUSTOM_BRANCH: true
