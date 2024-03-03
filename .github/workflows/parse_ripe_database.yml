@@ -14,7 +14,7 @@ on:
 
 jobs:
   get_lists:
-    name: 'Get/Lists'
+    name: 'Parse RIPE DB'
 
     runs-on: ubuntu-22.04
 
@@ -34,4 +34,4 @@ jobs:
       - run: ./parse_ripe_db.py ripe.db.inetnum auto/ripe-ru-ipv4.txt auto/ripe-ru-ipv4.json
       - uses: ./.github/actions/gitPush
         env:
-          PUSH_FILES: auto/*txt
+          PUSH_FILES: auto/ripe*

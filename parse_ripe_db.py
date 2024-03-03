@@ -18,7 +18,7 @@ def parse(filename, output_text, output_json):
             if record:
                 record['inetnum'] = convert_to_cidr(record['inetnum'])
                 if record['country'] == country:
-                    print(record)
+#                    print(record)
                     cList.append(record)
             record = {}
             record['inetnum'] = line.split('inetnum:', 1)[1].strip()
