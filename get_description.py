@@ -18,13 +18,13 @@ def resolve(filename):
                 break
             else:
                 if re.match(r'^AS.*', line[0]):
-                    response = whois_query(line[0], "as-name")
+                    response = whois_query(line[0], "as-name", True)
                 else:
-                    response = whois_query(line[0], "netname")
+                    response = whois_query(line[0], "netname", True)
                 if response is None:
                     name = "-not-found-"
                 else:
-                    name = response.split(':')[1].strip()
+                    name = response.strip()
                 print(line[0] + " " + name)
                 lines[i]=str(line[0] + " " + name + "\n")
     with open(filename, 'w') as f:

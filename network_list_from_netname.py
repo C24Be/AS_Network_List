@@ -33,7 +33,7 @@ def extract_netname(filename_or_url):
             if response is not None:
                 if not args.quiet:
                     print(f"# Network name: {netname}")
-                ip_range = response.split(':')[1].strip()
+                ip_range = response.strip()
                 cidrs = convert_to_cidr(ip_range)
                 for cidr in cidrs:
                     print(cidr)

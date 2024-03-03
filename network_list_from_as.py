@@ -4,6 +4,7 @@ import requests
 import argparse
 import re
 from cymruwhois import Client
+from pylib.whois import whois_query
 
 def get_as_prefixes(asn):
     url = f"https://stat.ripe.net/data/announced-prefixes/data.json?resource={asn}"
@@ -22,6 +23,10 @@ def print_prefixes(asn):
     line = re.sub(r'[^AS0-9]', '', asn)
     if not args.quiet:
         print(f"# Networks announced by {line}")
+        response = whois_query(line, "as-name", True)
+        if response is not None:
+            info = response.strip()
+            print(f"# AS-Name (ORG): {info}")
     prefixes = get_as_prefixes(line)
     for prefix in prefixes:
         print(prefix)
