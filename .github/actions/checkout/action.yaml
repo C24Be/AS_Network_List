@@ -1,7 +1,0 @@
-runs:
-    using: "composite"
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0                         # this is required to fetch all history for all branches and tags
-          token: ${{ env.GH_PAT }}

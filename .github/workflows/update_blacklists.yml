@@ -21,7 +21,10 @@ jobs:
         shell: bash
 
     steps:
-      - uses: ./.github/actions/checkout
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0                         # this is required to fetch all history for all branches and tags
+          token: ${{ env.GH_PAT }}
       - uses: ./.github/actions/pyInstall
       - run: ./blacklists_updater.sh
       - uses: ./.github/actions/gitPush

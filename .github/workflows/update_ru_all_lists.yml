@@ -24,7 +24,10 @@ jobs:
         shell: bash
 
     steps:
-      - uses: ./.github/actions/checkout
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0                         # this is required to fetch all history for all branches and tags
+          token: ${{ env.GH_PAT }}
       - uses: ./.github/actions/pyInstall
       - run: ./get_info_from_ripe.py --asn --limit 4000
       - uses: ./.github/actions/gitPush
@@ -43,7 +46,10 @@ jobs:
     needs: get_asn
 
     steps:
-      - uses: ./.github/actions/checkout
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0                         # this is required to fetch all history for all branches and tags
+          token: ${{ env.GH_PAT }}
       - uses: ./.github/actions/pyInstall
       - run: ./get_info_from_ripe.py --ipv4 --limit 4000
       - uses: ./.github/actions/gitPush
@@ -62,7 +68,10 @@ jobs:
     needs: get_ipv4
 
     steps:
-      - uses: ./.github/actions/checkout
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0                         # this is required to fetch all history for all branches and tags
+          token: ${{ env.GH_PAT }}
       - uses: ./.github/actions/pyInstall
       - run: ./get_info_from_ripe.py --ipv6 --limit 4000
       - uses: ./.github/actions/gitPush
