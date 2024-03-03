@@ -1,0 +1,9 @@
+runs:
+    using: "composite"
+    steps:
+      - name: Git reset, clean, pull
+        shell: bash
+        run: |
+          git reset --hard
+          git clean -fdx
+          git pull
