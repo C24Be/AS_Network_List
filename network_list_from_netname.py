@@ -1,36 +1,10 @@
 #!/usr/bin/env python3
 
-import socket
 import argparse
 import requests
 import ipaddress
 import re
-
-whois_server = "whois.ripe.net"
-
-def whois_query(whois_server, query, get_field="netname"):
-    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    s.connect((whois_server, 43))
-
-    query = f"{query}\r\n"
-    s.send(query.encode())
-
-    response = ''
-    while True:
-        data = s.recv(4096)
-        try:
-            response += data.decode('utf-8')
-        except:
-            response += data.decode('latin-1')
-        if not data:
-            break
-    s.close()
-
-    for line in response.split('\n'):
-        if line.startswith(get_field + ':'):
-            return line.strip()
-
-    return None
+from pylib.whois import whois_query
 
 def convert_to_raw_github_url(url):
     return url.replace("https://github.com/", "https://raw.githubusercontent.com/").replace("/blob", "")
@@ -55,7 +29,7 @@ def extract_netname(filename_or_url):
     for line in lines:
         if re.match(r'^netname:', line):
             netname = line.split(':')[1].strip()
-            response = whois_query(whois_server, netname, "inetnum")
+            response = whois_query(netname, "inetnum")
             if response is not None:
                 if not args.quiet:
                     print(f"# Network name: {netname}")

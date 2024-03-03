@@ -2,34 +2,9 @@
 
 import argparse
 import requests
-import socket
+from pylib.whois import whois_query
 
 url          = "https://stat.ripe.net/data/country-resource-list/data.json?resource=RU&v4_format=prefix"
-whois_server = "whois.ripe.net"
-
-def whois_query(whois_server, query, get_field="netname"):
-    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    s.connect((whois_server, 43))
-
-    query = f"{query}\r\n"
-    s.send(query.encode())
-
-    response = ''
-    while True:
-        data = s.recv(4096)
-        try:
-            response += data.decode('utf-8')
-        except:
-            response += data.decode('latin-1')
-        if not data:
-            break
-    s.close()
-
-    for line in response.split('\n'):
-        if line.startswith(get_field + ':'):
-            return line.strip()
-
-    return None
 
 def get_data(json, file, attr, field, prefix=""):
     limit = args.limit
@@ -41,7 +16,7 @@ def get_data(json, file, attr, field, prefix=""):
             if count > limit:
                 response = None
             else:
-                response = whois_query(whois_server, x, field)
+                response = whois_query(x, field)
             if response is None:
                 name = "-no-description-"
             else:
