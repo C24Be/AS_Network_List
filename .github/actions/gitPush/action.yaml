@@ -12,7 +12,7 @@ runs:
           git diff --staged --quiet || CHANGED=true
           if [ -n "${{ env.CUSTOM_BRANCH }}" ]; then
               git checkout "${daily_branch}" 2>/dev/null || git checkout -b "${daily_branch}"
-              git pull origin "${daily_branch}"
+              #git pull origin "${daily_branch}"
               git push --set origin "${daily_branch}"
           fi
           if [ "$CHANGED" = true ]; then
