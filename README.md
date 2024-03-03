@@ -1,6 +1,6 @@
 # AS Network List
 
-This repository contains two Python scripts that allow you to retrieve network lists based on either an Autonomous System (AS) name or a Network name.
+This repository contains Python scripts that allow you to retrieve network lists based on either an Autonomous System (AS) name or a Network name. Also you can download and parse the whole RIPE database to get information about Networks for the further analysis.
 
 ## Files and features
 
@@ -8,6 +8,7 @@ This repository contains two Python scripts that allow you to retrieve network l
 - `network_list_from_netname.py`: Retrieves a list of networks associated with a given Network name.
 - `get_info_from_ripe.py`: Retrieves information about Russian AS numbers and Networks from RIPE database for the further analysis.
 - `get_description.py`: Retrieves network names, AS names and organisation names from RIPE. Updates te lists in the folder `auto/`.
+- `parse_ripe_db.py`: Parses the whole RIPE database to get information about Networks for the further analysis.
 
 - **Contributors are welcome!**
   - `lists/ru-gov-netnames.txt`: A list of network names associated with the Russian government.
@@ -18,6 +19,7 @@ This repository contains two Python scripts that allow you to retrieve network l
 - `auto/blacklist.txt`: Static **daily generated** blacklist!
 - `auto/blacklist_with_comments.txt`: Static **daily generated** blacklist with comments!
 - `auto/all-ru-*.txt`: Static **monthly generated** lists of Russian networks and ASNs!
+- `auto/ripe-db-*.txt`: Static **weekly generated** lists of Russian networks from RIPE database!
 
 <img width="240" alt="image" src="https://github.com/C24Be/AS_Network_List/assets/153936414/2ec89fa9-b39a-416d-b1a1-20ddc89377ed">
 
