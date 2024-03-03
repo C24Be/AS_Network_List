@@ -1,4 +1,4 @@
-name: All RU Networks and ASN updater
+name: Parse RIPE DB
 
 env:
   GH_PAT: ${{ secrets.GH_PAT }}
