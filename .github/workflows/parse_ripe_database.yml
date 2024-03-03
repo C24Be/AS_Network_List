@@ -1,0 +1,37 @@
+name: All RU Networks and ASN updater
+
+env:
+  GH_PAT: ${{ secrets.GH_PAT }}
+  REPO_NAME: AS_Network_List
+  REPO_OWNER: C24Be
+  RIPE_DB_URL: https://ftp.ripe.net/ripe/dbase/split/
+  RIPE_DB_FILE: ripe.db.inetnum
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 12 * * 0'
+
+jobs:
+  get_lists:
+    name: 'Get/Lists'
+
+    runs-on: ubuntu-22.04
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0                         # this is required to fetch all history for all branches and tags
+          token: ${{ env.GH_PAT }}
+      - uses: ./.github/actions/pyInstall
+      - run: |
+          wget ${{ env.RIPE_DB_URL }}${{ env.RIPE_DB_FILE }}.gz
+          gzip -d ${{ env.RIPE_DB_FILE }}.gz
+      - run: ./parse_ripe_db.py ripe.db.inetnum auto/ripe-ru-ipv4.txt auto/ripe-ru-ipv4.json
+      - uses: ./.github/actions/gitPush
+        env:
+          PUSH_FILES: auto/*txt
