@@ -112,6 +112,10 @@ These scripts have been tested on MacOS, FreeBSD and Linux.
 <img width="320" alt="image" src="https://github.com/C24Be/AS_Network_List/assets/153936414/71bd0ed4-0e9b-42f0-8e91-01964ea9b8e1">
 <img width="1280" alt="image" src="https://github.com/C24Be/AS_Network_List/assets/153936414/e305bbca-ea76-47ff-971c-3a61a61cea70">
 
+## Additional information
+
+- [RIPE DB Inetnum](https://ftp.ripe.net/ripe/dbase/split/ripe.db.inetnum.gz)
+
 ## Contributing
 
 We are welcome contributions! Feel free to submit a pull request or open an issue.
