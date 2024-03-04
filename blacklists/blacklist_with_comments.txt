@@ -1,0 +1,1737 @@
+# Networks announced by AS34500
+# AS-Name (ORG): CTSPI (FGUP CTSPI MGA Russia)
+80.73.16.0/24
+80.73.16.0/21
+80.73.16.0/20
+# Networks announced by AS51932
+# AS-Name (ORG): ORVD-AS (FGUP Goskorporatsiya po OrVD)
+91.221.141.0/24
+91.221.140.0/24
+91.221.140.0/23
+# Networks announced by AS57835
+# AS-Name (ORG): FGUP-ELEKTROSVYAZ-AS (JSC ELEKTROSVYAZ)
+176.109.0.0/21
+# Networks announced by AS61280
+# AS-Name (ORG): CMU_GRCHC-AS (FGUP "GRCHC")
+212.192.158.0/24
+212.192.156.0/24
+195.209.120.0/24
+195.209.122.0/24
+185.224.230.0/24
+185.224.228.0/24
+185.224.231.0/24
+212.192.157.0/24
+195.209.123.0/24
+185.224.229.0/24
+195.209.121.0/24
+# Networks announced by AS197153
+# AS-Name (ORG): guvd (Glavnoe Upravlenie Vnutrennih Del po Sverdlovskoi Oblasti)
+91.217.34.0/23
+# Networks announced by AS206684
+# AS-Name (ORG): vniiofi (FGUP Russian Scientific Research Institute of Optical and Physical Measurements)
+176.100.254.0/24
+# Networks announced by AS216080
+# AS-Name (ORG): FGUP-ZIT-AS (FSUE ZashchitaInfoTrans)
+# Network name: Roskomnadzor-net
+46.228.0.232/29
+87.226.213.0/24
+# Network name: SPEZSVYAZ
+78.108.192.0/21
+78.108.200.0/24
+# Network name: RU-RTCOMM-20001220
+217.106.0.0/16
+217.107.200.0/21
+# Network name: MMT
+46.61.208.0/24
+82.110.69.200/29
+# Network name: RTCOMM-GNIVC
+81.176.70.0/26
+81.176.235.0/27
+# Network name: GOZNAK-AS
+91.227.32.0/24
+# Network name: RU-WEST-CALL-20080227
+92.39.128.0/21
+# Network name: RSNET
+31.217.218.96/29
+95.173.128.0/20
+95.173.144.0/20
+176.116.96.0/20
+185.183.172.0/23
+185.183.174.0/23
+194.226.80.0/21
+194.226.88.0/21
+194.226.116.0/22
+194.226.127.0/24
+# Network name: RU-ATOMLINK-20081107
+94.199.64.0/21
+# Network name: RU-FGS-20090305
+95.173.128.0/19
+# Network name: Electronic-government
+109.207.0.0/20
+# Network name: RU-MSRN-20100701
+178.237.240.0/20
+# Network name: GRFC-NET
+194.165.22.0/23
+# Network name: RSNET
+31.217.218.96/29
+95.173.128.0/20
+95.173.144.0/20
+176.116.96.0/20
+185.183.172.0/23
+185.183.174.0/23
+194.226.80.0/21
+194.226.88.0/21
+194.226.116.0/22
+194.226.127.0/24
+# Network name: ATLAS-NW-NET
+195.149.110.0/24
+# Network name: ATLAS-NET
+62.28.169.168/30
+77.72.139.0/28
+87.226.191.0/24
+92.60.186.0/28
+109.204.204.232/29
+194.215.248.0/24
+# Network name: ATLASNSK
+82.200.64.0/24
+# Network name: RT-CLNT-FSB-RF
+213.24.76.0/23
+# Network name: GOSNIIAS-NET
+193.47.146.0/24
+# Network name: NCPLG-NET
+85.90.98.144/30
+194.150.202.0/23
+# Network name: FSKN-Vologda
+95.167.76.160/27
+# Network name: UFK-KMR-NET
+91.198.38.0/24
+# Network name: RU-CHUVASHIA-NALOG
+217.106.150.80/29
+217.106.150.224/29
+# Network name: MosOblDuma-NET
+82.198.176.16/29
+82.198.176.144/29
+82.198.176.208/29
+# Network name: UMNS-CHERKESSK
+217.106.203.88/29
+217.106.203.240/29
+# Network name: UMNS-SARATOV
+217.107.5.24/29
+217.107.5.80/29
+# Network name: MCHS-Saratov
+217.23.88.168/29
+217.23.88.248/29
+# Network name: SCLI-NET-MinJust
+87.226.156.64/26
+87.226.239.180/30
+# Network name: KALININGRADSKAYA-OBLASTNAYA-DUMA-LAN
+93.153.144.60/30
+# Network name: MCHS
+88.200.208.112/29
+92.39.106.168/30
+213.234.15.248/30
+213.234.18.52/30
+217.148.216.156/30
+217.148.220.160/29
+# Network name: UMNS-PSKOV
+213.59.91.128/27
+213.59.91.176/28
+# Network name: UMNS-VOLOGDA
+213.24.160.0/28
+# Network name: FSKN_po_Amurskoj_oblasti
+95.167.157.156/30
+# Network name: PERMGORDUMA-NET
+90.150.176.52/30
+# Network name: POL-MCHS-NET
+77.34.209.160/28
+77.35.98.240/28
+81.2.10.192/27
+82.162.90.0/28
+82.162.103.144/28
+86.102.108.32/28
+86.102.126.80/28
+# Network name: SPEZSVYAZ
+78.108.192.0/21
+78.108.200.0/24
+# Network name: Upravlenie_FSKN_Rossii_po_PK
+95.167.68.216/29
+95.167.72.48/30
+# Network name: NALOG-NET
+82.208.81.0/24
+82.208.93.160/27
+213.177.111.0/24
+# Network name: RSNET
+31.217.218.96/29
+95.173.128.0/20
+95.173.144.0/20
+176.116.96.0/20
+185.183.172.0/23
+185.183.174.0/23
+194.226.80.0/21
+194.226.88.0/21
+194.226.116.0/22
+194.226.127.0/24
+# Network name: RU_FSKN
+92.50.198.72/30
+95.167.59.244/30
+# Network name: UMNS-NOVGOROD
+213.59.91.48/29
+# Network name: FOMS
+91.226.250.0/24
+# Network name: UMNS-KAZAN
+213.59.59.128/29
+213.59.59.168/29
+# Network name: UMNS-PERM
+213.59.59.16/29
+213.59.59.64/29
+# Network name: Smolensk-Duma
+94.25.90.240/29
+# Network name: ROSATOM-INET-INTERNAL-USERS-1
+88.151.200.0/24
+# Network name: RU-CTSPI-20050201
+80.73.16.0/20
+# Network name: UMNS-TSK
+217.106.147.0/29
+217.106.147.8/29
+# Network name: GLAVNIVZ
+46.29.152.0/22
+185.168.60.0/24
+185.168.61.0/24
+185.168.62.0/24
+185.168.63.0/24
+# Network name: MOIA-NET
+194.8.70.0/23
+# Network name: UMNS-MORDOVIA
+217.107.5.8/29
+217.107.5.96/29
+# Network name: MTU-CUST-D8D9FB95
+81.195.118.48/30
+# Network name: RU-KIROV-NALOG
+217.106.150.88/29
+# Network name: RU-PRIVOL-NALOG
+217.106.150.72/29
+# Network name: TREASURY-VLADIKAVKAZ
+217.106.93.192/26
+# Network name: MINFIN-RND-NET
+217.106.95.112/28
+# Network name: Ten_OTRYAD-MCHS
+83.219.5.248/29
+83.219.23.48/29
+83.219.25.0/29
+# Network name: FSK-ESS-OJSC-NET
+194.8.246.0/23
+# Network name: FSKN_Rossii_RU_po_Altajskomu_kraju
+95.167.162.236/30
+# Network name: VRNOBLDUMA-NET
+195.98.73.56/29
+# Network name: UMNS-KARELIA
+217.106.115.168/29
+# Network name: FSKN_RF__Khabarovsk
+188.128.98.204/30
+# Network name: FSKN
+94.25.70.64/30
+# Network name: MNSHMAO
+217.20.86.128/26
+217.20.86.232/29
+# Network name: UMNS-TUMEN
+213.59.59.120/29
+213.59.59.144/29
+# Network name: UMNS-SAMARA
+217.107.5.40/29
+217.107.5.88/29
+# Network name: GIVC
+193.232.70.0/24
+194.190.9.0/24
+# Network name: MTU-CUST-D10EF4E3
+195.42.75.8/29
+# Network name: SAMARA-TTK-NET-12S0348
+46.20.70.160/28
+# Network name: RU-ARBUZ-MAGGORDUMA-NET
+89.28.253.168/29
+# Network name: UMNS-ORENBURG
+217.107.5.16/29
+217.107.5.112/29
+# Network name: MON-RUNNET
+82.179.86.32/27
+# Network name: MINFINPI-NET
+195.80.224.0/24
+# Network name: SLED-IZOLYATOR-FSIN-LAN
+37.28.161.48/30
+# Network name: ROS-POTREB-NADZOR
+83.219.6.72/29
+83.219.25.112/29
+90.150.189.128/29
+90.150.189.136/29
+90.150.189.144/29
+90.150.189.152/29
+90.150.189.160/29
+90.150.189.168/29
+90.150.189.176/29
+90.150.189.184/29
+90.150.189.192/29
+90.150.189.200/29
+90.150.189.208/29
+90.150.189.216/29
+90.150.189.224/29
+90.150.189.232/29
+90.150.189.248/29
+212.120.184.56/29
+212.120.189.224/29
+212.120.190.240/29
+212.120.191.120/29
+212.120.191.248/29
+# Network name: ROSPOTREBNADZOR-KSHAXTINSK-NET
+87.117.21.32/29
+# Network name: ROSPOTREBNADZOR-AZOV-NET
+87.117.21.8/29
+# Network name: ROSPOTREBNADZOR-BKALITVA-NET
+87.117.21.16/29
+# Network name: ROSPOTREBNADZOR-NOVOCHERKASSK-NET
+87.117.21.80/29
+# Network name: ROSPOTREBNADZOR-VOLGODONSK-NET
+87.117.21.0/29
+# Network name: ROSPOTREBNADZOR-ORLOVKA-NET
+87.117.21.48/29
+# Network name: ROSPOTREBNADZOR-SALSK-NET
+87.117.21.56/29
+# Network name: ROSPOTREBNADZOR-VESHKI-NET
+87.117.21.72/29
+# Network name: ROSPOTREBNADZOR-MILLEROVO-NET
+87.117.21.40/29
+# Network name: ROSPOTREBNADZOR-CIMLYANSK-NET
+87.117.21.24/29
+# Network name: ROSPOTREBNADZOR-SHAXTU-NET
+87.117.21.64/29
+# Network name: ROSPOTREBNADZOR-ROSTOV-NET
+87.117.20.64/27
+87.117.20.96/27
+87.117.20.128/28
+87.117.23.128/28
+# Network name: ROSPOTREBNADZOR-TAGANROG-NET
+87.117.18.144/29
+93.178.104.64/30
+93.178.104.68/30
+# Network name: Rospotrebnadzor_Ryazan
+95.167.4.168/29
+# Network name: Rospotrebnadzor-ru-net
+85.236.29.160/27
+# Network name: RPN33
+84.53.210.144/28
+# Network name: ROSPOTREBNADZOR-TAGANROG-NET
+87.117.18.144/29
+93.178.104.64/30
+93.178.104.68/30
+# Network name: VLG-RPN-Angarsky-2
+213.234.8.8/30
+# Network name: TNTrade-NET
+89.175.8.68/30
+89.175.82.240/29
+# Network name: Rospotrebnadzor-Kam
+77.82.124.112/29
+# Network name: Rospotrebnadzor-NET
+89.109.7.176/29
+# Network name: POL-PROSECUTORS-NET
+77.35.76.80/28
+81.2.1.0/28
+82.162.72.208/28
+82.162.80.192/28
+82.162.126.96/28
+82.162.157.64/28
+86.102.72.240/28
+86.102.100.48/28
+# Network name: KHT-GEN-PROCURATURA
+85.114.93.88/29
+# Network name: RU-METROCOM-2011011701
+212.119.174.0/24
+212.119.175.0/24
+# Network name: ATS-SMOLNOGO-LAN
+46.47.211.0/24
+46.47.213.0/24
+46.47.238.144/30
+93.153.220.192/29
+93.153.251.0/24
+195.144.232.144/30
+# Network name: VGTRK-ITD
+80.247.32.0/24
+80.247.46.0/24
+# Network name: RU-VGTRK-20020919
+80.247.32.0/20
+# Network name: ORTNET
+81.177.156.0/24
+# Network name: NTV-net
+195.3.240.0/22
+# Network name: NewsMediaRus
+109.73.4.224/27
+# Network name: BEST-HOSTER-NET
+91.215.168.0/22
+91.219.192.0/22
+# Network name: ONLANTA-NET
+195.128.157.0/24
+# Network name: RU-RTK-20070321
+77.37.128.0/17
+# Network name: STARNET-VPN
+217.172.18.0/23
+# Network name: CCC-HC
+89.111.176.0/22
+# Network name: RU-NIC-HOSTING
+31.177.95.0/24
+# AS-Name: 80.73.16.0/20 RU-CTSPI-20050201 (FGUP CTSPI MGA Russia)
+80.73.16.0/20
+# AS-Name: 91.217.34.0/23 GUVD (Glavnoe Upravlenie Vnutrennih Del po Sverdlovskoi Oblasti)
+91.217.34.0/23
+# AS-Name: 91.221.140.0/23 ORVD-NET (FGUP Goskorporatsiya po OrVD)
+91.221.140.0/23
+# AS-Name: 176.109.0.0/21 FGUP-ELEKTROSVYAZ-NET (JSC ELEKTROSVYAZ)
+176.109.0.0/21
+# AS-Name: 195.78.114.0/23 NORFES-NET (Rosmorport FGUP)
+195.78.114.0/23
+# AS-Name: 212.57.133.0/24 CHUVD SURNET-MNT MFIST-MNT () [Computing Center of Regional Police Department of Chelyabinsk region]
+212.57.133.0/24
+# AS-Name: 195.131.63.24/29 FGUP-NET TI-MNT () [FGUP Management of Federal post communication of Saint Petersburg Saint-Petersburg, Russia]
+195.131.63.24/29
+# AS-Name: 213.33.171.240/29 SOVINTEL-SG-Trans-NET SOVINTEL-MNT () [Moscow Russia FGUP SG-trans is the Russian LPG transort Company]
+213.33.171.240/29
+# AS-Name: 81.195.247.128/28 FGUP-VVO-Zarubezhgeologiya MTU-NOC () [FGUP VVO "Zarubezhgeologiya" Moscow, Russia]
+81.195.247.128/28
+# AS-Name: 81.195.245.0/28 FGUP-VNIIS MTU-NOC () [FGUP "VNIIS" Moscow, Russia]
+81.195.245.0/28
+# AS-Name: 81.195.231.128/26 Avtokombinat-Moskkij-pochtamp MTU-NOC () [Avtokombinat FGUP UFPS g.Moskvy"Mosk-kij pochtamp" Moscow, Russia]
+81.195.231.128/26
+# AS-Name: 81.195.250.16/29 FGUP-Avtobaza MTU-NOC () [FGUP Avtobaza N1 UD Prezidenta RF Moscow, Russia]
+81.195.250.16/29
+# AS-Name: 81.195.178.224/27 FGUP-NIPIagroprom MTU-NOC () [FGUP "NIPIagroprom" Moscow, Russia]
+81.195.178.224/27
+# AS-Name: 81.195.165.64/28 FGUP-Glavnyj-vychisl-centr-Min-va-s-h-RF MTU-NOC () [FGUP"Glavnyj.vychisl.centr Min-va s/h RF" Moscow, Russia]
+81.195.165.64/28
+# AS-Name: 81.195.148.140/30 FGUP-NTC-Promtehaero MTU-NOC () [FGUP "NTC Promtehaero" Moscow, Russia]
+81.195.148.140/30
+# AS-Name: 81.195.151.172/30 FGUP-Avtobaza-N1-UD-Prezidenta-RF MTU-NOC () [FGUP Avtobaza N1 UD Prezidenta RF Moscow, Russia]
+81.195.151.172/30
+# AS-Name: 81.195.161.12/30 FGUP-GIVC MTU-NOC () [FGUP GIVC Moscow, Russia]
+81.195.161.12/30
+# AS-Name: 81.195.168.24/30 FGUP-Izdat-vo-Buhgalterskij-uchet MTU-NOC () [FGUP "Izdat-vo "Buhgalterskij uchet" Moscow, Russia]
+81.195.168.24/30
+# AS-Name: 81.195.192.96/30 DGUP-GCKS-FGUP MTU-NOC () [DGUP GCKS FGUP Moscow, Russia]
+81.195.192.96/30
+# AS-Name: 81.195.90.44/30 FGUP-KBTM MTU-NOC () [FGUP  KBTM Moscow, Russia]
+81.195.90.44/30
+# AS-Name: 81.195.94.72/29 FGUP-KBTM MTU-NOC () [FGUP  KBTM Moscow, Russia]
+81.195.94.72/29
+# AS-Name: 81.195.93.192/27 FGUP-NII-avtomatiki MTU-NOC () [FGUP NII avtomatiki Moscow, Russia]
+81.195.93.192/27
+# AS-Name: 81.195.92.48/30 FGUP-FCERI MTU-NOC () [FGUP "FCERI" Moscow, Russia]
+81.195.92.48/30
+# AS-Name: 81.195.108.164/30 FGUP-Rublevo-Uspenskij-LOK MTU-NOC () [FGUP "Rublevo-Uspenskij LOK" Moscow, Russia]
+81.195.108.164/30
+# AS-Name: 81.195.112.36/30 FGUP-Zavod-Medradiopreparat-FU-Medbioekstrem-MZ-RF MTU-NOC () [FGUP "Zavod "Medradiopreparat" FU "Medbioekstrem" MZ RF Moscow, Russia]
+81.195.112.36/30
+# AS-Name: 81.195.105.160/28 Filial-FGUP-Rosgoscirk-Centr-Cirkovogo-Iskusstva MTU-NOC () [Filial FGUP Rosgoscirk "Centr Cirkovogo Iskusstva" Moscow, Russia]
+81.195.105.160/28
+# AS-Name: 195.54.20.168/29 ZLTLVZ SURNET-MNT MFIST-MNT () [FFGUP "Rosspirtprom" Zlatoustovsky likerovodochny zavod Zlatoust Chelyabinsk state]
+195.54.20.168/29
+# AS-Name: 195.98.77.100/30 VRNFGUPIPF-NET IC-VORONEZH-MNT () [IPF Voronezh Voronezh]
+195.98.77.100/30
+# AS-Name: 62.118.25.112/28 FGUP-NII-truda-i-social-nogo-strahovaniya MTU-NOC () [FGUP "NII truda i social'nogo strahovaniya" Moscow, Russia]
+62.118.25.112/28
+# AS-Name: 62.118.15.16/28 FGUP-Rosstrojizyskaniya MTU-NOC () [FGUP "Rosstrojizyskaniya" Moscow, Russia]
+62.118.15.16/28
+# AS-Name: 62.118.0.208/28 FGUP-MEZ-MPS-Rossii MTU-NOC () [FGUP MEZ MPS Rossii Moscow, Russia]
+62.118.0.208/28
+# AS-Name: 81.17.2.192/28 NEXCOM-NET TRON-MNT () [Ekaterinburg, Company Tron Clients Ethernet, GUVD]
+81.17.2.192/28
+# AS-Name: 81.17.3.16/29 NEXCOM-GUVD TRON-MNT () [Ekaterinburg, Company Tron Clients Ethernet, GUVD]
+81.17.3.16/29
+# AS-Name: 212.120.184.48/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 38, Sovetskaya str., Chaikovskiy,]
+212.120.184.48/29
+# AS-Name: 212.120.184.64/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm, Russia]
+212.120.184.64/29
+# AS-Name: 212.120.190.112/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 27, Karla Marksa str., Kungur,]
+212.120.190.112/29
+# AS-Name: 82.200.22.144/28 fgup_omo_network ZSTTK-MNT () [FGUP OMO im.Baranova West Siberia, Russia]
+82.200.22.144/28
+# AS-Name: 212.48.53.100/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.100/30
+# AS-Name: 212.17.9.144/28 SALUT1 MAGTEL-MNT () [FGUPTI Salut 901, 12, Lenin street 630099, Novosibirsk]
+212.17.9.144/28
+# AS-Name: 212.17.16.192/27 SNIIM MAGTEL-MNT () [FGUP "SNIIM" 618, 4, Dimitrova avenue 630004, Novosibirsk]
+212.17.16.192/27
+# AS-Name: 212.17.17.176/28 SNIIM1 MAGTEL-MNT () [FGUP "SNIIM" 618, 4, Dimitrova avenue 630004, Novosibirsk]
+212.17.17.176/28
+# AS-Name: 212.48.53.252/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.252/30
+# AS-Name: 83.237.68.168/29 FGUPS-UFPS-Mospochtamt MTU-NOC () [FGUPS UFPS "Mospochtamt" Moscow, Russia]
+83.237.68.168/29
+# AS-Name: 83.237.93.188/30 FGUP-Kreml-UDP-RF MTU-NOC () [FGUP "Kreml" UDP RF Moscow, Russia]
+83.237.93.188/30
+# AS-Name: 83.237.77.44/30 FGUP-Apteka-KSSP-KB-N6-FU-Medbioekstrem MTU-NOC () [FGUP "Apteka KSSP KB N6" FU "Medbioekstrem" Moscow, Russia]
+83.237.77.44/30
+# AS-Name: 212.48.54.40/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.40/30
+# AS-Name: 212.48.54.52/30 GBUMSE-NET TELMOS-MNT () [FGUP «GBUMSE»]
+212.48.54.52/30
+# AS-Name: 212.48.54.56/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.56/30
+# AS-Name: 212.48.54.60/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.60/30
+# AS-Name: 213.183.253.56/29 Izotop-Net ARTX-RIPE-MNT () [FGUP "Vseregionalnoye obiedineniye Izotop" Moscow Region, Russia]
+213.183.253.56/29
+# AS-Name: 83.172.36.224/29 UVDSEVERSK-NET MNT-SELS TOMLINE-MNT () [MVD UVD Seversk av. Sverdlova 11 Seversk, Tomsk Region]
+83.172.36.224/29
+# AS-Name: 213.219.237.68/30 FGUP46CBMTS DN-MNT () [FGUP 46 CB MTS MO RF Reutov, Moscow region, Russia]
+213.219.237.68/30
+# AS-Name: 83.219.23.8/29 FGUPGZKS-PERM-NET PI-RIPE-MNT () [FRUP GosZemKadastrS'emka , Perm, Russia]
+83.219.23.8/29
+# AS-Name: 82.162.76.176/28 POL-CENTEREXPTECH-NET PRIMORYE-NCC-MNT () [FGUP Centr Experement. tech. min.Rossii Borodinskaya 14, t.362325]
+82.162.76.176/28
+# AS-Name: 82.162.158.176/28 POL-MEDSANUVDPK-NET PRIMORYE-NCC-MNT () [Medico-sanitarnaya chast' UVD PK]
+82.162.158.176/28
+# AS-Name: 83.242.145.224/27 FGUP-NIC-ITEP MTU-NOC () [FGUP NIC "ITEP"]
+83.242.145.224/27
+# AS-Name: 82.196.130.0/27 VOENTELECOM CTCS-MNT () [FGUP "Voentelecom"]
+82.196.130.0/27
+# AS-Name: 212.48.141.160/27 GKURAN-NET TI-MNT () [Network of "GKU RAN" FGUP]
+212.48.141.160/27
+# AS-Name: 195.162.36.64/28 OMSKELECOM-UGIBDD OEC-MNT () [UGIBDD UVD Omskoi obl. 103a, Kr. Zor st. Omsk, 644001, Russia]
+195.162.36.64/28
+# AS-Name: 87.249.3.64/28 TEL-NET-9763 TEL-NET-MNT () [object-ZHURAVLEVA6, client-FGUP "VO "Vneshtekhnika"]
+87.249.3.64/28
+# AS-Name: 80.254.100.40/29 IRIS-ROSTOV-NET ROSTOV-TELEGRAF-MNT () [FGUP PKP "Iris" Krasnoarmeyskaya, 9 Rostov-on-Don, Rostovskaia oblast, 344011]
+80.254.100.40/29
+# AS-Name: 82.198.190.64/26 FGUP_UPDK GLOBUS-MNT () [Russia,Moscow]
+82.198.190.64/26
+# AS-Name: 212.48.54.36/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.36/30
+# AS-Name: 195.58.5.16/30 URALAIRNAV-NET AS3253-MNT () [F-l "Aeronavigaciya Urala" FGUP "Goskorporaciya po OrVD" Ekaterinburg, Russia]
+195.58.5.16/30
+# AS-Name: 195.58.5.20/30 URALAIRNAV-NET-2 AS3253-MNT () [F-l "Aeronavigaciya Urala" FGUP "Goskorporaciya po OrVD" Ekaterinburg, Russia]
+195.58.5.20/30
+# AS-Name: 195.58.13.120/30 UFPS-NET AS3253-MNT () [FGUP POCHTA ROSSII Ekaterinburg, Russia]
+195.58.13.120/30
+# AS-Name: 195.58.21.196/30 RNEDRA-NET AS3253-MNT () [Filial FGUP UGOME "UralRIKC" Ekaterinburg, Russia]
+195.58.21.196/30
+# AS-Name: 195.58.29.57/32 RTPC-NET AS3253-MNT () [Filial FGUP RTRS Sverdlovskij ORTPC Ekaterinburg, Russia]
+195.58.29.57/32
+# AS-Name: 195.58.30.164/30 UFPS-NET-2 AS3253-MNT () [FGUP POCHTA ROSSII Ekaterinburg, Russia]
+195.58.30.164/30
+# AS-Name: 195.58.30.200/29 RTPC-NET-2 AS3253-MNT () [Filial FGUP RTRS Sverdlovskij ORTPC Ekaterinburg, Russia]
+195.58.30.200/29
+# AS-Name: 212.23.85.48/30 URALAIRNAV-NET-3 AS3253-MNT () [F-l "Aeronavigaciya Urala" FGUP "Goskorporaciya po OrVD" Ekaterinburg, Russia]
+212.23.85.48/30
+# AS-Name: 212.23.85.56/29 FPD-NET AS3253-MNT () [FGUP POCHTA ROSSII Ekaterinburg, Russia]
+212.23.85.56/29
+# AS-Name: 213.242.204.236/30 URALAIRNAV-NET-4 AS3253-MNT () [F-l "Aeronavigaciya Urala" FGUP "Goskorporaciya po OrVD" Ekaterinburg, Russia]
+213.242.204.236/30
+# AS-Name: 213.242.204.76/30 RNEDRA-NET-2 AS3253-MNT () [Filial FGUP UGOME "UralRIKC" Ekaterinburg, Russia]
+213.242.204.76/30
+# AS-Name: 213.242.205.88/30 RNEDRA-NET-3 AS3253-MNT () [Filial FGUP UGOME "UralRIKC" Ekaterinburg, Russia]
+213.242.205.88/30
+# AS-Name: 213.242.215.192/29 URALAIRNAV-NET-5 AS3253-MNT () [F-l "Aeronavigaciya Urala" FGUP "Goskorporaciya po OrVD" Ekaterinburg, Russia]
+213.242.215.192/29
+# AS-Name: 213.242.215.68/30 URALAIRNAV-NET-6 AS3253-MNT () [F-l "Aeronavigaciya Urala" FGUP "Goskorporaciya po OrVD" Ekaterinburg, Russia]
+213.242.215.68/30
+# AS-Name: 85.90.120.72/29 Rostehinventarizaciya-NET MNT-TELECOM-TZ () [FGUP "Rostehinventarizaciya"]
+85.90.120.72/29
+# AS-Name: 212.120.174.88/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 67, Lunacharskogo str., Nytva,]
+212.120.174.88/29
+# AS-Name: 85.90.102.168/29 ZARUBEZhUGOL-NET MNT-TELECOM-TZ () [FGUP Vneshneekonomicheskoe Ob'edinenie "ZARUBEZhUGOL'"]
+85.90.102.168/29
+# AS-Name: 85.90.101.192/29 PULSAR-NET MNT-TELECOM-TZ () [FGUP NPP "PUL'SAR"]
+85.90.101.192/29
+# AS-Name: 85.90.99.168/29 PULSAR-NET MNT-TELECOM-TZ () [FGUP GZ "PUL'SAR"]
+85.90.99.168/29
+# AS-Name: 85.90.100.72/29 OrVDvRF-NET MNT-TELECOM-TZ () [Filial "Centraeronavigaciya" FGUP "Goskorporaciya po OrVD v RF"]
+85.90.100.72/29
+# AS-Name: 85.90.121.72/29 Ametist-NET MNT-TELECOM-TZ () [FGUP KB Ametist]
+85.90.121.72/29
+# AS-Name: 62.63.96.32/28 ZdorRos-Net ARTX-RIPE-MNT () [FGUP MPRC Zdorovie Roszdrava Moscow, Russia]
+62.63.96.32/28
+# AS-Name: 212.48.138.240/28 REDSTAR-NET TI-MNT () [Network of FGUP IT Red Star]
+212.48.138.240/28
+# AS-Name: 62.63.98.24/29 Moselectrotyagstroy-Net ARTX-RIPE-MNT () [SMP 643 Filial FGUP "Trest Moselectrotyagstroy" Moscow]
+62.63.98.24/29
+# AS-Name: 212.120.169.48/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm, Russia 80, Gagarina park., Perm,]
+212.120.169.48/29
+# AS-Name: 85.90.127.16/29 Zarubezhatomenergostroy-NET MNT-TELECOM-TZ () [FGUP "VPO "Zarubezhatomenergostroy"]
+85.90.127.16/29
+# AS-Name: 85.90.98.144/30 NCPLG-NET MNT-TELECOM-TZ () [FGUP GosNII GA (NC PLGVS GosNII GA)]
+85.90.98.144/30
+# AS-Name: 85.90.125.96/29 NICITEP-NET MNT-TELECOM-TZ () [FGUP NIC ITEP]
+85.90.125.96/29
+# AS-Name: 62.118.37.180/30 FGUP-CNIIGAIK MTU-NOC () [FGUP CNIIGAiK Moscow, Russia]
+62.118.37.180/30
+# AS-Name: 81.195.177.160/30 MTU-CUST-392C6D30 MTU-NOC () [FGUP "Giprozheldorstroj"]
+81.195.177.160/30
+# AS-Name: 62.118.38.212/30 MTU-CUST-1A3A43A6 MTU-NOC () [FGUP "Centr komplektacii uchebnih zavedenij"]
+62.118.38.212/30
+# AS-Name: 62.5.218.204/30 MTU-CUST-ECCC30E8 MTU-NOC () [FGUP "GOSGISCENTR"]
+62.5.218.204/30
+# AS-Name: 62.118.37.168/30 MTU-CUST-ECCC30E8 MTU-NOC () [FGUP "GOSGISCENTR"]
+62.118.37.168/30
+# AS-Name: 62.118.234.64/29 MTU-CUST-22A9114E MTU-NOC () [FGUP Eksperimentalnij optiko-mehanicheskij zavod]
+62.118.234.64/29
+# AS-Name: 62.118.219.184/30 MTU-CUST-111E7A6D MTU-NOC () [FGUP "Mos.zavod po obrabotke spec. splavov"]
+62.118.219.184/30
+# AS-Name: 62.118.208.100/30 MTU-CUST-09DB0363 MTU-NOC () [FGUP 12 Centralnaja tipografija MO]
+62.118.208.100/30
+# AS-Name: 62.5.202.60/30 MTU-CUST-2B473788 MTU-NOC () [FGUP "31 GPI SS MO RF"]
+62.5.202.60/30
+# AS-Name: 62.118.205.68/30 MTU-CUST-319796F0 MTU-NOC () [GUVD Moskovskoj Oblasti]
+62.118.205.68/30
+# AS-Name: 62.118.233.224/29 MTU-CUST-E153DC07 MTU-NOC () [FGUP "Konstruktorskoe Bjuro Poluprovodnikovogo Mashinostoroenija"]
+62.118.233.224/29
+# AS-Name: 81.195.45.64/30 MTU-CUST-67A1D39A MTU-NOC () [FGUP "Goszemkadastrsemka" - VISHAGI]
+81.195.45.64/30
+# AS-Name: 62.5.189.80/29 MTU-CUST-896A2DE8 MTU-NOC () [FGUP "Filmofond kinostudii "Sojuzmultfilm"]
+62.5.189.80/29
+# AS-Name: 62.118.19.112/30 MTU-CUST-1A5806FD MTU-NOC () [FGUP "Zdraveksport"]
+62.118.19.112/30
+# AS-Name: 81.195.244.32/29 MTU-CUST-DFD35E9A MTU-NOC () [FGUP "Rusekotrans"]
+81.195.244.32/29
+# AS-Name: 62.118.209.192/30 MTU-CUST-0034780C MTU-NOC () [FGUP "Zavod "TOPAZ"]
+62.118.209.192/30
+# AS-Name: 62.5.132.224/29 MTU-CUST-0034780C MTU-NOC () [FGUP "Zavod "TOPAZ"]
+62.5.132.224/29
+# AS-Name: 62.118.216.60/30 MTU-CUST-BA70E70B MTU-NOC () [FGUP Gosudarstvennaja aviakompanija "224 letnij otrjad"]
+62.118.216.60/30
+# AS-Name: 195.42.75.8/29 MTU-CUST-D10EF4E3 MTU-NOC () [FGUP Upravlenie specialnogo stroitelstva FSB RF]
+195.42.75.8/29
+# AS-Name: 81.195.124.52/30 MTU-CUST-F551ECEE MTU-NOC () [SU-334 FGUP "Tresta Moselektrotjagstroj"]
+81.195.124.52/30
+# AS-Name: 62.118.17.152/29 MTU-CUST-1EC64BF9 MTU-NOC () [FGUP GosNII OS]
+62.118.17.152/29
+# AS-Name: 62.118.193.8/29 MTU-CUST-40ACE85E MTU-NOC () [FGUP Izdatelstvo "Izvestija" UD P RF]
+62.118.193.8/29
+# AS-Name: 81.195.36.48/28 MTU-CUST-33EB33B2 MTU-NOC () [FGUP KBTM]
+81.195.36.48/28
+# AS-Name: 81.195.155.0/30 MTU-CUST-3C2C586F MTU-NOC () [FGUP Moskovskoe mashinostroitelnoe proizvodstvennoe predprijatie "Saljut"]
+81.195.155.0/30
+# AS-Name: 62.118.21.160/29 MTU-CUST-F43B8CF7 MTU-NOC () [FGUP "NPP VNIIEM"]
+62.118.21.160/29
+# AS-Name: 62.5.242.80/28 MTU-CUST-5250F868 MTU-NOC () [FGUP CNIIAG]
+62.5.242.80/28
+# AS-Name: 81.195.150.248/30 MTU-CUST-E232EA85 MTU-NOC () [427 UNR - filial FGUP "SU MVO MO RF"]
+81.195.150.248/30
+# AS-Name: 83.237.87.8/29 MTU-CUST-62AC7E97 MTU-NOC () [FGUP Goscentr "Priroda"]
+83.237.87.8/29
+# AS-Name: 62.118.239.128/29 MTU-CUST-9E7F010C MTU-NOC () [FGUP Institut Plasticheskoj Hirurgii i Kosmetologii]
+62.118.239.128/29
+# AS-Name: 81.195.120.16/29 MTU-CUST-9E7F010C MTU-NOC () [FGUP Institut Plasticheskoj Hirurgii i Kosmetologii]
+81.195.120.16/29
+# AS-Name: 62.5.224.188/30 MTU-CUST-5CA919F5 MTU-NOC () [Filial FGUP "SU MO PVO" dochernee predprijatie FGUP "SU CR (MVO)" MO RF-UNR-262]
+62.5.224.188/30
+# AS-Name: 62.5.130.104/29 MTU-CUST-5ADE5438 MTU-NOC () [FGUP TPO "Kinostudija "Sojuzmultfilm"]
+62.5.130.104/29
+# AS-Name: 81.195.44.248/30 MTU-CUST-51795D5E MTU-NOC () [SU-9 FGUP USS-5 pri Specstroe Rossii]
+81.195.44.248/30
+# AS-Name: 81.195.125.96/30 MTU-CUST-5F25932F MTU-NOC () [FGUP "NIIIT"]
+81.195.125.96/30
+# AS-Name: 62.118.230.4/30 MTU-CUST-5F25932F MTU-NOC () [FGUP "NIIIT"]
+62.118.230.4/30
+# AS-Name: 62.118.37.4/30 MTU-CUST-AC3DCE8D MTU-NOC () [FGUP "Centrorgtrudavtotrans"]
+62.118.37.4/30
+# AS-Name: 81.195.182.64/28 MTU-CUST-B40F23BD MTU-NOC () [FGUP NIC ITEP]
+81.195.182.64/28
+# AS-Name: 62.118.19.40/30 MTU-CUST-42DE527C MTU-NOC () [FGUP "GosNII BP"]
+62.118.19.40/30
+# AS-Name: 83.237.79.64/29 MTU-CUST-39992870 MTU-NOC () [FGUP 3 CNII Minoboroni Rossii]
+83.237.79.64/29
+# AS-Name: 81.195.50.72/29 MTU-CUST-A89FBE5D MTU-NOC () [FGUP ATEKS]
+81.195.50.72/29
+# AS-Name: 81.195.118.128/30 MTU-CUST-73D8C4FE MTU-NOC () [Stroitelno-montazhnij poezd N 250 filial FGUP "Trest Moselektrotjagstroj"]
+81.195.118.128/30
+# AS-Name: 195.170.218.24/29 INF-CLNT-TITAN INFOTEL-MNT () [CLIENT FGUP SKB Titan]
+195.170.218.24/29
+# AS-Name: 212.120.189.208/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 5, Entuziastov str., Krasnokamsk,]
+212.120.189.208/29
+# AS-Name: 80.254.119.168/29 GUOVOUVD-SHAKHT-NET ROSTOV-TELEGRAF-MNT () [GU OVO UVD Shakhtu Shaxtu, Pariskoi Kommunu str., 85 Shaxtu, Rostovskaia oblast, 346500]
+80.254.119.168/29
+# AS-Name: 62.63.101.80/29 Parashut-Net ARTX-RIPE-MNT () [FGUP NII Parashutostroyeniya Moscow]
+62.63.101.80/29
+# AS-Name: 62.141.125.0/25 SOVINTEL-Nitiom-NET SOVINTEL-MNT () [407134 Russia, SPB Babushkina,36, Fgup Nitiom Vnc im. Vavilova]
+62.141.125.0/25
+# AS-Name: 213.85.77.64/27 Pressa-net cnt-mnt () [FGUP "Pressa']
+213.85.77.64/27
+# AS-Name: 87.225.56.224/28 KHT-KHB-UFSB MNT-KHTDSV-NOC () [for servers]
+87.225.56.224/28
+# AS-Name: 85.21.157.48/28 CORBINA-SAPSANFGUP RU-CORBINA-MNT () [Sapsanfgup]
+85.21.157.48/28
+# AS-Name: 85.21.155.208/28 CORBINA-MARKA RU-CORBINA-MNT () [FGUP Izdatcenter Marka Moscow, B. Gruzinskaya, 4/6]
+85.21.155.208/28
+# AS-Name: 85.21.148.0/26 CORBINA-STANDINFO RU-CORBINA-MNT () [FGUP Standartinform Moscow, Granatni per, 4]
+85.21.148.0/26
+# AS-Name: 85.21.204.208/28 CORBINA-STANDINFO RU-CORBINA-MNT () [FGUP Standartinform Moscow, Granatni per, 4]
+85.21.204.208/28
+# AS-Name: 195.170.218.88/29 INF-CLNT-GRPZ INFOTEL-MNT () [CLIENT FGUP Gosudarstvennyj Ryazanskij Pribornyj Zavod]
+195.170.218.88/29
+# AS-Name: 89.179.155.192/28 CORBINA-FGUPVNIITF RU-CORBINA-MNT () [FGUP VNIIT FA Moscow, Varshavskoe shosse, 46]
+89.179.155.192/28
+# AS-Name: 89.179.179.16/28 CORBINA-FGUPKBTM RU-CORBINA-MNT () [FGUP Konstruktorskoe Byuro Transportnogo Mashinostroeniya Moscow, pr-t Vernadskogo, 101/2]
+89.179.179.16/28
+# AS-Name: 89.179.181.0/24 CORBINA-FGUPKBTM RU-CORBINA-MNT () [FGUP Konstruktorskoe Byuro Transportnogo Mashinostroeniya Moscow, pr-t Vernadskogo, 101/2]
+89.179.181.0/24
+# AS-Name: 81.1.205.96/27 GUVD-NSO ZSTTK-MNT () [Novosibirsk Police Department 78 Oktyabrskaya str, Novosibirsk]
+81.1.205.96/27
+# AS-Name: 85.21.149.48/28 CORBINA-FGUPRPMORF RU-CORBINA-MNT () [FGUP Prp Mo RF Moscow Region, Noginskij r-n, d. Jilino]
+85.21.149.48/28
+# AS-Name: 85.21.102.224/28 CORBINA-GOSZNAK RU-CORBINA-MNT () [Moskovskaya Tipografiya FFGUP Gosznak Saint-Petersburg, Petropavlovskaya krepost ter., d.3v]
+85.21.102.224/28
+# AS-Name: 85.21.104.192/27 CORBINA-FGUPNII RU-CORBINA-MNT () [FGUP Nauchno-Issledovatelsky Institut Standartizacii i Unifikacii Moscow, Sokolnichesky Val, 37/10]
+85.21.104.192/27
+# AS-Name: 85.21.103.64/28 CORBINA-ROSATOM RU-CORBINA-MNT () [FGUP SKC Rosatoma Moscow, ul. Bolshaya Ordynka, d.24/26]
+85.21.103.64/28
+# AS-Name: 85.21.99.48/28 CORBINA-ROSMORPORT RU-CORBINA-MNT () [FGUP Rosmorport Moscow, ul. Suschevskaya, d.19, str.7]
+85.21.99.48/28
+# AS-Name: 85.21.99.64/28 CORBINA-FGUPGAMMA1 RU-CORBINA-MNT () [FGUP Nauchno-proizvodstvennoe predpriyatie Gamma Moscow, ul. Profsouznaya, d.78, str.4]
+85.21.99.64/28
+# AS-Name: 212.48.134.192/26 FGUPIGIRGI-NET TI-MNT () [Network of FGUP IG I RGI]
+212.48.134.192/26
+# AS-Name: 195.131.53.248/29 UFPSSPbLO-NET TI-MNT () [IP-Net for UFPS g.SPb i Leningradskoy oblasty - filial FGUP Pochta Rossii]
+195.131.53.248/29
+# AS-Name: 195.131.61.80/29 UFRS-NET TI-MNT () [Net for UFPS SPb and LO, filial FGUP Pochta Rossii]
+195.131.61.80/29
+# AS-Name: 89.175.165.208/28 GKOVD MTU-NOC () [FGUP GKOVD PF]
+89.175.165.208/28
+# AS-Name: 81.1.195.0/28 FFGUPKO-NET ZSTTK-MNT () [FFGUP "Oxrana" MVD RF po Kemerovo area Kemerovo, Russia]
+81.1.195.0/28
+# AS-Name: 195.98.38.16/28 ohrana-nn AS8371-MNT () [FGUP OHRANA-NN Nizhny Novgorod, Russia]
+195.98.38.16/28
+# AS-Name: 78.107.3.208/28 CORBINA-FGUP-OHRANA RU-CORBINA-MNT () [FGUP OHRANA MVD Russia]
+78.107.3.208/28
+# AS-Name: 87.249.5.48/30 TEL-NET-6116 TEL-NET-MNT () [object-POHODNY4STR1, client-FGUP "Gosudarstvennij tsentr ekologicheskikh programm"]
+87.249.5.48/30
+# AS-Name: 217.147.23.112/28 TEL-NET-5728 TEL-NET-MNT () [object-BUTLEROVA7, client-FGUP "NII "Argon"]
+217.147.23.112/28
+# AS-Name: 89.175.170.144/28 ELEKTROPRIBOR COMSTAR-MNT () [FGUP "Elektropribor"]
+89.175.170.144/28
+# AS-Name: 82.208.77.104/29 OHRANA-NN1-NET NMTS-MNT () [FGUP OHRANA-NN Nizhny Novgorod, Russia]
+82.208.77.104/29
+# AS-Name: 86.102.126.160/28 POL-ORTOPROTEZ-NET PRIMORYE-NCC-MNT () [FGUP Vladivostokskoe Protezno-Ortopedicheskoe Predpriyatie 8, Magnitogorskaya, st.,  Vladivostok, Russia +7 4232 317610]
+86.102.126.160/28
+# AS-Name: 62.112.110.64/28 FV-1207618 MGTS-USPD-MNT () [FGUP VIAM]
+62.112.110.64/28
+# AS-Name: 213.243.84.80/28 RIANEWS-NET TCNET-NOC () [FGUP RAMI "RIA Novosti" Moscow, Russia]
+213.243.84.80/28
+# AS-Name: 82.162.149.160/28 POL-OVOUVDFRUNZ-NET PRIMORYE-NCC-MNT () [OVO UVD FRUNZENSKOGO 9, Komsomolskaya st., Vladivostok, Russia +7 4232 451507]
+82.162.149.160/28
+# AS-Name: 194.186.112.80/28 RU-SOVINTEL-VLDV-UVD-Primorskogo-kraya-NET SOVINTEL-MNT () [690650 Russia, Vladivostok Aleutskaya St. 44, CRC-1308272 UVD Of Primorskiy region, http://www.mvd.ru]
+194.186.112.80/28
+# AS-Name: 217.65.214.24/29 GUSST5NET OVERTA-MNT () [FGUP GUSST 5 Saratov, Russia]
+217.65.214.24/29
+# AS-Name: 78.107.13.208/28 CORBINA-FGUPPRPMO RU-CORBINA-MNT () [FGUP Prp Mo Rf]
+78.107.13.208/28
+# AS-Name: 78.107.40.160/28 CORBINA-GUOMIDRF RU-CORBINA-MNT () [FGUP GUO MID ROSSII]
+78.107.40.160/28
+# AS-Name: 78.107.42.144/28 CORBINA-PRPMORF RU-CORBINA-MNT () [FGUP PRP MO RF]
+78.107.42.144/28
+# AS-Name: 78.107.16.96/28 CORBINA-ATOMSTRY RU-CORBINA-MNT () [FGUP ROSATOMSTROY]
+78.107.16.96/28
+# AS-Name: 78.107.18.112/28 CORBINA-FGUPVIAM RU-CORBINA-MNT () [FGUP VIAM]
+78.107.18.112/28
+# AS-Name: 78.107.51.16/28 CORBINA-FGUPCENTR RU-CORBINA-MNT () [FGUP CNII CENTR]
+78.107.51.16/28
+# AS-Name: 78.107.61.96/28 CORBINA-FGUPELKTRO RU-CORBINA-MNT () [FGUPELKTRO]
+78.107.61.96/28
+# AS-Name: 78.107.86.32/28 CORBINA-FGUPOL5 RU-CORBINA-MNT () [FGUPOL5]
+78.107.86.32/28
+# AS-Name: 89.21.152.104/29 VETERINARY-NET MNT-TELECOM-TZ () [FGUP Center Vererinary]
+89.21.152.104/29
+# AS-Name: 89.175.176.140/30 GBUMSE COMSTAR-MNT () [FGUP «GBUMSE»]
+89.175.176.140/30
+# AS-Name: 195.151.25.48/29 UFSB-NET ROSPRINT-NCC () [(99999960) UFSB, Ekaterinburg]
+195.151.25.48/29
+# AS-Name: 87.249.25.0/24 TEL-NET-5728 TEL-NET-MNT () [object-VARSHAVSKOE125, client-FGUP "NII "Argon"]
+87.249.25.0/24
+# AS-Name: 87.249.16.32/28 TEL-NET-5728 TEL-NET-MNT () [object-VARSHAVSKOE125, client-FGUP "NII "Argon"]
+87.249.16.32/28
+# AS-Name: 87.249.18.60/30 TEL-NET-5728 TEL-NET-MNT () [object-VARSHAVSKOE125, client-FGUP "NII "Argon"]
+87.249.18.60/30
+# AS-Name: 87.249.7.120/29 TEL-NET-5728 TEL-NET-MNT () [object-VARSHAVSKOE125, client-FGUP "NII "Argon"]
+87.249.7.120/29
+# AS-Name: 217.67.177.208/29 MASTERTEL-4028 MASTERTEL-MNT () [Mastertel Network For NII PP FGUP]
+217.67.177.208/29
+# AS-Name: 195.54.221.0/24 RTRN-NET RINET-MNT () [FGUP RTRN 13, Akademika Koroleva str. Moscow Russia]
+195.54.221.0/24
+# AS-Name: 195.131.7.8/29 UVDT-NET TI-MNT () [IP-Network for office]
+195.131.7.8/29
+# AS-Name: 80.82.43.24/29 FGUP-OHRANA-VO VSI-MNT () [Filial FGUP "Ohrana" MVD Russia from Voronezh region]
+80.82.43.24/29
+# AS-Name: 213.85.2.64/28 UTC-Novogorsk cnt-mnt () [FGUP UTC "Novogorsk"]
+213.85.2.64/28
+# AS-Name: 86.102.109.32/28 POL-KRTPC-NET PRIMORYE-NCC-MNT () [BRANCH OF FGUP RTRS SEASHORE KRTPC 26, Nerchinskaya st., Vladivostok, Russia +7 4232 401839]
+86.102.109.32/28
+# AS-Name: 86.102.109.48/28 POL-KRTPC-NET PRIMORYE-NCC-MNT () [BRANCH OF FGUP RTRS SEASHORE KRTPC 26, Nerchinskaya st., Vladivostok, Russia +7 4232 433832]
+86.102.109.48/28
+# AS-Name: 92.50.219.136/29 Uvd-Penza ROSTELECOM-MNT () [JSC Rostelecom client (city Penza) 08-05475]
+92.50.219.136/29
+# AS-Name: 89.175.188.184/29 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+89.175.188.184/29
+# AS-Name: 92.50.238.224/29 FGUP-RTRS-SaratORPTC ROSTELECOM-MNT () [WWW, FTP, SMTP servers Client of JSC Rostelecom (city Ershov) 08-07008]
+92.50.238.224/29
+# AS-Name: 83.69.207.248/29 MASTERTEL-3671 MASTERTEL-MNT () [Mastertel Network For VNIPIIstromsyre FGUP]
+83.69.207.248/29
+# AS-Name: 93.190.110.0/24 KEMFGUP SIBSET-MNT () [FGUP "Protection" MVD of Russia, Kemerovo branch Kemerovo, Russia]
+93.190.110.0/24
+# AS-Name: 94.25.53.56/29 VerfiFGUP ROSTELECOM-MNT () [JSC Rostelecom client  (city S.Peterburg) 08-10394]
+94.25.53.56/29
+# AS-Name: 78.37.69.160/27 RU-NIIVS AS8997-MNT () [FGUP SPbNIIVS FMBA Rossii, production of medicines]
+78.37.69.160/27
+# AS-Name: 93.153.194.160/29 FGUP-GOSZEMKADASTRSEMKA-LAN PSTAR-MNT () [FGUP Goszemkadastrsemka St.Petersburg JSC PeterStar]
+93.153.194.160/29
+# AS-Name: 195.54.28.72/30 OHRANA-MVD MFIST-MNT () [FGUP Ohrana 18, Severokrimskaya str., Chelyabinsk, Russia,]
+195.54.28.72/30
+# AS-Name: 62.63.100.160/30 ROSOBORONSTANDART-Net ARTX-RIPE-MNT () [FGUP "ROSOBORONSTANDART" Moscow, Russia]
+62.63.100.160/30
+# AS-Name: 92.39.106.20/30 VLG-UVD_Irk20 UNICO-MNT () [Volgograd Police Department]
+92.39.106.20/30
+# AS-Name: 212.57.159.0/24 UFPS MFIST-MNT () [FGUP "Pochta Rossii" Chelyabinsk, Russia]
+212.57.159.0/24
+# AS-Name: 94.25.57.224/28 UFSB ROSTELECOM-MNT () [JSC Rostelecom Client (city Rostov-na-Donu)]
+94.25.57.224/28
+# AS-Name: 94.25.57.176/29 UFSB ROSTELECOM-MNT () [JSC Rostelecom Client (city Rostov)]
+94.25.57.176/29
+# AS-Name: 94.25.65.16/29 fgup-pochta-rus ROSTELECOM-MNT () [JSC Rostelecom Client (city Blagoveshensk)]
+94.25.65.16/29
+# AS-Name: 89.21.140.104/29 NICITEP-NET MNT-TELECOM-TZ () [FGUP NIC ITEP]
+89.21.140.104/29
+# AS-Name: 213.243.116.0/24 VOSKHOD-NET MF-MOSCOW-MNT MEGAFON-AUTO-MNT MEGAFON-RIPE-MNT () [FGUP NII Voskhod Moscow, Russia]
+213.243.116.0/24
+# AS-Name: 213.234.13.60/30 UVD-VLG UNICO-MNT () [Lineinoe Upravlenie UVD po transporty Volgograd (Unico Wireless Network)]
+213.234.13.60/30
+# AS-Name: 85.114.30.192/30 FGUP-VNIITVCH-LAN OBIT-MNT () [FGUP VNIITVCH network Obit Telecommunications St.Petersburg]
+85.114.30.192/30
+# AS-Name: 82.151.107.136/29 RU-SECUREMVD-NET BELSVYAZ-MNT () [FGUP "Ohrana" MVD Russia of Belgorodsky reg.]
+82.151.107.136/29
+# AS-Name: 89.28.255.56/29 RU-ARBUZ-GORUVD-NET KGE-MNT () [Police Department of the Magadan city Russia, 685000, Magadan, 1-A Lenina str.]
+89.28.255.56/29
+# AS-Name: 85.114.30.204/30 FGUPOMVDR-LAN OBIT-MNT () [FGUPOMVDR network Obit Telecommunications St.Petersburg]
+85.114.30.204/30
+# AS-Name: 82.162.87.192/28 POL-KRTPC-NET PRIMORYE-NCC-MNT () [BRANCH OF FGUP RTRS SEASHORE KRTPC 1, Sopochnaya st., Vladivostok, Russia +7 4232 303076]
+82.162.87.192/28
+# AS-Name: 77.243.9.80/28 UVDKURSK SOVTEST-MNT () [Department of internal affairs of Kursk region]
+77.243.9.80/28
+# AS-Name: 82.198.191.96/27 RIANOVOSTI-NET GLOBUS-MNT () [FGUP RAMI RIA Novosti]
+82.198.191.96/27
+# AS-Name: 93.178.106.0/26 RMPT-TAGANROG-NET ROSTOV-TELEGRAF-MNT () [TF FGUP "Rosmorport" 2 Komsomolsky sp. Taganrog, Rostov region, 347922 Russian Federation]
+93.178.106.0/26
+# AS-Name: 82.162.172.112/28 POL-CENTREINFORM-NET PRIMORYE-NCC-MNT () [CentreInform, FGUP 45/A, Aleutskaya st., apt. 610, Vladivostok, Russia +7 4232 433528]
+82.162.172.112/28
+# AS-Name: 80.73.169.244/30 FGUP-Resourse-Net ARTX-RIPE-MNT () [FGUP Resourse Moscow, Russia]
+80.73.169.244/30
+# AS-Name: 80.73.168.80/28 FGUP-NIIEI-Net ARTX-RIPE-MNT () [FGUP NIIEI Moscow, Russia]
+80.73.168.80/28
+# AS-Name: 188.128.114.128/28 UVD_Ulyianovsk ROSTELECOM-MNT () [Ticket 09-08158, RISS 6446, PF]
+188.128.114.128/28
+# AS-Name: 188.128.101.108/30 UFSB_Amur ROSTELECOM-MNT () [Ticket 09-07939, RISS 6301, DVF]
+188.128.101.108/30
+# AS-Name: 188.128.118.224/27 FGUP_SNIIM_Novosibirsk ROSTELECOM-MNT () [Ticket 09-11595, RISS 8141, SF]
+188.128.118.224/27
+# AS-Name: 89.175.8.36/30 FGUPOhrana COMSTAR-MNT () ["FGUP Ohrana" LLC]
+89.175.8.36/30
+# AS-Name: 188.128.112.216/29 FGUP_Center_Gigieni_Volgograd ROSTELECOM-MNT () [RISS 8693, UgF]
+188.128.112.216/29
+# AS-Name: 89.175.8.40/30 FGUPOhrana COMSTAR-MNT () ["FGUP Ohrana" LLC]
+89.175.8.40/30
+# AS-Name: 86.102.74.64/28 POL-NATFISHRES-NET PRIMORYE-NCC-MNT () [National Fishins Resiursces, FGUP 25, Berezovaya st.., Vladivostok, Russia +7 4232 277971]
+86.102.74.64/28
+# AS-Name: 89.175.8.44/30 FGUPOhrana COMSTAR-MNT () ["FGUP Ohrana" LLC]
+89.175.8.44/30
+# AS-Name: 188.128.113.0/28 FGUP_RNIIRS ROSTELECOM-MNT () [Ticket 09-39382-3, UgF]
+188.128.113.0/28
+# AS-Name: 89.106.172.160/29 MASTERTEL-4489 MASTERTEL-MNT () [Mastertel Network For FGUP GIVTs Roskultury]
+89.106.172.160/29
+# AS-Name: 188.128.119.104/30 FGUP_SNIIM_Novosibirsk ROSTELECOM-MNT () [Ticket 09-19840, RISS 8141, SF]
+188.128.119.104/30
+# AS-Name: 89.175.8.52/30 FGUPOhrana COMSTAR-MNT () ["FGUP Ohrana" LLC]
+89.175.8.52/30
+# AS-Name: 83.237.91.216/29 mfvsegei MTU-NOC () [FGUP "VSEGEI" Moscow, Russia]
+83.237.91.216/29
+# AS-Name: 79.142.88.0/28 FGUP-VNIITVCH-LAN OBIT-MNT () [FGUP VNIITVCH network Obit Telecommunications St.Petersburg]
+79.142.88.0/28
+# AS-Name: 188.128.112.240/29 GUVD_Rostov-na-Dony ROSTELECOM-MNT () [RISS 9475, UgF]
+188.128.112.240/29
+# AS-Name: 82.198.191.248/29 ROSREESTR GLOBUS-MNT () [Federalnaya sluzhba gosudarstvennoj registracyi]
+82.198.191.248/29
+# AS-Name: 89.175.176.88/30 GBUMSE-NET COMSTAR-MNT () [FGUP «GBUMSE»]
+89.175.176.88/30
+# AS-Name: 89.175.8.104/30 FGUPOhrana COMSTAR-MNT () ["FGUP Ohrana" LLC]
+89.175.8.104/30
+# AS-Name: 195.239.113.0/24 SOVINTEL-SPB-GO-CHS-FGUP-RTS-NET SOVINTEL-MNT () [Sovintel, Russia, Saint-Petersburg]
+195.239.113.0/24
+# AS-Name: 92.50.198.124/30 GUVD_Krasnodar ROSTELECOM-MNT () [Ticket  09-04739-1]
+92.50.198.124/30
+# AS-Name: 82.200.22.136/29 ONIIP ZSTTK-MNT () [FGUP ONIIP]
+82.200.22.136/29
+# AS-Name: 93.182.23.48/29 mfvsegei KVX-MNT () [FGUP "VSEGEI" Moscow, Russia]
+93.182.23.48/29
+# AS-Name: 217.198.6.48/29 UFPS-NET CTEL-NOC-MNT () [FGUP UPS "Tatarstan pochtasy"]
+217.198.6.48/29
+# AS-Name: 217.198.6.128/26 UFPS-NET2 CTEL-NOC-MNT () [FGUP UPS «Tatarstan pochtasy»]
+217.198.6.128/26
+# AS-Name: 195.98.43.104/29 AA-NES AS8371-MNT () [FGUP Ohrana of MVD of RF Nizhny Novgorod, Russia]
+195.98.43.104/29
+# AS-Name: 188.128.115.232/29 GUVD_Perm ROSTELECOM-MNT () [Ticket 09-28615, RISS 11760, PF]
+188.128.115.232/29
+# AS-Name: 89.175.8.140/30 FGUPOhrana COMSTAR-MNT () [JCSC "FGUP Ohrana"]
+89.175.8.140/30
+# AS-Name: 89.21.129.16/28 Rostehinventarizaciya-NET MNT-TELECOM-TZ () [FGUP "Rostehinventarizaciya"]
+89.21.129.16/28
+# AS-Name: 95.167.2.4/30 Amurskoe_LUVDZhVVT ROSTELECOM-MNT () [Ticket 09-28753-2]
+95.167.2.4/30
+# AS-Name: 188.128.92.104/30 ANO_MBL_UVD_Tulskoy_oblasti ROSTELECOM-MNT () [Ticket  09-25058-1]
+188.128.92.104/30
+# AS-Name: 83.229.232.16/29 UVDTOMSK-SYNTERRA-NET TCNET-NOC () [Main Department of Internal Affairs of the Tomsk region]
+83.229.232.16/29
+# AS-Name: 89.175.8.192/30 FGUPOhrana COMSTAR-MNT () ["FGUP Ohrana" LLC]
+89.175.8.192/30
+# AS-Name: 94.25.119.228/30 UVD_po_Amurskoy_oblasti ROSTELECOM-MNT () [Ticket  09-07295-1]
+94.25.119.228/30
+# AS-Name: 95.167.5.64/28 FGUP_NIIR_Lesnoy ROSTELECOM-MNT () [Ticket 09-10814, RISS 8725, CF]
+95.167.5.64/28
+# AS-Name: 95.167.5.80/28 GUVD_Voronejskaya_oblast ROSTELECOM-MNT () [Ticket 09-41921, RISS 15877, CF]
+95.167.5.80/28
+# AS-Name: 95.167.21.104/29 UFSB_Orenburg ROSTELECOM-MNT () [Ticket 09-17406-2, RISS 8589, PF]
+95.167.21.104/29
+# AS-Name: 95.167.29.104/29 FGUP_Avtomatika ROSTELECOM-MNT () [Ticket 09-43230, DVF]
+95.167.29.104/29
+# AS-Name: 79.133.74.168/30 UFSB ROSTELECOM-MNT () [Ticket  09-08632-1]
+79.133.74.168/30
+# AS-Name: 79.133.74.160/30 FGUP_GTRK_Smolensk ROSTELECOM-MNT () [Ticket  09-02269-1]
+79.133.74.160/30
+# AS-Name: 79.133.75.176/30 UVD_po_Kirovskoy_oblasti ROSTELECOM-MNT () [Ticket  08-02440-1]
+79.133.75.176/30
+# AS-Name: 79.133.75.44/30 GUVD_Novosibirs ROSTELECOM-MNT () [Ticket  08-01570-4]
+79.133.75.44/30
+# AS-Name: 95.167.64.20/30 FGUP_Avtomatika ROSTELECOM-MNT () [Ticket 09-43230-2]
+95.167.64.20/30
+# AS-Name: 62.118.125.188/30 MTU-CUST-1B8EF213 MTU-NOC () [FGUP GNPP "SPLAV" Moscow, Russia]
+62.118.125.188/30
+# AS-Name: 62.118.113.232/29 MTU-CUST-E9C3A528 MTU-NOC () [FGUP "Organizacija "AGAT" Moscow, Russia]
+62.118.113.232/29
+# AS-Name: 62.118.101.184/29 MTU-CUST-80296A33 MTU-NOC () [FGUP "Centr Registra i Kadastra" Moscow, Russia]
+62.118.101.184/29
+# AS-Name: 62.118.127.240/28 MTU-CUST-A5557D77 MTU-NOC () [FGUPGKPC im.M.V.Hrunicheva "Strukturnoe podrazdelenie DVS Fili" Moscow, Russia]
+62.118.127.240/28
+# AS-Name: 83.237.93.101/32 MTU-CUST-A612ED8D MTU-NOC () [FGUP TPO "Kinostudija "Sojuzmultfilm" Moscow, Russia]
+83.237.93.101/32
+# AS-Name: 85.141.17.24/30 MTU-CUST-8FBBE3CD MTU-NOC () [FGUP "SPB INZHTEHCENTR" Moscow, Russia]
+85.141.17.24/30
+# AS-Name: 85.141.33.0/28 MTU-CUST-8CD842B2 MTU-NOC () [FGUP FNPC "PO "Start" im. M.V.Procenko" Moscow, Russia]
+85.141.33.0/28
+# AS-Name: 85.141.31.68/30 MTU-CUST-06B1D69D MTU-NOC () [FGUP "SojuzpromNIIproekt" Moscow, Russia]
+85.141.31.68/30
+# AS-Name: 85.141.19.56/30 MTU-CUST-18AA0E7F MTU-NOC () [OKS GUVD po Moskovskoj oblasti Moscow, Russia]
+85.141.19.56/30
+# AS-Name: 85.141.32.96/28 MTU-CUST-499C86BF MTU-NOC () [FGUP USS N5 pri Specstroe Rossii Moscow, Russia]
+85.141.32.96/28
+# AS-Name: 85.141.21.236/30 MTU-CUST-DBC24E32 MTU-NOC () ["UAT N205" filial FGUP "USST N2 pri Specstroe Rossii" Moscow, Russia]
+85.141.21.236/30
+# AS-Name: 85.141.61.160/28 MTU-CUST-4471DE94 MTU-NOC () [FGUP Izdatcentr "Marka" Moscow, Russia]
+85.141.61.160/28
+# AS-Name: 85.141.18.80/30 MTU-CUST-F6F501AA MTU-NOC () [FGUP "NPO "Optika" Moscow, Russia]
+85.141.18.80/30
+# AS-Name: 85.141.28.0/30 MTU-CUST-A6690155 MTU-NOC () [FGUP APK "Voskresenskij" Moscow, Russia]
+85.141.28.0/30
+# AS-Name: 85.141.33.64/28 MTU-CUST-7E3721F3 MTU-NOC () [FGUP "CENKI" Moscow, Russia]
+85.141.33.64/28
+# AS-Name: 85.141.17.112/30 MTU-CUST-6A51D93F MTU-NOC () [FGUP ONO "Agronauchservis" Rosselhozakademii Moscow, Russia]
+85.141.17.112/30
+# AS-Name: 85.141.60.96/28 MTU-CUST-68E02411 MTU-NOC () [Gosudarstvennoe uchrezhdenie Upravlenie vnevedomstvennoj ohrani pri GUVD po g. Moskve Moscow, Russia]
+85.141.60.96/28
+# AS-Name: 213.85.142.176/28 zavod41-net cnt-mnt () [FGUP "41 Centralnyi zavod zheleznodorozhnoi techniki"]
+213.85.142.176/28
+# AS-Name: 188.247.36.124/30 uvd UNICO-MNT () [krasnoarmeyskiy]
+188.247.36.124/30
+# AS-Name: 188.247.36.128/30 uvd UNICO-MNT () [arakskaya33]
+188.247.36.128/30
+# AS-Name: 188.247.36.132/30 uvd_volgorad_rokossovskogo8 UNICO-MNT () [police]
+188.247.36.132/30
+# AS-Name: 188.247.36.136/30 uvd UNICO-MNT () [degtyareva33]
+188.247.36.136/30
+# AS-Name: 188.247.36.140/30 uvd UNICO-MNT () [degtyareva33]
+188.247.36.140/30
+# AS-Name: 95.167.72.140/30 UVD_EAO ROSTELECOM-MNT () [Ticket  10-04101-2]
+95.167.72.140/30
+# AS-Name: 95.167.72.204/30 FGUP_Okhrana ROSTELECOM-MNT () [Ticket  10-06252-2]
+95.167.72.204/30
+# AS-Name: 188.247.36.204/30 uvd_volgograd_universitetskiy64 UNICO-MNT () [police]
+188.247.36.204/30
+# AS-Name: 213.234.15.228/30 GUVD UNICO-MNT () [krasnoznamenskaya17]
+213.234.15.228/30
+# AS-Name: 87.249.22.72/29 TEL-NET-9372 TEL-NET-MNT () [object-LENINGRADSKOE7, client-FGUP GPI i NII GA Aeroproekt]
+87.249.22.72/29
+# AS-Name: 89.175.10.160/30 FGUPOhrana COMSTAR-MNT () [LLC "FGUP Ohrana"]
+89.175.10.160/30
+# AS-Name: 83.220.53.16/28 FGUPAGA GARS-MNT () [FGUP "AGA(A)"]
+83.220.53.16/28
+# AS-Name: 188.128.11.196/30 GUVD-Rostov ROSTELECOM-MNT () [Ticket  10-01052-1]
+188.128.11.196/30
+# AS-Name: 93.178.104.36/30 p06420-TAGANROG-NET ROSTOV-TELEGRAF-MNT () [FGUP TNIIS Sedova, 3 Taganrog, Rostov region Russian Federation]
+93.178.104.36/30
+# AS-Name: 93.178.104.32/30 port24-TAGANROG-NET ROSTOV-TELEGRAF-MNT () [The Taganrog branch FGUP "Rusmorport" Komsomolskiy spusk, 2 Taganrog, Rostov region Russian Federation]
+93.178.104.32/30
+# AS-Name: 212.48.34.176/29 Rosrezerv COMSTAR-MNT () ["Rosrezerv" FGUP]
+212.48.34.176/29
+# AS-Name: 95.167.70.32/28 UVD_Ulianovsk ROSTELECOM-MNT () [Ticket 10-08643-1, RISS 20866, PF]
+95.167.70.32/28
+# AS-Name: 86.102.115.80/28 POL-DALSPETSSTROYRUS-NET PRIMORYE-NCC-MNT () [FGUP GUSS DALSPETSSTROY PRI RUS 30, Borodinskaya st., Vladivostok, Russia +7 4232 326293]
+86.102.115.80/28
+# AS-Name: 213.243.106.48/28 NIIPSTR-NET-NET TCNET-NOC () [FGUP NIIPS]
+213.243.106.48/28
+# AS-Name: 83.229.211.192/29 VNIIOFI-NET TCNET-NOC () [FGUP VNIIOFI]
+83.229.211.192/29
+# AS-Name: 95.167.69.116/30 FGUP_Okhrana ROSTELECOM-MNT () [Ticket 10-06252-2]
+95.167.69.116/30
+# AS-Name: 95.167.99.48/28 FGUP_RTRS ROSTELECOM-MNT () [Ticket 09-42788]
+95.167.99.48/28
+# AS-Name: 78.37.104.0/29 UFSB-PSK-NET AS8997-MNT () [UFSB SZT client]
+78.37.104.0/29
+# AS-Name: 95.167.70.136/29 UFSB-Mordovia ROSTELECOM-MNT () [Ticket 10-17527-1]
+95.167.70.136/29
+# AS-Name: 95.167.70.176/28 GUVD-Permskiy-Kray ROSTELECOM-MNT () [Ticket 09-28615-1]
+95.167.70.176/28
+# AS-Name: 82.198.189.128/26 rosreestr-net GLOBUS-MNT () [ROSREESTR Federalnaya sluzhba gosudarstvennoj registracyi, kadastra i kartografii Voroncovo pole str., 4a 109028  Moscow Russia]
+82.198.189.128/26
+# AS-Name: 89.175.9.4/30 FGUPOhrana COMSTAR-MNT () [LLC "FGUP Ohrana"]
+89.175.9.4/30
+# AS-Name: 91.217.34.0/23 GUVD RIPE-NCC-END-MNT MNT-GUVD (ORG-GA230-RIPE) []
+91.217.34.0/23
+# AS-Name: 109.124.99.160/28 FGUP-GOSNIIPP-LAN PSTAR-MNT () [FGUP GosNIIPP St.Petersburg JSC PeterStar]
+109.124.99.160/28
+# AS-Name: 188.128.8.240/30 GUVD_po_Permskomu_krayu ROSTELECOM-MNT () [Ticket 10-18229-1]
+188.128.8.240/30
+# AS-Name: 94.25.95.136/30 UVD_EAO ROSTELECOM-MNT () [Ticket 10-23459-1]
+94.25.95.136/30
+# AS-Name: 93.153.244.248/29 FGUP-POCHTA-ROSSII-LAN PSTAR-MNT () [FGUP Pochta Rossii St.Petersburg JSC PeterStar]
+93.153.244.248/29
+# AS-Name: 78.109.140.112/29 DN-BARNAUL-FGUP-RTRS-FILIAL-ALTAYSKIY-KRTPC-NET MNT-DIANET () [Barnaul FGUP RTRS Filial Altayskiy KRTPC local network]
+78.109.140.112/29
+# AS-Name: 95.167.121.68/30 Filial_FGUP_VGTRK_GTRK_Gornyj_Altaj ROSTELECOM-MNT () [Ticket 10-17385-2]
+95.167.121.68/30
+# AS-Name: 95.167.162.76/30 UFSB_Rossii_po_Respublike_Hakasija ROSTELECOM-MNT () [Ticket 10-17737-1]
+95.167.162.76/30
+# AS-Name: 95.167.142.32/30 Filial_FGUP_Roslesinforg_Amurlesproekt ROSTELECOM-MNT () [Ticket 10-06642-2]
+95.167.142.32/30
+# AS-Name: 95.167.122.128/28 UFSB_Rossii_po_Respublike_Mordovija ROSTELECOM-MNT () [Ticket 10-18860-1]
+95.167.122.128/28
+# AS-Name: 188.128.94.204/30 FGUP_RChTs ROSTELECOM-MNT () [Ticket 10-08082-1]
+188.128.94.204/30
+# AS-Name: 95.167.54.76/30 GUVD_po_Voronezhskoy_oblasti ROSTELECOM-MNT () [Ticket 09-41921-2]
+95.167.54.76/30
+# AS-Name: 95.167.74.136/29 Filial_FGUP_Okhrana_MVD_Rossii_po_Orlovskoy_oblasti ROSTELECOM-MNT () [Ticket 10-05405-2]
+95.167.74.136/29
+# AS-Name: 95.167.74.180/30 UVD_po_Ivanovskoy_oblasti ROSTELECOM-MNT () [Ticket 10-07632-3]
+95.167.74.180/30
+# AS-Name: 95.167.113.48/30 GUVD_po_Krasnodarskomu_krayu ROSTELECOM-MNT () [Ticket 10-18040-1]
+95.167.113.48/30
+# AS-Name: 95.167.114.48/30 FGUP_Rostekhinventarizatsiya_-_Federalnoe_BTI ROSTELECOM-MNT () [Ticket 10-13215-1]
+95.167.114.48/30
+# AS-Name: 93.153.135.88/30 FGUP-POCHTA-ROSSII-LAN PSTAR-MNT () [FGUP Pochta Rossii St.Petersburg JSC PeterStar]
+93.153.135.88/30
+# AS-Name: 93.153.136.132/30 FGUP-POCHTA-ROSSII-LAN PSTAR-MNT () [FGUP Pochta Rossii St.Petersburg JSC PeterStar]
+93.153.136.132/30
+# AS-Name: 93.153.172.100/30 FGUP-POCHTA-ROSSII-LAN PSTAR-MNT () [FGUP Pochta Rossii St.Petersburg JSC PeterStar]
+93.153.172.100/30
+# AS-Name: 93.153.175.44/30 FGUP-POCHTA-ROSSII-LAN PSTAR-MNT () [FGUP Pochta Rossii St.Petersburg JSC PeterStar]
+93.153.175.44/30
+# AS-Name: 93.153.183.104/30 FGUP-POCHTA-ROSSII-LAN PSTAR-MNT () [FGUP Pochta Rossii St.Petersburg JSC PeterStar]
+93.153.183.104/30
+# AS-Name: 188.128.89.0/30 FGUP_NIIR ROSTELECOM-MNT () [Ticket 09-10814-1]
+188.128.89.0/30
+# AS-Name: 88.83.195.248/30 FGUP-NET VSI-MNT () [FGUP Ohrana Voronezh, Russia]
+88.83.195.248/30
+# AS-Name: 90.150.189.32/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 11, Kommunarov str., Lysva,]
+90.150.189.32/29
+# AS-Name: 83.219.13.128/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 24, Karla Marksa str., Karagay,]
+83.219.13.128/29
+# AS-Name: 83.219.13.184/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 227, 20 let pobedy str., Solikamsk,]
+83.219.13.184/29
+# AS-Name: 95.167.176.0/23 Pochta-Russia_Volgograd ROSTELECOM-MNT () [UFPS Sviazi Volgogradskoy Oblasti - Filial FGUP Pochta Rossii]
+95.167.176.0/23
+# AS-Name: 95.167.213.0/24 Pochta-Russia_Volgograd ROSTELECOM-MNT () [UFPS Sviazi Volgogradskoy Oblasti - Filial FGUP Pochta Rossii]
+95.167.213.0/24
+# AS-Name: 83.149.42.64/29 BUREVESTNIK-MF MF-CENTER-MNT () [FGUP Burevestnik]
+83.149.42.64/29
+# AS-Name: 178.237.206.0/24 FGUP_NTC_ATLAS TELEDISCOUNT-MNT () [BGP_AS56666]
+178.237.206.0/24
+# AS-Name: 62.181.52.56/29 FGUP-KIM-NET SEVEREN-MNT () [FGUP Kanal imeni Moskvi Moscow]
+62.181.52.56/29
+# AS-Name: 212.59.98.48/29 FGUP-KIM-NET EUT-MNT () [FGUP "Kanal imeni Moskvi" Moscow]
+212.59.98.48/29
+# AS-Name: 89.175.174.136/29 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+89.175.174.136/29
+# AS-Name: 87.249.30.176/30 TEL-NET-15424 TEL-NET-MNT () [object-BALTIYSKAYA14, client-FGUP "NII "EKRAN"]
+87.249.30.176/30
+# AS-Name: 87.237.42.208/29 HRUNICHEVA MSLINK-MNT () [FGUP "NII Hrunicheva"]
+87.237.42.208/29
+# AS-Name: 87.237.47.204/30 HRUNICHEVA MSLINK-MNT () [FGUP "NII Hrunicheva"]
+87.237.47.204/30
+# AS-Name: 87.249.28.232/29 TEL-NET-12901 TEL-NET-MNT () [object-DOBROLYUBOVA8ASTR1, client-FGUP "Molmash" Rosselkhozakademii]
+87.249.28.232/29
+# AS-Name: 81.211.32.16/28 RU-SOVINTEL-MSK-NPP-VNIIEM-NET SOVINTEL-MNT () [101000 Russia Moscow, ZC-4827880 Horomniy tupik, 4, KL-2177438 FGUP NPP VNIIEM, http://www.vniiem.ru]
+81.211.32.16/28
+# AS-Name: 31.44.63.64/29 FGUP-KIM-RZN-NET INTERTELRZN-MNT () [RyazRGS FGUP-KIM]
+31.44.63.64/29
+# AS-Name: 83.229.181.192/26 GUVDKRS-NET TCNET-NOC () [GUVD Krasnodarskiy Kray]
+83.229.181.192/26
+# AS-Name: 109.124.71.64/29 FGUP-GOSKORPORATSIA-ORVD-LAN PSTAR-MNT () [FGUP Goskorporatsia ORVD St.Petersburg JSC PeterStar]
+109.124.71.64/29
+# AS-Name: 178.16.156.148/30 FGUPOMVDR-LAN OBIT-MNT () [FGUPOMVDR network Obit Telecommunications St.Petersburg]
+178.16.156.148/30
+# AS-Name: 46.47.229.0/28 FGUP-POCHTA-ROSSII-LAN PSTAR-MNT () [FGUP Pochta Rossii St.Petersburg JSC PeterStar]
+46.47.229.0/28
+# AS-Name: 83.219.138.16/28 OXPAHA TIS-DIALOG-MNT () [FGUP "Ohrana" MVD RF]
+83.219.138.16/28
+# AS-Name: 89.175.161.224/30 GBUMSE-NET COMSTAR-MNT () [FGUP «GBUMSE»]
+89.175.161.224/30
+# AS-Name: 94.124.192.192/29 AGAA-2 GARS-MNT () [FGUP "Administration of Civil Aeroports (Aerodromes)" www.agaa.ru]
+94.124.192.192/29
+# AS-Name: 195.182.142.128/26 CMK-RASCO COMLINK-MNT () [Comlink ISP Network - FGUP RS SP St.Petersburg, Russia]
+195.182.142.128/26
+# AS-Name: 109.124.119.88/29 FGUP-NIIR-LAN PSTAR-MNT () [FGUP NIIR St.Petersburg JSC PeterStar]
+109.124.119.88/29
+# AS-Name: 195.182.145.64/28 CMK-PASTERFEDERAL COMLINK-MNT () [Comlink ISP Network - Client "FGUP SPB NII Paster Federal"]
+195.182.145.64/28
+# AS-Name: 195.182.156.96/30 CMK-PASTERFEDERAL COMLINK-MNT () [Comlink ISP Network - Client "FGUP SPB NII Paster Federal"]
+195.182.156.96/30
+# AS-Name: 195.182.151.212/30 CMK-FGUPRUSSIA COMLINK-MNT () [Comlink ISP Network - Client "FGUP PI Russia"]
+195.182.151.212/30
+# AS-Name: 195.182.151.216/30 CMK-FGUPRUSSIA COMLINK-MNT () [Comlink ISP Network - Client "FGUP PI Russia"]
+195.182.151.216/30
+# AS-Name: 145.255.238.240/28 FGUPOMVDR-LAN OBIT-MNT () [FGUPOMVDR network Obit Telecommunications St.Petersburg]
+145.255.238.240/28
+# AS-Name: 195.182.155.164/30 CMK-FGUPROSZDRAV COMLINK-MNT () [Comlink ISP Network - Client "FGUP Spb FOO Roszdrav"]
+195.182.155.164/30
+# AS-Name: 176.109.0.0/21 FGUP-ELEKTROSVYAZ-NET RIPE-NCC-END-MNT (ORG-FSUE5-RIPE) []
+176.109.0.0/21
+# AS-Name: 81.222.194.200/29 GUVD ELTEL-RIPE-MNT () [GUVD]
+81.222.194.200/29
+# AS-Name: 81.222.209.136/29 OGIBDD_Petrogradskogo_RUVD ELTEL-RIPE-MNT () [OGIBDD_Petrogradskogo_RUVD]
+81.222.209.136/29
+# AS-Name: 81.222.210.24/29 FGUP_Rossijskaja_televizionnaja_i_radiovewatelnaja_set_RTRS ELTEL-RIPE-MNT () [FGUP_Rossijskaja_televizionnaja_i_radiovewatelnaja_set_RTRS]
+81.222.210.24/29
+# AS-Name: 217.65.219.160/29 PCOMVDSAR OVERTA-MNT () [FGUP & #8220;Ohrana&#8221; MVD Rossii Saratov, Russia]
+217.65.219.160/29
+# AS-Name: 78.24.159.48/29 VPKT-C-FGUP_TCAI VPKTELECOM-MNT () [FSUE "CAI" (FGUP "TCAI")]
+78.24.159.48/29
+# AS-Name: 89.107.123.120/29 RU-RESURS CANMOS-MNT () [FGUP "Resurs", Moscow, Russia]
+89.107.123.120/29
+# AS-Name: 89.107.123.136/29 RU-RESURS2 CANMOS-MNT () [FGUP "Resurs", Moscow, Russia]
+89.107.123.136/29
+# AS-Name: 89.107.127.136/29 RU-UVDT CANMOS-MNT () [UVD na transporte, Moscow, Russia]
+89.107.127.136/29
+# AS-Name: 213.85.20.32/30 vniiftri-net cnt-mnt () [FGUP "VNIIFTRI"]
+213.85.20.32/30
+# AS-Name: 213.85.20.8/30 russianpost-net cnt-mnt () ["Russian Post" FGUP]
+213.85.20.8/30
+# AS-Name: 95.54.193.80/28 RU-MFGUP AS8997-MNT () [University]
+95.54.193.80/28
+# AS-Name: 82.200.13.0/27 FGUP-Ohrana-KO-Network ZSTTK-MNT () [Branch of FSUE "Okhrana" in the Kemerovo region MVD of Russia Shakhterov Avenue,  54a Kemerovo, Russia, 640002]
+82.200.13.0/27
+# AS-Name: 217.195.94.200/29 FGUP-Airport-Pulkovo-LAN PSTAR-MNT () [FGUP-Airport-Pulkovo-LAN St.Petersburg JSC PeterStar]
+217.195.94.200/29
+# AS-Name: 46.46.148.40/29 MKPK-UNIVERSAL_NET MNT-RUBYCOM () [FGUP MKPK Universal]
+46.46.148.40/29
+# AS-Name: 46.46.142.160/28 NPP-GAMMA_NET MNT-RUBYCOM () [FGUP NPP Gamma]
+46.46.142.160/28
+# AS-Name: 212.17.8.176/29 MT-CUST-TOCHPRIBOR MAGTEL-MNT () [FGUP CKB "Tochpribor" 179/2, Dusi Kovalchuk 630049, Novosibirsk]
+212.17.8.176/29
+# AS-Name: 217.27.142.176/30 FGUP-US4-Specstroe-Russia-Net ARTX-RIPE-MNT () [network for FGUP US4 pri Specstroe Russia]
+217.27.142.176/30
+# AS-Name: 82.140.65.240/29 FGUP-GOSKORPORATSIA-ORVD-LAN PSTAR-MNT () [FGUP-GOSKORPORATSIA-ORVD-LAN St.Petersburg JSC PeterStar]
+82.140.65.240/29
+# AS-Name: 89.175.176.176/30 TSNIIAG MTU-NOC () [JSC FGUP "TSNII AG"]
+89.175.176.176/30
+# AS-Name: 185.7.234.188/30 FGUPGUIR-LAN OBIT-MNT () [FGUPGUIR network Obit Telecommunications St.Petersburg]
+185.7.234.188/30
+# AS-Name: 92.39.111.84/30 FGUP-GNIVC-FNS-VLG UNICO-MNT () [FGUP GNIVC FNS, Volgograd (Unico Network)]
+92.39.111.84/30
+# AS-Name: 89.109.250.88/29 CTC_CLIENTS MNT-CTC () [FGUP MNIIRIP]
+89.109.250.88/29
+# AS-Name: 62.33.34.16/28 GUVD-NET TRANSTELECOM-MNT () [(RS000417) GUVD po KDR, Krasnodar, Russia]
+62.33.34.16/28
+# AS-Name: 212.49.107.224/27 MIRALOGIC-NET-173 EXTRIM-MNT () [FGUP NTC Atlas FSB Rossii Yekaterinburg, Russian Federation]
+212.49.107.224/27
+# AS-Name: 212.49.124.0/26 MIRALOGIC-NET-191 EXTRIM-MNT () [FGUP Pochta Rossii Yekaterinburg, Russian Federation]
+212.49.124.0/26
+# AS-Name: 213.24.143.0/24 RTCOMM-RFCCFO AS8342-MNT () [FGUP Radio Frequency Center]
+213.24.143.0/24
+# AS-Name: 213.24.34.0/24 RTCOMM-RFCCFO AS8342-MNT () [FGUP Radio Frequency Center]
+213.24.34.0/24
+# AS-Name: 213.24.75.0/24 RTCOMM-RFCCFO AS8342-MNT () [FGUP Radio Frequency Center]
+213.24.75.0/24
+# AS-Name: 80.70.232.64/28 Mashtab-FGUP-NII CREDOLINK-MNT () [video conference]
+80.70.232.64/28
+# AS-Name: 195.144.240.128/28 FGUP-POCHTA-ROSSII-SPB-SOFIYSKAYA-81-1A-LAN PSTAR-MNT () [FGUP Pochta Rossii, SPB Sofiyskaya 81-1A St.Petersburg JSC PeterStar]
+195.144.240.128/28
+# AS-Name: 109.124.66.160/28 FGUP-CVVM-MINOBORONY-ROSSII-LAN PSTAR-MNT () [FGUP-CVVM-MINOBORONY-ROSSII St.Petersburg JSC PeterStar]
+109.124.66.160/28
+# AS-Name: 84.204.7.144/29 FGUP-GosNIIPP-LAN PSTAR-MNT () [FGUP-GosNIIPP-LAN St.Petersburg JSC PeterStar]
+84.204.7.144/29
+# AS-Name: 84.204.245.208/29 FGUP-POCHTA-ROSSII-LAN PSTAR-MNT () [FGUP-POCHTA-ROSSII-LAN St.Petersburg JSC PeterStar]
+84.204.245.208/29
+# AS-Name: 84.204.217.164/30 FGUP-GOSNIIPP-LAN PSTAR-MNT () [FGUP GosNIIPP St.Petersburg JSC PeterStar]
+84.204.217.164/30
+# AS-Name: 195.16.55.224/27 RU-SOVINTEL-MSK-FGUP-GlavUPDK-MID-NET SOVINTEL-MNT () [119034 Russia Moscow, ZC-6968799 Prechistenka, 20, KL-3243961 Main Administration for Service to the Diplomatic Corps, descr:]
+195.16.55.224/27
+# AS-Name: 217.195.93.144/29 FGUP-POCHTAROSSII-LAN PSTAR-MNT () [FGUP PochtaRossii St.Petersburg JSC PeterStar]
+217.195.93.144/29
+# AS-Name: 149.62.55.240/30 gusst1 LINENEW-MNT () [FGUP "GUSST " Odintsovsky District, Kubinka, Generala Votintseva Moscow Region RUSSIA]
+149.62.55.240/30
+# AS-Name: 109.124.87.96/29 FGUP-GVSU-8470-14-PUSHKIN-G-SAPERNAYA-79-1-KORP-LIT-A-LAN PSTAR-MNT () [Pushkin,Sapernaya,79 St.Petersburg JSC PeterStar]
+109.124.87.96/29
+# AS-Name: 93.153.244.188/30 FGUP-POCHTA-ROSSII-SPB-SOFIYSKAYA-UL-D-56B-LAN PSTAR-MNT () [FGUP Pochta Rossii, SPb, Sofiyskaya ul. d.56B St.Petersburg JSC PeterStar]
+93.153.244.188/30
+# AS-Name: 213.85.2.80/29 crosga-net cnt-mnt () [FGUP "CROS GA"]
+213.85.2.80/29
+# AS-Name: 109.124.66.128/30 FGUP-ROSTEHINVENTARIZACIYA-FEDERALNOE-BTI-VALDAY-KOMSOMOLSKIY-PR-D-19-21-LAN PSTAR-MNT () [FGUP Rostehinventarizaciya - Federalnoe BTI, Valday, Komsomolskiy pr. d.19/21 Novgorod JSC PeterStar]
+109.124.66.128/30
+# AS-Name: 37.29.53.16/30 FGUP-ROSTEHINVENTARIZACIYA-FEDERALNOE-BTI-LAN MNT-MF-NWGSM PSTAR-MNT () [FGUP Rostehinventarizaciya - Federalnoe BTI North-West Region North-West Branch of OJSC MegaFon Network, Fixed broadband]
+37.29.53.16/30
+# AS-Name: 213.85.20.84/30 vniiftri-net cnt-mnt () [FGUP "VNIIFTRI"]
+213.85.20.84/30
+# AS-Name: 78.37.84.120/29 RU-UFSB-NET AS8997-MNT () [Device of UFSB po KO]
+78.37.84.120/29
+# AS-Name: 46.228.0.232/29 ROSKOMNADZOR-NET SEVEREN-MNT (ORG-LA821-RIPE) [roskomnadzor]
+46.228.0.232/29
+# AS-Name: 46.47.223.196/30 FGUP-UVO-MINTRANSA-ROSSII-LAN PSTAR-MNT () [FGUP UVO MinTransa Rossii St.Petersburg JSC PeterStar]
+46.47.223.196/30
+# AS-Name: 212.13.104.116/30 russianpost-net cnt-mnt () [FGUP "Russian Post"]
+212.13.104.116/30
+# AS-Name: 178.237.248.0/21 COMM-NET-RSVO ru-rsvospb-1-mnt () [FGUP RSVO-SPB]
+178.237.248.0/21
+# AS-Name: 84.204.143.44/30 FGUP-GUSST-N3-SPECSTROY-LAN PSTAR-MNT () [FGUP GUSST N3 SPECSTROY Kaliningrad JSC PeterStar]
+84.204.143.44/30
+# AS-Name: 80.237.11.88/29 GCSS-NET TRANSTELECOM-MNT () [(MS006251) FGUP GCSS, Moscow_M9, Russia]
+80.237.11.88/29
+# AS-Name: 91.103.194.184/29 RCS-88 RUSCENTROSVYAZ-MNT () [UVD Garibaldi]
+91.103.194.184/29
+# AS-Name: 212.15.114.156/30 russianpost-net cnt-mnt () [FGUP "Russian Post"]
+212.15.114.156/30
+# AS-Name: 212.15.105.64/28 crosga-net cnt-mnt () [FGUP "CROS GA"]
+212.15.105.64/28
+# AS-Name: 37.29.57.52/30 FGUP-POCHTA-ROSSII-LAN MNT-MF-NWGSM PSTAR-MNT () [FGUP Pochta Rossii North-West Region North-West Branch of OJSC MegaFon Network, Fixed broadband]
+37.29.57.52/30
+# AS-Name: 84.204.154.16/30 FGUP-POCHTA-ROSSII-LAN PSTAR-MNT () [FGUP Pochta Rossii Yaroslavl JSC PeterStar]
+84.204.154.16/30
+# AS-Name: 37.29.57.64/30 FGUP-ROSSII-LAN MNT-MF-NWGSM PSTAR-MNT () [FGUP Rossii North-West Region North-West Branch of OJSC MegaFon Network, Fixed broadband]
+37.29.57.64/30
+# AS-Name: 109.124.99.16/30 FGUP-POCHTA-ROSSII-LAN PSTAR-MNT () [FGUP Pochta Rossii St.Petersburg JSC PeterStar]
+109.124.99.16/30
+# AS-Name: 109.124.89.140/30 FGUP-POCHTA-ROSII-LAN PSTAR-MNT () [FGUP Pochta Rosii St.Petersburg JSC PeterStar]
+109.124.89.140/30
+# AS-Name: 80.237.39.112/29 GCSS-NET2 TRANSTELECOM-MNT () [(MS006251) FGUP GCSS, Bryansk, Russia]
+80.237.39.112/29
+# AS-Name: 93.188.20.72/29 FGUP_Specstroytehnologii MNT-POISK1 () [Customer FGUP_Specstroytehnologii LLC]
+93.188.20.72/29
+# AS-Name: 212.15.115.80/28 tsniimash-net cnt-mnt () [FGUP "TSNII Mashinostroeniya"]
+212.15.115.80/28
+# AS-Name: 109.124.78.108/30 PSKPOZHARY-ORTPC-LAN PSTAR-MNT () [FGUP RTRS Pskov JSC PeterStar]
+109.124.78.108/30
+# AS-Name: 46.47.199.76/30 FGUP-SPECSTROYNZHINIRING-PRI-SPECSTROE-ROSSII-LAN PSTAR-MNT () [FGUP Specstroynzhiniring pri Specstroe Rossii St.Petersburg JSC PeterStar]
+46.47.199.76/30
+# AS-Name: 37.29.59.56/30 UFSB-LAN MNT-MF-NWGSM PSTAR-MNT () [UFSB network North-West Region North-West Branch of OJSC MegaFon Network, Fixed broadband]
+37.29.59.56/30
+# AS-Name: 212.48.54.0/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.0/30
+# AS-Name: 212.48.54.8/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.8/30
+# AS-Name: 212.48.54.12/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.12/30
+# AS-Name: 212.48.54.24/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.24/30
+# AS-Name: 212.48.54.28/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.28/30
+# AS-Name: 212.48.54.32/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.32/30
+# AS-Name: 212.48.54.16/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.16/30
+# AS-Name: 212.48.54.20/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.20/30
+# AS-Name: 212.48.54.44/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.44/30
+# AS-Name: 212.48.54.48/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.48/30
+# AS-Name: 212.48.54.64/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.64/30
+# AS-Name: 212.48.54.68/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.68/30
+# AS-Name: 212.48.54.72/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.72/30
+# AS-Name: 212.48.54.76/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.76/30
+# AS-Name: 212.48.54.80/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.80/30
+# AS-Name: 212.48.54.84/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.84/30
+# AS-Name: 212.48.54.88/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.88/30
+# AS-Name: 212.48.54.92/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.92/30
+# AS-Name: 212.48.54.96/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.96/30
+# AS-Name: 212.48.54.100/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.100/30
+# AS-Name: 212.48.54.104/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.104/30
+# AS-Name: 212.48.54.108/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.108/30
+# AS-Name: 212.48.54.112/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.112/30
+# AS-Name: 212.48.54.116/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.116/30
+# AS-Name: 212.48.54.120/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.120/30
+# AS-Name: 212.48.54.124/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.124/30
+# AS-Name: 212.48.54.128/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.128/30
+# AS-Name: 212.48.54.132/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.132/30
+# AS-Name: 212.48.54.136/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.136/30
+# AS-Name: 212.48.54.140/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.140/30
+# AS-Name: 212.48.54.144/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.144/30
+# AS-Name: 212.48.54.148/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.148/30
+# AS-Name: 212.48.54.152/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.152/30
+# AS-Name: 212.48.54.156/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.156/30
+# AS-Name: 212.48.54.164/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.164/30
+# AS-Name: 212.48.54.168/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.168/30
+# AS-Name: 212.48.54.172/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.172/30
+# AS-Name: 212.48.54.176/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.176/30
+# AS-Name: 212.48.54.180/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.180/30
+# AS-Name: 212.48.54.184/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.184/30
+# AS-Name: 212.48.54.188/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.188/30
+# AS-Name: 212.48.54.196/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.196/30
+# AS-Name: 212.48.54.200/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.200/30
+# AS-Name: 212.48.54.208/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.208/30
+# AS-Name: 212.48.54.212/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.212/30
+# AS-Name: 212.48.54.216/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.216/30
+# AS-Name: 212.48.54.220/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.220/30
+# AS-Name: 212.48.54.240/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.240/30
+# AS-Name: 212.48.54.244/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.244/30
+# AS-Name: 212.48.54.248/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.248/30
+# AS-Name: 212.48.54.252/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.54.252/30
+# AS-Name: 212.48.53.248/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.248/30
+# AS-Name: 212.48.53.240/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.240/30
+# AS-Name: 212.48.53.244/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.244/30
+# AS-Name: 212.48.53.236/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.236/30
+# AS-Name: 212.48.53.216/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.216/30
+# AS-Name: 212.48.53.200/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.200/30
+# AS-Name: 212.48.53.196/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.196/30
+# AS-Name: 212.48.53.192/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.192/30
+# AS-Name: 212.48.53.188/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.188/30
+# AS-Name: 212.48.53.184/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.184/30
+# AS-Name: 212.48.53.164/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.164/30
+# AS-Name: 87.226.213.0/24 Roskomnadzor-net ROSTELECOM-MNT () [Client of JSC Rostelecom]
+87.226.213.0/24
+# AS-Name: 212.48.53.160/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.160/30
+# AS-Name: 212.48.53.156/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.156/30
+# AS-Name: 212.48.53.152/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.152/30
+# AS-Name: 212.48.53.144/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.144/30
+# AS-Name: 212.48.53.92/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.92/30
+# AS-Name: 212.48.53.88/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.88/30
+# AS-Name: 212.48.53.84/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
+212.48.53.84/30
+# AS-Name: 178.49.148.176/29 RU-NTK-FGUP-SEVER RU-NTK-MNT () [FGUP-SEVER]
+178.49.148.176/29
+# AS-Name: 212.13.113.100/30 prsr-net cnt-mnt () [FGUP "President-Service"]
+212.13.113.100/30
+# AS-Name: 82.208.68.240/28 SPORT-IN-NN-NET NMTS-MNT () [Personal network for FGUP Sport Inzhiniring]
+82.208.68.240/28
+# AS-Name: 212.59.99.96/27 FGUP-KIM-NET EUT-MNT () [Moscow]
+212.59.99.96/27
+# AS-Name: 85.143.125.0/24 VNIIOFI INFR-MNT () [Russian Research Institute for Optical And Physical Measurements FGUP VNIIOFI Moscow]
+85.143.125.0/24
+# AS-Name: 213.108.4.0/24 RU-RUVDS-20180810 IPADDRESS-RU (ORG-MFL15-RIPE) []
+213.108.4.0/24
+# AS-Name: 109.196.164.0/24 RU-RUVDS-20180405 IPADDRESS-RU (ORG-MFL15-RIPE) []
+109.196.164.0/24
+# AS-Name: 46.47.203.52/30 FGUP-GVSU-8470-14-LAN PSTAR-MNT () [FGUP GVSU 8470; 14 St.Petersburg JSC PeterStar]
+46.47.203.52/30
+# AS-Name: 91.245.227.0/24 RU-RUVDS IP-RIPE (ORG-MFL16-RIPE) []
+91.245.227.0/24
+# AS-Name: 176.113.80.0/24 RU-RUVDS IP-RIPE (ORG-MFL16-RIPE) []
+176.113.80.0/24
+# AS-Name: 176.113.81.0/24 RU-RUVDS IP-RIPE (ORG-MFL16-RIPE) []
+176.113.81.0/24
+# AS-Name: 176.113.82.0/24 RU-RUVDS IP-RIPE (ORG-MFL16-RIPE) []
+176.113.82.0/24
+# AS-Name: 176.113.83.0/24 RU-RUVDS IP-RIPE (ORG-MFL16-RIPE) []
+176.113.83.0/24
+# AS-Name: 176.119.156.0/23 RU-RUVDS IP-RIPE (ORG-MFL16-RIPE) []
+176.119.156.0/23
+# AS-Name: 176.119.158.0/23 RU-RUVDS IP-RIPE (ORG-MFL16-RIPE) []
+176.119.158.0/23
+# AS-Name: 87.245.133.0/24 COMCOR-RTRN AS8732-MNT () [Network for FGUP "Rossiyskaya televizionnaya radioveschateljnaya setj"]
+87.245.133.0/24
+# AS-Name: 87.247.157.0/24 RU-RUVDS-20181208 IPADDRESS-RU (ORG-MFL15-RIPE) []
+87.247.157.0/24
+# AS-Name: 80.89.152.220/30 ZSTTK-Network ZSTTK-MNT () [FGUP "OHRANA" ROSGVARGY Nignaya Krasnoselskaya Avenue, 35/1a 105066, Russia, Moskow]
+80.89.152.220/30
+# AS-Name: 93.153.171.204/30 UFSB2-LAN PSTAR-MNT () [UFSB2-LAN St.Petersburg JSC PeterStar]
+93.153.171.204/30
+# AS-Name: 188.119.67.0/24 RU-RUVDS-20190201 IP-RIPE (ORG-MFL16-RIPE) []
+188.119.67.0/24
+# AS-Name: 213.226.112.0/24 RU-RUVDS-20190301 IP-RIPE (ORG-MFL16-RIPE) []
+213.226.112.0/24
+# AS-Name: 213.226.114.0/24 RU-RUVDS-20190301 IP-RIPE (ORG-MFL16-RIPE) []
+213.226.114.0/24
+# AS-Name: 213.178.155.0/24 RU-RUVDS-20190329 IP-RIPE (ORG-MFL16-RIPE) []
+213.178.155.0/24
+# AS-Name: 85.208.208.0/24 RU-RUVDS-201904015 IP-RIPE (ORG-MFL16-RIPE) []
+85.208.208.0/24
+# AS-Name: 45.8.228.0/24 RU-RUVDS-20190417 IP-RIPE (ORG-MFL16-RIPE) []
+45.8.228.0/24
+# AS-Name: 95.53.248.0/29 RU-VOLOGODSKOE-PROP AS8997-MNT () [Vologodskiy filial FGUP Moskovskoe PrOP Mintruda Rossii, prosthetics and orthotics]
+95.53.248.0/29
+# AS-Name: 45.8.229.0/24 RU-RUVDS-20190425 IP-RIPE (ORG-MFL16-RIPE) []
+45.8.229.0/24
+# AS-Name: 45.8.230.0/24 RU-RUVDS-20190425 IP-RIPE (ORG-MFL16-RIPE) []
+45.8.230.0/24
+# AS-Name: 45.11.26.0/24 RU-RUVDS-20190523 IP-RIPE (ORG-MFL16-RIPE) []
+45.11.26.0/24
+# AS-Name: 45.11.27.0/24 RU-RUVDS-20190523 IP-RIPE (ORG-MFL16-RIPE) []
+45.11.27.0/24
+# AS-Name: 45.141.100.0/23 RU-RUVDS-20190828 IP-RIPE (ORG-MFL16-RIPE) []
+45.141.100.0/23
+# AS-Name: 45.141.102.0/23 RU-RUVDS-20190828 IP-RIPE (ORG-MFL16-RIPE) []
+45.141.102.0/23
+# AS-Name: 217.195.92.16/28 FGUP-GOSKORPORACIYA-PO-ORVD-LAN PSTAR-MNT () [FGUP Goskorporaciya po OrVD St.Petersburg JSC PeterStar]
+217.195.92.16/28
+# AS-Name: 45.132.16.0/24 RU-RUVDS-20190909 IP-RIPE (ORG-MFL16-RIPE) []
+45.132.16.0/24
+# AS-Name: 45.132.18.0/23 RU-RUVDS-20190910 IP-RIPE (ORG-MFL16-RIPE) []
+45.132.18.0/23
+# AS-Name: 45.132.17.0/24 RU-RUVDS-20190927 IP-RIPE (ORG-MFL16-RIPE) []
+45.132.17.0/24
+# AS-Name: 45.143.92.0/24 RU-RUVDS-20191030 IP-RIPE (ORG-MFL16-RIPE) []
+45.143.92.0/24
+# AS-Name: 45.143.93.0/24 RU-RUVDS-20191118 IP-RIPE (ORG-MFL16-RIPE) []
+45.143.93.0/24
+# AS-Name: 45.143.94.0/24 RU-RUVDS-20191211 IP-RIPE (ORG-MFL16-RIPE) []
+45.143.94.0/24
+# AS-Name: 45.143.95.0/24 RU-RUVDS-20191220 IP-RIPE (ORG-MFL16-RIPE) []
+45.143.95.0/24
+# AS-Name: 45.135.164.0/24 RU-RUVDS-20191228 IP-RIPE (ORG-MFL16-RIPE) []
+45.135.164.0/24
+# AS-Name: 62.33.87.152/29 STAVROPOL2-NET TRANSTELECOM-MNT () [(RS000504) UFSB, Stavropol, Russia]
+62.33.87.152/29
+# AS-Name: 62.33.87.128/28 GCSS-NET3 TRANSTELECOM-MNT () [(MS006251) FGUP, Kaliningrad, Russia]
+62.33.87.128/28
+# AS-Name: 46.47.249.176/29 ARH-RUFSB-LAN PSTAR-MNT () [ARH RUFSB network St.Petersburg JSC PeterStar]
+46.47.249.176/29
+# AS-Name: 78.37.67.24/29 RU-HPB-SPB AS8997-MNT () [FGUP ?Gos. NII OCHB?, science]
+78.37.67.24/29
+# AS-Name: 45.151.144.0/24 RU-RUVDS-20200415 IP-RIPE (ORG-MFL16-RIPE) []
+45.151.144.0/24
+# AS-Name: 212.48.53.76/30 GBUMSE-NET MTU-NOC () [FGUP "GBUMSE"]
+212.48.53.76/30
+# AS-Name: 185.224.228.0/24 CMUGRCHC-NET ROSNIIROS-MNT (ORG-CSFG1-RIPE) []
+185.224.228.0/24
+# AS-Name: 185.224.229.0/24 CMUGRCHC-NET ROSNIIROS-MNT (ORG-CSFG1-RIPE) []
+185.224.229.0/24
+# AS-Name: 185.224.230.0/24 CMUGRCHC-NET ROSNIIROS-MNT (ORG-CSFG1-RIPE) []
+185.224.230.0/24
+# AS-Name: 185.224.231.0/24 CMUGRCHC-NET ROSNIIROS-MNT (ORG-CSFG1-RIPE) []
+185.224.231.0/24
+# AS-Name: 93.153.223.8/29 FGUP-RSU-UPRAVLENIYA-DELAMI-PREZIDENTA-ROSSIYSKOY-FEDERACII-DOBROLYUBOVA-14-LAN PSTAR-MNT () [FGUP RSU Upravleniya delami Prezidenta Rossiyskoy Federacii Dobrolyubova 14 St.Petersburg JSC PeterStar]
+93.153.223.8/29
+# AS-Name: 93.153.229.232/29 FGUP-RSU-UPRAVLENIYA-DELAMI-PREZIDENTA-ROSSIYSKOY-FEDERACII-DOBROLYUBOVA-14-LAN PSTAR-MNT () [FGUP RSU Upravleniya delami Prezidenta Rossiyskoy Federacii Dobrolyubova 14 St.Petersburg JSC PeterStar]
+93.153.229.232/29
+# AS-Name: 193.124.118.0/24 RU-RUVDS-20190301 RELCOMGROUP-EXT-MNT (ORG-JME1-RIPE) []
+193.124.118.0/24
+# AS-Name: 194.87.57.0/24 RU-RUVDS-20190301 RELCOMGROUP-EXT-MNT () []
+194.87.57.0/24
+# AS-Name: 45.135.233.0/24 RU-RUVDS-20200714 IP-RIPE (ORG-MFL16-RIPE) []
+45.135.233.0/24
+# AS-Name: 193.108.114.0/24 RU-RUVDS-20190301 RELCOMGROUP-EXT-MNT () []
+193.108.114.0/24
+# AS-Name: 194.87.248.0/24 RU-RUVDS-20180405 RELCOMGROUP-EXT-MNT () []
+194.87.248.0/24
+# AS-Name: 194.87.206.0/24 RU-RUVDS-20190301 RELCOMGROUP-EXT-MNT () []
+194.87.206.0/24
+# AS-Name: 194.87.186.0/24 RU-RUVDS-20190301 RELCOMGROUP-EXT-MNT () []
+194.87.186.0/24
+# AS-Name: 213.172.17.252/30 UFSB-TVER-LAN PSTAR-MNT () [UFSB Tver St.Petersburg JSC PeterStar]
+213.172.17.252/30
+# AS-Name: 46.17.248.0/24 RU-RUVDS-20200907 IP-RIPE (ORG-MFL16-RIPE) []
+46.17.248.0/24
+# AS-Name: 195.209.120.0/22 CMUGRCHC ROSNIIROS-MNT (ORG-CSFG1-RIPE) [FGUP "GRCHC"]
+195.209.120.0/22
+# AS-Name: 194.32.248.0/24 RU-RUVDS-20200911 IP-RIPE (ORG-MFL16-RIPE) []
+194.32.248.0/24
+# AS-Name: 45.137.152.0/24 RU-RUVDS-20200923 IP-RIPE (ORG-MFL16-RIPE) []
+45.137.152.0/24
+# AS-Name: 185.21.142.0/24 RU-RUVDS-20201001 IP-RIPE (ORG-MFL16-RIPE) []
+185.21.142.0/24
+# AS-Name: 185.68.21.0/24 RU-RUVDS-20201008 IP-RIPE (ORG-MFL16-RIPE) []
+185.68.21.0/24
+# AS-Name: 193.42.113.0/24 RU-RUVDS-20201110 IP-RIPE (ORG-MFL16-RIPE) []
+193.42.113.0/24
+# AS-Name: 178.248.232.137/32 QRATOR-4482 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.232.137/32
+# AS-Name: 178.248.232.219/32 QRATOR-9072 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.232.219/32
+# AS-Name: 178.248.232.243/32 QRATOR-11477 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.232.243/32
+# AS-Name: 178.248.232.244/32 QRATOR-11483 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.232.244/32
+# AS-Name: 178.248.232.245/32 QRATOR-11489 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.232.245/32
+# AS-Name: 178.248.232.46/32 QRATOR-1731 MNT-QRATOR MNT-QROBOT () [FGUP GNIVC FNS Rossii 125373, g. Moskva, Pohodnyj proezd, domovladenie 3, str.1]
+178.248.232.46/32
+# AS-Name: 178.248.232.60/32 QRATOR-10710 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.232.60/32
+# AS-Name: 178.248.233.136/32 QRATOR-4476 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.233.136/32
+# AS-Name: 178.248.233.243/32 QRATOR-11478 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.233.243/32
+# AS-Name: 178.248.233.244/32 QRATOR-11484 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.233.244/32
+# AS-Name: 178.248.233.245/32 QRATOR-11490 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.233.245/32
+# AS-Name: 178.248.233.26/32 QRATOR-750 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.233.26/32
+# AS-Name: 178.248.233.32/32 QRATOR-661 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.233.32/32
+# AS-Name: 178.248.233.60/32 QRATOR-1292 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.233.60/32
+# AS-Name: 178.248.234.136/32 QRATOR-4477 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.136/32
+# AS-Name: 178.248.234.204/32 QRATOR-11473 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.204/32
+# AS-Name: 178.248.234.243/32 QRATOR-11479 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.243/32
+# AS-Name: 178.248.234.244/32 QRATOR-11485 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.244/32
+# AS-Name: 178.248.234.245/32 QRATOR-11491 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.245/32
+# AS-Name: 178.248.234.33/32 QRATOR-670 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.33/32
+# AS-Name: 178.248.234.53/32 QRATOR-1733 MNT-QRATOR MNT-QROBOT () [FGUP GNIVC FNS Rossii 125373, g. Moskva, Pohodnyj proezd, domovladenie 3, str.1]
+178.248.234.53/32
+# AS-Name: 178.248.234.60/32 QRATOR-1294 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.60/32
+# AS-Name: 178.248.234.83/32 QRATOR-4479 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.83/32
+# AS-Name: 178.248.235.136/32 QRATOR-4484 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.235.136/32
+# AS-Name: 178.248.235.242/32 QRATOR-11474 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.235.242/32
+# AS-Name: 178.248.235.243/32 QRATOR-11480 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.235.243/32
+# AS-Name: 178.248.235.244/32 QRATOR-11486 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.235.244/32
+# AS-Name: 178.248.235.53/32 QRATOR-1734 MNT-QRATOR MNT-QROBOT () [FGUP GNIVC FNS Rossii 125373, g. Moskva, Pohodnyj proezd, domovladenie 3, str.1]
+178.248.235.53/32
+# AS-Name: 178.248.235.60/32 QRATOR-1295 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.235.60/32
+# AS-Name: 178.248.235.75/32 QRATOR-4478 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.235.75/32
+# AS-Name: 178.248.236.124/32 QRATOR-4475 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.236.124/32
+# AS-Name: 178.248.236.136/32 QRATOR-4483 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.236.136/32
+# AS-Name: 178.248.236.20/32 QRATOR-1377 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.236.20/32
+# AS-Name: 178.248.236.242/32 QRATOR-11475 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.236.242/32
+# AS-Name: 178.248.236.243/32 QRATOR-11481 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.236.243/32
+# AS-Name: 178.248.236.244/32 QRATOR-11487 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.236.244/32
+# AS-Name: 178.248.236.39/32 QRATOR-9070 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.236.39/32
+# AS-Name: 178.248.236.83/32 QRATOR-4480 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.236.83/32
+# AS-Name: 178.248.237.136/32 QRATOR-4481 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.237.136/32
+# AS-Name: 178.248.237.18/32 QRATOR-749 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.237.18/32
+# AS-Name: 178.248.237.242/32 QRATOR-11476 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.237.242/32
+# AS-Name: 178.248.237.243/32 QRATOR-11482 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.237.243/32
+# AS-Name: 178.248.237.244/32 QRATOR-11488 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.237.244/32
+# AS-Name: 178.248.237.47/32 QRATOR-1732 MNT-QRATOR MNT-QROBOT () [FGUP GNIVC FNS Rossii 125373, g. Moskva, Pohodnyj proezd, domovladenie 3, str.1]
+178.248.237.47/32
+# AS-Name: 195.133.44.0/24 RU-RUVDS-20190301 RELCOMGROUP-EXT-MNT () []
+195.133.44.0/24
+# AS-Name: 195.133.45.0/24 RU-RUVDS-20190301 RELCOMGROUP-EXT-MNT () []
+195.133.45.0/24
+# AS-Name: 195.133.46.0/24 RU-RUVDS-20190301 RELCOMGROUP-EXT-MNT () []
+195.133.46.0/24
+# AS-Name: 195.133.47.0/24 RU-RUVDS-20190301 RELCOMGROUP-EXT-MNT () []
+195.133.47.0/24
+# AS-Name: 194.87.253.0/24 RU-RUVDS-20190301 RELCOMGROUP-EXT-MNT () []
+194.87.253.0/24
+# AS-Name: 194.87.210.0/24 RU-RUVDS-20190301 RELCOMGROUP-EXT-MNT () []
+194.87.210.0/24
+# AS-Name: 194.87.214.0/24 RU-RUVDS-20180405 RELCOMGROUP-EXT-MNT () []
+194.87.214.0/24
+# AS-Name: 193.108.113.0/24 RU-RUVDS-20180405 RELCOMGROUP-EXT-MNT () []
+193.108.113.0/24
+# AS-Name: 81.3.168.148/30 FGUP-ATOMFLOT-LAN PSTAR-MNT () [Murmansk, Hlobystova, 14/5 St.Petersburg JSC PeterStar]
+81.3.168.148/30
+# AS-Name: 194.87.80.0/24 RU-RUVDS-20190301 RELCOMGROUP-EXT-MNT () []
+194.87.80.0/24
+# AS-Name: 194.67.63.200/30 RU-SOVINTEL-MRM-GRChC-FGuP-NET SOVINTEL-MNT () [183032 Russia Murmansk Kirova ul, 44]
+194.67.63.200/30
+# AS-Name: 194.169.163.0/24 RU-RUVDS-20210401 IP-RIPE (ORG-MFL16-RIPE) []
+194.169.163.0/24
+# AS-Name: 193.124.55.0/24 RU-RUVDS RELCOMHOST-MNT (ORG-JME1-RIPE) []
+193.124.55.0/24
+# AS-Name: 45.142.36.0/24 RU-RUVDS-20211022 IP-RIPE (ORG-MFL16-RIPE) []
+45.142.36.0/24
+# AS-Name: 195.43.142.255/32 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+195.43.142.255/32
+# AS-Name: 195.43.142.0/25 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+195.43.142.0/25
+# AS-Name: 195.43.142.128/26 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+195.43.142.128/26
+# AS-Name: 195.43.142.192/27 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+195.43.142.192/27
+# AS-Name: 195.43.142.224/28 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+195.43.142.224/28
+# AS-Name: 195.43.142.240/29 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+195.43.142.240/29
+# AS-Name: 195.43.142.248/30 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+195.43.142.248/30
+# AS-Name: 195.43.142.252/31 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+195.43.142.252/31
+# AS-Name: 195.43.142.254/32 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+195.43.142.254/32
+# AS-Name: 193.104.57.255/32 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+193.104.57.255/32
+# AS-Name: 193.104.57.0/25 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+193.104.57.0/25
+# AS-Name: 193.104.57.128/26 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+193.104.57.128/26
+# AS-Name: 193.104.57.192/27 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+193.104.57.192/27
+# AS-Name: 193.104.57.224/28 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+193.104.57.224/28
+# AS-Name: 193.104.57.240/29 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+193.104.57.240/29
+# AS-Name: 193.104.57.248/30 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+193.104.57.248/30
+# AS-Name: 193.104.57.252/31 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+193.104.57.252/31
+# AS-Name: 193.104.57.254/32 RU-RUVDS-20211130 IP-RIPE (ORG-MFL16-RIPE) []
+193.104.57.254/32
+# AS-Name: 45.82.152.0/24 RU-RUVDS-20211209 MNT-TELEFONZENTRALE (ORG-VA29579-RIPE) []
+45.82.152.0/24
+# AS-Name: 45.82.153.0/24 RU-RUVDS-20211209 MNT-TELEFONZENTRALE (ORG-VA29579-RIPE) []
+45.82.153.0/24
+# AS-Name: 80.237.98.80/28 FGUP-NIIR-NET TRANSTELECOM-MNT () [(MS009344) Fgup-niir, Moscow, Russia]
+80.237.98.80/28
+# AS-Name: 213.24.152.0/22 RTCOMM-INFORMREGISTR AS8342-MNT rostelecom-MNT () [FGUP NTC Informregistr]
+213.24.152.0/22
+# AS-Name: 213.24.128.0/22 RTCOMM-MICROGEN AS8342-MNT rostelecom-MNT () [FGUP NPO Microgen]
+213.24.128.0/22
+# AS-Name: 88.151.196.0/24 RU-RUVDS-20190301 AZERONLINE-MNT () [RU-RUVDS-20190301]
+88.151.196.0/24
+# AS-Name: 178.248.238.102/32 QRATOR-15334 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.102/32
+# AS-Name: 178.248.238.172/32 QRATOR-15426 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.172/32
+# AS-Name: 89.175.6.64/27 Nauka-NETWORK MTU-NOC MTU-NOC () [FGUP «Izdatel'stvo «Nauka»]
+89.175.6.64/27
+# AS-Name: 178.248.234.228/32 QRATOR-15514 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.228/32
+# AS-Name: 178.248.234.238/32 QRATOR-15567 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.238/32
+# AS-Name: 178.248.234.145/32 QRATOR-15569 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.145/32
+# AS-Name: 178.248.238.55/32 QRATOR-15570 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.55/32
+# AS-Name: 178.248.238.255/32 QRATOR-15583 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.255/32
+# AS-Name: 178.248.238.128/32 QRATOR-15584 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.128/32
+# AS-Name: 178.248.238.129/32 QRATOR-15585 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.129/32
+# AS-Name: 178.248.238.130/32 QRATOR-15586 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.130/32
+# AS-Name: 178.248.238.136/32 QRATOR-15587 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.136/32
+# AS-Name: 178.248.234.30/32 QRATOR-15673 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.30/32
+# AS-Name: 178.248.234.79/32 QRATOR-15695 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.79/32
+# AS-Name: 178.248.235.5/32 QRATOR-15727 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.235.5/32
+# AS-Name: 178.248.237.98/32 QRATOR-15743 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.237.98/32
+# AS-Name: 195.133.198.0/24 RU-RUVDS RELCOMHOST-MNT (ORG-JME1-RIPE) []
+195.133.198.0/24
+# AS-Name: 195.133.199.0/24 RU-RUVDS RELCOMHOST-MNT (ORG-JME1-RIPE) []
+195.133.199.0/24
+# AS-Name: 178.248.238.205/32 QRATOR-17204 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.205/32
+# AS-Name: 178.248.238.155/32 QRATOR-17205 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.155/32
+# AS-Name: 178.248.239.215/32 QRATOR-17206 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.239.215/32
+# AS-Name: 194.87.254.0/24 RU-RUVDS RELCOMHOST-MNT (ORG-JME1-RIPE) []
+194.87.254.0/24
+# AS-Name: 193.124.125.0/24 RU-RUVDS RELCOMHOST-MNT (ORG-JME1-RIPE) []
+193.124.125.0/24
+# AS-Name: 92.101.253.152/29 RU-KGNC AS8997-MNT () [FGUP KGNC]
+92.101.253.152/29
+# AS-Name: 195.133.32.0/24 RU-MSK-RUVDS interlir-mnt lir-ae-rcstechnologies-1-MNT (ORG-MFL17-RIPE) []
+195.133.32.0/24
+# AS-Name: 85.90.101.112/28 GOSNIIGA-NET MNT-TELECOM-TZ TZ-MNT MNT-TZ-CLIENTS () [net for FGUP GOSNIIGA]
+85.90.101.112/28
+# AS-Name: 62.33.199.80/29 FGUPRADON-NET TRANSTELECOM-MNT () [(SR000597) ROSRAO, Volgograd, Russia]
+62.33.199.80/29
+# AS-Name: 195.58.51.0/24 RU-RUVDS-20190301 RELCOMHOST-MNT (ORG-JME1-RIPE) []
+195.58.51.0/24
+# AS-Name: 193.124.9.0/24 RU-VDO-RUVDS RELCOMHOST-MNT (ORG-MFL17-RIPE) []
+193.124.9.0/24
+# AS-Name: 195.133.13.0/24 RU-RUVDS RELCOMHOST-MNT (ORG-MFL17-RIPE) []
+195.133.13.0/24
+# AS-Name: 194.87.207.0/24 RU-RUVDS-20231111 cz-relcom-1-mnt interlir-mnt () []
+194.87.207.0/24
+# AS-Name: 195.58.54.0/24 M9-MSK-RUVDS interlir-mnt (ORG-MFL17-RIPE) []
+195.58.54.0/24

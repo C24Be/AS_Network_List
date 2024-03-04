@@ -1,0 +1,14 @@
+# AS-Name: AS34500 CTSPI (FGUP CTSPI MGA Russia)
+AS34500
+# AS-Name: AS51932 ORVD-AS (FGUP Goskorporatsiya po OrVD)
+AS51932
+# AS-Name: AS57835 FGUP-ELEKTROSVYAZ-AS (JSC ELEKTROSVYAZ)
+AS57835
+# AS-Name: AS61280 CMU_GRCHC-AS (FGUP "GRCHC")
+AS61280
+# AS-Name: AS197153 guvd (Glavnoe Upravlenie Vnutrennih Del po Sverdlovskoi Oblasti)
+AS197153
+# AS-Name: AS206684 vniiofi (FGUP Russian Scientific Research Institute of Optical and Physical Measurements)
+AS206684
+# AS-Name: AS216080 FGUP-ZIT-AS (FSUE ZashchitaInfoTrans)
+AS216080
