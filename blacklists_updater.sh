@@ -1,7 +1,7 @@
 #!/bin/sh
 
-outfile_wo_comments="auto/blacklist.txt"
-outfile_w_comments="auto/blacklist_with_comments.txt"
+outfile_wo_comments="blacklists/blacklist.txt"
+outfile_w_comments="blacklists/blacklist_with_comments.txt"
 
 auto_black_ass="auto/black_ass.txt"
 

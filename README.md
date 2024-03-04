@@ -2,7 +2,8 @@
 
 This repository contains Python scripts that allow you to retrieve network lists based on either an Autonomous System (AS) name or a Network name. Also you can download and parse the whole RIPE database to get information about Networks for the further analysis.
 
-- [Look at compiled lists and blacklists in the folder `auto/`](https://github.com/C24Be/AS_Network_List/tree/main/auto)
+- [Look at compiled blacklists in the folder `blacklists/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists)
+- [Look at other network and ASN lists in the folder `auto/`](https://github.com/C24Be/AS_Network_List/tree/main/auto)
 
 ## Files and features
 
@@ -18,8 +19,9 @@ This repository contains Python scripts that allow you to retrieve network lists
 
 - `blacklist_updater.sh`: Static blacklist updater.
 
-- `auto/blacklist.txt`: Static **daily generated** blacklist!
-- `auto/blacklist_with_comments.txt`: Static **daily generated** blacklist with comments!
+- `blacklists/blacklist.txt`: Static **daily generated** blacklist!
+- `blacklists/blacklist_with_comments.txt`: Static **daily generated** blacklist with comments!
+
 - `auto/all-ru-*.txt`: Static **monthly generated** lists of Russian networks and ASNs!
 - `auto/ripe-ru-*.txt`: Static **weekly generated** lists of Russian networks from RIPE database!
 
