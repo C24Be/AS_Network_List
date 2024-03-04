@@ -3,7 +3,7 @@
 outfile_wo_comments="blacklists/blacklist.txt"
 outfile_w_comments="blacklists/blacklist_with_comments.txt"
 
-auto_black_ass="auto/black_ass.txt"
+auto_black_ass="blacklists/black_ass.txt"
 
 grep -iE "uvd|fgup|grchc|roskomnad" auto/all-ru-asn.txt | awk '{ print "# AS-Name: " $0 "\n" $1}' > ${auto_black_ass}
 
