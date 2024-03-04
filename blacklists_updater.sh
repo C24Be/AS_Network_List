@@ -3,11 +3,14 @@
 outfile_wo_comments="auto/blacklist.txt"
 outfile_w_comments="auto/blacklist_with_comments.txt"
 
-url_asns="https://raw.githubusercontent.com/C24Be/AS_Network_List/main/lists/ru-gov-asns.txt"
-url_nets="https://raw.githubusercontent.com/C24Be/AS_Network_List/main/lists/ru-gov-netnames.txt"
+auto_black_ass="auto/black_ass.txt"
 
-./network_list_from_as.py ${url_asns} > ${outfile_w_comments}
-./network_list_from_netname.py ${url_nets} >> ${outfile_w_comments}
+grep -iE "uvd|fgup|grchc|roskomnad" auto/all-ru-asn.txt | awk '{ print "# AS-Name: " $0 "\n" $1}' > ${auto_black_ass}
+
+./network_list_from_as.py ${auto_black_ass} > ${outfile_w_comments}
+./network_list_from_netname.py lists/ru-gov-netnames.txt >> ${outfile_w_comments}
+grep -iE "uvd|fgup|grchc|roskomnad" auto/all-ru-ipv4.txt  | awk '{ print "# AS-Name: " $0 "\n" $1}' >> ${outfile_w_comments}
+grep -iE "uvd|fgup|grchc|roskomnad" auto/ripe-ru-ipv4.txt | awk '{ print "# AS-Name: " $0 "\n" $1}' >> ${outfile_w_comments}
 
 # Remove comments by sed to avoid flooding WHOIS servers
-grep -v "#" ${outfile_w_comments} > ${outfile_wo_comments}
+grep -v "#" ${outfile_w_comments} | sort | uniq > ${outfile_wo_comments}
