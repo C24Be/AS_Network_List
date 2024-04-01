@@ -10498,545 +10498,545 @@
 212.233.100.0/22 AGTEL-P2P-DSL-01 (No org name found)
 212.233.104.0/21 RU-AGTEL-20000828 ("AMT GROUP TELECOM" Limited Liability Company)
 212.233.112.0/21 RU-AGTEL-20000828 ("AMT GROUP TELECOM" Limited Liability Company)
-212.233.124.0/22 -no-description-
-212.248.0.0/17 -no-description-
-213.5.16.0/22 -no-description-
-213.5.24.0/21 -no-description-
-213.5.48.0/21 -no-description-
-213.5.73.0/24 -no-description-
-213.5.74.0/24 -no-description-
-213.5.75.0/24 -no-description-
-213.5.76.0/22 -no-description-
-213.5.80.0/21 -no-description-
-213.5.96.0/21 -no-description-
-213.5.104.0/21 -no-description-
-213.5.120.0/21 -no-description-
-213.5.135.0/24 -no-description-
-213.5.160.0/21 -no-description-
-213.5.216.0/21 -no-description-
-213.5.224.0/23 -no-description-
-213.5.227.0/24 -no-description-
-213.5.228.0/22 -no-description-
-213.5.240.0/21 -no-description-
-213.24.0.0/16 -no-description-
-213.27.0.0/17 -no-description-
-213.33.128.0/17 -no-description-
-213.59.0.0/18 -no-description-
-213.59.64.0/19 -no-description-
-213.59.96.0/20 -no-description-
-213.59.128.0/19 -no-description-
-213.59.160.0/20 -no-description-
-213.59.176.0/21 -no-description-
-213.59.184.0/21 -no-description-
-213.59.192.0/18 -no-description-
-213.79.0.0/19 -no-description-
-213.79.64.0/18 -no-description-
-213.80.128.0/17 -no-description-
-213.85.0.0/17 -no-description-
-213.85.128.0/17 -no-description-
-213.87.0.0/16 -no-description-
-213.88.0.0/17 -no-description-
-213.108.0.0/22 -no-description-
-213.108.16.0/21 -no-description-
-213.108.32.0/21 -no-description-
-213.108.128.0/23 -no-description-
-213.108.130.0/24 -no-description-
-213.108.132.0/24 -no-description-
-213.108.133.0/24 -no-description-
-213.108.135.0/24 -no-description-
-213.108.136.0/21 -no-description-
-213.108.144.0/21 -no-description-
-213.108.168.0/21 -no-description-
-213.108.184.0/21 -no-description-
-213.108.200.0/21 -no-description-
-213.108.208.0/21 -no-description-
-213.108.216.0/21 -no-description-
-213.108.248.0/21 -no-description-
-213.109.0.0/20 -no-description-
-213.109.16.0/20 -no-description-
-213.109.48.0/20 -no-description-
-213.109.72.0/24 -no-description-
-213.109.74.0/24 -no-description-
-213.109.75.0/24 -no-description-
-213.109.78.0/24 -no-description-
-213.109.79.0/24 -no-description-
-213.109.145.0/24 -no-description-
-213.109.153.0/24 -no-description-
-213.109.201.0/24 -no-description-
-213.109.203.0/24 -no-description-
-213.110.0.0/19 -no-description-
-213.110.32.0/19 -no-description-
-213.110.192.0/19 -no-description-
-213.110.224.0/22 -no-description-
-213.110.228.0/23 -no-description-
-213.110.232.0/22 -no-description-
-213.110.236.0/23 -no-description-
-213.110.240.0/20 -no-description-
-213.128.0.0/19 -no-description-
-213.128.192.0/19 -no-description-
-213.129.32.0/19 -no-description-
-213.129.96.0/19 -no-description-
-213.131.0.0/19 -no-description-
-213.132.64.0/19 -no-description-
-213.134.6.0/24 -no-description-
-213.134.8.0/24 -no-description-
-213.134.18.0/24 -no-description-
-213.134.192.0/19 -no-description-
-213.135.64.0/22 -no-description-
-213.135.68.0/24 -no-description-
-213.135.69.0/24 -no-description-
-213.135.70.0/23 -no-description-
-213.135.72.0/23 -no-description-
-213.135.74.0/24 -no-description-
-213.135.75.0/24 -no-description-
-213.135.76.0/24 -no-description-
-213.135.77.0/24 -no-description-
-213.135.78.0/24 -no-description-
-213.135.79.0/24 -no-description-
-213.135.80.0/21 -no-description-
-213.135.88.0/22 -no-description-
-213.135.92.0/24 -no-description-
-213.135.93.0/24 -no-description-
-213.135.94.0/23 -no-description-
-213.135.96.0/19 -no-description-
-213.135.128.0/19 -no-description-
-213.137.224.0/19 -no-description-
-213.138.64.0/19 -no-description-
-213.138.192.0/20 -no-description-
-213.138.208.0/21 -no-description-
-213.138.220.0/22 -no-description-
-213.139.208.0/22 -no-description-
-213.139.248.0/22 -no-description-
-213.140.96.0/19 -no-description-
-213.140.224.0/19 -no-description-
-213.141.128.0/19 -no-description-
-213.141.224.0/19 -no-description-
-213.142.32.0/19 -no-description-
-213.142.138.0/23 -no-description-
-213.142.192.0/19 -no-description-
-213.145.0.0/19 -no-description-
-213.145.32.0/19 -no-description-
-213.147.32.0/19 -no-description-
-213.147.192.0/19 -no-description-
-213.148.160.0/19 -no-description-
-213.149.0.0/19 -no-description-
-213.150.64.0/19 -no-description-
-213.151.0.0/19 -no-description-
-213.152.128.0/19 -no-description-
-213.154.160.0/19 -no-description-
-213.155.192.0/19 -no-description-
-213.156.128.0/22 -no-description-
-213.156.192.0/19 -no-description-
-213.158.0.0/19 -no-description-
-213.159.64.0/20 -no-description-
-213.159.192.0/22 -no-description-
-213.159.196.0/22 -no-description-
-213.159.200.0/21 -no-description-
-213.159.208.0/21 -no-description-
-213.159.216.0/21 -no-description-
-213.165.192.0/19 -no-description-
-213.166.76.0/22 -no-description-
-213.167.32.0/19 -no-description-
-213.167.192.0/19 -no-description-
-213.168.32.0/19 -no-description-
-213.168.128.0/19 -no-description-
-213.170.64.0/19 -no-description-
-213.170.96.0/19 -no-description-
-213.170.220.0/22 -no-description-
-213.171.0.0/20 -no-description-
-213.171.16.0/21 -no-description-
-213.171.24.0/21 -no-description-
-213.171.32.0/19 -no-description-
-213.172.0.0/19 -no-description-
-213.176.224.0/19 -no-description-
-213.177.96.0/19 -no-description-
-213.178.32.0/19 -no-description-
-213.178.152.0/22 -no-description-
-213.180.192.0/19 -no-description-
-213.181.0.0/19 -no-description-
-213.182.160.0/19 -no-description-
-213.183.96.0/19 -no-description-
-213.183.224.0/19 -no-description-
-213.184.128.0/20 -no-description-
-213.184.144.0/21 -no-description-
-213.184.152.0/23 -no-description-
-213.184.154.0/23 -no-description-
-213.184.156.0/22 -no-description-
-213.187.96.0/19 -no-description-
-213.189.192.0/24 -no-description-
-213.189.193.0/24 -no-description-
-213.189.194.0/23 -no-description-
-213.189.196.0/23 -no-description-
-213.189.198.0/24 -no-description-
-213.189.199.0/24 -no-description-
-213.189.200.0/24 -no-description-
-213.189.201.0/24 -no-description-
-213.189.202.0/23 -no-description-
-213.189.204.0/23 -no-description-
-213.189.206.0/24 -no-description-
-213.189.207.0/24 -no-description-
-213.189.208.0/23 -no-description-
-213.189.210.0/24 -no-description-
-213.189.211.0/24 -no-description-
-213.189.212.0/23 -no-description-
-213.189.214.0/24 -no-description-
-213.189.215.0/24 -no-description-
-213.189.216.0/21 -no-description-
-213.189.224.0/19 -no-description-
-213.190.224.0/19 -no-description-
-213.191.0.0/19 -no-description-
-213.193.0.0/19 -no-description-
-213.208.160.0/21 -no-description-
-213.208.168.0/23 -no-description-
-213.208.170.0/24 -no-description-
-213.208.172.0/22 -no-description-
-213.208.176.0/21 -no-description-
-213.208.184.0/24 -no-description-
-213.208.185.0/24 -no-description-
-213.208.186.0/23 -no-description-
-213.208.188.0/22 -no-description-
-213.210.64.0/18 -no-description-
-213.217.0.0/23 -no-description-
-213.219.192.0/20 -no-description-
-213.219.208.0/22 -no-description-
-213.219.212.0/22 -no-description-
-213.219.216.0/21 -no-description-
-213.219.224.0/20 -no-description-
-213.219.240.0/21 -no-description-
-213.219.248.0/22 -no-description-
-213.221.0.0/18 -no-description-
-213.222.224.0/19 -no-description-
-213.226.80.0/22 -no-description-
-213.228.64.0/18 -no-description-
-213.232.116.0/22 -no-description-
-213.232.120.0/22 -no-description-
-213.232.192.0/24 -no-description-
-213.232.194.0/23 -no-description-
-213.232.199.0/24 -no-description-
-213.232.206.0/24 -no-description-
-213.232.207.0/24 -no-description-
-213.232.208.0/21 -no-description-
-213.232.225.0/24 -no-description-
-213.232.227.0/24 -no-description-
-213.232.228.0/23 -no-description-
-213.232.233.0/24 -no-description-
-213.232.235.0/24 -no-description-
-213.232.240.0/24 -no-description-
-213.232.245.0/24 -no-description-
-213.232.249.0/24 -no-description-
-213.232.250.0/24 -no-description-
-213.232.251.0/24 -no-description-
-213.232.254.0/24 -no-description-
-213.234.0.0/19 -no-description-
-213.234.192.0/18 -no-description-
-213.241.192.0/22 -no-description-
-213.241.196.0/23 -no-description-
-213.241.198.0/24 -no-description-
-213.241.199.0/24 -no-description-
-213.241.200.0/21 -no-description-
-213.241.208.0/20 -no-description-
-213.241.224.0/19 -no-description-
-213.242.0.0/18 -no-description-
-213.242.192.0/18 -no-description-
-213.243.64.0/18 -no-description-
-213.247.128.0/18 -no-description-
-213.247.192.0/18 -no-description-
-213.248.0.0/19 -no-description-
-213.248.32.0/19 -no-description-
-213.251.192.0/20 -no-description-
-213.251.208.0/20 -no-description-
-213.251.224.0/20 -no-description-
-213.251.240.0/20 -no-description-
-213.252.64.0/18 -no-description-
-217.8.80.0/20 -no-description-
-217.8.117.0/24 -no-description-
-217.8.124.0/22 -no-description-
-217.8.224.0/20 -no-description-
-217.9.80.0/20 -no-description-
-217.9.144.0/20 -no-description-
-217.10.32.0/20 -no-description-
-217.12.32.0/20 -no-description-
-217.12.64.0/20 -no-description-
-217.12.96.0/20 -no-description-
-217.12.240.0/20 -no-description-
-217.13.208.0/20 -no-description-
-217.14.16.0/21 -no-description-
-217.14.24.0/24 -no-description-
-217.14.25.0/24 -no-description-
-217.14.26.0/23 -no-description-
-217.14.28.0/22 -no-description-
-217.14.48.0/20 -no-description-
-217.14.192.0/20 -no-description-
-217.14.240.0/20 -no-description-
-217.15.16.0/20 -no-description-
-217.15.48.0/22 -no-description-
-217.15.52.0/24 -no-description-
-217.15.53.0/24 -no-description-
-217.15.54.0/23 -no-description-
-217.15.56.0/23 -no-description-
-217.15.58.0/23 -no-description-
-217.15.60.0/23 -no-description-
-217.15.62.0/23 -no-description-
-217.15.128.0/20 -no-description-
-217.15.144.0/20 -no-description-
-217.15.192.0/20 -no-description-
-217.16.16.0/20 -no-description-
-217.17.112.0/20 -no-description-
-217.17.160.0/20 -no-description-
-217.17.176.0/20 -no-description-
-217.18.60.0/22 -no-description-
-217.18.128.0/20 -no-description-
-217.18.144.0/20 -no-description-
-217.19.96.0/20 -no-description-
-217.19.112.0/20 -no-description-
-217.20.64.0/20 -no-description-
-217.20.80.0/20 -no-description-
-217.20.144.0/20 -no-description-
-217.21.96.0/20 -no-description-
-217.21.208.0/20 -no-description-
-217.22.160.0/24 -no-description-
-217.22.161.0/24 -no-description-
-217.22.162.0/24 -no-description-
-217.22.163.0/24 -no-description-
-217.22.164.0/24 -no-description-
-217.22.165.0/24 -no-description-
-217.22.166.0/24 -no-description-
-217.22.167.0/24 -no-description-
-217.22.168.0/22 -no-description-
-217.22.172.0/23 -no-description-
-217.22.174.0/23 -no-description-
-217.23.16.0/20 -no-description-
-217.23.64.0/20 -no-description-
-217.23.80.0/20 -no-description-
-217.23.128.0/24 -no-description-
-217.23.129.0/24 -no-description-
-217.23.130.0/23 -no-description-
-217.23.132.0/22 -no-description-
-217.23.136.0/23 -no-description-
-217.23.138.0/24 -no-description-
-217.23.139.0/24 -no-description-
-217.23.140.0/23 -no-description-
-217.23.142.0/24 -no-description-
-217.23.143.0/24 -no-description-
-217.23.144.0/23 -no-description-
-217.23.146.0/24 -no-description-
-217.23.147.0/24 -no-description-
-217.23.148.0/24 -no-description-
-217.23.150.0/24 -no-description-
-217.23.151.0/24 -no-description-
-217.23.152.0/21 -no-description-
-217.23.176.0/20 -no-description-
-217.24.112.0/20 -no-description-
-217.24.176.0/20 -no-description-
-217.25.80.0/21 -no-description-
-217.25.88.0/21 -no-description-
-217.25.144.0/20 -no-description-
-217.25.208.0/20 -no-description-
-217.25.224.0/20 -no-description-
-217.26.0.0/20 -no-description-
-217.26.16.0/20 -no-description-
-217.26.217.0/24 -no-description-
-217.27.128.0/20 -no-description-
-217.28.72.0/21 -no-description-
-217.28.131.0/24 -no-description-
-217.28.132.0/24 -no-description-
-217.28.141.0/24 -no-description-
-217.28.208.0/21 -no-description-
-217.28.216.0/22 -no-description-
-217.28.220.0/22 -no-description-
-217.28.224.0/20 -no-description-
-217.29.48.0/23 -no-description-
-217.29.50.0/23 -no-description-
-217.29.52.0/22 -no-description-
-217.29.56.0/21 -no-description-
-217.29.80.0/20 -no-description-
-217.29.176.0/20 -no-description-
-217.30.240.0/20 -no-description-
-217.64.128.0/20 -no-description-
-217.64.144.0/22 -no-description-
-217.65.0.0/20 -no-description-
-217.65.80.0/20 -no-description-
-217.65.208.0/20 -no-description-
-217.66.16.0/20 -no-description-
-217.66.64.0/20 -no-description-
-217.66.80.0/20 -no-description-
-217.66.144.0/20 -no-description-
-217.67.0.0/20 -no-description-
-217.67.112.0/20 -no-description-
-217.67.176.0/20 -no-description-
-217.69.128.0/20 -no-description-
-217.69.192.0/20 -no-description-
-217.69.208.0/20 -no-description-
-217.70.16.0/20 -no-description-
-217.70.96.0/20 -no-description-
-217.70.112.0/20 -no-description-
-217.71.128.0/20 -no-description-
-217.71.160.0/20 -no-description-
-217.71.224.0/20 -no-description-
-217.72.0.0/21 -no-description-
-217.72.8.0/22 -no-description-
-217.72.144.0/20 -no-description-
-217.73.56.0/21 -no-description-
-217.73.112.0/22 -no-description-
-217.73.116.0/22 -no-description-
-217.73.120.0/21 -no-description-
-217.73.192.0/20 -no-description-
-217.74.32.0/21 -no-description-
-217.74.40.0/22 -no-description-
-217.74.44.0/24 -no-description-
-217.74.45.0/24 -no-description-
-217.74.46.0/23 -no-description-
-217.74.112.0/20 -no-description-
-217.74.160.0/20 -no-description-
-217.74.240.0/20 -no-description-
-217.76.32.0/20 -no-description-
-217.76.176.0/20 -no-description-
-217.77.48.0/20 -no-description-
-217.77.96.0/22 -no-description-
-217.77.100.0/24 -no-description-
-217.77.102.0/24 -no-description-
-217.77.104.0/21 -no-description-
-217.78.176.0/20 -no-description-
-217.78.224.0/21 -no-description-
-217.78.232.0/24 -no-description-
-217.78.236.0/24 -no-description-
-217.79.0.0/20 -no-description-
-217.79.16.0/20 -no-description-
-217.79.48.0/20 -no-description-
-217.79.224.0/20 -no-description-
-217.106.0.0/16 -no-description-
-217.107.0.0/18 -no-description-
-217.107.64.0/18 -no-description-
-217.107.128.0/18 -no-description-
-217.107.192.0/21 -no-description-
-217.107.200.0/21 -no-description-
-217.107.208.0/20 -no-description-
-217.107.224.0/19 -no-description-
-217.112.0.0/20 -no-description-
-217.112.16.0/20 -no-description-
-217.112.32.0/20 -no-description-
-217.113.112.0/20 -no-description-
-217.114.0.0/20 -no-description-
-217.114.16.0/20 -no-description-
-217.114.42.0/24 -no-description-
-217.114.144.0/20 -no-description-
-217.114.176.0/20 -no-description-
-217.114.224.0/20 -no-description-
-217.114.240.0/20 -no-description-
-217.115.80.0/20 -no-description-
-217.115.176.0/20 -no-description-
-217.116.48.0/20 -no-description-
-217.116.128.0/20 -no-description-
-217.116.144.0/20 -no-description-
-217.117.80.0/20 -no-description-
-217.117.112.0/20 -no-description-
-217.117.176.0/20 -no-description-
-217.117.240.0/20 -no-description-
-217.118.64.0/20 -no-description-
-217.118.80.0/20 -no-description-
-217.118.176.0/20 -no-description-
-217.119.16.0/20 -no-description-
-217.119.80.0/20 -no-description-
-217.144.96.0/22 -no-description-
-217.144.100.0/22 -no-description-
-217.144.160.0/21 -no-description-
-217.144.168.0/22 -no-description-
-217.144.172.0/22 -no-description-
-217.145.16.0/20 -no-description-
-217.145.144.0/20 -no-description-
-217.145.224.0/22 -no-description-
-217.146.32.0/20 -no-description-
-217.147.8.0/22 -no-description-
-217.147.16.0/20 -no-description-
-217.148.48.0/20 -no-description-
-217.148.192.0/20 -no-description-
-217.148.208.0/20 -no-description-
-217.149.16.0/20 -no-description-
-217.149.176.0/20 -no-description-
-217.150.0.0/20 -no-description-
-217.150.16.0/20 -no-description-
-217.150.32.0/20 -no-description-
-217.150.48.0/20 -no-description-
-217.150.72.0/21 -no-description-
-217.150.192.0/20 -no-description-
-217.151.16.0/20 -no-description-
-217.151.64.0/20 -no-description-
-217.151.128.0/20 -no-description-
-217.151.224.0/22 -no-description-
-217.151.228.0/24 -no-description-
-217.151.229.0/24 -no-description-
-217.151.230.0/23 -no-description-
-217.151.232.0/21 -no-description-
-217.168.64.0/20 -no-description-
-217.168.240.0/21 -no-description-
-217.169.80.0/20 -no-description-
-217.170.64.0/20 -no-description-
-217.170.80.0/20 -no-description-
-217.170.112.0/20 -no-description-
-217.170.208.0/20 -no-description-
-217.171.0.0/20 -no-description-
-217.171.146.0/23 -no-description-
-217.171.152.0/21 -no-description-
-217.172.16.0/21 -no-description-
-217.172.24.0/22 -no-description-
-217.172.28.0/22 -no-description-
-217.173.16.0/20 -no-description-
-217.173.64.0/20 -no-description-
-217.174.0.0/20 -no-description-
-217.174.96.0/20 -no-description-
-217.174.160.0/22 -no-description-
-217.174.164.0/24 -no-description-
-217.174.165.0/24 -no-description-
-217.174.166.0/23 -no-description-
-217.174.168.0/21 -no-description-
-217.174.176.0/21 -no-description-
-217.174.184.0/22 -no-description-
-217.174.188.0/22 -no-description-
-217.175.0.0/20 -no-description-
-217.175.16.0/20 -no-description-
-217.175.32.0/20 -no-description-
-217.175.128.0/20 -no-description-
-217.175.144.0/20 -no-description-
-217.194.240.0/20 -no-description-
-217.195.64.0/20 -no-description-
-217.195.80.0/20 -no-description-
-217.195.96.0/20 -no-description-
-217.195.208.0/20 -no-description-
-217.196.96.0/21 -no-description-
-217.196.104.0/22 -no-description-
-217.196.108.0/22 -no-description-
-217.197.0.0/20 -no-description-
-217.197.107.0/24 -no-description-
-217.197.112.0/20 -no-description-
-217.197.172.0/22 -no-description-
-217.197.192.0/20 -no-description-
-217.197.224.0/20 -no-description-
-217.197.240.0/20 -no-description-
-217.198.0.0/20 -no-description-
-217.198.80.0/21 -no-description-
-217.198.88.0/22 -no-description-
-217.198.92.0/24 -no-description-
-217.198.93.0/24 -no-description-
-217.198.94.0/23 -no-description-
-217.198.160.0/21 -no-description-
-217.198.168.0/21 -no-description-
-217.199.208.0/23 -no-description-
-217.199.210.0/24 -no-description-
-217.199.211.0/24 -no-description-
-217.199.212.0/24 -no-description-
-217.199.213.0/24 -no-description-
-217.199.214.0/23 -no-description-
-217.199.216.0/24 -no-description-
-217.199.217.0/24 -no-description-
-217.199.218.0/24 -no-description-
-217.199.219.0/24 -no-description-
-217.199.220.0/24 -no-description-
-217.199.221.0/24 -no-description-
-217.199.222.0/24 -no-description-
-217.199.223.0/24 -no-description-
-217.199.224.0/20 -no-description-
-217.199.240.0/21 -no-description-
-217.199.248.0/22 -no-description-
-217.199.252.0/23 -no-description-
-217.199.254.0/24 -no-description-
-217.199.255.0/24 -no-description-
+212.233.124.0/22 RU-AGTEL-20000828 ("AMT GROUP TELECOM" Limited Liability Company)
+212.248.0.0/17 RU-MTU-980226 (MTS PJSC)
+213.5.16.0/22 RU-OCTOPUSNET-20091001 (Octopusnet LTD)
+213.5.24.0/21 RU-MAL-NET-20091001 (Malnet LTD.)
+213.5.48.0/21 TC-RU (AO Teleconnect)
+213.5.73.0/24 ORG-MTOT1-RIPE (MKU "Digital Transformation of the City Administration of Yuzhno-Sakhalinsk")
+213.5.74.0/24 RU-S-TERRA (S-Terra CSP LLC)
+213.5.75.0/24 ORG-RGL18-RIPE (Resource Group LLC)
+213.5.76.0/22 LADA-MEDIA-NET (LADA-MEDIA Ltd.)
+213.5.80.0/21 SKB-NET (PUBLIC JOINT-STOCK COMPANY BANK SINARA)
+213.5.96.0/21 RU-MEGAFON (PJSC MegaFon)
+213.5.104.0/21 RU-ZAODS-20091028 (JSC "Ufanet")
+213.5.120.0/21 NEWREAL-NET (Andrey Chuenkov PE)
+213.5.135.0/24 RU-NEOLINKGROUP-20210920 (Neolink Grupp LLC)
+213.5.160.0/21 TELESETI-PLUS-NET (Teleseti Plus Ltd.)
+213.5.216.0/21 NOVOE-KTV-NET (Novoe Kabelnoe Television Ltd.)
+213.5.224.0/23 RU-BIZTELECOM-20091123 (Biz Telecom LLC)
+213.5.227.0/24 PSCB-PI (JSC Petersburg Social Commercial Bank)
+213.5.228.0/22 RU-ARTPLANET-20091123 (ArtPlanet LLC)
+213.5.240.0/21 GERMES-TELECOM-A (Germes-Telecom LLC)
+213.24.0.0/16 RU-RTK-990712 (PJSC Rostelecom)
+213.27.0.0/17 RU-MTU-20021216 (MTS PJSC)
+213.33.128.0/17 RU-SOVINTEL-20010111 (PJSC "Vimpelcom")
+213.59.0.0/18 RU-RTCOMM-20000224 (JSC RTComm.RU)
+213.59.64.0/19 RU-RTCOMM-20000224 (JSC RTComm.RU)
+213.59.96.0/20 RU-RTCOMM-20000224 (JSC RTComm.RU)
+213.59.128.0/19 RU-ZELENAYA-20000224 (OOO SET)
+213.59.160.0/20 RU-SEVTELECOM-20000224 (JSC Sevastopol Telekom)
+213.59.176.0/21 RU-RTCOMM-20000224 (JSC RTComm.RU)
+213.59.184.0/21 RU-ZELENAYA-20000224 (OOO SET)
+213.59.192.0/18 RU-RTK-20000224 (PJSC Rostelecom)
+213.79.0.0/19 RU-VELNETTELECOM-20080401 (Velnet Telecom, LLC)
+213.79.64.0/18 RU-COMCOR-20080129 (JSC Comcor)
+213.80.128.0/17 RU-TRANSTELECOM-20010313 (Joint Stock Company TransTeleCom)
+213.85.0.0/17 RU-CNT-20000515 ("Central Telegraph" Public Joint-stock Company)
+213.85.128.0/17 RU-CNT-20000515 ("Central Telegraph" Public Joint-stock Company)
+213.87.0.0/16 RU-MTU-20000410 (MTS PJSC)
+213.88.0.0/17 RU-MEGAFON-20100427 (PJSC MegaFon)
+213.108.0.0/22 RU-MAINACC-20180808 (Ivan Bulavkin)
+213.108.16.0/21 SPEEDYLINE-NETWORK-213-108-16 (OOO "MediaSeti")
+213.108.32.0/21 RU-SMART-20090605 (Smart Telecom Limited)
+213.108.128.0/23 MTS-B2B-NET-2016-002 (MTS PJSC)
+213.108.130.0/24 ORG-DA1180-RIPE (Dmitry Pudlin)
+213.108.132.0/24 ORG-VIAJ2-RIPE (Vnukovo International Airport, JSC)
+213.108.133.0/24 RU-RLINE1 (Alliance LLC)
+213.108.135.0/24 MTS-B2B-NET-2016-001 (MTS PJSC)
+213.108.136.0/21 Ivstar-NET (Ivstar Ltd)
+213.108.144.0/21 NOVOE-KTV-NET (Novoe Kabelnoe Television Ltd.)
+213.108.168.0/21 NTS-REAL-NET (Nizhnevolzhskie Telecommunication Networks Real LLC)
+213.108.184.0/21 LOCTELECOM-NET (Loctelecom JSC)
+213.108.200.0/21 VMS-NET (VostokMediaSvyaz Ltd.)
+213.108.208.0/21 INFOTEH-LINER-NET-01 (INFOTECH LTD.)
+213.108.216.0/21 GORSET-NET (Gorset LLC)
+213.108.248.0/21 BESTHOSTING (Best Hosting Company Ltd)
+213.109.0.0/20 RU-RAID-20090624 (JSC "ER-Telecom Holding" Lipetsk Branch)
+213.109.16.0/20 Kom_lan_ltd-NET (Kom lan Ltd)
+213.109.48.0/20 MediaComLtd-NET (MediaCom Ltd.)
+213.109.72.0/24 ORG-IL585-RIPE (ItCom LLC)
+213.109.74.0/24 ROSNO-MS (Insurance company SOGAZ-Med JSC)
+213.109.75.0/24 ASTROSTAR (Astrostar LLC)
+213.109.78.0/24 GOV35RU (Budgetary institution in the field of information technologies of the Vologda region Center informacionnyh technologii)
+213.109.79.0/24 TEAMO-NET (Teamo.ru LLC)
+213.109.145.0/24 RU-VKORABLEV-20211004 (Vladimir Korablev)
+213.109.153.0/24 RU-NETWORK-20211004 (SkyNet LLC)
+213.109.201.0/24 RU-GIGACOM-20211004 (Gigakom Sistems OOO)
+213.109.203.0/24 RU-FIRSTDC-20211004 (Perviy TSOD LLC)
+213.110.0.0/19 SKATISP (SKAT-Media Ltd.)
+213.110.32.0/19 Inteks (Inteks Service Ltd.)
+213.110.192.0/19 RAID-RU-20090914 (JSC "ER-Telecom Holding")
+213.110.224.0/22 RU-ORION-20210212 (Kristelecom Ltd.)
+213.110.228.0/23 RU-ORION-20210212 (Kristelecom Ltd.)
+213.110.232.0/22 RU-ORION-20210212 (Kristelecom Ltd.)
+213.110.236.0/23 RU-ORION-20210212 (Kristelecom Ltd.)
+213.110.240.0/20 RU-ORION-20210212 (Kristelecom Ltd.)
+213.128.0.0/19 RU-MTU-20080526 (MTS PJSC)
+213.128.192.0/19 RU-SIBINTEK-20000410 (Siberian Internet Company LLC)
+213.129.32.0/19 RU-RTK-20071108 (PJSC Rostelecom)
+213.129.96.0/19 RU-TRANSTELECOM-20020510 (Joint Stock Company TransTeleCom)
+213.131.0.0/19 RU-SINPMSU-20000106 (Federal State Budgetary Educational Institution of Higher Education Lomonosov Moscow State University)
+213.132.64.0/19 RU-SOVINTEL-20000302 (PJSC "Vimpelcom")
+213.134.6.0/24 RU-ZIBEN-20240109 (Ziben Group LLC)
+213.134.8.0/24 RU-LYTKIN-NO-5-20240109 (Nikolai Lytkin)
+213.134.18.0/24 RU-LYTKIN-NO-4-20240109 (Nikolai Lytkin)
+213.134.192.0/19 RU-MATRIXTELECOM-20000426 (JSC Avantel)
+213.135.64.0/22 RU-NAUKANET-20000406 (LLC "Nauka-Svyaz")
+213.135.68.0/24 RU-SEVEREN-20000405 (JSC "Severen-Telecom")
+213.135.69.0/24 RU-NAUKANET-20000406 (LLC "Nauka-Svyaz")
+213.135.70.0/23 RU-NAUKANET-20000406 (LLC "Nauka-Svyaz")
+213.135.72.0/23 RU-NAUKANET-20190320 (LLC "Nauka-Svyaz")
+213.135.74.0/24 Seligdar_network (PJSC "Seligdar")
+213.135.75.0/24 RU-SEVEREN-20000405 (JSC "Severen-Telecom")
+213.135.76.0/24 RU-SEVEREN-20000405 (JSC "Severen-Telecom")
+213.135.77.0/24 RU-NAUKANET-20000406 (LLC "Nauka-Svyaz")
+213.135.78.0/24 RU-SEVEREN-20000405 (JSC "Severen-Telecom")
+213.135.79.0/24 NaukaNet-Voronezh (No org name found)
+213.135.80.0/21 RU-NAUKANET-20000406 (LLC "Nauka-Svyaz")
+213.135.88.0/22 NAUKANET-VIDNOE (LLC "Nauka-Svyaz")
+213.135.92.0/24 RU-NAUKANET (No org name found)
+213.135.93.0/24 RU-SEVEREN-20000405 (JSC "Severen-Telecom")
+213.135.94.0/23 RU-NAUKANET-20000406 (LLC "Nauka-Svyaz")
+213.135.96.0/19 RU-RTK-20000218 (PJSC Rostelecom)
+213.135.128.0/19 MACROREGIONAL_CENTER (No org name found)
+213.137.224.0/19 RU-TRANSTELECOM-20021011 (Joint Stock Company TransTeleCom)
+213.138.64.0/19 RU-TRANSTELECOM-20080714 (Joint Stock Company TransTeleCom)
+213.138.192.0/20 RU-MEGAFON-20000420 (Net By Net Holding LLC)
+213.138.208.0/21 RU-MEGAFON-20000420 (Net By Net Holding LLC)
+213.138.220.0/22 RU-MEGAFON-20000420 (Net By Net Holding LLC)
+213.139.208.0/22 RU-BEGET-20181203 (Beget LLC)
+213.139.248.0/22 RU-SIMA-LAND-20181204 (TD SIMA-LAND LLC)
+213.140.96.0/19 RU-SOVINTEL-20020621 (PJSC "Vimpelcom")
+213.140.224.0/19 RU-RTK-20021211 (PJSC Rostelecom)
+213.141.128.0/19 RU-MEGAFON-20031118 (PJSC MegaFon)
+213.141.224.0/19 RU-TRANSTELECOM-20021217 (Joint Stock Company TransTeleCom)
+213.142.32.0/19 RU-RTK-20101018 (PJSC Rostelecom)
+213.142.138.0/23 RU-SELECTEL-20091012 (OOO "Network of data-centers "Selectel")
+213.142.192.0/19 RU-SOVINTEL-20000427 (PJSC "Vimpelcom")
+213.145.0.0/19 RU-MEGAFON-20100428 (Net By Net Holding LLC)
+213.145.32.0/19 RU-RTK-20001102 (JSC Zebra Telecom)
+213.147.32.0/19 RU-MTU-20001115 (MTS PJSC)
+213.147.192.0/19 RU-MTU-20080317 (MTS PJSC)
+213.148.160.0/19 RU-RTK-20010328 (PJSC Rostelecom)
+213.149.0.0/19 RU-TIS-DIALOG-20080415 (TIS Dialog LLC)
+213.150.64.0/19 RU-SOVINTEL-20000316 (PJSC "Vimpelcom")
+213.151.0.0/19 RU-YCC-20080313 (Ekaterinburg-2000 LLC)
+213.152.128.0/19 RU-CITICTELECOM-20000124 (CITIC Telecom CPC Rus LLC)
+213.154.160.0/19 RU-MEGAFON-20010411 (PJSC MegaFon)
+213.155.192.0/19 RU-RTK-20101206 (PJSC Rostelecom)
+213.156.128.0/22 RU-TSI-20000126 (JSC Transinfoset)
+213.156.192.0/19 RU-KRAFTS-20000417 (Kraft-S LLC)
+213.158.0.0/19 RU-RTK-19991220 (PJSC Rostelecom)
+213.159.64.0/20 RU-CTINET-20000301 (Computer Technologies Institute,ltd)
+213.159.192.0/22 RU-KTC-20080318 (LLC "KomTehCentr")
+213.159.196.0/22 RU-ACSIT-20080318 ("Company Internet Technologies" LLC)
+213.159.200.0/21 RU-STACK-KAZAN-20080318 (Stek Kazan LLC)
+213.159.208.0/21 RU-WEBDC-20080318 (JSC Datacenter)
+213.159.216.0/21 RU-RIALCOM-20080318 (Rial Com JSC)
+213.165.192.0/19 RU-INFOTEL-20000508 (JSC INFOTEL)
+213.166.76.0/22 RU-SIGNAL-20181106 (Signal Service LLC)
+213.167.32.0/19 RU-TELECALL-20001214 (Digit One LLC)
+213.167.192.0/19 RU-RTK-20081121 (PJSC Rostelecom)
+213.168.32.0/19 RU-MEGAFON-20061124 (PJSC MegaFon)
+213.168.128.0/19 RU-ZNETWORK-20000120 (Zond Holding JSC)
+213.170.64.0/19 RU-QUANTUM-20000310 (Quantum CJSC)
+213.170.96.0/19 RU-QUANTUM-20000310 (Quantum CJSC)
+213.170.220.0/22 RU-MAINACC-20181106 (Ivan Bulavkin)
+213.171.0.0/20 RU-NET-COMLINK-20080717 (LC "COMLINK")
+213.171.16.0/21 RU-LLCSMARTAPE-20080717 (LLC Smart Ape)
+213.171.24.0/21 RU-NET-COMLINK-20080717 (LC "COMLINK")
+213.171.32.0/19 RU-COMCOR-20001219 (JSC Comcor)
+213.172.0.0/19 RU-MEGAFON-991213 (PJSC MegaFon)
+213.176.224.0/19 RU-MTU-20090310 (MTS PJSC)
+213.177.96.0/19 RU-RTK-20021113 (PJSC Rostelecom)
+213.178.32.0/19 RU-RTK-20080117 (PJSC Rostelecom)
+213.178.152.0/22 RU-NETWORK-20190318 (SkyNet LLC)
+213.180.192.0/19 RU-YANDEX-20000413 (YANDEX LLC)
+213.181.0.0/19 RU-SETII-19991231 (Nets and Services JCS)
+213.182.160.0/19 RU-MEGAFON-20010831 (PJSC MegaFon)
+213.183.96.0/19 RU-RAID-20021122 (JSC "ER-Telecom Holding")
+213.183.224.0/19 RU-ARTX-20030314 (ArtX LLC)
+213.184.128.0/20 RU-CITYTELECOM1-20000120 (Citytelecom LLC)
+213.184.144.0/21 RU-CITYTELECOM1-20000120 (Citytelecom LLC)
+213.184.152.0/23 RU-CITYTELECOM1-20000120 (Citytelecom LLC)
+213.184.154.0/23 RU-WILDBERRIES-20000120 (LLC Wildberries)
+213.184.156.0/22 RU-WILDBERRIES-20000120 (LLC Wildberries)
+213.187.96.0/19 RU-NETIS-20021205 (NETIS Telecom LLC)
+213.189.192.0/24 RU-RUSONYX-20000509 (Rusonyx, Ltd.)
+213.189.193.0/24 RU-REGRU-20000509 ("Domain names registrar REG.RU", Ltd)
+213.189.194.0/23 RU-REGRU-20000509 ("Domain names registrar REG.RU", Ltd)
+213.189.196.0/23 RU-RUSONYX-20000509 (Rusonyx, Ltd.)
+213.189.198.0/24 ZENON (No org name found)
+213.189.199.0/24 RU-REGRU-20000509 ("Domain names registrar REG.RU", Ltd)
+213.189.200.0/24 RU-RUSONYX-20000509 (Rusonyx, Ltd.)
+213.189.201.0/24 RU-REGRU-20000509 ("Domain names registrar REG.RU", Ltd)
+213.189.202.0/23 RU-REGRU-20000509 ("Domain names registrar REG.RU", Ltd)
+213.189.204.0/23 RU-REGRU-20000509 ("Domain names registrar REG.RU", Ltd)
+213.189.206.0/24 RU-RTK-20000509 (PJSC Rostelecom)
+213.189.207.0/24 RU-RUSONYX-20000509 (Rusonyx, Ltd.)
+213.189.208.0/23 ZENON-COLOCATION (No org name found)
+213.189.210.0/24 RU-RTK-20000509 (PJSC Rostelecom)
+213.189.211.0/24 ZEN-FIX-ALLOC (No org name found)
+213.189.212.0/23 RU-RUSONYX-20000509 (Rusonyx, Ltd.)
+213.189.214.0/24 ZENON-LOOPBACK-NET (No org name found)
+213.189.215.0/24 RU-RTK-20000509 (PJSC Rostelecom)
+213.189.216.0/21 RU-NETANGELSR-20000509 (Internet-Pro LLC)
+213.189.224.0/19 RU-BASHTEL-220030321 (PJSC "Bashinformsvyaz")
+213.190.224.0/19 RU-ATNN-20030324 (JSC "Centrinform")
+213.191.0.0/19 RU-SOVINTEL-20080617 (PJSC "Vimpelcom")
+213.193.0.0/19 RU-ISKRATELECOM-20100504 (Iskratelecom CJSC)
+213.208.160.0/21 RU-NAUKANET-20030404 (LLC "Nauka-Svyaz")
+213.208.168.0/23 RU-NAUKANET-20030404 (LLC "Nauka-Svyaz")
+213.208.170.0/24 gosniiasnet (No org name found)
+213.208.172.0/22 RU-NAUKANET-20030404 (LLC "Nauka-Svyaz")
+213.208.176.0/21 RU-NAUKANET-20030404 (LLC "Nauka-Svyaz")
+213.208.184.0/24 RU-NAUKANET-20030404 (LLC "Nauka-Svyaz")
+213.208.185.0/24 RU-SEVEREN-20030404 (JSC "Severen-Telecom")
+213.208.186.0/23 NaukaNet (LLC "Nauka-Svyaz")
+213.208.188.0/22 RU-NAUKANET-20030404 (LLC "Nauka-Svyaz")
+213.210.64.0/18 RU-RTK-20001219 (PJSC Rostelecom)
+213.217.0.0/23 RU-TELECOMSERVICEVRN-20181108 (OJSC Telecom-Service)
+213.219.192.0/20 RU-DINET-20030121 (LLC Digital Network)
+213.219.208.0/22 RU-DINET-20030121 (LLC Digital Network)
+213.219.212.0/22 RU-NETBRIDGE-20030121 (LLC VK)
+213.219.216.0/21 RU-DINET-20030121 (LLC Digital Network)
+213.219.224.0/20 RU-DINET-20030121 (LLC Digital Network)
+213.219.240.0/21 RU-DINET-20030121 (LLC Digital Network)
+213.219.248.0/22 RU-DINET-20030121 (LLC Digital Network)
+213.221.0.0/18 RU-SOVINTEL-19991230 (PJSC "Vimpelcom")
+213.222.224.0/19 RU-ZELENAYA-20101018 (OOO SET)
+213.226.80.0/22 RU-MOSOBLCOM-20181204 (MOSOBLCOM LLC)
+213.228.64.0/18 RU-RTK-20010601 (PJSC Rostelecom)
+213.232.116.0/22 RU-RL-20181207 (RockLab LLC)
+213.232.120.0/22 RU-MAINACC-20181207 (Ivan Bulavkin)
+213.232.192.0/24 RU-SELECTEL-20030515 (OOO "Network of data-centers "Selectel")
+213.232.194.0/23 RU-LLC-MIKROTEK-20030515 (LLC "MIKROTEK")
+213.232.199.0/24 RU-SELECTEL-20030515 (OOO "Network of data-centers "Selectel")
+213.232.206.0/24 RU-INFO28-20210727 (Infolink LLC)
+213.232.207.0/24 RU-DEDIC164-20210727 (LLC "SMART CENTER")
+213.232.208.0/21 RU-JSCACOD-20030515 (ACOD JSC)
+213.232.225.0/24 RU-SELECTEL-20030515 (OOO "Network of data-centers "Selectel")
+213.232.227.0/24 RU-SELECTEL-20030515 (OOO "Network of data-centers "Selectel")
+213.232.228.0/23 RU-SELECTEL-20030515 (OOO "Network of data-centers "Selectel")
+213.232.233.0/24 RU-MOZNETWORK-20210920 (MOZHAYSKY TELECOMMUNICATION NETWORKS LLC)
+213.232.235.0/24 RU-SIUNOC-20210920 (Sysoeva Irina Yurevna)
+213.232.240.0/24 RU-SELECTEL-20030515 (OOO "Network of data-centers "Selectel")
+213.232.245.0/24 RU-SELECTEL-20030515 (OOO "Network of data-centers "Selectel")
+213.232.249.0/24 RU-JSCACOD-20030515 (ACOD JSC)
+213.232.250.0/24 RU-JSCACOD-20030515 (ACOD JSC)
+213.232.251.0/24 RU-SELECTEL-20030515 (OOO "Network of data-centers "Selectel")
+213.232.254.0/24 RU-NUBES-20210727 (NUBES llc)
+213.234.0.0/19 RU-UNICO-20060217 (JSC RDE "Unico")
+213.234.192.0/18 RU-CORBINA-20030523 (PJSC "Vimpelcom")
+213.241.192.0/22 RU-RTCOMM-20080228 (JSC RTComm.RU)
+213.241.196.0/23 RU-RTCOMM-20080228 (JSC RTComm.RU)
+213.241.198.0/24 RTCOMM-SRAVNI-RU (No org name found)
+213.241.199.0/24 RU-TIMER-20080228 (Timer, LLC)
+213.241.200.0/21 RU-RTCOMM-20080228 (JSC RTComm.RU)
+213.241.208.0/20 RU-RTCOMM-20080228 (JSC RTComm.RU)
+213.241.224.0/19 RU-RTCOMM-20080228 (JSC RTComm.RU)
+213.242.0.0/18 RU-RTK-20110309 (PJSC Rostelecom)
+213.242.192.0/18 RU-SOVINTEL-20030625 (PJSC "Vimpelcom")
+213.243.64.0/18 RU-MEGAFON-20010410 (PJSC MegaFon)
+213.247.128.0/18 RU-MACOMNET-20000918 (JSC Macomnet)
+213.247.192.0/18 RU-MACOMNET-20000918 (JSC Macomnet)
+213.248.0.0/19 RU-DINET-990903 (LLC Digital Network)
+213.248.32.0/19 RU-DINET-990903 (LLC Digital Network)
+213.251.192.0/20 RU-ALLOTELECOM-20030509 (ALLOTELECOM LLC)
+213.251.208.0/20 RU-COUNTRYCOM-20030509 (AO Countrycom)
+213.251.224.0/20 RU-ALLOTELECOM-20030509 (ALLOTELECOM LLC)
+213.251.240.0/20 RU-COUNTRYCOM-20030509 (AO Countrycom)
+213.252.64.0/18 RU-CREDOTELECOM-20010427 (JSC "CREDO-TELECOM")
+217.8.80.0/20 RU-MEGAFON-20021018 (Net By Net Holding LLC)
+217.8.117.0/24 RU-ICOM27-20211125 (Intercom LLC)
+217.8.124.0/22 RU-STROYTECHSERVICE-20180927 (Stroytechservice LLC)
+217.8.224.0/20 RU-MTU-20021021 (MTS PJSC)
+217.9.80.0/20 RU-KIAM-20021028 (Keldysh Institute of Applied Mathematics, Russian Academy of Sciences)
+217.9.144.0/20 RU-RTK-20021115 (PJSC Rostelecom)
+217.10.32.0/20 RU-COMCOR-20000809 (JSC Comcor)
+217.12.32.0/20 RU-IMOB-20081120 (Invest Mobile LLC)
+217.12.64.0/20 RU-RAID-20090302 (JSC "ER-Telecom Holding")
+217.12.96.0/20 RU-ALFABANK-20000824 (JSC "Alfa-Bank")
+217.12.240.0/20 RU-RUCESV-20021127 (JSC "RCS")
+217.13.208.0/20 RU-POSTLTD-20021104 (OOO "Post ltd")
+217.14.16.0/21 RU-PJSC-ROSBANK-20021209 (PJSC ROSBANK)
+217.14.24.0/24 TELSYCOM-NET (No org name found)
+217.14.25.0/24 RU-ROSNIIROS-20021209 (Autonomous Nonprofit Organisation "Russian Scientific-Research Institute for Public Networks")
+217.14.26.0/23 RU-PJSC-ROSBANK-20021209 (PJSC ROSBANK)
+217.14.28.0/22 RU-PJSC-ROSBANK-20021209 (PJSC ROSBANK)
+217.14.48.0/20 RU-VTB-BANK-20021210 (VTB Bank (Public Joint-Stock Company))
+217.14.192.0/20 RU-MARKITT-20000904 (OOO "NI")
+217.14.240.0/20 RU-RTK-20041230 (JSC Zebra Telecom)
+217.15.16.0/20 RU-FUTURES-20021216 (JSC "Futures Telecom")
+217.15.48.0/22 RU-RTK-20021218 (PJSC Rostelecom)
+217.15.52.0/24 INTINFORM-NET (No org name found)
+217.15.53.0/24 RU-RUSPHONE-20021218 (Rusphone OOO)
+217.15.54.0/23 RU-RTK-20021218 (PJSC Rostelecom)
+217.15.56.0/23 RU-RUSPHONE-20021218 (Rusphone OOO)
+217.15.58.0/23 RU-RTK-20021218 (PJSC Rostelecom)
+217.15.60.0/23 RU-RTK-20021218 (PJSC Rostelecom)
+217.15.62.0/23 RU-RUSPHONE-20021218 (Rusphone OOO)
+217.15.128.0/20 RU-RTK-20000906 (PJSC Rostelecom)
+217.15.144.0/20 RU-RTK-20000906 (PJSC Rostelecom)
+217.15.192.0/20 RU-MAXNET-20081028 (MAXnet Systems Ltd.)
+217.16.16.0/20 RU-MASTERHOST-20021118 (LLC "MASTERHOST")
+217.17.112.0/20 RU-KISS-20090630 (OOO KISS)
+217.17.160.0/20 RU-GASCOM-20000918 (Joint Stock Company Gazprom Space Systems)
+217.17.176.0/20 RU-GASCOM-20000918 (Joint Stock Company Gazprom Space Systems)
+217.18.60.0/22 RU-TIMEWEB2-20180928 (TimeWeb Ltd.)
+217.18.128.0/20 RU-RTK-20000919 (PJSC Rostelecom)
+217.18.144.0/20 RU-RTK-20000919 (PJSC Rostelecom)
+217.19.96.0/20 RU-MEGAFON-20090327 (PJSC MegaFon)
+217.19.112.0/20 RU-SOVINTEL-20030123 (PJSC "Vimpelcom")
+217.20.64.0/20 RU-MTU-20090202 (MTS PJSC)
+217.20.80.0/20 RU-RTK-20030131 (PJSC Rostelecom)
+217.20.144.0/20 RU-ODNOKLASSNIKI-20100830 (LLC VK)
+217.21.96.0/20 RU-RACETEL-20070802 (CJSC RACE TELECOM)
+217.21.208.0/20 RU-TTC-NET-20030207 (OOO TRANSTELECOM)
+217.22.160.0/24 RU-MATRIXTELECOM-20001002 (JSC Avantel)
+217.22.161.0/24 CustomersNet (No org name found)
+217.22.162.0/24 RU-RACETEL-20001002 (CJSC RACE TELECOM)
+217.22.163.0/24 AVANTEL-NYG-NWK (No org name found)
+217.22.164.0/24 RU-MATRIXTELECOM-20001002 (JSC Avantel)
+217.22.165.0/24 RU-RACETEL-20001002 (CJSC RACE TELECOM)
+217.22.166.0/24 RU-RAID-20001002 (JSC "ER-Telecom Holding")
+217.22.167.0/24 RU-MATRIXTELECOM-20001002 (JSC Avantel)
+217.22.168.0/22 RU-SIBINTEK-20001002 (Siberian Internet Company LLC)
+217.22.172.0/23 RU-RTK-20001002 (PJSC Rostelecom)
+217.22.174.0/23 RU-MAGISTRALNY-20080901 (Magistralny Telecom LLC)
+217.23.16.0/20 RU-RTK-20040120 (PJSC Rostelecom)
+217.23.64.0/20 RU-TRANSTELECOM-20001005 (JSC Volgatranstelecom)
+217.23.80.0/20 RU-TRANSTELECOM-20001005 (JSC Volgatranstelecom)
+217.23.128.0/24 RU-REGRU-20001005 ("Domain names registrar REG.RU", Ltd)
+217.23.129.0/24 RU-RUSONYX-20001005 (Rusonyx, Ltd.)
+217.23.130.0/23 RU-MATRIXTELECOM-20001005 (JSC Avantel)
+217.23.132.0/22 RU-REGRU-20001005 ("Domain names registrar REG.RU", Ltd)
+217.23.136.0/23 RU-REGRU-20001005 ("Domain names registrar REG.RU", Ltd)
+217.23.138.0/24 RU-REGRU-20001005 ("Domain names registrar REG.RU", Ltd)
+217.23.139.0/24 RU-RUSONYX-20001005 (Rusonyx, Ltd.)
+217.23.140.0/23 RU-REGRU-20001005 ("Domain names registrar REG.RU", Ltd)
+217.23.142.0/24 RU-MATRIXTELECOM-20001005 (JSC Avantel)
+217.23.143.0/24 RU-REGRU-20001005 ("Domain names registrar REG.RU", Ltd)
+217.23.144.0/23 RU-REGRU-20001005 ("Domain names registrar REG.RU", Ltd)
+217.23.146.0/24 RU-MATRIXTELECOM-20001005 (JSC Avantel)
+217.23.147.0/24 RU-REGRU-20001005 ("Domain names registrar REG.RU", Ltd)
+217.23.148.0/24 RU-REGRU-20001005 ("Domain names registrar REG.RU", Ltd)
+217.23.150.0/24 RU-REGRU-20001005 ("Domain names registrar REG.RU", Ltd)
+217.23.151.0/24 RU-MATRIXTELECOM-20001005 (JSC Avantel)
+217.23.152.0/21 RU-RUSONYX-20010517 (Rusonyx, Ltd.)
+217.23.176.0/20 RU-TATTELECOM-20030303 (PJSC "TATTELECOM")
+217.24.112.0/20 RU-RTK-20030318 (PJSC Rostelecom)
+217.24.176.0/20 RU-INSYS-20030321 (INSYS LLC)
+217.25.80.0/21 RU-CRELCOM-1-20030325 (CRELCOM LLC)
+217.25.88.0/21 RU-TIMEWEB2-20030325 (TimeWeb Ltd.)
+217.25.144.0/20 RU-TELECALL-20030407 (Digit One LLC)
+217.25.208.0/20 RU-OMKC-20080507 (Omskie kabelnye seti Ltd.)
+217.25.224.0/20 RU-IC-20060524 (AO IK "Informsvyaz-Chernozemye")
+217.26.0.0/20 RU-MGTS-20001016 (PJSC Moscow city telephone network)
+217.26.16.0/20 RU-ITAEC-20090529 (Informational technologies and electronic communications LLC)
+217.26.217.0/24 RU-TUTAEV-20240122 (Adam Muratovich Tutaev)
+217.27.128.0/20 RU-ARTX-20090501 (ArtX LLC)
+217.28.72.0/21 RU-INTERRA-20100604 (INTERRA telecommunications group, Ltd.)
+217.28.131.0/24 RU-NAVANT3-20220413 (Navant LLC)
+217.28.132.0/24 RU-XX20-20220413 (X LLC)
+217.28.141.0/24 RU-TLINE25-20220413 (Topline LLC)
+217.28.208.0/21 RU-RAID-20030514 (JSC "ER-Telecom Holding")
+217.28.216.0/22 RU-RAID-20030514 (JSC "ER-Telecom Holding")
+217.28.220.0/22 RU-JSCIOT-20030514 (JSC IOT)
+217.28.224.0/20 RU-YANDEXCLOUD-20090331 (Yandex.Cloud LLC)
+217.29.48.0/23 RU-RAID-20081014 (JSC "ER-Telecom Holding")
+217.29.50.0/23 RU-OKBPROGRESS-20081014 (OKB PROGRESS LLC)
+217.29.52.0/22 RU-OKBPROGRESS-20081014 (OKB PROGRESS LLC)
+217.29.56.0/21 RU-OKBPROGRESS-20081014 (OKB PROGRESS LLC)
+217.29.80.0/20 RU-AVANTEL-20040205 (JSC Avantel)
+217.29.176.0/20 RU-MARKITT-20030520 (OOO "NI")
+217.30.240.0/20 RU-SOVINTEL-20030604 (PJSC "Vimpelcom")
+217.64.128.0/20 RU-INSITINVEST-20081029 (CJSC Insit-Invest)
+217.64.144.0/22 RU-KOMPEATELECOM-20190205 (Kompeatelecom Ltd.)
+217.65.0.0/20 RU-CITYTELECOM1-20051003 (Citytelecom LLC)
+217.65.80.0/20 RU-RTK-20030620 (PJSC Rostelecom)
+217.65.208.0/20 RU-MTU-20030624 (MTS PJSC)
+217.66.16.0/20 RU-MTU-20030625 (MTS PJSC)
+217.66.64.0/20 RU-SOVINTEL-20001103 (PJSC "Vimpelcom")
+217.66.80.0/20 RU-SOVINTEL-20001103 (PJSC "Vimpelcom")
+217.66.144.0/20 RU-MTU-20030630 (MTS PJSC)
+217.67.0.0/20 RU-CCB-20001108 (CentroCredit Bank Moscow JSC)
+217.67.112.0/20 RU-UMOS-TC-20030702 (Telecommunications center UMOS, LLC)
+217.67.176.0/20 RU-MASTERTEL-20030703 (JSC Mastertel)
+217.69.128.0/20 RU-NETBRIDGE-20090320 (LLC VK)
+217.69.192.0/20 RU-MTU-20001117 (MTS PJSC)
+217.69.208.0/20 RU-MTU-20001117 (MTS PJSC)
+217.70.16.0/20 RU-IMSYS-20030728 (Informational-measuring systems Ltd.)
+217.70.96.0/20 RU-RTK-20001120 (PJSC Rostelecom)
+217.70.112.0/20 RU-RTK-20001120 (PJSC Rostelecom)
+217.71.128.0/20 NSTUNET (State Educational Enterprise of Higher Professional Education Novosibirsk State Technical University)
+217.71.160.0/20 RU-CELLULAR-20070129 (T2 Mobile LLC)
+217.71.224.0/20 RU-COMP-INFO-TECH-20081121 (Computer information technology Ltd.)
+217.72.0.0/21 RU-TYFON-20001123 (Thyphone Communications LLC)
+217.72.8.0/22 RU-TYFON-20001123 (Thyphone Communications LLC)
+217.72.144.0/20 RU-BESTCOM-20030825 (Best Telecom ISP)
+217.73.56.0/21 RU-CROC-CLOUD-20110817 (Closed Joint Stock Company CROC incorporated)
+217.73.112.0/22 RU-OKKO-20030829 (OKKO LLC)
+217.73.116.0/22 RU-NAUKANET-20030829 (LLC "Nauka-Svyaz")
+217.73.120.0/21 RU-OKKO-20030829 (OKKO LLC)
+217.73.192.0/20 RU-STACK-20001215 (StackNet Service, LLC)
+217.74.32.0/21 RU-IBSDATAFORT1-20001219 (DataFort LLC)
+217.74.40.0/22 RU-IBSDATAFORT1-20001219 (DataFort LLC)
+217.74.44.0/24 RU-IBSDATAFORT1-20001219 (DataFort LLC)
+217.74.45.0/24 IBS_PLATFORMIX (No org name found)
+217.74.46.0/23 RU-IBSDATAFORT1-20001219 (DataFort LLC)
+217.74.112.0/20 RU-VSUE-20040806 (Federal State Budgetary Educational Institution of Higher Education "Vladivostok State University")
+217.74.160.0/20 RU-RAID-20001221 (JSC "ER-Telecom Holding" Krasnoyarsk Branch)
+217.74.240.0/20 RU-MTU-20030923 (MTS PJSC)
+217.76.32.0/20 RU-RATEL-20001124 (OOO NIIR-RadioNet)
+217.76.176.0/20 RU-RAID-20031229 (JSC "ER-Telecom Holding")
+217.77.48.0/20 RU-SSERV-20070213 (Limited Company Svyazservice)
+217.77.96.0/22 RU-RSK-20001201 ("Region Svyaz Konsalt" LLC)
+217.77.100.0/24 RU-RSK-20001201 ("Region Svyaz Konsalt" LLC)
+217.77.102.0/24 RU-RSK-20001201 ("Region Svyaz Konsalt" LLC)
+217.77.104.0/21 RU-CIREX-20001201 (Telecom-Birzha, LLC)
+217.78.176.0/20 RU-TNC-20031031 (Technology & Networks LLC)
+217.78.224.0/21 IDALGO-TELECOM (No org name found)
+217.78.232.0/24 IDALGO-TELECOM (No org name found)
+217.78.236.0/24 RU-LLC3DATA-20101022 (LLC 3data)
+217.79.0.0/20 RU-OBIT-20090206 ("OBIT" Ltd.)
+217.79.16.0/20 RU-VIS-20031105 (JSC Volgainformnet)
+217.79.48.0/20 RU-SBRAS-20031112 (Federal Research Center for Information and Computational Technologies)
+217.79.224.0/20 RU-LANCRONIX-20081021 (OOO LANCRONIX)
+217.106.0.0/16 RU-RTCOMM-20001220 (JSC RTComm.RU)
+217.107.0.0/18 RU-RTCOMM-20001220 (JSC RTComm.RU)
+217.107.64.0/18 RU-RTK-20001220 (PJSC Rostelecom)
+217.107.128.0/18 RU-RTK-20001220 (PJSC Rostelecom)
+217.107.192.0/21 RU-ZELENAYA-20001220 (OOO SET)
+217.107.200.0/21 RU-RTCOMM-20001220 (JSC RTComm.RU)
+217.107.208.0/20 RU-RTCOMM-20001220 (JSC RTComm.RU)
+217.107.224.0/19 RU-RTK-20001220 (PJSC Rostelecom)
+217.112.0.0/20 RU-MEGAFON-20090504 (Net By Net Holding LLC)
+217.112.16.0/20 RU-MGTS-20030820 (PJSC Moscow city telephone network)
+217.112.32.0/20 RU-BIGWEB-20040122 (ZAO Web Hosting)
+217.113.112.0/20 RU-INFOLINE-20031013 (Infoline Ltd.)
+217.114.0.0/20 RU-SKYNET-20010123 (Company Skynet Ltd)
+217.114.16.0/20 RU-TAGILTELECOM-20031127 (JSC Tagil Telecom)
+217.114.42.0/24 RU-TL-20211005 (Topline LLC)
+217.114.144.0/20 RU-MARKITT-20041209 (OOO "NI")
+217.114.176.0/20 RU-TELE-PLUS-20031219 (Tele-plus LLC)
+217.114.224.0/20 RU-SOVINTEL-20040809 (PJSC "Vimpelcom")
+217.114.240.0/20 RU-NTMK-20031219 (OJSC "EVRAZ Nizhny Tagil Metallurgical Plant")
+217.115.80.0/20 RU-MEGAFON-20031223 (PJSC MegaFon)
+217.115.176.0/20 RU-MEGAFON-20040108 (PJSC MegaFon)
+217.116.48.0/20 RU-RUSCOMP-20030523 ("Russian company" LLC)
+217.116.128.0/20 RU-RTK-20010206 (PJSC Rostelecom)
+217.116.144.0/20 RU-RTK-20010206 (PJSC Rostelecom)
+217.117.80.0/20 RU-MTU-20040116 (MTS PJSC)
+217.117.112.0/20 RU-NIKO-2001-20040123 (Niko-2001 LLC)
+217.117.176.0/20 RU-RAID-20040123 (JSC "ER-Telecom Holding" Krasnoyarsk Branch)
+217.117.240.0/20 RU-A-N-T-20091001 (Alpha Net Telecom Ltd)
+217.118.64.0/20 RU-BEE3G-20010212 (PJSC "Vimpelcom")
+217.118.80.0/20 RU-BEE3G-20010212 (PJSC "Vimpelcom")
+217.118.176.0/20 RU-TATTELECOM-20040213 (PJSC "TATTELECOM")
+217.119.16.0/20 RU-SMART-20040219 (Smart Telecom Limited)
+217.119.80.0/20 RU-RAID-20042503 (JSC "ER-Telecom Holding" Yekaterinburg Branch)
+217.144.96.0/22 RU-INTERNET-HOSTING-20010220 (Internet-Hosting Ltd)
+217.144.100.0/22 RU-INTERNET-HOSTING-20010220 (Internet-Hosting Ltd)
+217.144.160.0/21 RU-NEMEROV-20060208 (Nemerov Evgeniy Vladimirovish PE)
+217.144.168.0/22 RU-MASTERTEL-20060208 (JSC Mastertel)
+217.144.172.0/22 RU-KRASPROMSTROY-20060208 (KrasPromStroy, LLC)
+217.145.16.0/20 RU-MTU-20060710 (MTS PJSC)
+217.145.144.0/20 RU-MITU-20040408 (LLC Telecommunication Company Region Telecom)
+217.145.224.0/22 RU-MAINACC-20181001 (Ivan Bulavkin)
+217.146.32.0/20 RU-RATMIR-20010226 (JSC Ratmir-ADS)
+217.147.8.0/22 RU-INATEL-20181001 (INATEL Ltd.)
+217.147.16.0/20 RU-SUNTEL-20040429 (OOO Suntel)
+217.148.48.0/20 RU-YCC-20040526 (Ekaterinburg-2000 LLC)
+217.148.192.0/20 RU-SOVINTEL-20010307 (PJSC "Vimpelcom")
+217.148.208.0/20 RU-TRANSTELECOM-20040601 (Joint Stock Company TransTeleCom)
+217.149.16.0/20 RU-ABLOGIC-20040602 (OJSC "Telecommunications FEZ Nakhodka")
+217.149.176.0/20 RU-UNICO-20081023 (JSC RDE "Unico")
+217.150.0.0/20 RU-EUROCOM-20010213 (EUROCOM Ltd.)
+217.150.16.0/20 RU-EUROCOM-20010213 (EUROCOM Ltd.)
+217.150.32.0/20 RU-TRANSTELECOM-20010213 (Joint Stock Company TransTeleCom)
+217.150.48.0/20 RU-TRANSTELECOM-20010213 (Joint Stock Company TransTeleCom)
+217.150.72.0/21 RU-PODRYAD-20120711 (Natalia Sergeevna Filicheva)
+217.150.192.0/20 RU-RIM2000TG-20010315 (Plusinfo OOO)
+217.151.16.0/20 RU-IMASTER-20040629 (Gorodskaya elektronnaya svyaz Ltd)
+217.151.64.0/20 RU-MEGAFON-20010316 (Net By Net Holding LLC)
+217.151.128.0/20 RU-GAZSVYAZ-20010319 (Gazprom telecom LLC)
+217.151.224.0/22 RU-FOR-20010319 (Joint stock company "For")
+217.151.228.0/24 RU-AVM-20010319 (Aleksandr Valerevich Mokhonko)
+217.151.229.0/24 TW-POLAND (No org name found)
+217.151.230.0/23 RU-TIMEWEB2-20010319 (TimeWeb Ltd.)
+217.151.232.0/21 RU-FOR-20010320 (Joint stock company "For")
+217.168.64.0/20 RU-RTK-20010320 (PJSC Rostelecom)
+217.168.240.0/21 RU-EI-20040204 (CJSC EN Telecom)
+217.169.80.0/20 RU-CELLULAR-20040802 (T2 Mobile LLC)
+217.170.64.0/20 RU-SOVINTEL-20010328 (PJSC "Vimpelcom")
+217.170.80.0/20 RU-SOVINTEL-20010328 (PJSC "Vimpelcom")
+217.170.112.0/20 RU-SUNLINK-20040812 (AO "Tele-Service Tula")
+217.170.208.0/20 RU-TELECALL-20040818 (Digit One LLC)
+217.171.0.0/20 RU-RTK-20010330 (PJSC Rostelecom)
+217.171.146.0/23 RU-QUASAR-20040827 (Quasar LLC)
+217.171.152.0/21 RU-MEGAFON-20040827 (PJSC MegaFon)
+217.172.16.0/21 RU-IMOB-20040831 (Invest Mobile LLC)
+217.172.24.0/22 RU-BEGET-20040831 (Beget LLC)
+217.172.28.0/22 RU-WEST-CALL-20040831 (OOO WestCall Ltd.)
+217.173.16.0/20 RU-MTU-20040309 (MTS PJSC)
+217.173.64.0/20 RU-WEST-CALL-20081028 (OOO WestCall Ltd.)
+217.174.0.0/20 RU-ORN-20081121 ("Resurs-Svyaz" Ltd)
+217.174.96.0/20 RU-SUNET2000-20010411 (e-Style ISP LLC)
+217.174.160.0/22 RU-RAID-20081224 (JSC "ER-Telecom Holding")
+217.174.164.0/24 RU-RAID-20081224 (JSC "ER-Telecom Holding")
+217.174.165.0/24 CONVEX-2020-03-12 (No org name found)
+217.174.166.0/23 CONVEX-2020-03-13 (No org name found)
+217.174.168.0/21 Ekaset (No org name found)
+217.174.176.0/21 RU-TELCOMNET-20040901 (Limited Liability Company "Telcomnet")
+217.174.184.0/22 RU-TELCOMNET-20040901 (Limited Liability Company "Telcomnet")
+217.174.188.0/22 RU-ODNOKLASSNIKI-20040901 (LLC VK)
+217.175.0.0/20 RU-MSNET-20080929 (Multiservice Networks Ltd.)
+217.175.16.0/20 RU-SCAT7-20040903 (Joint stock company "Severstal-infocom")
+217.175.32.0/20 RU-KOMTEL-20080930 (INTERCOMTEL Limited Company)
+217.175.128.0/20 RU-CSS-RZD-20010418 (JSC Russian Railways)
+217.175.144.0/20 RU-CSS-RZD-20010418 (JSC Russian Railways)
+217.194.240.0/20 RU-ICT-20040922 (Information and Communication Technologies LLC)
+217.195.64.0/20 RU-MEGAFON-20010420 (PJSC MegaFon)
+217.195.80.0/20 RU-MEGAFON-20010420 (PJSC MegaFon)
+217.195.96.0/20 RU-APATIT-20010423 (JSC Apatit)
+217.195.208.0/20 RU-SOVINTEL-20041006 (PJSC "Vimpelcom")
+217.196.96.0/21 RU-ROSTLLC-20100512 (ROST LLC)
+217.196.104.0/22 RU-ROSTLLC-20100512 (ROST LLC)
+217.196.108.0/22 RU-KSTV-20100512 (CJSC Kolomna-Sviaz TV)
+217.197.0.0/20 RU-HQLGU-20081124 (Saint Petersburg State University)
+217.197.107.0/24 RU-ROSTLLC-20230516 (ROST LLC)
+217.197.112.0/20 RU-SUNET2000-20041019 (e-Style ISP LLC)
+217.197.172.0/22 RU-MIRANDA-MEDIA-20181002 (Miranda-Media Ltd)
+217.197.192.0/20 RU-ARTX-20100415 (ArtX LLC)
+217.197.224.0/20 RU-SEVEREN-20090226 (JSC "Severen-Telecom")
+217.197.240.0/20 RU-TSINET-20041103 (TSI Service JSC)
+217.198.0.0/20 RU-CTEL-20010503 (LLC Tatarstan-On-Line)
+217.198.80.0/21 RU-IBSDATAFORT1-20041111 (DataFort LLC)
+217.198.88.0/22 RU-IBSDATAFORT1-20041111 (DataFort LLC)
+217.198.92.0/24 IBS_NAT (No org name found)
+217.198.93.0/24 RU-IBSDATAFORT1-20041111 (DataFort LLC)
+217.198.94.0/23 RU-IBSDATAFORT1-20041111 (DataFort LLC)
+217.198.160.0/21 RU-RTL-20010504 (RTL LLC)
+217.198.168.0/21 RU-YANDEXCLOUD-20010504 (Yandex.Cloud LLC)
+217.199.208.0/23 RU-NETRACK-20041122 (Start LLC)
+217.199.210.0/24 RU-SUNTEL-20041122 (OOO Suntel)
+217.199.211.0/24 RU-START2-20041122 (Start2 LLC)
+217.199.212.0/24 RU-DIGITEH-20041122 (Digiteh LLC)
+217.199.213.0/24 RU-START2-20041122 (Start2 LLC)
+217.199.214.0/23 RU-SUNTEL-20041122 (OOO Suntel)
+217.199.216.0/24 RU-SUNTEL-20041122 (OOO Suntel)
+217.199.217.0/24 RU-START2-20041122 (Start2 LLC)
+217.199.218.0/24 RU-SUNTEL-20041122 (OOO Suntel)
+217.199.219.0/24 RU-NETRACK-20041122 (Start LLC)
+217.199.220.0/24 RU-START2-20041122 (Start2 LLC)
+217.199.221.0/24 RU-START2-20041122 (Start2 LLC)
+217.199.222.0/24 RU-NETRACK-20041122 (Start LLC)
+217.199.223.0/24 RU-START2-20041122 (Start2 LLC)
+217.199.224.0/20 RU-KOMPEATELECOM-20020920 (Kompeatelecom Ltd.)
+217.199.240.0/21 RU-VIKMASTER-20041216 (VIK Master Ltd.)
+217.199.248.0/22 RU-VIKMASTER-20041216 (VIK Master Ltd.)
+217.199.252.0/23 RU-VIKMASTER-20041216 (VIK Master Ltd.)
+217.199.254.0/24 VIKMASTER (No org name found)
+217.199.255.0/24 RU-IPSERVER-20041216 (IP SERVER LLC)
