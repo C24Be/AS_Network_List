@@ -15,6 +15,3 @@ grep -iE "${black_names}" auto/*-ru-ipv4.txt  | grep -viE "${white_names}" | awk
 
 # Remove comments by sed to avoid flooding WHOIS servers
 grep -v "#" ${outfile_w_comments} | sort | uniq > ${outfile_wo_comments}
-
-
-grep -iE "uvd" auto/*-ru-ipv4.txt
