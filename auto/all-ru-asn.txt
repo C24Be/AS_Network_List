@@ -3498,2304 +3498,2304 @@ AS59494 ENIGMA-TELECOM-AS (Enigma Telecom Ltd.)
 AS59495 ULKM-AS (Uralskie lokomotivy Ltd)
 AS59496 Logotelecom-AS (Logotelecom Ltd)
 AS59498 TERALINESVIAZ-AS (Teraline Telecom Ltd)
-AS59502 -no-description-
-AS59504 -no-description-
-AS59508 -no-description-
-AS59509 -no-description-
-AS59512 -no-description-
-AS59513 -no-description-
-AS59515 -no-description-
-AS59516 -no-description-
-AS59517 -no-description-
-AS59525 -no-description-
-AS59530 -no-description-
-AS59533 -no-description-
-AS59534 -no-description-
-AS59535 -no-description-
-AS59537 -no-description-
-AS59539 -no-description-
-AS59541 -no-description-
-AS59549 -no-description-
-AS59557 -no-description-
-AS59558 -no-description-
-AS59559 -no-description-
-AS59561 -no-description-
-AS59571 -no-description-
-AS59574 -no-description-
-AS59575 -no-description-
-AS59580 -no-description-
-AS59584 -no-description-
-AS59589 -no-description-
-AS59591 -no-description-
-AS59595 -no-description-
-AS59596 -no-description-
-AS59600 -no-description-
-AS59601 -no-description-
-AS59603 -no-description-
-AS59604 -no-description-
-AS59606 -no-description-
-AS59612 -no-description-
-AS59614 -no-description-
-AS59616 -no-description-
-AS59624 -no-description-
-AS59627 -no-description-
-AS59637 -no-description-
-AS59639 -no-description-
-AS59640 -no-description-
-AS59641 -no-description-
-AS59653 -no-description-
-AS59656 -no-description-
-AS59661 -no-description-
-AS59663 -no-description-
-AS59665 -no-description-
-AS59666 -no-description-
-AS59667 -no-description-
-AS59672 -no-description-
-AS59673 -no-description-
-AS59679 -no-description-
-AS59683 -no-description-
-AS59687 -no-description-
-AS59688 -no-description-
-AS59693 -no-description-
-AS59696 -no-description-
-AS59698 -no-description-
-AS59712 -no-description-
-AS59713 -no-description-
-AS59714 -no-description-
-AS59718 -no-description-
-AS59722 -no-description-
-AS59726 -no-description-
-AS59731 -no-description-
-AS59734 -no-description-
-AS59738 -no-description-
-AS59740 -no-description-
-AS59744 -no-description-
-AS59792 -no-description-
-AS59793 -no-description-
-AS59801 -no-description-
-AS59815 -no-description-
-AS59823 -no-description-
-AS59825 -no-description-
-AS59831 -no-description-
-AS59833 -no-description-
-AS59837 -no-description-
-AS59840 -no-description-
-AS59846 -no-description-
-AS59848 -no-description-
-AS59850 -no-description-
-AS59867 -no-description-
-AS59883 -no-description-
-AS59906 -no-description-
-AS59916 -no-description-
-AS59917 -no-description-
-AS59928 -no-description-
-AS59935 -no-description-
-AS59941 -no-description-
-AS59946 -no-description-
-AS59954 -no-description-
-AS59957 -no-description-
-AS59960 -no-description-
-AS59975 -no-description-
-AS59994 -no-description-
-AS60002 -no-description-
-AS60005 -no-description-
-AS60006 -no-description-
-AS60028 -no-description-
-AS60029 -no-description-
-AS60034 -no-description-
-AS60040 -no-description-
-AS60042 -no-description-
-AS60043 -no-description-
-AS60048 -no-description-
-AS60058 -no-description-
-AS60062 -no-description-
-AS60065 -no-description-
-AS60067 -no-description-
-AS60072 -no-description-
-AS60075 -no-description-
-AS60081 -no-description-
-AS60085 -no-description-
-AS60095 -no-description-
-AS60098 -no-description-
-AS60108 -no-description-
-AS60119 -no-description-
-AS60122 -no-description-
-AS60124 -no-description-
-AS60139 -no-description-
-AS60151 -no-description-
-AS60162 -no-description-
-AS60165 -no-description-
-AS60172 -no-description-
-AS60177 -no-description-
-AS60179 -no-description-
-AS60180 -no-description-
-AS60192 -no-description-
-AS60216 -no-description-
-AS60224 -no-description-
-AS60231 -no-description-
-AS60245 -no-description-
-AS60246 -no-description-
-AS60252 -no-description-
-AS60263 -no-description-
-AS60283 -no-description-
-AS60287 -no-description-
-AS60290 -no-description-
-AS60292 -no-description-
-AS60299 -no-description-
-AS60308 -no-description-
-AS60312 -no-description-
-AS60328 -no-description-
-AS60329 -no-description-
-AS60338 -no-description-
-AS60343 -no-description-
-AS60346 -no-description-
-AS60347 -no-description-
-AS60348 -no-description-
-AS60357 -no-description-
-AS60360 -no-description-
-AS60361 -no-description-
-AS60363 -no-description-
-AS60365 -no-description-
-AS60366 -no-description-
-AS60373 -no-description-
-AS60375 -no-description-
-AS60383 -no-description-
-AS60388 -no-description-
-AS60389 -no-description-
-AS60413 -no-description-
-AS60430 -no-description-
-AS60434 -no-description-
-AS60437 -no-description-
-AS60452 -no-description-
-AS60459 -no-description-
-AS60465 -no-description-
-AS60470 -no-description-
-AS60473 -no-description-
-AS60476 -no-description-
-AS60482 -no-description-
-AS60484 -no-description-
-AS60489 -no-description-
-AS60490 -no-description-
-AS60496 -no-description-
-AS60500 -no-description-
-AS60510 -no-description-
-AS60513 -no-description-
-AS60518 -no-description-
-AS60519 -no-description-
-AS60523 -no-description-
-AS60544 -no-description-
-AS60548 -no-description-
-AS60553 -no-description-
-AS60554 -no-description-
-AS60556 -no-description-
-AS60561 -no-description-
-AS60566 -no-description-
-AS60568 -no-description-
-AS60569 -no-description-
-AS60573 -no-description-
-AS60575 -no-description-
-AS60579 -no-description-
-AS60580 -no-description-
-AS60598 -no-description-
-AS60599 -no-description-
-AS60600 -no-description-
-AS60603 -no-description-
-AS60612 -no-description-
-AS60623 -no-description-
-AS60625 -no-description-
-AS60628 -no-description-
-AS60635 -no-description-
-AS60642 -no-description-
-AS60643 -no-description-
-AS60651 -no-description-
-AS60655 -no-description-
-AS60660 -no-description-
-AS60678 -no-description-
-AS60681 -no-description-
-AS60684 -no-description-
-AS60691 -no-description-
-AS60692 -no-description-
-AS60693 -no-description-
-AS60702 -no-description-
-AS60704 -no-description-
-AS60716 -no-description-
-AS60720 -no-description-
-AS60722 -no-description-
-AS60726 -no-description-
-AS60730 -no-description-
-AS60731 -no-description-
-AS60732 -no-description-
-AS60738 -no-description-
-AS60740 -no-description-
-AS60747 -no-description-
-AS60748 -no-description-
-AS60753 -no-description-
-AS60763 -no-description-
-AS60764 -no-description-
-AS60768 -no-description-
-AS60771 -no-description-
-AS60773 -no-description-
-AS60779 -no-description-
-AS60796 -no-description-
-AS60797 -no-description-
-AS60818 -no-description-
-AS60826 -no-description-
-AS60827 -no-description-
-AS60832 -no-description-
-AS60833 -no-description-
-AS60834 -no-description-
-AS60835 -no-description-
-AS60836 -no-description-
-AS60837 -no-description-
-AS60840 -no-description-
-AS60843 -no-description-
-AS60852 -no-description-
-AS60854 -no-description-
-AS60856 -no-description-
-AS60862 -no-description-
-AS60863 -no-description-
-AS60864 -no-description-
-AS60865 -no-description-
-AS60866 -no-description-
-AS60867 -no-description-
-AS60872 -no-description-
-AS60873 -no-description-
-AS60878 -no-description-
-AS60879 -no-description-
-AS60891 -no-description-
-AS60892 -no-description-
-AS60904 -no-description-
-AS60913 -no-description-
-AS60915 -no-description-
-AS60919 -no-description-
-AS60921 -no-description-
-AS60931 -no-description-
-AS60936 -no-description-
-AS60942 -no-description-
-AS60944 -no-description-
-AS60954 -no-description-
-AS60956 -no-description-
-AS60957 -no-description-
-AS60967 -no-description-
-AS60971 -no-description-
-AS60980 -no-description-
-AS60986 -no-description-
-AS60988 -no-description-
-AS61009 -no-description-
-AS61011 -no-description-
-AS61014 -no-description-
-AS61016 -no-description-
-AS61021 -no-description-
-AS61031 -no-description-
-AS61035 -no-description-
-AS61039 -no-description-
-AS61040 -no-description-
-AS61041 -no-description-
-AS61043 -no-description-
-AS61048 -no-description-
-AS61052 -no-description-
-AS61068 -no-description-
-AS61088 -no-description-
-AS61100 -no-description-
-AS61111 -no-description-
-AS61118 -no-description-
-AS61119 -no-description-
-AS61121 -no-description-
-AS61123 -no-description-
-AS61140 -no-description-
-AS61141 -no-description-
-AS61151 -no-description-
-AS61152 -no-description-
-AS61156 -no-description-
-AS61166 -no-description-
-AS61175 -no-description-
-AS61178 -no-description-
-AS61187 -no-description-
-AS61197 -no-description-
-AS61206 -no-description-
-AS61223 -no-description-
-AS61230 -no-description-
-AS61237 -no-description-
-AS61249 -no-description-
-AS61259 -no-description-
-AS61261 -no-description-
-AS61264 -no-description-
-AS61265 -no-description-
-AS61267 -no-description-
-AS61269 -no-description-
-AS61276 -no-description-
-AS61280 -no-description-
-AS61285 -no-description-
-AS61286 -no-description-
-AS61291 -no-description-
-AS61293 -no-description-
-AS61305 -no-description-
-AS61306 -no-description-
-AS61308 -no-description-
-AS61318 -no-description-
-AS61324 -no-description-
-AS61325 -no-description-
-AS61326 -no-description-
-AS61358 -no-description-
-AS61359 -no-description-
-AS61360 -no-description-
-AS61372 -no-description-
-AS61375 -no-description-
-AS61378 -no-description-
-AS61379 -no-description-
-AS61380 -no-description-
-AS61382 -no-description-
-AS61383 -no-description-
-AS61390 -no-description-
-AS61396 -no-description-
-AS61400 -no-description-
-AS61403 -no-description-
-AS61406 -no-description-
-AS61409 -no-description-
-AS61410 -no-description-
-AS61411 -no-description-
-AS61416 -no-description-
-AS61431 -no-description-
-AS61433 -no-description-
-AS61435 -no-description-
-AS61436 -no-description-
-AS61960 -no-description-
-AS61964 -no-description-
-AS61971 -no-description-
-AS61976 -no-description-
-AS61979 -no-description-
-AS61980 -no-description-
-AS61985 -no-description-
-AS61989 -no-description-
-AS61991 -no-description-
-AS61992 -no-description-
-AS62004 -no-description-
-AS62006 -no-description-
-AS62008 -no-description-
-AS62010 -no-description-
-AS62019 -no-description-
-AS62029 -no-description-
-AS62036 -no-description-
-AS62040 -no-description-
-AS62046 -no-description-
-AS62056 -no-description-
-AS62063 -no-description-
-AS62065 -no-description-
-AS62067 -no-description-
-AS62069 -no-description-
-AS62082 -no-description-
-AS62084 -no-description-
-AS62088 -no-description-
-AS62103 -no-description-
-AS62115 -no-description-
-AS62122 -no-description-
-AS62128 -no-description-
-AS62130 -no-description-
-AS62133 -no-description-
-AS62135 -no-description-
-AS62142 -no-description-
-AS62143 -no-description-
-AS62150 -no-description-
-AS62169 -no-description-
-AS62200 -no-description-
-AS62205 -no-description-
-AS62207 -no-description-
-AS62218 -no-description-
-AS62221 -no-description-
-AS62222 -no-description-
-AS62241 -no-description-
-AS62243 -no-description-
-AS62247 -no-description-
-AS62251 -no-description-
-AS62261 -no-description-
-AS62264 -no-description-
-AS62266 -no-description-
-AS62268 -no-description-
-AS62272 -no-description-
-AS62283 -no-description-
-AS62286 -no-description-
-AS62287 -no-description-
-AS62288 -no-description-
-AS62293 -no-description-
-AS62295 -no-description-
-AS62300 -no-description-
-AS62314 -no-description-
-AS62316 -no-description-
-AS62330 -no-description-
-AS62331 -no-description-
-AS62333 -no-description-
-AS62340 -no-description-
-AS62344 -no-description-
-AS62345 -no-description-
-AS62347 -no-description-
-AS62348 -no-description-
-AS62356 -no-description-
-AS62358 -no-description-
-AS62366 -no-description-
-AS62378 -no-description-
-AS62379 -no-description-
-AS62382 -no-description-
-AS62389 -no-description-
-AS62399 -no-description-
-AS62402 -no-description-
-AS62404 -no-description-
-AS62410 -no-description-
-AS62422 -no-description-
-AS62423 -no-description-
-AS62426 -no-description-
-AS62429 -no-description-
-AS62432 -no-description-
-AS62439 -no-description-
-AS62440 -no-description-
-AS62444 -no-description-
-AS62446 -no-description-
-AS62450 -no-description-
-AS62459 -no-description-
-AS62461 -no-description-
-AS62462 -no-description-
-AS64409 -no-description-
-AS64419 -no-description-
-AS64423 -no-description-
-AS64429 -no-description-
-AS64432 -no-description-
-AS64433 -no-description-
-AS64439 -no-description-
-AS64450 -no-description-
-AS64461 -no-description-
-AS64469 -no-description-
-AS64486 -no-description-
-AS64491 -no-description-
-AS64492 -no-description-
-AS64493 -no-description-
-AS64494 -no-description-
-AS141171 -no-description-
-AS196638 -no-description-
-AS196641 -no-description-
-AS196642 -no-description-
-AS196648 -no-description-
-AS196657 -no-description-
-AS196660 -no-description-
-AS196665 -no-description-
-AS196667 -no-description-
-AS196673 -no-description-
-AS196685 -no-description-
-AS196686 -no-description-
-AS196688 -no-description-
-AS196691 -no-description-
-AS196695 -no-description-
-AS196698 -no-description-
-AS196699 -no-description-
-AS196705 -no-description-
-AS196716 -no-description-
-AS196719 -no-description-
-AS196721 -no-description-
-AS196726 -no-description-
-AS196739 -no-description-
-AS196742 -no-description-
-AS196747 -no-description-
-AS196750 -no-description-
-AS196754 -no-description-
-AS196764 -no-description-
-AS196767 -no-description-
-AS196768 -no-description-
-AS196780 -no-description-
-AS196786 -no-description-
-AS196791 -no-description-
-AS196796 -no-description-
-AS196797 -no-description-
-AS196798 -no-description-
-AS196812 -no-description-
-AS196847 -no-description-
-AS196879 -no-description-
-AS196884 -no-description-
-AS196893 -no-description-
-AS196894 -no-description-
-AS196914 -no-description-
-AS196936 -no-description-
-AS196938 -no-description-
-AS196949 -no-description-
-AS196963 -no-description-
-AS196986 -no-description-
-AS196991 -no-description-
-AS197007 -no-description-
-AS197010 -no-description-
-AS197015 -no-description-
-AS197023 -no-description-
-AS197044 -no-description-
-AS197052 -no-description-
-AS197062 -no-description-
-AS197068 -no-description-
-AS197070 -no-description-
-AS197074 -no-description-
-AS197078 -no-description-
-AS197080 -no-description-
-AS197097 -no-description-
-AS197120 -no-description-
-AS197129 -no-description-
-AS197140 -no-description-
-AS197150 -no-description-
-AS197152 -no-description-
-AS197153 -no-description-
-AS197159 -no-description-
-AS197163 -no-description-
-AS197169 -no-description-
-AS197171 -no-description-
-AS197175 -no-description-
-AS197185 -no-description-
-AS197193 -no-description-
-AS197204 -no-description-
-AS197235 -no-description-
-AS197257 -no-description-
-AS197258 -no-description-
-AS197273 -no-description-
-AS197275 -no-description-
-AS197276 -no-description-
-AS197280 -no-description-
-AS197292 -no-description-
-AS197298 -no-description-
-AS197303 -no-description-
-AS197306 -no-description-
-AS197309 -no-description-
-AS197311 -no-description-
-AS197315 -no-description-
-AS197333 -no-description-
-AS197340 -no-description-
-AS197349 -no-description-
-AS197360 -no-description-
-AS197366 -no-description-
-AS197379 -no-description-
-AS197382 -no-description-
-AS197392 -no-description-
-AS197394 -no-description-
-AS197404 -no-description-
-AS197406 -no-description-
-AS197420 -no-description-
-AS197449 -no-description-
-AS197453 -no-description-
-AS197460 -no-description-
-AS197461 -no-description-
-AS197467 -no-description-
-AS197468 -no-description-
-AS197482 -no-description-
-AS197489 -no-description-
-AS197498 -no-description-
-AS197499 -no-description-
-AS197526 -no-description-
-AS197531 -no-description-
-AS197535 -no-description-
-AS197553 -no-description-
-AS197559 -no-description-
-AS197567 -no-description-
-AS197571 -no-description-
-AS197574 -no-description-
-AS197577 -no-description-
-AS197585 -no-description-
-AS197591 -no-description-
-AS197596 -no-description-
-AS197627 -no-description-
-AS197628 -no-description-
-AS197632 -no-description-
-AS197658 -no-description-
-AS197665 -no-description-
-AS197668 -no-description-
-AS197673 -no-description-
-AS197683 -no-description-
-AS197693 -no-description-
-AS197695 -no-description-
-AS197700 -no-description-
-AS197714 -no-description-
-AS197717 -no-description-
-AS197718 -no-description-
-AS197725 -no-description-
-AS197728 -no-description-
-AS197733 -no-description-
-AS197756 -no-description-
-AS197757 -no-description-
-AS197760 -no-description-
-AS197765 -no-description-
-AS197768 -no-description-
-AS197773 -no-description-
-AS197780 -no-description-
-AS197783 -no-description-
-AS197786 -no-description-
-AS197793 -no-description-
-AS197808 -no-description-
-AS197821 -no-description-
-AS197826 -no-description-
-AS197831 -no-description-
-AS197857 -no-description-
-AS197861 -no-description-
-AS197863 -no-description-
-AS197865 -no-description-
-AS197868 -no-description-
-AS197873 -no-description-
-AS197878 -no-description-
-AS197880 -no-description-
-AS197888 -no-description-
-AS197896 -no-description-
-AS197905 -no-description-
-AS197911 -no-description-
-AS197934 -no-description-
-AS197952 -no-description-
-AS197955 -no-description-
-AS197960 -no-description-
-AS197969 -no-description-
-AS197971 -no-description-
-AS197972 -no-description-
-AS197986 -no-description-
-AS197987 -no-description-
-AS197998 -no-description-
-AS198021 -no-description-
-AS198027 -no-description-
-AS198028 -no-description-
-AS198039 -no-description-
-AS198044 -no-description-
-AS198052 -no-description-
-AS198056 -no-description-
-AS198062 -no-description-
-AS198069 -no-description-
-AS198070 -no-description-
-AS198074 -no-description-
-AS198076 -no-description-
-AS198083 -no-description-
-AS198086 -no-description-
-AS198110 -no-description-
-AS198117 -no-description-
-AS198122 -no-description-
-AS198130 -no-description-
-AS198134 -no-description-
-AS198137 -no-description-
-AS198155 -no-description-
-AS198181 -no-description-
-AS198182 -no-description-
-AS198185 -no-description-
-AS198195 -no-description-
-AS198201 -no-description-
-AS198207 -no-description-
-AS198210 -no-description-
-AS198212 -no-description-
-AS198226 -no-description-
-AS198255 -no-description-
-AS198258 -no-description-
-AS198261 -no-description-
-AS198274 -no-description-
-AS198294 -no-description-
-AS198295 -no-description-
-AS198297 -no-description-
-AS198303 -no-description-
-AS198310 -no-description-
-AS198324 -no-description-
-AS198338 -no-description-
-AS198348 -no-description-
-AS198350 -no-description-
-AS198354 -no-description-
-AS198367 -no-description-
-AS198369 -no-description-
-AS198372 -no-description-
-AS198384 -no-description-
-AS198390 -no-description-
-AS198396 -no-description-
-AS198409 -no-description-
-AS198415 -no-description-
-AS198437 -no-description-
-AS198438 -no-description-
-AS198445 -no-description-
-AS198449 -no-description-
-AS198456 -no-description-
-AS198481 -no-description-
-AS198486 -no-description-
-AS198502 -no-description-
-AS198515 -no-description-
-AS198523 -no-description-
-AS198526 -no-description-
-AS198539 -no-description-
-AS198541 -no-description-
-AS198542 -no-description-
-AS198544 -no-description-
-AS198546 -no-description-
-AS198556 -no-description-
-AS198563 -no-description-
-AS198580 -no-description-
-AS198586 -no-description-
-AS198588 -no-description-
-AS198592 -no-description-
-AS198598 -no-description-
-AS198602 -no-description-
-AS198609 -no-description-
-AS198610 -no-description-
-AS198615 -no-description-
-AS198616 -no-description-
-AS198618 -no-description-
-AS198619 -no-description-
-AS198626 -no-description-
-AS198639 -no-description-
-AS198643 -no-description-
-AS198645 -no-description-
-AS198654 -no-description-
-AS198667 -no-description-
-AS198669 -no-description-
-AS198670 -no-description-
-AS198675 -no-description-
-AS198677 -no-description-
-AS198681 -no-description-
-AS198683 -no-description-
-AS198688 -no-description-
-AS198693 -no-description-
-AS198700 -no-description-
-AS198705 -no-description-
-AS198712 -no-description-
-AS198715 -no-description-
-AS198716 -no-description-
-AS198718 -no-description-
-AS198728 -no-description-
-AS198755 -no-description-
-AS198757 -no-description-
-AS198758 -no-description-
-AS198762 -no-description-
-AS198769 -no-description-
-AS198774 -no-description-
-AS198778 -no-description-
-AS198780 -no-description-
-AS198791 -no-description-
-AS198793 -no-description-
-AS198806 -no-description-
-AS198809 -no-description-
-AS198816 -no-description-
-AS198817 -no-description-
-AS198819 -no-description-
-AS198821 -no-description-
-AS198826 -no-description-
-AS198832 -no-description-
-AS198833 -no-description-
-AS198842 -no-description-
-AS198844 -no-description-
-AS198856 -no-description-
-AS198861 -no-description-
-AS198873 -no-description-
-AS198877 -no-description-
-AS198899 -no-description-
-AS198918 -no-description-
-AS198929 -no-description-
-AS198932 -no-description-
-AS198933 -no-description-
-AS198947 -no-description-
-AS198953 -no-description-
-AS198955 -no-description-
-AS198960 -no-description-
-AS198973 -no-description-
-AS198974 -no-description-
-AS198976 -no-description-
-AS199000 -no-description-
-AS199002 -no-description-
-AS199007 -no-description-
-AS199008 -no-description-
-AS199009 -no-description-
-AS199010 -no-description-
-AS199014 -no-description-
-AS199020 -no-description-
-AS199021 -no-description-
-AS199022 -no-description-
-AS199024 -no-description-
-AS199032 -no-description-
-AS199040 -no-description-
-AS199049 -no-description-
-AS199054 -no-description-
-AS199063 -no-description-
-AS199067 -no-description-
-AS199070 -no-description-
-AS199072 -no-description-
-AS199078 -no-description-
-AS199080 -no-description-
-AS199085 -no-description-
-AS199093 -no-description-
-AS199096 -no-description-
-AS199110 -no-description-
-AS199112 -no-description-
-AS199119 -no-description-
-AS199120 -no-description-
-AS199126 -no-description-
-AS199136 -no-description-
-AS199145 -no-description-
-AS199146 -no-description-
-AS199148 -no-description-
-AS199153 -no-description-
-AS199161 -no-description-
-AS199179 -no-description-
-AS199186 -no-description-
-AS199194 -no-description-
-AS199214 -no-description-
-AS199251 -no-description-
-AS199253 -no-description-
-AS199259 -no-description-
-AS199261 -no-description-
-AS199264 -no-description-
-AS199274 -no-description-
-AS199278 -no-description-
-AS199280 -no-description-
-AS199287 -no-description-
-AS199295 -no-description-
-AS199314 -no-description-
-AS199316 -no-description-
-AS199317 -no-description-
-AS199320 -no-description-
-AS199361 -no-description-
-AS199365 -no-description-
-AS199377 -no-description-
-AS199394 -no-description-
-AS199420 -no-description-
-AS199424 -no-description-
-AS199425 -no-description-
-AS199427 -no-description-
-AS199430 -no-description-
-AS199445 -no-description-
-AS199458 -no-description-
-AS199463 -no-description-
-AS199472 -no-description-
-AS199502 -no-description-
-AS199521 -no-description-
-AS199530 -no-description-
-AS199537 -no-description-
-AS199539 -no-description-
-AS199546 -no-description-
-AS199549 -no-description-
-AS199572 -no-description-
-AS199576 -no-description-
-AS199580 -no-description-
-AS199583 -no-description-
-AS199593 -no-description-
-AS199599 -no-description-
-AS199602 -no-description-
-AS199619 -no-description-
-AS199621 -no-description-
-AS199622 -no-description-
-AS199623 -no-description-
-AS199624 -no-description-
-AS199634 -no-description-
-AS199635 -no-description-
-AS199647 -no-description-
-AS199658 -no-description-
-AS199664 -no-description-
-AS199669 -no-description-
-AS199678 -no-description-
-AS199726 -no-description-
-AS199728 -no-description-
-AS199730 -no-description-
-AS199732 -no-description-
-AS199745 -no-description-
-AS199746 -no-description-
-AS199757 -no-description-
-AS199778 -no-description-
-AS199782 -no-description-
-AS199798 -no-description-
-AS199805 -no-description-
-AS199809 -no-description-
-AS199817 -no-description-
-AS199820 -no-description-
-AS199827 -no-description-
-AS199833 -no-description-
-AS199851 -no-description-
-AS199858 -no-description-
-AS199860 -no-description-
-AS199862 -no-description-
-AS199866 -no-description-
-AS199868 -no-description-
-AS199901 -no-description-
-AS199906 -no-description-
-AS199908 -no-description-
-AS199922 -no-description-
-AS199924 -no-description-
-AS199933 -no-description-
-AS199940 -no-description-
-AS199945 -no-description-
-AS199961 -no-description-
-AS199966 -no-description-
-AS199970 -no-description-
-AS199975 -no-description-
-AS199991 -no-description-
-AS199992 -no-description-
-AS200015 -no-description-
-AS200022 -no-description-
-AS200035 -no-description-
-AS200041 -no-description-
-AS200044 -no-description-
-AS200048 -no-description-
-AS200054 -no-description-
-AS200065 -no-description-
-AS200066 -no-description-
-AS200095 -no-description-
-AS200110 -no-description-
-AS200120 -no-description-
-AS200121 -no-description-
-AS200123 -no-description-
-AS200152 -no-description-
-AS200161 -no-description-
-AS200166 -no-description-
-AS200175 -no-description-
-AS200214 -no-description-
-AS200215 -no-description-
-AS200264 -no-description-
-AS200266 -no-description-
-AS200285 -no-description-
-AS200294 -no-description-
-AS200302 -no-description-
-AS200323 -no-description-
-AS200350 -no-description-
-AS200362 -no-description-
-AS200364 -no-description-
-AS200389 -no-description-
-AS200390 -no-description-
-AS200401 -no-description-
-AS200419 -no-description-
-AS200420 -no-description-
-AS200430 -no-description-
-AS200441 -no-description-
-AS200442 -no-description-
-AS200452 -no-description-
-AS200453 -no-description-
-AS200457 -no-description-
-AS200463 -no-description-
-AS200466 -no-description-
-AS200479 -no-description-
-AS200487 -no-description-
-AS200496 -no-description-
-AS200503 -no-description-
-AS200505 -no-description-
-AS200513 -no-description-
-AS200515 -no-description-
-AS200524 -no-description-
-AS200546 -no-description-
-AS200551 -no-description-
-AS200563 -no-description-
-AS200575 -no-description-
-AS200593 -no-description-
-AS200613 -no-description-
-AS200619 -no-description-
-AS200622 -no-description-
-AS200624 -no-description-
-AS200627 -no-description-
-AS200634 -no-description-
-AS200637 -no-description-
-AS200643 -no-description-
-AS200644 -no-description-
-AS200662 -no-description-
-AS200663 -no-description-
-AS200679 -no-description-
-AS200685 -no-description-
-AS200686 -no-description-
-AS200687 -no-description-
-AS200694 -no-description-
-AS200702 -no-description-
-AS200722 -no-description-
-AS200725 -no-description-
-AS200733 -no-description-
-AS200734 -no-description-
-AS200743 -no-description-
-AS200762 -no-description-
-AS200764 -no-description-
-AS200778 -no-description-
-AS200802 -no-description-
-AS200803 -no-description-
-AS200812 -no-description-
-AS200823 -no-description-
-AS200829 -no-description-
-AS200830 -no-description-
-AS200833 -no-description-
-AS200838 -no-description-
-AS200847 -no-description-
-AS200875 -no-description-
-AS200922 -no-description-
-AS200926 -no-description-
-AS200928 -no-description-
-AS200935 -no-description-
-AS200945 -no-description-
-AS200953 -no-description-
-AS200955 -no-description-
-AS200976 -no-description-
-AS200982 -no-description-
-AS200988 -no-description-
-AS200993 -no-description-
-AS201008 -no-description-
-AS201009 -no-description-
-AS201012 -no-description-
-AS201016 -no-description-
-AS201018 -no-description-
-AS201022 -no-description-
-AS201037 -no-description-
-AS201052 -no-description-
-AS201065 -no-description-
-AS201069 -no-description-
-AS201083 -no-description-
-AS201092 -no-description-
-AS201100 -no-description-
-AS201119 -no-description-
-AS201123 -no-description-
-AS201131 -no-description-
-AS201135 -no-description-
-AS201137 -no-description-
-AS201138 -no-description-
-AS201144 -no-description-
-AS201147 -no-description-
-AS201151 -no-description-
-AS201181 -no-description-
-AS201182 -no-description-
-AS201186 -no-description-
-AS201191 -no-description-
-AS201193 -no-description-
-AS201195 -no-description-
-AS201204 -no-description-
-AS201211 -no-description-
-AS201224 -no-description-
-AS201231 -no-description-
-AS201244 -no-description-
-AS201247 -no-description-
-AS201250 -no-description-
-AS201267 -no-description-
-AS201268 -no-description-
-AS201270 -no-description-
-AS201275 -no-description-
-AS201282 -no-description-
-AS201285 -no-description-
-AS201294 -no-description-
-AS201296 -no-description-
-AS201297 -no-description-
-AS201298 -no-description-
-AS201302 -no-description-
-AS201312 -no-description-
-AS201327 -no-description-
-AS201368 -no-description-
-AS201389 -no-description-
-AS201394 -no-description-
-AS201414 -no-description-
-AS201417 -no-description-
-AS201429 -no-description-
-AS201430 -no-description-
-AS201443 -no-description-
-AS201465 -no-description-
-AS201468 -no-description-
-AS201469 -no-description-
-AS201475 -no-description-
-AS201477 -no-description-
-AS201495 -no-description-
-AS201496 -no-description-
-AS201498 -no-description-
-AS201499 -no-description-
-AS201511 -no-description-
-AS201512 -no-description-
-AS201513 -no-description-
-AS201515 -no-description-
-AS201551 -no-description-
-AS201555 -no-description-
-AS201556 -no-description-
-AS201564 -no-description-
-AS201570 -no-description-
-AS201571 -no-description-
-AS201578 -no-description-
-AS201582 -no-description-
-AS201588 -no-description-
-AS201593 -no-description-
-AS201606 -no-description-
-AS201624 -no-description-
-AS201631 -no-description-
-AS201643 -no-description-
-AS201646 -no-description-
-AS201669 -no-description-
-AS201677 -no-description-
-AS201706 -no-description-
-AS201717 -no-description-
-AS201721 -no-description-
-AS201745 -no-description-
-AS201752 -no-description-
-AS201757 -no-description-
-AS201774 -no-description-
-AS201776 -no-description-
-AS201778 -no-description-
-AS201781 -no-description-
-AS201786 -no-description-
-AS201788 -no-description-
-AS201794 -no-description-
-AS201797 -no-description-
-AS201800 -no-description-
-AS201804 -no-description-
-AS201820 -no-description-
-AS201825 -no-description-
-AS201826 -no-description-
-AS201835 -no-description-
-AS201839 -no-description-
-AS201842 -no-description-
-AS201844 -no-description-
-AS201848 -no-description-
-AS201851 -no-description-
-AS201858 -no-description-
-AS201861 -no-description-
-AS201913 -no-description-
-AS201914 -no-description-
-AS201916 -no-description-
-AS201929 -no-description-
-AS201945 -no-description-
-AS201952 -no-description-
-AS201956 -no-description-
-AS201970 -no-description-
-AS201972 -no-description-
-AS201974 -no-description-
-AS201994 -no-description-
-AS202009 -no-description-
-AS202011 -no-description-
-AS202058 -no-description-
-AS202070 -no-description-
-AS202078 -no-description-
-AS202079 -no-description-
-AS202082 -no-description-
-AS202091 -no-description-
-AS202104 -no-description-
-AS202127 -no-description-
-AS202136 -no-description-
-AS202150 -no-description-
-AS202156 -no-description-
-AS202164 -no-description-
-AS202173 -no-description-
-AS202181 -no-description-
-AS202202 -no-description-
-AS202231 -no-description-
-AS202234 -no-description-
-AS202250 -no-description-
-AS202273 -no-description-
-AS202279 -no-description-
-AS202289 -no-description-
-AS202290 -no-description-
-AS202317 -no-description-
-AS202342 -no-description-
-AS202344 -no-description-
-AS202378 -no-description-
-AS202406 -no-description-
-AS202423 -no-description-
-AS202432 -no-description-
-AS202446 -no-description-
-AS202486 -no-description-
-AS202493 -no-description-
-AS202498 -no-description-
-AS202501 -no-description-
-AS202508 -no-description-
-AS202510 -no-description-
-AS202533 -no-description-
-AS202535 -no-description-
-AS202537 -no-description-
-AS202542 -no-description-
-AS202570 -no-description-
-AS202576 -no-description-
-AS202578 -no-description-
-AS202594 -no-description-
-AS202611 -no-description-
-AS202619 -no-description-
-AS202629 -no-description-
-AS202633 -no-description-
-AS202642 -no-description-
-AS202650 -no-description-
-AS202674 -no-description-
-AS202689 -no-description-
-AS202696 -no-description-
-AS202700 -no-description-
-AS202717 -no-description-
-AS202734 -no-description-
-AS202752 -no-description-
-AS202760 -no-description-
-AS202764 -no-description-
-AS202765 -no-description-
-AS202768 -no-description-
-AS202778 -no-description-
-AS202781 -no-description-
-AS202795 -no-description-
-AS202800 -no-description-
-AS202801 -no-description-
-AS202802 -no-description-
-AS202804 -no-description-
-AS202806 -no-description-
-AS202824 -no-description-
-AS202832 -no-description-
-AS202835 -no-description-
-AS202838 -no-description-
-AS202852 -no-description-
-AS202871 -no-description-
-AS202873 -no-description-
-AS202880 -no-description-
-AS202906 -no-description-
-AS202923 -no-description-
-AS202934 -no-description-
-AS202935 -no-description-
-AS202951 -no-description-
-AS202961 -no-description-
-AS202963 -no-description-
-AS202974 -no-description-
-AS202984 -no-description-
-AS202985 -no-description-
-AS202989 -no-description-
-AS202999 -no-description-
-AS203002 -no-description-
-AS203004 -no-description-
-AS203006 -no-description-
-AS203049 -no-description-
-AS203093 -no-description-
-AS203097 -no-description-
-AS203117 -no-description-
-AS203118 -no-description-
-AS203131 -no-description-
-AS203139 -no-description-
-AS203163 -no-description-
-AS203173 -no-description-
-AS203190 -no-description-
-AS203203 -no-description-
-AS203252 -no-description-
-AS203270 -no-description-
-AS203290 -no-description-
-AS203319 -no-description-
-AS203337 -no-description-
-AS203344 -no-description-
-AS203353 -no-description-
-AS203371 -no-description-
-AS203387 -no-description-
-AS203395 -no-description-
-AS203401 -no-description-
-AS203407 -no-description-
-AS203444 -no-description-
-AS203451 -no-description-
-AS203454 -no-description-
-AS203473 -no-description-
-AS203492 -no-description-
-AS203493 -no-description-
-AS203494 -no-description-
-AS203498 -no-description-
-AS203504 -no-description-
-AS203509 -no-description-
-AS203510 -no-description-
-AS203513 -no-description-
-AS203514 -no-description-
-AS203516 -no-description-
-AS203517 -no-description-
-AS203527 -no-description-
-AS203533 -no-description-
-AS203542 -no-description-
-AS203549 -no-description-
-AS203561 -no-description-
-AS203563 -no-description-
-AS203599 -no-description-
-AS203627 -no-description-
-AS203668 -no-description-
-AS203695 -no-description-
-AS203697 -no-description-
-AS203699 -no-description-
-AS203714 -no-description-
-AS203725 -no-description-
-AS203730 -no-description-
-AS203746 -no-description-
-AS203747 -no-description-
-AS203748 -no-description-
-AS203749 -no-description-
-AS203750 -no-description-
-AS203784 -no-description-
-AS203791 -no-description-
-AS203794 -no-description-
-AS203803 -no-description-
-AS203805 -no-description-
-AS203806 -no-description-
-AS203816 -no-description-
-AS203831 -no-description-
-AS203832 -no-description-
-AS203841 -no-description-
-AS203844 -no-description-
-AS203870 -no-description-
-AS203883 -no-description-
-AS203891 -no-description-
-AS203907 -no-description-
-AS203919 -no-description-
-AS203921 -no-description-
-AS203922 -no-description-
-AS203956 -no-description-
-AS203972 -no-description-
-AS203988 -no-description-
-AS204014 -no-description-
-AS204039 -no-description-
-AS204040 -no-description-
-AS204041 -no-description-
-AS204048 -no-description-
-AS204049 -no-description-
-AS204067 -no-description-
-AS204076 -no-description-
-AS204077 -no-description-
-AS204102 -no-description-
-AS204112 -no-description-
-AS204117 -no-description-
-AS204128 -no-description-
-AS204137 -no-description-
-AS204144 -no-description-
-AS204153 -no-description-
-AS204159 -no-description-
-AS204161 -no-description-
-AS204169 -no-description-
-AS204173 -no-description-
-AS204198 -no-description-
-AS204199 -no-description-
-AS204211 -no-description-
-AS204217 -no-description-
-AS204219 -no-description-
-AS204226 -no-description-
-AS204231 -no-description-
-AS204237 -no-description-
-AS204255 -no-description-
-AS204259 -no-description-
-AS204271 -no-description-
-AS204272 -no-description-
-AS204276 -no-description-
-AS204277 -no-description-
-AS204292 -no-description-
-AS204297 -no-description-
-AS204298 -no-description-
-AS204304 -no-description-
-AS204305 -no-description-
-AS204311 -no-description-
-AS204314 -no-description-
-AS204323 -no-description-
-AS204337 -no-description-
-AS204338 -no-description-
-AS204350 -no-description-
-AS204354 -no-description-
-AS204357 -no-description-
-AS204362 -no-description-
-AS204424 -no-description-
-AS204433 -no-description-
-AS204435 -no-description-
-AS204459 -no-description-
-AS204477 -no-description-
-AS204489 -no-description-
-AS204490 -no-description-
-AS204492 -no-description-
-AS204495 -no-description-
-AS204507 -no-description-
-AS204520 -no-description-
-AS204525 -no-description-
-AS204551 -no-description-
-AS204553 -no-description-
-AS204564 -no-description-
-AS204574 -no-description-
-AS204576 -no-description-
-AS204582 -no-description-
-AS204587 -no-description-
-AS204600 -no-description-
-AS204603 -no-description-
-AS204623 -no-description-
-AS204656 -no-description-
-AS204665 -no-description-
-AS204678 -no-description-
-AS204696 -no-description-
-AS204703 -no-description-
-AS204713 -no-description-
-AS204720 -no-description-
-AS204735 -no-description-
-AS204738 -no-description-
-AS204752 -no-description-
-AS204768 -no-description-
-AS204791 -no-description-
-AS204792 -no-description-
-AS204820 -no-description-
-AS204822 -no-description-
-AS204825 -no-description-
-AS204827 -no-description-
-AS204833 -no-description-
-AS204846 -no-description-
-AS204848 -no-description-
-AS204878 -no-description-
-AS204891 -no-description-
-AS204895 -no-description-
-AS204898 -no-description-
-AS204908 -no-description-
-AS204910 -no-description-
-AS204919 -no-description-
-AS204921 -no-description-
-AS204925 -no-description-
-AS204941 -no-description-
-AS204952 -no-description-
-AS204961 -no-description-
-AS204980 -no-description-
-AS204985 -no-description-
-AS204991 -no-description-
-AS205009 -no-description-
-AS205022 -no-description-
-AS205040 -no-description-
-AS205047 -no-description-
-AS205060 -no-description-
-AS205062 -no-description-
-AS205063 -no-description-
-AS205070 -no-description-
-AS205076 -no-description-
-AS205084 -no-description-
-AS205126 -no-description-
-AS205130 -no-description-
-AS205135 -no-description-
-AS205153 -no-description-
-AS205161 -no-description-
-AS205162 -no-description-
-AS205194 -no-description-
-AS205221 -no-description-
-AS205226 -no-description-
-AS205230 -no-description-
-AS205236 -no-description-
-AS205246 -no-description-
-AS205264 -no-description-
-AS205297 -no-description-
-AS205305 -no-description-
-AS205312 -no-description-
-AS205324 -no-description-
-AS205326 -no-description-
-AS205349 -no-description-
-AS205378 -no-description-
-AS205391 -no-description-
-AS205396 -no-description-
-AS205412 -no-description-
-AS205433 -no-description-
-AS205438 -no-description-
-AS205439 -no-description-
-AS205442 -no-description-
-AS205454 -no-description-
-AS205460 -no-description-
-AS205482 -no-description-
-AS205489 -no-description-
-AS205495 -no-description-
-AS205500 -no-description-
-AS205515 -no-description-
-AS205528 -no-description-
-AS205553 -no-description-
-AS205562 -no-description-
-AS205567 -no-description-
-AS205569 -no-description-
-AS205576 -no-description-
-AS205595 -no-description-
-AS205601 -no-description-
-AS205611 -no-description-
-AS205616 -no-description-
-AS205628 -no-description-
-AS205638 -no-description-
-AS205641 -no-description-
-AS205652 -no-description-
-AS205657 -no-description-
-AS205672 -no-description-
-AS205682 -no-description-
-AS205701 -no-description-
-AS205702 -no-description-
-AS205710 -no-description-
-AS205711 -no-description-
-AS205717 -no-description-
-AS205720 -no-description-
-AS205735 -no-description-
-AS205750 -no-description-
-AS205754 -no-description-
-AS205773 -no-description-
-AS205781 -no-description-
-AS205784 -no-description-
-AS205822 -no-description-
-AS205824 -no-description-
-AS205830 -no-description-
-AS205840 -no-description-
-AS205849 -no-description-
-AS205858 -no-description-
-AS205864 -no-description-
-AS205865 -no-description-
-AS205880 -no-description-
-AS205886 -no-description-
-AS205922 -no-description-
-AS205952 -no-description-
-AS205954 -no-description-
-AS205963 -no-description-
-AS205971 -no-description-
-AS205978 -no-description-
-AS205998 -no-description-
-AS206011 -no-description-
-AS206012 -no-description-
-AS206016 -no-description-
-AS206027 -no-description-
-AS206039 -no-description-
-AS206054 -no-description-
-AS206066 -no-description-
-AS206069 -no-description-
-AS206083 -no-description-
-AS206115 -no-description-
-AS206116 -no-description-
-AS206134 -no-description-
-AS206152 -no-description-
-AS206153 -no-description-
-AS206156 -no-description-
-AS206167 -no-description-
-AS206171 -no-description-
-AS206179 -no-description-
-AS206181 -no-description-
-AS206213 -no-description-
-AS206243 -no-description-
-AS206256 -no-description-
-AS206269 -no-description-
-AS206295 -no-description-
-AS206301 -no-description-
-AS206323 -no-description-
-AS206333 -no-description-
-AS206334 -no-description-
-AS206337 -no-description-
-AS206338 -no-description-
-AS206357 -no-description-
-AS206365 -no-description-
-AS206385 -no-description-
-AS206386 -no-description-
-AS206395 -no-description-
-AS206396 -no-description-
-AS206403 -no-description-
-AS206407 -no-description-
-AS206419 -no-description-
-AS206424 -no-description-
-AS206435 -no-description-
-AS206448 -no-description-
-AS206465 -no-description-
-AS206515 -no-description-
-AS206527 -no-description-
-AS206536 -no-description-
-AS206538 -no-description-
-AS206572 -no-description-
-AS206573 -no-description-
-AS206585 -no-description-
-AS206630 -no-description-
-AS206631 -no-description-
-AS206647 -no-description-
-AS206649 -no-description-
-AS206653 -no-description-
-AS206661 -no-description-
-AS206668 -no-description-
-AS206673 -no-description-
-AS206680 -no-description-
-AS206684 -no-description-
-AS206696 -no-description-
-AS206707 -no-description-
-AS206708 -no-description-
-AS206710 -no-description-
-AS206724 -no-description-
-AS206728 -no-description-
-AS206756 -no-description-
-AS206760 -no-description-
-AS206764 -no-description-
-AS206767 -no-description-
-AS206803 -no-description-
-AS206805 -no-description-
-AS206810 -no-description-
-AS206812 -no-description-
-AS206817 -no-description-
-AS206820 -no-description-
-AS206827 -no-description-
-AS206845 -no-description-
-AS206850 -no-description-
-AS206871 -no-description-
-AS206873 -no-description-
-AS206904 -no-description-
-AS206905 -no-description-
-AS206916 -no-description-
-AS206926 -no-description-
-AS206955 -no-description-
-AS206965 -no-description-
-AS206968 -no-description-
-AS206973 -no-description-
-AS207005 -no-description-
-AS207016 -no-description-
-AS207025 -no-description-
-AS207027 -no-description-
-AS207055 -no-description-
-AS207056 -no-description-
-AS207064 -no-description-
-AS207078 -no-description-
-AS207093 -no-description-
-AS207103 -no-description-
-AS207104 -no-description-
-AS207124 -no-description-
-AS207128 -no-description-
-AS207133 -no-description-
-AS207165 -no-description-
-AS207168 -no-description-
-AS207205 -no-description-
-AS207207 -no-description-
-AS207209 -no-description-
-AS207228 -no-description-
-AS207235 -no-description-
-AS207239 -no-description-
-AS207240 -no-description-
-AS207256 -no-description-
-AS207258 -no-description-
-AS207259 -no-description-
-AS207284 -no-description-
-AS207288 -no-description-
-AS207321 -no-description-
-AS207340 -no-description-
-AS207344 -no-description-
-AS207347 -no-description-
-AS207351 -no-description-
-AS207353 -no-description-
-AS207361 -no-description-
-AS207362 -no-description-
-AS207373 -no-description-
-AS207376 -no-description-
-AS207380 -no-description-
-AS207382 -no-description-
-AS207384 -no-description-
-AS207387 -no-description-
-AS207397 -no-description-
-AS207423 -no-description-
-AS207433 -no-description-
-AS207438 -no-description-
-AS207447 -no-description-
-AS207457 -no-description-
-AS207472 -no-description-
-AS207473 -no-description-
-AS207479 -no-description-
-AS207490 -no-description-
-AS207496 -no-description-
-AS207501 -no-description-
-AS207504 -no-description-
-AS207518 -no-description-
-AS207532 -no-description-
-AS207542 -no-description-
-AS207547 -no-description-
-AS207548 -no-description-
-AS207561 -no-description-
-AS207581 -no-description-
-AS207634 -no-description-
-AS207648 -no-description-
-AS207651 -no-description-
-AS207657 -no-description-
-AS207665 -no-description-
-AS207676 -no-description-
-AS207692 -no-description-
-AS207698 -no-description-
-AS207713 -no-description-
-AS207718 -no-description-
-AS207744 -no-description-
-AS207753 -no-description-
-AS207769 -no-description-
-AS207794 -no-description-
-AS207804 -no-description-
-AS207822 -no-description-
-AS207839 -no-description-
-AS207853 -no-description-
-AS207859 -no-description-
-AS207867 -no-description-
-AS207873 -no-description-
-AS207874 -no-description-
-AS207875 -no-description-
-AS207883 -no-description-
-AS207909 -no-description-
-AS207911 -no-description-
-AS207935 -no-description-
-AS207952 -no-description-
-AS207954 -no-description-
-AS207967 -no-description-
-AS207970 -no-description-
-AS207977 -no-description-
-AS207978 -no-description-
-AS207979 -no-description-
-AS207984 -no-description-
-AS207986 -no-description-
-AS207997 -no-description-
-AS208003 -no-description-
-AS208008 -no-description-
-AS208044 -no-description-
-AS208047 -no-description-
-AS208056 -no-description-
-AS208061 -no-description-
-AS208075 -no-description-
-AS208083 -no-description-
-AS208087 -no-description-
-AS208090 -no-description-
-AS208092 -no-description-
-AS208099 -no-description-
-AS208100 -no-description-
-AS208102 -no-description-
-AS208107 -no-description-
-AS208111 -no-description-
-AS208129 -no-description-
-AS208142 -no-description-
-AS208155 -no-description-
-AS208165 -no-description-
-AS208173 -no-description-
-AS208177 -no-description-
-AS208178 -no-description-
-AS208186 -no-description-
-AS208193 -no-description-
-AS208207 -no-description-
-AS208219 -no-description-
-AS208221 -no-description-
-AS208274 -no-description-
-AS208291 -no-description-
-AS208300 -no-description-
-AS208303 -no-description-
-AS208312 -no-description-
-AS208314 -no-description-
-AS208325 -no-description-
-AS208335 -no-description-
-AS208345 -no-description-
-AS208349 -no-description-
-AS208352 -no-description-
-AS208357 -no-description-
-AS208360 -no-description-
-AS208371 -no-description-
-AS208380 -no-description-
-AS208388 -no-description-
-AS208397 -no-description-
-AS208409 -no-description-
-AS208411 -no-description-
-AS208413 -no-description-
-AS208435 -no-description-
-AS208447 -no-description-
-AS208456 -no-description-
-AS208461 -no-description-
-AS208481 -no-description-
-AS208502 -no-description-
-AS208503 -no-description-
-AS208511 -no-description-
-AS208534 -no-description-
-AS208541 -no-description-
-AS208544 -no-description-
-AS208547 -no-description-
-AS208573 -no-description-
-AS208587 -no-description-
-AS208604 -no-description-
-AS208605 -no-description-
-AS208615 -no-description-
-AS208626 -no-description-
-AS208629 -no-description-
-AS208631 -no-description-
-AS208640 -no-description-
-AS208649 -no-description-
-AS208657 -no-description-
-AS208677 -no-description-
-AS208701 -no-description-
-AS208720 -no-description-
-AS208729 -no-description-
-AS208739 -no-description-
-AS208748 -no-description-
-AS208752 -no-description-
-AS208762 -no-description-
-AS208774 -no-description-
-AS208777 -no-description-
-AS208780 -no-description-
-AS208786 -no-description-
-AS208793 -no-description-
-AS208801 -no-description-
-AS208803 -no-description-
-AS208811 -no-description-
-AS208825 -no-description-
-AS208827 -no-description-
-AS208838 -no-description-
-AS208879 -no-description-
-AS208890 -no-description-
-AS208894 -no-description-
-AS208903 -no-description-
-AS208912 -no-description-
-AS208936 -no-description-
-AS208945 -no-description-
-AS208954 -no-description-
-AS208955 -no-description-
-AS208975 -no-description-
-AS208977 -no-description-
-AS208981 -no-description-
-AS208991 -no-description-
-AS208992 -no-description-
-AS209005 -no-description-
-AS209008 -no-description-
-AS209019 -no-description-
-AS209024 -no-description-
-AS209030 -no-description-
-AS209037 -no-description-
-AS209038 -no-description-
-AS209059 -no-description-
-AS209067 -no-description-
-AS209084 -no-description-
-AS209096 -no-description-
-AS209099 -no-description-
-AS209112 -no-description-
-AS209119 -no-description-
-AS209141 -no-description-
-AS209179 -no-description-
-AS209206 -no-description-
-AS209217 -no-description-
-AS209219 -no-description-
-AS209228 -no-description-
-AS209248 -no-description-
-AS209284 -no-description-
-AS209289 -no-description-
-AS209303 -no-description-
-AS209307 -no-description-
-AS209313 -no-description-
-AS209339 -no-description-
-AS209343 -no-description-
-AS209351 -no-description-
-AS209352 -no-description-
-AS209361 -no-description-
-AS209367 -no-description-
-AS209376 -no-description-
-AS209393 -no-description-
-AS209406 -no-description-
-AS209415 -no-description-
-AS209420 -no-description-
-AS209436 -no-description-
-AS209445 -no-description-
-AS209446 -no-description-
-AS209448 -no-description-
-AS209456 -no-description-
-AS209458 -no-description-
-AS209473 -no-description-
-AS209476 -no-description-
-AS209511 -no-description-
-AS209517 -no-description-
-AS209520 -no-description-
-AS209546 -no-description-
-AS209592 -no-description-
-AS209599 -no-description-
-AS209636 -no-description-
-AS209639 -no-description-
-AS209655 -no-description-
-AS209656 -no-description-
-AS209657 -no-description-
-AS209660 -no-description-
-AS209666 -no-description-
-AS209667 -no-description-
-AS209668 -no-description-
-AS209679 -no-description-
-AS209683 -no-description-
-AS209684 -no-description-
-AS209687 -no-description-
-AS209695 -no-description-
-AS209698 -no-description-
-AS209701 -no-description-
-AS209720 -no-description-
-AS209728 -no-description-
-AS209734 -no-description-
-AS209739 -no-description-
-AS209746 -no-description-
-AS209747 -no-description-
-AS209751 -no-description-
-AS209755 -no-description-
-AS209758 -no-description-
-AS209759 -no-description-
-AS209773 -no-description-
-AS209775 -no-description-
-AS209779 -no-description-
-AS209785 -no-description-
-AS209787 -no-description-
-AS209788 -no-description-
-AS209789 -no-description-
-AS209794 -no-description-
-AS209796 -no-description-
-AS209805 -no-description-
-AS209821 -no-description-
-AS209847 -no-description-
-AS209867 -no-description-
-AS209873 -no-description-
-AS209885 -no-description-
-AS209890 -no-description-
-AS209911 -no-description-
-AS209926 -no-description-
-AS209930 -no-description-
-AS209950 -no-description-
-AS209954 -no-description-
-AS209955 -no-description-
-AS209962 -no-description-
-AS209973 -no-description-
-AS209974 -no-description-
-AS210028 -no-description-
-AS210033 -no-description-
-AS210038 -no-description-
-AS210047 -no-description-
-AS210063 -no-description-
-AS210071 -no-description-
-AS210078 -no-description-
-AS210079 -no-description-
-AS210093 -no-description-
-AS210109 -no-description-
-AS210113 -no-description-
-AS210135 -no-description-
-AS210160 -no-description-
-AS210171 -no-description-
-AS210188 -no-description-
-AS210200 -no-description-
-AS210201 -no-description-
-AS210209 -no-description-
-AS210223 -no-description-
-AS210239 -no-description-
-AS210240 -no-description-
-AS210267 -no-description-
-AS210276 -no-description-
-AS210328 -no-description-
-AS210342 -no-description-
-AS210352 -no-description-
-AS210357 -no-description-
-AS210380 -no-description-
-AS210416 -no-description-
-AS210431 -no-description-
-AS210443 -no-description-
-AS210447 -no-description-
-AS210451 -no-description-
-AS210471 -no-description-
-AS210481 -no-description-
-AS210491 -no-description-
-AS210493 -no-description-
-AS210494 -no-description-
-AS210512 -no-description-
-AS210525 -no-description-
-AS210540 -no-description-
-AS210552 -no-description-
-AS210553 -no-description-
-AS210600 -no-description-
-AS210616 -no-description-
-AS210656 -no-description-
-AS210682 -no-description-
-AS210698 -no-description-
-AS210702 -no-description-
-AS210706 -no-description-
-AS210720 -no-description-
-AS210725 -no-description-
-AS210726 -no-description-
-AS210735 -no-description-
-AS210739 -no-description-
-AS210753 -no-description-
-AS210756 -no-description-
-AS210766 -no-description-
-AS210778 -no-description-
-AS210786 -no-description-
-AS210787 -no-description-
-AS210827 -no-description-
-AS210828 -no-description-
-AS210868 -no-description-
-AS210889 -no-description-
-AS210894 -no-description-
-AS210899 -no-description-
-AS210914 -no-description-
-AS210928 -no-description-
-AS210931 -no-description-
-AS210954 -no-description-
-AS210989 -no-description-
-AS211000 -no-description-
-AS211002 -no-description-
-AS211027 -no-description-
-AS211045 -no-description-
-AS211076 -no-description-
-AS211078 -no-description-
-AS211082 -no-description-
-AS211101 -no-description-
-AS211134 -no-description-
-AS211150 -no-description-
-AS211164 -no-description-
-AS211173 -no-description-
-AS211183 -no-description-
-AS211185 -no-description-
-AS211202 -no-description-
-AS211221 -no-description-
-AS211229 -no-description-
-AS211240 -no-description-
-AS211241 -no-description-
-AS211245 -no-description-
-AS211246 -no-description-
-AS211247 -no-description-
-AS211258 -no-description-
-AS211270 -no-description-
-AS211282 -no-description-
-AS211291 -no-description-
-AS211311 -no-description-
-AS211333 -no-description-
-AS211347 -no-description-
-AS211362 -no-description-
-AS211366 -no-description-
-AS211379 -no-description-
-AS211382 -no-description-
-AS211399 -no-description-
-AS211400 -no-description-
-AS211404 -no-description-
-AS211406 -no-description-
-AS211409 -no-description-
-AS211446 -no-description-
-AS211473 -no-description-
-AS211497 -no-description-
-AS211503 -no-description-
-AS211506 -no-description-
-AS211508 -no-description-
-AS211515 -no-description-
-AS211520 -no-description-
-AS211525 -no-description-
-AS211529 -no-description-
-AS211530 -no-description-
-AS211532 -no-description-
-AS211542 -no-description-
-AS211563 -no-description-
-AS211590 -no-description-
-AS211605 -no-description-
-AS211609 -no-description-
-AS211613 -no-description-
-AS211616 -no-description-
-AS211618 -no-description-
-AS211624 -no-description-
-AS211625 -no-description-
-AS211626 -no-description-
-AS211631 -no-description-
-AS211637 -no-description-
-AS211639 -no-description-
-AS211641 -no-description-
-AS211642 -no-description-
-AS211674 -no-description-
-AS211697 -no-description-
-AS211708 -no-description-
-AS211712 -no-description-
-AS211714 -no-description-
-AS211716 -no-description-
-AS211724 -no-description-
-AS211730 -no-description-
-AS211762 -no-description-
-AS211773 -no-description-
-AS211778 -no-description-
-AS211791 -no-description-
-AS211795 -no-description-
-AS211796 -no-description-
-AS211801 -no-description-
-AS211805 -no-description-
-AS211821 -no-description-
-AS211825 -no-description-
-AS211830 -no-description-
-AS211866 -no-description-
-AS211867 -no-description-
-AS211883 -no-description-
-AS211914 -no-description-
-AS211915 -no-description-
-AS211928 -no-description-
-AS211930 -no-description-
-AS211932 -no-description-
-AS211933 -no-description-
-AS211951 -no-description-
-AS211963 -no-description-
-AS212006 -no-description-
-AS212015 -no-description-
-AS212016 -no-description-
-AS212030 -no-description-
-AS212075 -no-description-
-AS212092 -no-description-
-AS212093 -no-description-
-AS212095 -no-description-
-AS212099 -no-description-
-AS212113 -no-description-
-AS212114 -no-description-
-AS212126 -no-description-
-AS212128 -no-description-
-AS212134 -no-description-
-AS212136 -no-description-
-AS212160 -no-description-
-AS212165 -no-description-
-AS212199 -no-description-
-AS212205 -no-description-
-AS212206 -no-description-
-AS212210 -no-description-
-AS212211 -no-description-
-AS212213 -no-description-
-AS212214 -no-description-
-AS212220 -no-description-
-AS212234 -no-description-
-AS212236 -no-description-
-AS212247 -no-description-
-AS212254 -no-description-
-AS212260 -no-description-
-AS212264 -no-description-
-AS212266 -no-description-
-AS212272 -no-description-
-AS212273 -no-description-
-AS212275 -no-description-
-AS212277 -no-description-
-AS212278 -no-description-
-AS212288 -no-description-
-AS212303 -no-description-
-AS212308 -no-description-
-AS212333 -no-description-
-AS212352 -no-description-
-AS212395 -no-description-
-AS212410 -no-description-
-AS212414 -no-description-
-AS212421 -no-description-
-AS212423 -no-description-
-AS212429 -no-description-
-AS212439 -no-description-
-AS212441 -no-description-
-AS212443 -no-description-
-AS212452 -no-description-
-AS212456 -no-description-
-AS212461 -no-description-
-AS212480 -no-description-
-AS212487 -no-description-
-AS212490 -no-description-
-AS212491 -no-description-
-AS212494 -no-description-
-AS212521 -no-description-
-AS212545 -no-description-
-AS212566 -no-description-
-AS212575 -no-description-
-AS212600 -no-description-
-AS212611 -no-description-
-AS212614 -no-description-
-AS212620 -no-description-
-AS212624 -no-description-
-AS212667 -no-description-
-AS212670 -no-description-
-AS212673 -no-description-
-AS212675 -no-description-
-AS212681 -no-description-
-AS212702 -no-description-
-AS212712 -no-description-
-AS212713 -no-description-
-AS212732 -no-description-
-AS212740 -no-description-
-AS212747 -no-description-
-AS212748 -no-description-
-AS212750 -no-description-
-AS212764 -no-description-
-AS212776 -no-description-
-AS212787 -no-description-
-AS212800 -no-description-
-AS212840 -no-description-
-AS212863 -no-description-
-AS212869 -no-description-
-AS212883 -no-description-
-AS212899 -no-description-
-AS212919 -no-description-
-AS212936 -no-description-
-AS212959 -no-description-
-AS212964 -no-description-
-AS212967 -no-description-
-AS212980 -no-description-
-AS213012 -no-description-
-AS213041 -no-description-
-AS213046 -no-description-
-AS213067 -no-description-
-AS213075 -no-description-
-AS213077 -no-description-
-AS213117 -no-description-
-AS213133 -no-description-
-AS213175 -no-description-
-AS213182 -no-description-
-AS213191 -no-description-
-AS213203 -no-description-
-AS213220 -no-description-
-AS213235 -no-description-
-AS213254 -no-description-
-AS213258 -no-description-
-AS213278 -no-description-
-AS213304 -no-description-
-AS213329 -no-description-
-AS213334 -no-description-
-AS213348 -no-description-
-AS213369 -no-description-
-AS213381 -no-description-
-AS213393 -no-description-
-AS213403 -no-description-
-AS215013 -no-description-
-AS215031 -no-description-
-AS215032 -no-description-
-AS215037 -no-description-
-AS215055 -no-description-
-AS215070 -no-description-
-AS215074 -no-description-
-AS215077 -no-description-
-AS215092 -no-description-
-AS215096 -no-description-
-AS215098 -no-description-
-AS215106 -no-description-
-AS215110 -no-description-
-AS215115 -no-description-
-AS215116 -no-description-
-AS215121 -no-description-
-AS215167 -no-description-
-AS215170 -no-description-
-AS215179 -no-description-
-AS215182 -no-description-
-AS215206 -no-description-
-AS215226 -no-description-
-AS215244 -no-description-
-AS215247 -no-description-
-AS215279 -no-description-
-AS215302 -no-description-
-AS215305 -no-description-
-AS215306 -no-description-
-AS215307 -no-description-
-AS215314 -no-description-
-AS215336 -no-description-
-AS215346 -no-description-
-AS215349 -no-description-
-AS215357 -no-description-
-AS215376 -no-description-
-AS215394 -no-description-
-AS215402 -no-description-
-AS215425 -no-description-
-AS215438 -no-description-
-AS215443 -no-description-
-AS215445 -no-description-
-AS215455 -no-description-
-AS215456 -no-description-
-AS215457 -no-description-
-AS215469 -no-description-
-AS215474 -no-description-
-AS215498 -no-description-
-AS215503 -no-description-
-AS215534 -no-description-
-AS215572 -no-description-
-AS215584 -no-description-
-AS215591 -no-description-
-AS215601 -no-description-
-AS215613 -no-description-
-AS215623 -no-description-
-AS215632 -no-description-
-AS215646 -no-description-
-AS215654 -no-description-
-AS215678 -no-description-
-AS215688 -no-description-
-AS215705 -no-description-
-AS215721 -no-description-
-AS215796 -no-description-
-AS215805 -no-description-
-AS215818 -no-description-
-AS215851 -no-description-
-AS215881 -no-description-
-AS215882 -no-description-
-AS215895 -no-description-
-AS215897 -no-description-
-AS215924 -no-description-
-AS215948 -no-description-
-AS215979 -no-description-
-AS215983 -no-description-
-AS215997 -no-description-
-AS216011 -no-description-
-AS216027 -no-description-
-AS216033 -no-description-
-AS216062 -no-description-
-AS216068 -no-description-
-AS216080 -no-description-
-AS216090 -no-description-
-AS216103 -no-description-
-AS216109 -no-description-
-AS216119 -no-description-
-AS216140 -no-description-
-AS216158 -no-description-
-AS216185 -no-description-
-AS216203 -no-description-
-AS216214 -no-description-
-AS216218 -no-description-
-AS216234 -no-description-
-AS216235 -no-description-
-AS216246 -no-description-
-AS216247 -no-description-
-AS216248 -no-description-
-AS216264 -no-description-
-AS216317 -no-description-
-AS216322 -no-description-
-AS216332 -no-description-
-AS216334 -no-description-
-AS216335 -no-description-
-AS216348 -no-description-
-AS216363 -no-description-
-AS216365 -no-description-
-AS216366 -no-description-
-AS216377 -no-description-
-AS216378 -no-description-
-AS216379 -no-description-
-AS216423 -no-description-
+AS59502 SO-AS (Sozvezdiye Oriona Ltd.)
+AS59504 vpsville-AS (LLC Vpsville)
+AS59508 kl-net ("Krasnoyarsk network" Ltd.)
+AS59509 RESOURCE-MEDIA (LLC "Resource-Media")
+AS59512 COALCO-AS (Coalco Development Ltd)
+AS59513 SEVENTECH (SevenTech LLC)
+AS59515 INTER-COM-AS (Inter.Com Ltd)
+AS59516 ASLANAMAR (Lanamar, Ltd.)
+AS59517 ASMULTISTREAM (Multistream Ltd.)
+AS59525 SIBGENKO ("Siberian generating company" Limited liability company)
+AS59530 AUTO (OOO "Izdatelstvo EKSMO")
+AS59533 LUKYANOVA-AS (Lukjanova Lydia Andreevna PE)
+AS59534 NAVIGATOR-MUROM-AS (Navigator Ltd)
+AS59535 Orange_Group_HH-AS (Orange Group HH Ltd.)
+AS59537 ASLIDERTELECOM (Lider-Telecom LLC)
+AS59539 PITER-IX-ROSTOV (Piter-IX Co. Ltd.)
+AS59541 IORTPC-AS (Federal State-owned Enterprise "Russian Television and Radio Broadcasting Network")
+AS59549 ASVIKINGSERVIS (IMPULS-TV Ltd.)
+AS59557 ASSTATUSTELECOM (Status Telecom Ltd.)
+AS59558 RCP-AS (RC Prikamya Ltd.)
+AS59559 ASGREENLINE (Elektronnyj Yugansk Ltd)
+AS59561 ASTLTSU (FGBOU VPO "Tolyattinskiy gosudarstvennyiy universitet")
+AS59571 APPSMINISTRY-AS (Apps Ministry LLC)
+AS59574 AS-STUPINO-NET (Limited Liability Company SKS Telecom)
+AS59575 AS-NEWAGE (RISE-TELECOM LLC)
+AS59580 BATTERFLYAIMEDIA-AS (Batterflyai Media ltd.)
+AS59584 INDIKOM-AS (INDIKOM LLC)
+AS59589 novitatelecom (NOVITATELECOM LLC)
+AS59591 WIRENET_AS (WIRENET LLC)
+AS59595 ASTENETATELEKOM (Teneta Telekom Ltd.)
+AS59596 ASKNET (PE Kosolapov Konstantin Gennadevich)
+AS59600 ATLAS-TELECOM-AS (Atlas Telecom Ltd.)
+AS59601 HEADHUNTER-OFFICE-AS (Limited Liability Company HeadHunter)
+AS59603 Kamchatka-AS (Regional state independent organization "The information and techonological center of Kamchatka")
+AS59604 INFOTECS-AS (InfoTeCS JSC)
+AS59606 ETP-AS (AO "ETP")
+AS59612 DANCER-AS (Dancer LLC)
+AS59614 URALMICRO-AS (Uralmicro Ltd)
+AS59616 BAIKAL-TELEPORT-AS (Baikal Teleport CJSC)
+AS59624 KIAE-COMPUTING-AS (National Research Center "Kurchatov Institute")
+AS59627 DOCKER-RU-AS (Docker LTD)
+AS59637 ASRSINET (RamSvyazInvest LLC)
+AS59639 LUREIT-AS (LLC "LURE IT")
+AS59640 RESO-GARANTIA-AS (Insurance company "RESO-GARANTIA")
+AS59641 BESTHOLDING-ASN (LLC Vnesheconomprod)
+AS59653 ATEL-AS (Alpha Online Ltd)
+AS59656 ER76-AS (GBU Yaroslavskoy Oblasti "Electrony Region")
+AS59661 Telekom365-AS (LLC Telekom365)
+AS59663 Oline-contact (OOO "Kontakt Centr Otkrytaya Liniya")
+AS59665 ULTRATEL-AS (Ultra-Telecom LLC)
+AS59666 ZETTALINE-AS (FORTEX CJSC)
+AS59667 AUDIOTELE-AS (AUDIOTELE JSC)
+AS59672 TDDT-AS (Torgovyi dom detskikh tovarov Ltd.)
+AS59673 EETP (EETP, JSC)
+AS59679 ARZHI-AS (Agenstvo po rasprostraneniu zarubejnih izdaniy OJSC)
+AS59683 iridatelecom (VipNet Ltd)
+AS59687 KOMTELEKOM-AS ("Metropolitan Telecommunications Company "Komtelekom" LLC)
+AS59688 MARKET-FA ("Market Fund Administration" Limited Liability Company)
+AS59693 AS-INTRONEX (Intronex Setevye Resheniya Ltd.)
+AS59696 ADMKRSK (Municipality of Krasnoyarsk City)
+AS59698 DWDM-AS (DWDM.RU llc)
+AS59712 RBIX-NET (JSC "Ufanet")
+AS59713 ERTH-KURSK-AS (JSC "ER-Telecom Holding")
+AS59714 KSU-AS (Federal State Budgetary Educational Institution of Higher Education "Kurgan State University")
+AS59718 UPECO-AS (UNIBRAND LLC.)
+AS59722 ROSSIA-AIRLINES-AS (JSC ROSSIYA-AIRLINES)
+AS59726 ARCTEL-AS59726 (ARCTIC TELECOM Limited Liability Company)
+AS59731 LIFELINK-AS (Life-Link LLC)
+AS59734 INET-RU-AS (Inet.ru Ltd.)
+AS59738 FOKKS-AS (Promyshlennaya Avtomatika Ltd.)
+AS59740 GORSETI (City Networks Ltd)
+AS59744 RU-CRIMEANET-AS (Nemerov Evgeniy Vladimirovish PE)
+AS59792 MMK-AS (Microfinance company Bystrodengi LLC)
+AS59793 CISP-AS (Corporate Internet Service Provider LLC)
+AS59801 GIVC (Main Center of Information and Computing Ministry of culture of Russian Federation)
+AS59815 TRK-METRO-AS (Kompeatelecom Ltd.)
+AS59823 MTRIX-ALCHEVSK-AS (Osipenko Alexander Nikolaevich)
+AS59825 VURNARY-AS (Infanet Ltd.)
+AS59831 MegaTelekom-AS (MegaTelekom. Ltd)
+AS59833 SEVTELECOM-AS (JSC Sevastopol Telekom)
+AS59837 GLOBALPORTS-AS (MANAGING COMPANY GLOBAL PORTS Ltd.)
+AS59840 BALTBANK-AS (JSC "Alfa-Bank")
+AS59846 FGC-AS (PJSC FGC UES)
+AS59848 LURE-TRANSIT-AS (LLC "LURE IT")
+AS59850 ZARPLATA-RU-AS ("Zarplata.ru" Limited Liability Company)
+AS59867 OPTILINK-AS (Optilink LLC)
+AS59883 VTELL-AS (Global Telecom LLC)
+AS59906 MILANDR (JSC "ICC MILANDR")
+AS59916 FORTEINVEST-AS (ForteInvest JSC)
+AS59917 OTK (OTK LLC.)
+AS59928 ELECTROSIGNAL (OJSC Electrosignal Corp.)
+AS59935 TUI-AS (TT-Travel LLC)
+AS59941 EVERGREEN-AS (JSC EVER GREEN)
+AS59946 ORBITA-AS (LLC "Certification Center Orbita")
+AS59954 TN-IX-RS (Truenetwork LLC)
+AS59957 BILLING-CENTER-AS (CJSC "BILLINGOVYI CENTER")
+AS59960 Mega-AS (Mega Ltd.)
+AS59975 PLAYTELECOM (Play-Telecom LLC.)
+AS59994 TecsGroup-AS (TecsGroup Ltd)
+AS60002 Terabait-AS (K Telecom Neyva LLC)
+AS60005 IT-service-AS (IT-service LLC)
+AS60006 RADUGA-TELECOM (Raduga-Telecom LLC)
+AS60028 ALATYR-AS (Alatyr Telecom Ltd.)
+AS60029 TV-MYTISCHI ("TV Mytischi" MAU)
+AS60034 SOFTLINE-INTG (Softline Integration LLC)
+AS60040 RBS-ITP (LLC Runet Business Systems)
+AS60042 OnTelecom-AS (OnTelecom LLC)
+AS60043 CENTRODOM-AS (JSC "ER-Telecom Holding")
+AS60048 FARMAIMPEX-AS (Farmaimpex LLC)
+AS60058 IT-Osoba-AS ("IT Osoba" LLC)
+AS60062 ThreeDATA-AS (3DATA LLC)
+AS60065 LICARD-EU-AS (OOO LICARD)
+AS60067 N-Telecom-AS (N-Telecom Ltd)
+AS60072 EGS-Telecom-AS (LLC EGS-Telecom)
+AS60075 GORODOK-NET (Gorodok Ltd.)
+AS60081 LAMPYRIS-AS (Che-System LLC)
+AS60085 Connect-AS (LLC "Connect")
+AS60095 NN-AS (JSC "Ufanet")
+AS60098 INSITINVEST-AS (CJSC Insit-Invest)
+AS60108 FUSION-AS (Fusion Ltd.)
+AS60119 EDINOS-AS (Novosibirsk Telecommunication Company Ltd.)
+AS60122 SBERBANK-VDI (Sberbank of Russia PJSC)
+AS60124 AMIGOS-AS (LLC "AMIGOS")
+AS60139 Sever-Telecom (Sever Telecom JSC)
+AS60151 RARUS-AS (Limited Liability Company "1C-Rarus Integration Projects")
+AS60162 CLOUDDC-AS (LLC IMT)
+AS60165 DIALOG-AS (Dialog Ltd.)
+AS60172 YARNET-KALUGA (YARNET LLC)
+AS60177 PARI (Limited Liability Company BUKMEKERSKAYA KONTORA PARI)
+AS60179 YARMIAC (GBU RS(Y) YARMIAC)
+AS60180 NEW (Dmitrii Aleksandrovich Miasnikov)
+AS60192 RZN-AS (JSC "Ufanet")
+AS60216 FAITID-AS (Foundation for Assistance for Internet Technologies and Infrastructure Development)
+AS60224 TelematikaNET (TelematikaNET LLC)
+AS60231 CityTravel (TRAVELSOFT LLC)
+AS60245 NET-23NET-AS (Sannikov Kirill Vladimirovich)
+AS60246 PG-19 (Consumer Internet Cooperative PG-19)
+AS60252 OST-LLC-AS ("OBIT" Ltd.)
+AS60263 RADISTR-AS (Radistr LLC)
+AS60283 START-AS (Start.Ru LLC)
+AS60287 IPDOM-AS (IPDOM LLC)
+AS60290 JSC-AS (LLC "CENTRAL CASH REGISTER")
+AS60292 MediaCom-Arch (OOO "MediaSeti")
+AS60299 MMTS-AS (Mezhdugorodnyaya Mezhdunarodnaya Telefonnaya Stanciya Ltd.)
+AS60308 INTERNETTECHNOLOGY (Internet Technology Ltd.)
+AS60312 FIVECOM-AS (5COM OOO)
+AS60328 scomm (Service-Communication LLC)
+AS60329 SAFIB (LLC SAFIB)
+AS60338 EDUNET2-AS (Citytelecom LLC)
+AS60343 ROSCAP-AS (Joint Stock Company "Bank DOM.RF")
+AS60346 V_F_Tanker-AS (AO "Sudokhodnaya kompaniya "Volzhskoye parokhodstvo")
+AS60347 INFOCONTENT-AS (Voxys LLC)
+AS60348 OPEN-RES-4-AS (Public Joint-Stock Company "Bank Otkritie Financial Corporation")
+AS60357 MEGAGROUP-AS (Megagroup.ru LLC)
+AS60360 METHOLDING (LLC Management Company "Industrial and Metallurgical Holding")
+AS60361 BCS-QUIK-AS (BrokerCreditService Ltd.)
+AS60363 FB-GROUP (OOO "FB Group")
+AS60365 IPCOM-AS (Kataryan Fedor Sergeevich)
+AS60366 KIZILTELEKOM-AS (PE Pakhomov Sergey Viktorovich)
+AS60373 MIRAN-IX (Miran Ltd.)
+AS60375 METHOLDING (LLC Management Company "Industrial and Metallurgical Holding")
+AS60383 GAZPROMBANK (Gazprombank (Joint-stock Company))
+AS60388 TRANSNEFT-TELECOM-AS (Limited Liability Company "Transneft Telecom")
+AS60389 MANIR-AS (Manir LLC)
+AS60413 INNOVATIVE-SOLUTIONS-AS (Innovative solutions Ltd.)
+AS60430 REDIX (JSC "ER-Telecom Holding")
+AS60434 ALLSAFE-AS (Biznes Tekhnologii LLC)
+AS60437 FORABANK-AS (FORA-BANK Joint-Stock Commercial Bank)
+AS60452 ESEH-AS (EuroSibEnergo-Hydrogeneration LLC)
+AS60459 FLEXLINE-AS (OOO Flexline-N)
+AS60465 NBRA-AS (National Bank of Republic of Abkhazia)
+AS60470 CountryOnline-AS (LLC Country Online)
+AS60473 CTI (LLC CTI)
+AS60476 MYCOM-AS (Digital Transformation Plus LLC)
+AS60482 PJSCKOKS (PJSC KOKS)
+AS60484 ASEVER-AS (Astra-Sever LTD)
+AS60489 ASCIT (OOO "Center informational technologies")
+AS60490 MTS-CLOUD (MTS PJSC)
+AS60496 KR-Rostov (MTS PJSC)
+AS60500 ASHCSIBIR (Association NPHK Sibir)
+AS60510 VICTORY-AS (Victory Ltd.)
+AS60513 RU-RN-INFORM-KOMSOMOLSK (Siberian Internet Company LLC)
+AS60518 ARRIAH (Federal State-Financed Institution "Federal Center for Animal Health")
+AS60519 SHLH (OOO Shishkin Les Holding)
+AS60523 KAROFILM (LLC "KARO Film Management")
+AS60544 RBS (LLC Runet Business Systems)
+AS60548 INTERTELEKOM-AS (Inter-Telekom LLC)
+AS60553 RIGLA-MO-AS (Rigla-MO LLC)
+AS60554 MEGIONLINK-AS (LLC Megion-Link)
+AS60556 LTUS-AS (LLC "Ilimskiy LTUS")
+AS60561 MONUMENT-A-AS (Monument-A LLC)
+AS60566 INTERNETGEO26-AS (IE Zhukov Aleksandr Aleksandrovich)
+AS60568 YSP-AS (LLC Onlim)
+AS60569 ARD-Teleport (ARD Teleport LTD.)
+AS60573 R-TK-AS (Babaev Vladimir Viktorovich)
+AS60575 SibServisSvyaz (LTD SibServisSvyaz)
+AS60579 STM-CHT-AS (STANMIX OKO LIMITED LIABILITY COMPANY)
+AS60580 PII (Artificial lntelligence Software LLC)
+AS60598 Labirint-AS (OOO Upravljajushchaja kompanija Labirint)
+AS60599 Webkompas-AS (KOMPAS TELECOM Ltd)
+AS60600 HSDT-AS ("Shkulev Digital Technologies" Limited Liability Company)
+AS60603 UTEL-AS ("Utel" Ltd.)
+AS60612 ALBATROS-AS (Albatros Ltd.)
+AS60623 ATCOM-AS (ATCOM Joint Stock Company)
+AS60625 RU-RESTRAN (ResursTranzit LLC)
+AS60628 ROSENERGO (FGBU "REA" Minenergo Russia)
+AS60635 VoiceCom-net (Voice Communication LLC)
+AS60642 PRESNYA (OJSC "Trade Center Elektronika na Presny")
+AS60643 IMTSA-AS (FGBU "FIOKO")
+AS60651 Stek-Kazan (Stek Kazan LLC)
+AS60655 INTEGRAL-AS (Integral LLC)
+AS60660 ASTotalvideo (Totalvideo LLC)
+AS60678 RCC (The Regional Computing Center LLC)
+AS60681 IMPULSE-AS (Information and Communication Technologies LLC)
+AS60684 BNEDV-NET (Managing company "Realty of Petersburg Ltd")
+AS60691 GLAVSV-AS (Invest Mobile LLC)
+AS60692 RAA-AS (Artem Ryazantsev)
+AS60693 MileTelecom (individual entrepreneur Konyaev Igor)
+AS60702 POSTBANK (JSC "Post Bank")
+AS60704 INETRO-AS (Inetro JSC)
+AS60716 IUT-AS (JSC "IskraUralTEL")
+AS60720 POLYCOMM-AS (Telenet Solution Ltd)
+AS60722 SPBGASU-AS (Saint Petersburg State University of Architecture and Civil Engineering)
+AS60726 MOSOBLBANK-AS (Joint Stock Company Moscovskiy Oblastnoi Bank)
+AS60730 KA-INTERNET-AS (JSC KA-INTERNET)
+AS60731 Connecto (Prostie tehnologii Ltd.)
+AS60732 ASRIKTEL (Centr Tekhnicheskogo Obsluzhivania FNPR Ltd.)
+AS60738 DELTATELEKOM-AS (OOO PKF "Delta Telekom")
+AS60740 TCTR-AS (Joint-Stock company "Arctictelecom")
+AS60747 MODUS-AS (MODUS LLC)
+AS60748 ASN-BINSTRAH (VSK Insurance Joint Stock Company)
+AS60753 ABBGROM (Gromtsov Alexander Gennadyevich)
+AS60763 SIBIR-IX-RS (Optizon Ltd.)
+AS60764 TK-Telecom (Telecom Samara LLC)
+AS60768 FFORMA (1Forma LLC)
+AS60771 C-CORP-AS (Comiten Corp LLC)
+AS60773 NEWSYS-KHO (PJSC MegaFon)
+AS60779 Stroymontag-AS (LLC Sedrus)
+AS60796 CUSTOMSCARD (LLC Customs Card)
+AS60797 RU-SFDATA-AS (SafeData LLC)
+AS60818 NPOTELEMETRY (Scientific-production Association Telemetry LLC)
+AS60826 STOLOTO (JSC "TC "Center")
+AS60827 FNG (FN Machines LLC)
+AS60832 ASOKEY (O`KEY, Limited Liability Company)
+AS60833 NLMK-AS (PJSC NLMK)
+AS60834 ROMANOVA-AS (Individual Entrepreneur Romanova Svetlana Alexandrovna)
+AS60835 NSOMED (GBUZ NSO "SSMP")
+AS60836 SPCEX-SC (Joint Stock Company Saint-Petersburg Currency Exchange)
+AS60837 PKT (AO First Container Terminal)
+AS60840 TELECOMSERVICEVRN (OJSC Telecom-Service)
+AS60843 SGNL-AS (Signal LLC)
+AS60852 ASCOMPSERVICE (Computer Service LLC)
+AS60854 EDERI (LLC EDERI)
+AS60856 ZTK-AS (LLC "Zakamskaya Telephone Company")
+AS60862 CIT-KUZBASSA-AS (GKU CIT Kuzbassa)
+AS60863 VK-AS (LLC VK)
+AS60864 interraoit (LTD "Inter RAO - Information Technology")
+AS60865 ASKUBAN (Kuban Credit ltd.)
+AS60866 PITER-IX-EKAT_PERM_CHEL (Piter-IX Co. Ltd.)
+AS60867 YAR-IX-AS (Gorizont Ltd)
+AS60872 KTI-AS (KTI ltd)
+AS60873 UTEKTV-AS (Alliance Communications Ltd)
+AS60878 RTCLOUD-HC-AS (RTCloud, LLC)
+AS60879 SYSTEMPROJECTS-AS (System Projects, LLC)
+AS60891 KORYAJMA-MTS-AS (MTS PJSC)
+AS60892 SYNTERRAMEDIA (JSC SYNTERRA MEDIA)
+AS60904 ATSTEL-AS (ATC Telecom LTD.)
+AS60913 UR-AS (JSC TD ERA)
+AS60915 TAXTELECOM (OOO Taxtelecom)
+AS60919 TKVV-AS (TopCom Ltd.)
+AS60921 Farpost-IT (LLC Farpost IT)
+AS60931 LAN-SERVICE-AS (LAN-Service Ltd.)
+AS60936 SKANETDAG-AS (LLC Skynet)
+AS60942 KALASHNIKOV-AS (JSC Concern Kalashnikov)
+AS60944 ALPHA-CAPITAL-AS (OOO CC Alpha Capital)
+AS60954 ITCSR-AS (ITCSR Ltd)
+AS60956 OTHREE-AS (Drugstore chain O3 LLC)
+AS60957 OFFICEMAG-AS (Officemag LLC)
+AS60967 IPPS-AS (National system of payment cards Joint-stock Society)
+AS60971 NRMUP-Electrosvyazi-AS (Electrosvyaz Ltd.)
+AS60980 ORIONNET-ZLGK (45KA LLC.)
+AS60986 RDITELECOM-AS (ZagorodTelecom LLC)
+AS60988 UCS-AS (JSC United Cards Services)
+AS61009 TYUMBIT-AS (Tyumbit-ASU OOO)
+AS61011 ROSSETI-SK (Rosseti Northern Caucasus, PJSC)
+AS61014 KMZ-AS (JSC Kurganmashzavod)
+AS61016 TETRALAN-AS (RTS LLC)
+AS61021 STERCOM-AS (STERLING TELECOM LLC)
+AS61031 ESCOMTEL-AS (ESCOMTEL BACKGROUND COMMUNICATION NETWORKS Ltd.)
+AS61035 CISCOM (CISCOM Ltd)
+AS61039 ZMZ (AO ZMZ)
+AS61040 Peterburgskiy-Telefon-as (Peterburgskiy Telefon LLC)
+AS61041 ALBVVP-AS (Federal Budgetary Institution "Administration of the Lensky Basin of Inland Waterways")
+AS61043 mst-ltd-as (Multifunctional Telecommunications Systems LTD)
+AS61048 LINK-AS (InfoLink LLC)
+AS61052 YAMALSETSERVICE (Yamalsetservice LLC.)
+AS61068 NECSTEL-AS (OOO "NECSTEL")
+AS61088 COUNTRYCOM (AO Countrycom)
+AS61100 ADM-AS (Admin LLC)
+AS61111 RTCLOUD-2ND-AS (RTCloud, LLC)
+AS61118 VIKOM-AS (Vikom Ltd.)
+AS61119 ODNOKLASSNIKI (LLC VK)
+AS61121 ODINTSOVO-AS (AO "Teleradiocompany "Odintsovo")
+AS61123 EKONIVA-AS (Ekoniva-Tehnika Ltd.)
+AS61140 GRINN-CORP-AS (GRINN Corporation JSC)
+AS61141 OST-AS (OST JSC)
+AS61151 ATB-BANK (Asia-Pacific Bank (Joint Stock Company))
+AS61152 FREEDH-AS (Freedom House Ltd.)
+AS61156 IFORUM-AS ("OBIT" Ltd.)
+AS61166 FSRAR-AS (Russian Federal Service for Alcohol Market Regulation)
+AS61175 STM-KHB-AS (STANMIX OKO LIMITED LIABILITY COMPANY)
+AS61178 CYMRG-AS2 (Digital Transformation Plus LLC)
+AS61187 FIPS-AS (Federal State Budgetary Organisation "Federal Institute of Industrial Property")
+AS61197 NLE-AS (SPUTNIKOVAYA KOMPANIYA LLC)
+AS61206 CPCR-AS (Joint Stock Company 'Caspian Pipeline Consortium -R')
+AS61223 LINKFOR-AS (LINKFOR LLC)
+AS61230 IPTT-AS (Internet Protocol Transit Telecom Ltd.)
+AS61237 SigmaTV-AS (SigmaTV LLC)
+AS61249 NL-TELECOM-AS (New Line Telecom Ltd.)
+AS61259 Superwave-AS (LLC Superwave Group)
+AS61261 AUTOCENTERCITY (Autocenter City (Center) LLC)
+AS61264 IT-AS (IT LLC)
+AS61265 CSOFTVORONEZH (Limited Liability Company "Consist software Voronezh")
+AS61267 DRUGOYTEL-AS (LLC "Tvoi Telecom")
+AS61269 RAPMSB (Joint Stock Company Russian Agency for Small and Medium Business Support)
+AS61276 EKACOD-AS (Vichislitelniy Centr Ltd.)
+AS61280 CMU_GRCHC (FGUP "GRCHC")
+AS61285 GULFSTREAM (JSC Gulfstream Security Systems)
+AS61286 KOMBOX ("KomBoks", LLC)
+AS61291 TFOMSSK (Territorial Fund of Obligatory Medical Insurance of the Stavropol region)
+AS61293 RU1C-as (1C LLC)
+AS61305 ECOPOLISCORP-AS (Corporation Ecopolis JSC)
+AS61306 LITRES-AS (LLC "LitRes")
+AS61308 PVONET-AS (PVONET LTD)
+AS61318 DANCER-AS (Dancer LLC)
+AS61324 D-TELEKOM-AS (D-TELEKOM LLC)
+AS61325 CIFRATELECOM (LLC Cifra-Telecom)
+AS61326 STRADING-AS (Rendez-vous Limited liability company)
+AS61358 MZRD-AS (Ministerstvo Zdravookhraneniya Respubliki Dagestan)
+AS61359 KT-IX (OOO "KT-IX")
+AS61360 NOVOCHEK-AS (Special Engineering and Design Bureau "Orbita" JSC)
+AS61372 AZIMUTTELECOM-AS (AZIMUT TELECOM Ltd.)
+AS61375 VIPSERVICE-AS (LTD Operating Company "Ticket House")
+AS61378 MPS (Multi-payment system LLC)
+AS61379 MKBINVESTMENTS-AS (MKB Investments LLC)
+AS61380 ENGINETPLUS-AS (LLC Enginet+)
+AS61382 KSINVEST-AS (Komisvyazinvest LLC)
+AS61383 IRONLOGIC (Research and Production Company Medicina-Tekhnika LLC)
+AS61390 GARANT-G (Garant-G Ltd.)
+AS61396 OKNO-TV-AS (Okno-TV LLC)
+AS61400 NETRACK-AS (Start LLC)
+AS61403 Sever-Telecom-Cher (Sever Telecom JSC)
+AS61406 RTA-TELECOM-AS (Zavod RTA Ltd.)
+AS61409 PITER-IX-WARZAVA (Piter-IX Co. Ltd.)
+AS61410 CSISTEALTH-AS (KSB Stealth LLC)
+AS61411 TELEMARKET (Telemarket LLC)
+AS61416 ARKHANGELSK-AS (STATE AUTONOMOUS ESTABLISHMENT OF THE ARKHANGELSK REGION "MANAGEMENT OF INFORMATION AND COMMUNICATION TECHNOLOGY OF ARKHANGELSK REGION")
+AS61431 VOLS-AS (TELECOMMUNICATION COMPANY KAMA - LINK LLC.)
+AS61433 SFERANET-AS (Region plus Ltd.)
+AS61435 Arkhbum-as (JSC Arkhbum)
+AS61436 ASMAP-AS (Mikron-Media LLC)
+AS61960 cloudlab-as (INTERNOD LLC)
+AS61964 FREEDOM-AS (Freedom LLC)
+AS61971 SARLINK-AS (SarLink LLC)
+AS61976 SELECTEL-NSK (OOO "Network of data-centers "Selectel")
+AS61979 STOLICA-SVYAZI (Stolica Svyazi Ltd.)
+AS61980 CINEPOST (STIS Engineering LLC)
+AS61985 REFT-AS (Suhoy Log Intersat Ltd.)
+AS61989 SIMPLE-AS (Company Simple Ltd.)
+AS61991 KRAUS-M-AS (CJSC KRAUS-M)
+AS61992 UCI-AS (Internet Identification Center Limited Liability Company)
+AS62004 CLOUDPRO (LLC Virtualization Technology Center)
+AS62006 UNECHA-TELESET-AS (Unecha Television Network Ltd.)
+AS62008 CABLE-SYSTEMS-AS (Cable Systems Ltd)
+AS62010 ThreeDATA-AS (3DATA LLC)
+AS62019 BITRIVER-AS (BITRIVER RUS LLC)
+AS62029 CCIRF-AS (Chamber of Commerce and Industry of the Russian Federation)
+AS62036 ITLABS-AS (IT Labs LLC)
+AS62040 ITK-AS (Innovative Telecommunications LLC)
+AS62046 gtlink-AS (Naitex LLC)
+AS62056 MIAC-AS (State Budgetary Health Care Institution of Arkhangelsk Region - Medical Information and Analytical Centre)
+AS62063 Bolshoi-AS (Federal State Institution of Culture "State Academic Bolshoi Theatre of Russia")
+AS62065 ESPHERE-AS (KORUS Consulting CIS Ltd.)
+AS62067 Telecom-Service-AS (Telecom Service LLC)
+AS62069 TELECOM-UNION-AS (Telecommunication Union Ltd.)
+AS62082 HOSTLAND (Hostland LTD)
+AS62084 team-host (Chernyshov Aleksandr Aleksandrovich)
+AS62088 Forestnet-ASN (ForestNet LLC)
+AS62103 AirLink-AS (AirLink Ltd.)
+AS62115 EXIMBANK-AS (State Specialized Russian Export-Import Bank (Joint-Stock Company))
+AS62122 Renlife-AS (Renaissance Life Insurance Company Limited)
+AS62128 RT (LLC 'RT')
+AS62130 TransAnalitica-AS (LLC "Trans Analitica")
+AS62133 RANHiGS-AS (RANHiGS)
+AS62135 Resolver_Project (Join-stock company "Internet Exchange"MSK-IX")
+AS62142 KONNEKTIKA-NET (KONNEKTIKA LLC.)
+AS62143 DVRC-AS (FSUE RTRN)
+AS62150 BARS-GROUP-AS (BARS Group JSC)
+AS62169 SMARTENGIN-AS (JSC Smart Engineering)
+AS62200 ISPSYSTEM-AS (JSC "ISPsystem")
+AS62205 UNITEL (Unitel, LLC)
+AS62207 u1holding-AS (JSC "U1 Group")
+AS62218 ULTRATELECOM-AS (Ultra Telecom Ltd.)
+AS62221 AMAYAMA-AS (Amayama Auto, Ltd.)
+AS62222 QS-AS (QuickSoft LLC)
+AS62241 FORESTNET (Forest Net LTD)
+AS62243 VK (VKontakte Ltd)
+AS62247 BTK-AS (BTC Ltd.)
+AS62251 DREAMLESS-AS (Dremuchij Les Ltd)
+AS62261 MSK-IX-AS (Join-stock company "Internet Exchange"MSK-IX")
+AS62264 RIHMI-WDC (Federal State Budgetary Institution "All-Russian Research Institute of Hydrometeorological Information - World Data Center")
+AS62266 EZNET-AS (Cherpakov Aleksey Vladimirovich)
+AS62268 E-Moskva-AS (Joint Stock Company "Electronic Moscow")
+AS62272 OBLTELECOMSERV (OblTelecomService LLC)
+AS62283 DFW-AS (DFW LLC)
+AS62286 PCM-AS (PremierKom OOO)
+AS62287 REGION-AS (JSC "ER-Telecom Holding")
+AS62288 ZORRO (JSC KVANT-TELEKOM)
+AS62293 URALCHEM-AS (Uralchem, JSC)
+AS62295 JETMONEY (Jet Money LLC)
+AS62300 ICOM-AS (Intercom LLC)
+AS62314 ATMOSPHERICA-AS (Atmospherica Ltd.)
+AS62316 GRAN (OOO "Contact-center GRAN")
+AS62330 ASH-AS (ASH Ltd)
+AS62331 TVK-AS (Media Holding TVK Ltd.)
+AS62333 YULIA (OOO "Yulia")
+AS62340 INFOTELECOM-SP-AS (Infotelecom SP Ltd.)
+AS62344 ITAR-TASS-AS2 (ITAR-TASS State Enterprise)
+AS62345 GSKB (PJSC "ALMAZ R&P Corp.")
+AS62347 MTS_VNov (MTS PJSC)
+AS62348 MTS-Blagoveschensk (MTS PJSC)
+AS62356 ITNOVATION-AS (IT-Novation LLC)
+AS62358 MOSENERGOSBYT-AS (Mosenergosbyt PJSC)
+AS62366 STOLICA-AS (Stolica Telecom Ltd.)
+AS62378 MiATel-as (MiaTel LLC)
+AS62379 FREEWAY (FREEWAY LLC)
+AS62382 KDV (LLC KDV Grupp)
+AS62389 YAKOVLEV (PJSC Yakovlev)
+AS62399 TSKIX (JSC "ER-Telecom Holding")
+AS62402 KLGD-AS (Munitsipalnoe kazennoe uchrezhdenie Tsentr informatsionno-kommunikatsionnykh tekhnologii)
+AS62404 MIKFINANCE (MicFinance Plus LLC)
+AS62410 LINENET-AS (Linenet Ltd.)
+AS62422 FAS (Federal Antimonopoly Service)
+AS62423 TCENTER-AS (JSC "ER-Telecom Holding")
+AS62426 ESTEITINVEST (JSC ESTEIT INVEST)
+AS62429 CSTNET ("C.S.T". Ltd.)
+AS62432 VILTEL-AS (VilTel Ltd)
+AS62439 REDLINE (RedLine Telecom LLC)
+AS62440 TERRALINK-AS (PLAZMATELEKOM LLC)
+AS62444 ALTRUM (Altrum LTD)
+AS62446 NIKA-TELECOM-AS (NIKA-TELECOM LLC)
+AS62450 STALCO-AS (TELECOMPROEKT Ltd.)
+AS62459 DUBROVKA-AS (Dubrovka Telecom LLC)
+AS62461 ODS57-AS (SUE OO "Road Service")
+AS62462 CONCEPTCOMM_2 ('Concept comm' Ltd)
+AS64409 TELESTAR (OOO Telestar Communications)
+AS64419 ECOTEL-AS (Ecotel, Ltd.)
+AS64423 GRANAT-AS (Granat Ltd.)
+AS64429 OPTIKNET-AS (DDS Service LLC)
+AS64432 VARITI-AS (Variti+ LLC)
+AS64433 RS-LINK (OOO "PC")
+AS64439 SkyHost (IT Outsourcing LLC)
+AS64450 YADRO-AS (YADRO LLC)
+AS64461 SMARTAVIA-AS (Smartavia Airlines JSC)
+AS64469 UNICOM-AS (RNITS IT LLC)
+AS64486 BRIZPPLUS-AS (NPC BRIZ+ LLC)
+AS64491 OPTIMASHID-AS (Optima-Shid LLC)
+AS64492 PARTNERSERVICE-AS (Partner-Service LLC)
+AS64493 KUZIN-AS (Aleksey Kuzin)
+AS64494 VARITI-AS (Variti+ LLC)
+AS141171 -no-description- (No org name found)
+AS196638 Promtelecom-AS (ALLOTELECOM LLC)
+AS196641 GRFC-AS (Federal Unitary State Enterprise General Radio Freqency Centre)
+AS196642 GLOCONS-AS (Global Consulting Ltd.)
+AS196648 YSU-AS (North-Eastern Federal University n.a. M.K.Ammosov, State Federal Autonomous Educational Organisation of Higher Professional Education)
+AS196657 HIGHTECH (Vysokie Tehnologii Ltd.)
+AS196660 CONCEPTCOMM ('Concept comm' Ltd)
+AS196665 OPTICOM-AS (Nikita Sergienko)
+AS196667 ApeksSecurity-AS (Apeks Security Ltd)
+AS196673 DRUGOYTEL-AS (LLC "Tvoi Telecom")
+AS196685 OILTC-NET (LLC "OIL-TELECOM")
+AS196686 COLC-AS (Company Online City LLC)
+AS196688 NAVIGATOR-AS (Navigator Ltd)
+AS196691 GET-NET-AS (Get-Net LLC)
+AS196695 NETONERUS (NetOne Rus JSC)
+AS196698 KOROLEV-TELECOM-AS (Korolev-Telecom Ltd.)
+AS196699 RUSSOUTDOOR-AS (Russ Outdoor LLC)
+AS196705 Ardinvest (Ardinvest LTD)
+AS196716 CHNG-AS (CRELCOM LLC)
+AS196719 NEWLINE-TELECOM-AS (New Line Telecom Ltd.)
+AS196721 ASO-NET (Administration of Sakhalin Region)
+AS196726 AVIANET (Avianet Ltd)
+AS196739 USPEKH-AS (Success Ltd)
+AS196742 EKRAN-AS (LLC Ekran)
+AS196747 Electronic-government (PJSC Rostelecom)
+AS196750 SETI-WEBA (SETI WEBA LTD)
+AS196754 Grant-Telecom-SPB-AS (JSC "Grant-Telecom")
+AS196764 IVC-MPR-AS (RFI Minprirody Rossii FBGU)
+AS196767 INMART1-AS (INMART.UA LLC)
+AS196768 ABRIKOS-AS (KTO OOO)
+AS196780 RU-SYSTEMS-AS (Russian Systems Ltd)
+AS196786 ASMITEL (IP Yashutkin Andrei Vladimirovich)
+AS196791 RTASVYAS-AS (RTA Svyaz Ltd.)
+AS196796 GEPB-AS (JSC "AB ROSSIYA")
+AS196797 CityTeleNet (Joint Stock Company TransTeleCom)
+AS196798 NewLineTelecom (Mifril+ LLC)
+AS196812 SIGMA-AS (SigmaTelecom Ltd)
+AS196847 TERMINAL-AS (OJSC SHEREMETYEVO INTERNATIONAL AIRPORT)
+AS196879 VolkhovOnline (Volkhov Online Ltd)
+AS196884 TONB-AS (State Autonomous Cultural Organisation of Tyumen Region "Tyumen Regional Science Library named D.I.Mendeleeva")
+AS196893 Liner-AS (Liner Co. Ltd)
+AS196894 CITTO-AS (GBU TO Information Technology Center)
+AS196914 Don-plus-AS (DON LLC)
+AS196936 ASARTTELECOM (Art-telecom Ltd.)
+AS196938 Krastelecom (Krastelecom Ltd)
+AS196949 PODRYAD-AS (Natalia Sergeevna Filicheva)
+AS196963 TI-NT (Igor Vladimirovich Gorodkov)
+AS196986 SAAC-AS (JSC 'MERIDIANS AND PARALLELS')
+AS196991 SO-UPS (System Operator of the United Power System, JSC)
+AS197007 LaserCraft (Ural Electronics Factory Ltd.)
+AS197010 OPEN-BDO-1-AS (Public Joint-Stock Company "Bank Otkritie Financial Corporation")
+AS197015 DOMINION-AS (Individual Entrepreneur Antipov Andrey Vyacheslavovich)
+AS197023 ASCOMTELTV (MTS PJSC)
+AS197044 STEK-AS (JSC "NTC STEK")
+AS197052 YANKOVSKIY-AS (Yankovskiy Nikolay Nikolayevich)
+AS197062 ASRPHARM (JSC R-Pharm)
+AS197068 QRATOR (HLL LLC)
+AS197070 ASINTERCOM (MTS PJSC)
+AS197074 ASINTELCOMRU (Regionalnye Telesystemy Ltd.)
+AS197078 YARNET-AS (Yarnet Ltd)
+AS197080 RAGRAD-AS (INMEDIS LLc)
+AS197097 BIS-AS (AO Bankovskie Informacionnye Sistemy)
+AS197120 LANINTERCOM-AS (LanInterCom LLC)
+AS197129 ASKOPILOV (FOP Kopilov Sergey)
+AS197140 DSSV-NET (JSC "ER-Telecom Holding")
+AS197150 MCRBN-AS (Federal State Unitary Enterprise of the Order of the Red Banner of Labour "Russian Broad-casting and Notification Network")
+AS197152 LLCSIMSTAR2 (Comfort XXI Century Ltd.)
+AS197153 guvd (Glavnoe Upravlenie Vnutrennih Del po Sverdlovskoi Oblasti)
+AS197159 TriNet (Trinet Ltd.)
+AS197163 KubanRiverConnection-AS (Kuban River Connection Ltd)
+AS197169 TaxNet-AS (ZAO TaxNet)
+AS197171 MEGATEL-AS (MEGATEL Ltd.)
+AS197175 VITA-AS (Albina Anatoljevna Kolesnik, PE)
+AS197185 ASTLAN (LLC T-Lan)
+AS197193 MICEXIT-AS (ELECTRONIC TRADING SYSTEMS JSC)
+AS197204 Telemaks (TeleMaks Ltd)
+AS197235 AVANTEL-SAMARA (JSC Avantel)
+AS197257 ARES-AS (OOO Security enterprise "ARES-OHRANA")
+AS197258 SCB-AS (PJSC Sovkombank)
+AS197273 OGK4-AS (PJSC Unipro)
+AS197275 ASLINKTELECOMNN (Link Telecom NN Ltd.)
+AS197276 TE-AS (Voxys LLC)
+AS197280 VTS-AS (VIP-TELECOM-SERVICE Ltd.)
+AS197292 PBPTUS-AS (Limited Liability Company "Transneft Telecom")
+AS197298 ATEL-LTDR (Multifunctional Telecommunications Systems LTD)
+AS197303 OCS-AS (OCS Group Limited)
+AS197306 ICL-AS (OJSC "ICL-KME CS")
+AS197309 RSMedia-AS (RS-Media LLC)
+AS197311 UTS-AS (Juzhnye telefonnye seti Ltd)
+AS197315 ASRPK (Rostovskaya proizvodstvennaya kompaniya Ltd.)
+AS197333 GVC-AS (Joint Stock Company TransTeleCom)
+AS197340 MINB-AS (PJSC Promsvyazbank)
+AS197349 IDALGO-TELECOM (Ltd Novorossiysk Telecom Company)
+AS197360 TELSYS-AS (PJSC "Bashinformsvyaz")
+AS197366 PT-AS (OOO Parma-Telecom)
+AS197379 INVITRO-AS (INVITRO-Information technology LLC)
+AS197382 BAL-TV (BAL-TV LLC)
+AS197392 ASINFODOM (Infodom Ltd)
+AS197394 Telecommunications21century (CJSC Telecommunications 21)
+AS197404 infosysco (Informational systems LLC)
+AS197406 ASTELECOMLTD (OOO Telecom LTD)
+AS197420 Luzanov_Anton_Aleksandrovich (IE Luzanov Anton Aleksandrovich)
+AS197449 LIGHTSOFT-AS (Private Entrepreneur BORISOV MIKHAIL ALEKSEEVICH)
+AS197453 BIZTEL-AS (Biz Telecom LLC)
+AS197460 ZENCOM-AS (Zencom LTD)
+AS197461 AS-MGTSSHOKO (PJSC Moscow city telephone network)
+AS197467 SSAU-AS (Samara University named after Korolev)
+AS197468 NETPLUS-AS (OOO NETPLUS)
+AS197482 DGIS (DoubleGIS LLC)
+AS197489 VEB-AS (State Corporation Bank of Development "WEB.RF")
+AS197498 VERBETA-AS (VERBETA Ltd.)
+AS197499 Pivovar-as (PE Pivovar Aleksej Nikolaevich)
+AS197526 ROSNOU-AS (ANO VO Russian New University)
+AS197531 spl (Server Plus Ltd)
+AS197535 Svyazenergo-AS (LLC "Svyazenergo")
+AS197553 GOSNIIAS (Federal State Budgetary Institution "State Research Institute of Aviation Systems")
+AS197559 RUWUAS (OOO Non Banking Credit Organization Western Union DP East)
+AS197567 ASITLTD (Telekom-Servis Ltd.)
+AS197571 SPUTNIK (LLC "Search portal Sputnik")
+AS197574 TKM-AS (JSC TC "Megapolis")
+AS197577 KomTelecom-AS (KomTelecom LLC)
+AS197585 TELENET-USIB-AS (JSC "ER-Telecom Holding")
+AS197591 Crosstech (Cross Technologies JSC)
+AS197596 Declarant-AS (Declarant Plus LLC)
+AS197627 EGY4-AS (Ellad G. Yatsko)
+AS197628 SUDAK-NET (Sudak-Net LLC)
+AS197632 Liral-Telecom-as (Liral-Telecom Ltd)
+AS197658 LEVEL-NET (Level-MSK Ltd.)
+AS197665 skplast (LLC CITY STROY)
+AS197668 AKO-NET (Administration of the Governor and Government of the Kirov region)
+AS197673 ASN-TIMELINE (JSC Avantel)
+AS197683 ASELEKTRO (Elektronniy Gorod Ltd.)
+AS197693 RU-RN-INFORM-VORONEZH (Siberian Internet Company LLC)
+AS197695 AS-REGRU ("Domain names registrar REG.RU", Ltd)
+AS197700 LSR-LTD-AS (LSR ltd)
+AS197714 CITYLINE-RU (Chishko Evgeniy Nikolaevich)
+AS197717 MGOK-AS (JSC Mikhailovsky GOK im. A.V. Varicheva)
+AS197718 Elektron-AS (OOO Elektron)
+AS197725 bashes-as (Bashkirenergo LLC)
+AS197728 MVI61-AS (Isaev Mikhail Vladimirovich)
+AS197733 ATK-Telecom (LLC ATK Telecom)
+AS197756 PECOM-AS (Pervaya Ekspedizionnaya Kompaniya LLC)
+AS197757 ias (Ivan Bulavkin)
+AS197760 CSAT-AS (Cesar Satellite JSC)
+AS197765 ITPARK_DC (Autonomous public institution High technology park IT-park)
+AS197768 SIBSTRIN-AS (FEDERAL STATE BUDGETARY EDUCATIONAL INSTITUTION OF HIGHER EDUCATION "NOVOSIBIRSK STATE ARCHITECTURAL AND CONSTRUCTION UNIVERSITY (SIBSTRIN)")
+AS197773 EESK-AS (JSC "Ekaterinburgskaja jelektrosetevaja kompanija")
+AS197780 CMIRIT-AS (MUNICIPAL INSTITUTION "CENTER OF MUNICIPAL INFORMATION RESOURCES AND TECHNOLOGIES")
+AS197783 Bryansk_Engineering_Works-as (Joint Stock Company "Management Company "Bryansk Engineering Works")
+AS197786 ASTELESETI (Telefonnyie seti Ltd.)
+AS197793 GIGABIT-NET (Gigabit LLC)
+AS197808 TSK-AS (Technical Services Company Ltd)
+AS197821 AKRIKHIN-AS (JSC Chemical Pharmaceutical Plant AKRIKHIN)
+AS197826 SKYNET-MSK-AS (LLC "Skynet")
+AS197831 DISKUS-AS (Telekom Ltd)
+AS197857 COMPASSPLUS-AS (Compass Plus Ltd)
+AS197861 StatusTel-AS (STATUS TELECOM LLC)
+AS197863 MSE-AS (NON-BANK CREDIT ORGANIZATION-CENTRAL CONTRACTOR "SPB CLEARING" JSC)
+AS197865 Kaleva-AS (Window's Manufactory Ltd)
+AS197868 ServiceTelecom (LLC Service Telecom)
+AS197873 Energobank-AS (JSCB "ENERGOBANK")
+AS197878 M2M-ALTAI-AS (OOO "M2M telematica-Altai")
+AS197880 ARQA-AS (ARQA Technologies LLC)
+AS197888 TaffiTV-AS (SPB TV Telecom LLC)
+AS197896 INTERPROGRESSBANK (JSC "INTERPROGRESSBANK")
+AS197905 KODEKSCOM-AS ("Kodeks.Com" LLC)
+AS197911 SERVERLTD (JSC IOT)
+AS197934 BALTINVESTBANK ("BALTINVESTBANK" PJSC)
+AS197952 DCOMAS (UK UNISERVICE LLC)
+AS197955 Angstrem-AS (LLC PK "ANGSTREM")
+AS197960 MEGANET (LIMITED LIABILITY COMPANY "INTERNET SERVICE PROVIDER "MEGA")
+AS197969 MARSAT-AS (Federal State Unitary Enterprise "Morsviazsputnik")
+AS197971 INET-TELECOM-AS (Inet Telecom Ltd.)
+AS197972 ASN-INTELE-2 ("Intelecom" LLC)
+AS197986 TMK-GROUP (PJSC "TMK")
+AS197987 FESCO-AS (FESCO Transportation Group Managing Company Limited)
+AS197998 AfkGroup-AS (LLC Afk group)
+AS198021 BA-NSK-AS (LLC "Business Alliance")
+AS198027 X5-AS (X5 Corporate Center LLC)
+AS198028 BG-MARKET-AS (OOO "COMPLEX AUTOMATION")
+AS198039 rusconsulting-as (Shneider Group LLC)
+AS198044 Ekomobile-AS (RUSELITTORG Ltd.)
+AS198052 Most-AS (LLC "Most")
+AS198056 TELEOKA-KOM-AS (TeleOka Kom Ltd.)
+AS198062 FundCenter (Foundation Center Innovation)
+AS198069 RusFundNet (JSC Russian Funds)
+AS198070 RU-PUDLINK-AS (LLC "Pudlink")
+AS198074 PESSPB-AS (JSC Petroelectrosbyt)
+AS198076 LITEGROUP (Lite Group Ltd.)
+AS198083 VStation (Virtual Station LLC)
+AS198086 NetAtelye-AS (Net Atelye Ltd.)
+AS198110 VISTLINK-AS (LLC "VISTlink")
+AS198117 KORUSC-AS (KORUS Consulting Group LLC)
+AS198122 Digital-Technology-AS (Digital Technology Ltd.)
+AS198130 Gamma-Service-AS (Gamma-Service LTD)
+AS198134 GETWIFI-AS (OOO GETWIFI)
+AS198137 Net-Nord-AS (OOO Net-Nord)
+AS198155 SmartProcessing-AS (OOO Smart-Processing)
+AS198181 OPENTECH-NSK (Ltd "Open Technologies")
+AS198182 ISP-customers (SP Sbezhnev)
+AS198185 LIGALINK-AS (LigaLink LLC)
+AS198195 BLIZCO-AS (Martyukhin Pavel Alexandrovitch)
+AS198201 SUKHUM-IX (ZAO "Aquafon-GSM")
+AS198207 EUL-AS (REGIONAL STATE STATE INSTITUTION "CORPORATION FOR DEVELOPMENT OF INTERNET TECHNOLOGIES - MULTIFUNCTIONAL CENTRE FOR PROVIDING STATE AND MUNICIPAL SERVICES IN THE ULYANOVSK REGION")
+AS198210 BAYKALSR-AS (LLC "Baikal-Servis TK")
+AS198212 ASTELENETSAYANSK ("TeleNet Sayansk" LLC)
+AS198226 KP-AS (JSC "Publishing House "Komsomolskaya Pravda")
+AS198255 UEC-AS (JSC SETTLEMENT SOLUTIONS)
+AS198258 NAUMEN-AS (JSC NAU Service)
+AS198261 INTELCOMTG-AS (Ltd InTelCom-TG)
+AS198274 ITKVARTAL-AS (IT Kvartal Telecom Ltd.)
+AS198294 Dobrynin_AV (Dobrynin Alexander Vladimirovich)
+AS198295 BCI (JSC "ER-Telecom Holding")
+AS198297 UL-COM-AS (JSC "Ul-com Media")
+AS198303 ABSOLYT-AS (Limited liability company Absolyt)
+AS198310 ooo-molniya (OOO Molniya)
+AS198324 Etersoft-AS (Etersoft LLC)
+AS198338 BELNET-NG-AS (NEAPOL GROUP LLC)
+AS198348 NIX-AS ("Enterprise NIX" Ltd.)
+AS198350 RU-RN-INFORM-NEFTEUGANSK (Siberian Internet Company LLC)
+AS198354 SISTELECOM-AS (SIS Laboratory, LLC)
+AS198367 ASINKOTEL (INKO-Telecom, LLC)
+AS198369 ASMELENKINET (Consumer Internet Cooperative "Melenki.Net")
+AS198372 ASN-TCO-KRUGLOE (Federal State Unitary Enterprise "Television Technical Center "Ostankino")
+AS198384 OMGTU (Omsk State Technical University)
+AS198390 FINAMTECH-TP-AS (Joint Stock Company Investment Company FINAM)
+AS198396 EUTRU-AS (JSC "Evrasia Telecom Ru")
+AS198409 AMTMGTS (PJSC Moscow city telephone network)
+AS198415 komplex-info (LTD "Komplex-Info")
+AS198437 DSTAR-AS (LLC "Direct Star")
+AS198438 ASINTRAST ("INTRAST" Ltd.)
+AS198445 RDI-AS (RDI Group LTD)
+AS198449 UralAirLines (OJSC Airline company 'Ural Airlines')
+AS198456 Innostage-AS (Innostage LLC)
+AS198481 Sistema-AS (LLC Sistema)
+AS198486 YANAUL-TELSYS-AS (PJSC "Bashinformsvyaz")
+AS198502 CAMC2-AS (JSC "First Asset Management")
+AS198515 Multicom-net (Multicom LLC)
+AS198523 MOEK-AS (Public Joint Stock Company "Moscow Integrated Power Company")
+AS198526 GAZ-IS-AS (Gazinformservice Ltd.)
+AS198539 ASUNITEDNETS (Objedinennye Seti Ltd.)
+AS198541 Intercomtel-as (INTERCOMTEL Limited Company)
+AS198542 Podonin (Individual Entrepreneur Vladimir V. Podonin)
+AS198544 UXM-AS (OJSC "UralKhimMash")
+AS198546 DomMedia-AS (Individual Entrepreneur Nenyus Dmitry Vladasovich)
+AS198556 Shelter2-AS (Shelter LLC)
+AS198563 ASPASSIMSERVIS (Passim-Servis Ltd.)
+AS198580 YOUONLINE-AS ("You Online" LLC)
+AS198586 DGTLCNTR (Digital Contour LLC)
+AS198588 PROSTODNS-ANYCAST-1 (ProstoDNS Ltd.)
+AS198592 SVIR-TELECOM-AS (OOO Svir'-Telecom)
+AS198598 GARDEN-AS (LLC Garden Retail Services)
+AS198602 Naukanet (LLC "Nauka-Svyaz")
+AS198609 BFA-AS (PJSC "BANK URALSIB")
+AS198610 BEGET-AS (Beget LLC)
+AS198615 RBASoft-AS (RBA-Management LLC)
+AS198616 ASMEDIAKVANT (MediaKvant Ltd.)
+AS198618 MTS-STREAM (MTS PJSC)
+AS198619 Efremov_Aleksej_Alekseevich-AS (IE Efremov Aleksej Alekseevich)
+AS198626 NCG-AS (Limited Liability Company "Northern Capital Gateway")
+AS198639 ASSOZVEZDIEORIONA (Sozvezdiye Oriona Ltd.)
+AS198643 NCTRADE (New-Com Trade Ltd.)
+AS198645 IAK-NET (JSC International airport KRASNODAR)
+AS198654 AS198654 (PEKITEL Ltd.)
+AS198667 radioc (JSC InterMedia)
+AS198669 KNET-AS (KNET TELECOM Ltd)
+AS198670 VyazmaInformationNetwork (Autonomous non-profit organization "Vyazemsky information network")
+AS198675 Intersvyaz-M-net (Gelicon-Apple Limited liability company)
+AS198677 ULKT-AS (AO ULKT)
+AS198681 LC-GROUP-AS (LC Group Ltd.)
+AS198683 ASSISTEMYPAPILON ("Sistemy Papilon" Ltd.)
+AS198688 RTN-AS (Federal Service for Transport Supervision (Rostransnadzor))
+AS198693 Uralfinance-AS (Commercial Bank Uralfinance LLC)
+AS198700 MPManagement (LLC "M&P Management")
+AS198705 PPREGION-AS ("PPR LLC")
+AS198712 Intervale-AS (JSC Intervale)
+AS198715 ASORBITA (Orbita Ltd.)
+AS198716 S7IT-AS (S 7 Information Technologies LLC)
+AS198718 SEVERSVJAZ-AS (AO SEVERSVJAZ)
+AS198728 PanasonicRus (OOO Panasonic RUS)
+AS198755 GORSET-AS (Gorset Ltd.)
+AS198757 ASVYATKATELEKOM (MediaKvant Ltd.)
+AS198758 MNT-SVYAZ (Firma Svyaz Ltd.)
+AS198762 MIGCredit (OOO "Migcredit")
+AS198769 LLC3DATADC (LLC 3data DC)
+AS198774 PERMRMT (Ltd. "Regional Media Transit")
+AS198778 Electronic-Radio-Optical-Systems-AS (Electronic Radio Optical Systems Ltd)
+AS198780 AMROX (Amrox LTD)
+AS198791 Lightnet-AS (Ekran-Telecom, LLC)
+AS198793 Benda (IP Benda Artyom Sergeevich)
+AS198806 SIBUR-AS (LLC SIBUR)
+AS198809 IP_Prascharuk-AS (IE Prascharuk A.V.)
+AS198816 RU-Permtelecom ("Permtelecom" Ltd)
+AS198817 S7-AS (S 7 Information Technologies LLC)
+AS198819 OZK-AS (JSC UNITED GRAIN COMPANY)
+AS198821 Alkor-AS (OOO Alkor and Co)
+AS198826 ENGINEER-NETWORKS-TELECOM-RU-AS (LLC "INZHENERNYE SETI - TELEKOM")
+AS198832 Optical-Transport-Network-AS (OOO Optical Transport Network)
+AS198833 korado (Korado JSC)
+AS198842 Product-Service-AS (Ltd. "Product-Service")
+AS198844 PRED-AS (PRED-Grupp OOO)
+AS198856 VALMAKS-AS (Valmaks LLC)
+AS198861 SUM-AS (FGBOU VPO "STATE UNIVERSITY OF MANAGEMENT")
+AS198873 Soglasie (OOO "SK "Soglasie")
+AS198877 UTair-AS (UTair Aviation JSC)
+AS198899 KSZ (Joint Stock Company Soda Crimea Plant)
+AS198918 MST-Zeldol-AS (OOO Interdol)
+AS198929 SENTINEL-AS (Limited liability company "Sentinel Credit Management")
+AS198932 CEK-AS (CEK, LLC)
+AS198933 OOO-Severo-Zapadnye-telekommunikacii-as (OOO Severo-Zapadnye telekommunikacii)
+AS198947 RETNRU-AS (JSC "RetnNet")
+AS198953 proton66 (Proton66 OOO)
+AS198955 PSB-AS (Orange Bank LLC)
+AS198960 RU-RN-INFORM-YUZHNO-SAKHALINSK (Siberian Internet Company LLC)
+AS198973 RU-RN-INFORM-OHA (Siberian Internet Company LLC)
+AS198974 RU-RN-INFORM-NOGLIKI (Siberian Internet Company LLC)
+AS198976 RU-VM (LLC "Nauka-Svyaz")
+AS199000 ALPGROUP (CLOUDY INFORMATION SYSTEMS LLC)
+AS199002 ECO-RESERV-AS (Altagen JSC)
+AS199007 Rolis-AS (OOO Rolis)
+AS199008 TVSPUTNIK-AS (IP Gasanov Farhad Urujbekovich)
+AS199009 TCINET-AS-IT ("The Technical center of Internet" Limited Liability Company)
+AS199010 swlife-AS (LLC Sweet Life Plus)
+AS199014 KOMOS (KOMOS GROUP LLC)
+AS199020 ASAVANT (AVANT Ltd.)
+AS199021 ASKOMTEKS (Greenline Ltd.)
+AS199022 FALCON-PLUS-AS (FALCON PLUS LTD.)
+AS199024 OJSC-TH-Russkiy-Kholod-AS (JSC TH Russkiy Kholod)
+AS199032 STROYLESBANK (Commercial Bank "STROYLESBANK" LLC)
+AS199040 ASDRUZHBA (Monolit-Stroy SZ LLC)
+AS199049 ICC-AS (Joint Stock Company TransTeleCom)
+AS199054 ZAO-PENZA-GSM-AS (MTS PJSC)
+AS199063 Peremena-AS (Peremena Ltd.)
+AS199067 STARTPACK-CLOUD (Cloud LLC)
+AS199070 TBD-AS (State Intitution "Resources of Yamala")
+AS199072 CKR-AS ("Center of Computor Research" JSC)
+AS199078 TELECOM-VIST (Telecom-VIST Ltd.)
+AS199080 BKHLYNOV (JSC COMMERCIAL BANK "KHLYNOV")
+AS199085 INLINEGROUP (AO INLINE GROUP)
+AS199093 Mospolytech-AS (Moscow Polytechnic University)
+AS199096 LOGOS-AS (JSC "Digital network "Logos"")
+AS199110 R-18-AS (R-18 Ltd.)
+AS199112 SIGMA-AS (Sigma-Soft Ltd)
+AS199119 OOO-Barstel-AS (OOO Barstel)
+AS199120 Sinara-Group-AS (AO Sinara Group)
+AS199126 VOLKSWAGENBANK-AS (VOLKSWAGEN BANK RUS LLC)
+AS199136 DELTA (DELTA LLC)
+AS199145 ASFarmstandart (LLC Farmstandart)
+AS199146 ATscriptum-AS (AT scriptum Ltd.)
+AS199148 MINZDRAV-RF-AS (Ministry of Health of Russian Federation)
+AS199153 PSF-MAXIMUM-AS (PSF Maximum LLC)
+AS199161 PKO-NHO-AS (OOO "PKO NEFTEHIMOBORUDOVANIE")
+AS199179 MAJOR (Major Cargo Service LLC)
+AS199186 Kirill-Zinov (KIRILL ZINOV)
+AS199194 MONTSYSTEM-AS (MONT LLC)
+AS199214 AS_TTC (Sergey Sergeev)
+AS199251 MNOGOBYTE-CDN (MnogoByte LLC)
+AS199253 ZTELECOM-REGIONAL1-AS (JSC "ER-Telecom Holding")
+AS199259 USSC (Ural Security System Center Ltd.)
+AS199261 Gildia-AS (Gildia LLC)
+AS199264 EUROPLAST-AS (Joint Stock Company Solnechnogorsk Plant EUROPLAST)
+AS199274 MNGTNET (Serveroid, LLC)
+AS199278 ADANT-AS ("Adant LLC")
+AS199280 MEGAPAGE (Megapage, LLC)
+AS199287 FTELECOM2-AS (First Telecom Ltd)
+AS199295 locust-as (M100 LLC)
+AS199314 DRIVE-CLICK ("Drive Click Bank" Limited Liability Company)
+AS199316 AVTOTOR-AS (AVTOTOR Holding LLC)
+AS199317 PERMSATURN-R (Ltd. "Saturn-R")
+AS199320 Osnova-AS (OA "Osnova Telecom")
+AS199361 Mixplat-Processing-LLC (LLC Mixplat Processing)
+AS199365 PROSTODNS-ANYCAST-2 (ProstoDNS Ltd.)
+AS199377 M-PLUS (M-PLUS LLC)
+AS199394 RTL-AS (LLC RTL)
+AS199420 FLYGROUP-AS (OOO Fly Engeneering Group)
+AS199424 GRANDCAPITAL (FC GRAND CAPITAL LLC)
+AS199425 devhost-as (Individual Entrepreneur Postnikov Matvey Petrovich)
+AS199427 DataHarbour-AS (Limited Liability Company "DataHarbour")
+AS199430 GOODWOOD (Limited Liability Company GOODWOOD)
+AS199445 SENTASERV (Senta Service LLC)
+AS199458 rusbuilding (LLC Rusbuilding)
+AS199463 NFC-AS (Bank National Factoring Company (Joint-Stock Company))
+AS199472 FAITID-AS (Foundation for Assistance for Internet Technologies and Infrastructure Development)
+AS199502 GT-AS (OOO WestCall Ltd.)
+AS199521 FK-PULS-AS (OOO FK PULS)
+AS199530 VIZA-4 (VIZA-4 Ltd.)
+AS199537 KITNPF-AS (KIT Finance PA OOO)
+AS199539 bcaggregation (IP Nikonova Anna Viktorovna)
+AS199546 MOSCOMNET-AS (Moscomnet LLC)
+AS199549 VILS-AS (Open Joint Stock Company "All Russian Institute of Light Alloys")
+AS199572 TECHLAN (Setevye technologii LLC)
+AS199576 UGSK-SUR-AS (JSC "Group of Insurance Companies "Ugoria")
+AS199580 DRUNK-GROUP (KLEPIKOV IGOR)
+AS199583 KRDADM (Municipal Government Institution of Krasnodar city Municipal formation "Electronic Krasnodar")
+AS199593 SYNTHESIS-AS (LLC Synthesis)
+AS199599 CIREX (Telecom-Birzha, LLC)
+AS199602 GORSUP (LLC Gorodskoy supermarket)
+AS199619 Intersvyaz (Intersvyaz LLC)
+AS199621 PETROVKA-AS (Chernysh Dmitry Petrovich)
+AS199622 DKTEL-USPENSKIY (DK Svyaz OOO)
+AS199623 DKTEL-SCHERBINKA (DK Svyaz OOO)
+AS199624 DKTEL-MAIN (DK Svyaz OOO)
+AS199634 ESKNET (Yedinaya Setevaya Kompaniya Ltd)
+AS199635 NEXTTELL-MOSCOW-AS (LLC "NextTell')
+AS199647 DKTEL-FEDERAL-BTI (DK Svyaz OOO)
+AS199658 SPBIEF-AS (Fond Roskongress)
+AS199664 weareway (WEAREWAY LTD)
+AS199669 ATLEX-AS (Okay-Telecom Ltd.)
+AS199678 AS-6rw-RU (Mikhail Alekseevich Antonov)
+AS199726 stroylandia-as (Stroylandiya.ru LLC)
+AS199728 DATA-LINE-KHB (Data-Line LLC)
+AS199730 MSTELECOM-AS ("MS-TELECOM" LLC)
+AS199732 TERICOM-AS (TERICOM LLC)
+AS199745 DARTEL-AS (LLC Cifrovaya Artel)
+AS199746 ASVSHOP (LLC Astel)
+AS199757 RU-NTIMT-AS (National Testing Association State Metal Test Sites of Russia Federal State Enterprise)
+AS199778 LAMA-AS (LLC "Management Company LAMA")
+AS199782 TTNET-AS (Teletime Ltd.)
+AS199798 ABSOLUT ("Investment Group ABSOLUTE" LLC)
+AS199805 UGO-AS (UGO LLC)
+AS199809 MAX-TEL (Maxtel LLC)
+AS199817 rcufo (Radio Frequency Centre of the Urals Federal District Federal State Unitary Enterprise)
+AS199820 ASDYATLOV (PE Dyatlov Sergey Vladimirovich)
+AS199827 KOMTEL (GYN DNR KOMTEL)
+AS199833 UgSelhoz-AS (UgSel'hoz LLC)
+AS199851 tutaev-dev (Adam Muratovich Tutaev)
+AS199858 GENBANK-AS (JSC GENBANK)
+AS199860 Xelent-AS (ATOMDATA JSC)
+AS199862 RENOVA-GR-AS (JSC "Group of companies "RENOVA")
+AS199866 DNEVNIK-RU (Dnevnik.ru Ltd.)
+AS199868 DPKG-AS (DpkgSoft Computers, Ltd.)
+AS199901 S-Telecom-AS (S-Telecom LLC)
+AS199906 MCCME-AS (Non-State Educational Institution "Moscow Center for Continuous Mathematical Education")
+AS199908 aer-basel (JSC Sochi International Airport)
+AS199922 PFR-AS (PENSION AND SOCIAL INSURANCE FUND OF THE RUSSIAN FEDERATION)
+AS199924 STARTCM-AS (JSC Start Capital)
+AS199933 ELEKTRANET-AS (Elektranet Ltd.)
+AS199940 CENTRAL-PPK-AS (JSC "CENTRAL PPK")
+AS199945 RU-RADUGA-M9 (BILLING SOLUTION Ltd.)
+AS199961 MTLS-AS (Multitelesystems LLC)
+AS199966 PROGNOZ-AS (JSC "RetnNet")
+AS199970 TRKTONUS-AS (TRK Tonus LLC)
+AS199975 TVC-AS (TV CENTER JSC)
+AS199991 Cyber-Telecom-AS (Cyber-Telecom LTD)
+AS199992 SEIC-AS (Sakhalin Energy Limited Liability Company)
+AS200015 Livetex (Omnichannel technologies LLC)
+AS200022 AirNet-AS (AirNet Ltd)
+AS200035 UNITECSYS-AS (JSC Preprocessing Settlement Center)
+AS200041 AGROROS-AS (JSC "Bank" Agroros")
+AS200044 stackgroup (Stack Group, LLC)
+AS200048 Alean-AS (LLC ALEAN)
+AS200054 OKBANK (Joint Stock Company Bank "United Capital")
+AS200065 MOSMETROCOMM (GUP Moscow Metro)
+AS200066 ASNETKOM (NETKOM-E Ltd.)
+AS200095 AGENTSTVO-E-AS (AGENTSTVO-E Ltd)
+AS200110 DINTEG (DINTEG LLC)
+AS200120 PETROVICH2-AS (STD Petrovich LLC)
+AS200121 CITRB-AS (Center for IT Solutions for Business LLC)
+AS200123 KGILC-AS (Kola Geological Information Laboratory Centre OJSC)
+AS200152 Synovate_Comcon-AS (Ipsos Comcon LLC)
+AS200161 DATAPRO-AS ("DATAPRO" Limited Liability Company)
+AS200166 Stroymontag-AS (LLC Sedrus)
+AS200175 NFA-AS (LLC Planet of flowers)
+AS200214 SOFTTIME (SOFTTIME LLC)
+AS200215 Fabrika-Kukhnya-AS (Fabrika-Kukhnya Ltd.)
+AS200264 BSH-NL-AMS (Scientific-Production Enterprise Business Sviaz Holding LLC)
+AS200266 IVANOV-AS (Daniil Ivanov)
+AS200285 Suzuki-as (SUZUKI MOTOR RUS Ltd)
+AS200294 GAU-RD-CIT-RSNET (State Autonomous Institution of the Republic of Dagestan "Information Technology Center")
+AS200302 fnc-as (FNK LLC)
+AS200323 POI-FEBRAS-AS (V.I.Ilichev Pacific Oceanological Institute, Far Eastern Branch, Russian Academy of Sciences)
+AS200350 YandexCloud (Yandex.Cloud LLC)
+AS200362 Internet_Systems_LLC (Internet Systems LLC)
+AS200364 ALTAY-ADM-AS (Department of Press and Mass Media of Altay region)
+AS200389 IDB-DC (ILE DE BEAUTE JSC)
+AS200390 PSST-AS (PETER-SERVICE Special Technologies, LLC)
+AS200401 BITRIX-1BX-HOST-AS (Sole proprietor Kazakov Aleksey Alexandrovich)
+AS200419 COMFORT21-AS (Comfort XXI Century Ltd.)
+AS200420 RFMEGA-NET ("MEGA-NET" LLC)
+AS200430 airee (WEBO LLC)
+AS200441 TRKMECHTA-NET (Teleradio company "Mechta" LLC)
+AS200442 KRLAN-AS (Kotsarev Alexey Evgenevich)
+AS200452 PROMSORT-TULA (PROMSORT-TULA LLC)
+AS200453 STPR-AS (AO Institute Stroyproekt (JSC))
+AS200457 MBG (Mind Bridge Group LLC)
+AS200463 LETKOM (LLC firm "Letkom")
+AS200466 TCT-AS (TST OOO)
+AS200479 MERANN-AS (Mera NN Ltd.)
+AS200487 OOOVPS-AS (OOO VPS)
+AS200496 CIT2-AS (Budgetary institution in the field of information technologies of the Vologda region Center informacionnyh technologii)
+AS200503 Dlink-AS (D-Link Trade Ltd.)
+AS200505 Uservice (Uservise+ LLC)
+AS200513 STM-NVR (Service Terminal Media LLC)
+AS200515 POLYPLASTIC-AS (Gruppa Polyplastic LLC)
+AS200524 NETPLUS2-AS (OOO NETPLUS)
+AS200546 RU-CITYNET-AS (Sibirskie Seti Ltd.)
+AS200551 TORGRYADY-AS (ZAO Torgovye rjady)
+AS200563 SPRINTHOST (SPRINTHOST.RU LLC)
+AS200575 INTEGRA (LLC Integra Management)
+AS200593 PROSPERO-AS (PROSPERO OOO)
+AS200613 Imeretinskay_Riviera (Imeretinskay Riviera LLC)
+AS200619 VKT-AS ("Trading house "VKT" Ltd.)
+AS200622 GPRM (Gazprom-Media LLC)
+AS200624 RZD-PARTNER (LLC-RZD-PARTNER)
+AS200627 BPCProcessing (LLC "BPC Processing Center")
+AS200634 ISC-AS (Internet Service Center Ltd.)
+AS200637 ABSOLUTINS-AS (Absolute Insurance ltd)
+AS200643 LABOR-SPB-RU (Osinovaya Roshcha Ltd)
+AS200644 PROGRESS-AS (Joint Stock Company "Space rocket centre "Progress")
+AS200662 BETAVOIP (LLC "Beta Voip")
+AS200663 SMART-AS (Smarttek ink LLC)
+AS200679 SPSIT (State Institute of Technology Saint-Petersburg)
+AS200685 SENATOR-32-AS (Senator Telecom Ltd.)
+AS200686 RUSTEST (Federal State Budgetary Institution "Federal Center of Testing")
+AS200687 progressfood (AO PROGRESS)
+AS200694 SKRIN-AS (Skrin Ltd.)
+AS200702 SPKVA-NET (Kazakov Viktor Aleksandrovich)
+AS200722 CUBE-AS (Cube-Telecom LLC)
+AS200725 IXcellerate (IXcellerate LLC)
+AS200733 AMGROUP (LLC AMGROUP)
+AS200734 AIRLINK-AS (AirLink LLC)
+AS200743 POLYMEDIA-AS (LLC Polymedia)
+AS200762 KARTOTEKA-AS (Commersant KARTOTEKA LLC)
+AS200764 MKC-AS (MKC Ltd.)
+AS200778 Elektroset-AS (Elektroset Ltd)
+AS200802 PSVS (Prime-Service LLC)
+AS200803 LANKOM-AS (Lankom OOO)
+AS200812 VTU27 (Joint Stock Company "VaninoTransUgol")
+AS200823 LIBERTYINSUR-AS (Sovcombank Insurance JSC)
+AS200829 RegTel-AS (Region Telekom Ltd.)
+AS200830 HMM-DC-AS (LLC Home Me MC)
+AS200833 antares4g (ANTARES LLC)
+AS200838 RADIOIMPULS (RADIOIMPULS LLC)
+AS200847 MOBILECARD (NBFC MobileCard Ltd.)
+AS200875 SKOROST-AS (Skorost LLC)
+AS200922 YugTel-AS (Yug-Telecom Ltd.)
+AS200926 BOFC (Public Joint-Stock Company "Bank Otkritie Financial Corporation")
+AS200928 RTTV (ANO "TV-Novosti")
+AS200935 Mobicon-AS (Mobicon CJSC)
+AS200945 KRAMZ-TELECOM (KRAMZ-TELECOM)
+AS200953 ZT-VLAD-AS (Zelenaya Tochka Vladivistok LLC)
+AS200955 Nauka-Svayz (LLC "Nauka-Svyaz")
+AS200976 Lifestream-AS (Lifestream Ltd)
+AS200982 ZT-TOMSK-AS (Zelenaya Tochka TOMSK LLC)
+AS200988 BRIDGETEL-AS (Bridge Telecom LLC)
+AS200993 NYANET (Yanislav Basiuk)
+AS201008 M3-AS (CTC, Joint Stock Company)
+AS201009 SUPPORTIT-AS (Centre of server systems Ltd)
+AS201012 Avito (KEH eCommerce LLC)
+AS201016 BERCUT-AS (NPF Berkut Ltd)
+AS201018 ERKAFARM-AS (CJSC ERKAFARM)
+AS201022 ABS-as (Active business systems Ltd.)
+AS201037 TRUE-ENGINEERING ("TRUE ENGINEERING" LLC)
+AS201052 GOVCERT-RU-AS (Autonomous nonprofit organisation "Computer Incident Response Center")
+AS201065 CENTERBUKETOV (LLC Center Buketov)
+AS201069 APEX-ISP-AS (APEX-CRIMEA Ltd.)
+AS201083 TCPORT (Master IT Ltd.)
+AS201092 Avialesookhrana-AS (FBU Central base of aviation forest protection " Avialesookhrana ")
+AS201100 ANET-MAIN-AS (LLC "Demo-Club")
+AS201119 ICEWOOD (Icewood LLC)
+AS201123 ZT-UFA-AS (Zelenaya Tochka Ufa LLC)
+AS201131 NEWLINE-AS (New Line OOO)
+AS201135 Dreamnet-AS (Dream Net Ltd)
+AS201137 OTCRU-AS (JSC OTC)
+AS201138 OKB-AS (JSC UCB)
+AS201144 ISS-AS (Infosecurity Ltd)
+AS201147 DAGSVYAZ-TELECOM (Abdurakhmanov Magomed Zikrulaevich)
+AS201151 intermax (InterMAX Regional Networks LLC)
+AS201181 ASN-DISKK (DIS KK)
+AS201182 aslinet (LIMITED LIABILITY COMPANY "LINET")
+AS201186 DINET-PROTECT-AS (LLC Digital Network)
+AS201191 TelecomSys-AS (PJSC "Bashinformsvyaz")
+AS201193 IPRJ-4-0 (Internet Projects JSC)
+AS201195 MMK (LLC Magazin Malogo Kreditovaniya)
+AS201204 RBS-K (LLC Runet Business Systems)
+AS201211 DRUGOYTEL-AS (LLC "Tvoi Telecom")
+AS201224 SKYPROX-AS (Tikhomirov Evgeny Viktorovich)
+AS201231 VNET24-AS (Nemcev Vitaliy Nikolaevich PE)
+AS201244 RSF-AS (Russian Scientific Fund)
+AS201247 MR-GROUP (MR Group JSC)
+AS201250 ZT-LPT-AS (Zelenaya Tochka Lipetsk LLC)
+AS201267 ASN-RMS (State Unitary Enterprise of Krasnodar Region "Information Technology Center")
+AS201268 INFOTECH-AS (JSC "SKB Kontur production")
+AS201270 ZT-BLG-AS (Zelenaya Tochka Belgorod LLC)
+AS201275 CANPACK-AS (CAN PACK LLC)
+AS201282 SmIT-AS (SMIT Ltd)
+AS201285 KIRZHACHTELECOM-AS (Kirzhachtelecom LLC)
+AS201294 Interkonekt-AS (Interkonekt LLC)
+AS201296 PROFTEL-AS (Proftelecom-Service Ltd)
+AS201297 IITS-AS (Integrated IT services LLC)
+AS201298 MIKROTEK-AS (LLC "MIKROTEK")
+AS201302 VOLNA (LLC "VOLNA")
+AS201312 BPCBT-AS (LLC "BPS Innovative Software Solutions")
+AS201327 BT (Biznes Technologii LLC)
+AS201368 KBNK (JSC KOSHELEV-BANK)
+AS201389 ITEXPERT (I-T EXPERT LLC.)
+AS201394 OOO-LENTA-RU (Lenta Ltd)
+AS201414 DELTA-ELECTRONICS (OOO "DELTA-ELECTRONICS")
+AS201417 VPBX-AS (Teraline Telecom Ltd)
+AS201429 Transavtoliz-AS (Transavtoliz LLC)
+AS201430 BANKROUND-AS (LLC bank Round)
+AS201443 Svyaz-Project-AS (Svyaz Project LLC)
+AS201465 WESTROSTA-AS (JSC "ROSTA")
+AS201468 Agrosvyaz-AS (Agrosvyaz Ltd)
+AS201469 VINKU-AS (Concept Ltd.)
+AS201475 STC-AS (STC Ltd)
+AS201477 HIMKISMI-AS (Khimki-SMI JSC)
+AS201495 AS_TAISHET (JSC "ER-Telecom Holding")
+AS201496 ENTELE-ASN (Meganet LLC)
+AS201498 MXMANAGEMENT-AS ("MX Management" Ltd.)
+AS201499 FULLSPACE-AS (FullSpace Ltd.)
+AS201511 STARLINE (ScPA Starline LLC)
+AS201512 AS_WILDBERRIES (LLC Wildberries)
+AS201513 AS_WILDBERRIES_KZ (LLC Wildberries)
+AS201515 XXIcenture (Medical Center XXI century, nonprofit organisation)
+AS201551 VONLINE-AS (V Online LLC.)
+AS201555 ELKOD (Elcode LTD)
+AS201556 VIDEOLINE (Videoline LLC)
+AS201564 STG (JSC "STNG")
+AS201570 MTVS-AS (LLC Mobile Television Systems)
+AS201571 ToyotaBank-AS (JSC Toyota Bank)
+AS201578 MAG-TELECOM (Magistralny Telecom LLC)
+AS201582 ICS-AS (ZAO "IVS-SETI")
+AS201588 MOSCONNECT-AS (Digital technologies LLC)
+AS201593 TechnologiiSvyazi-AS (Technologii svyazi Ltd.)
+AS201606 RAMAX-AS (LLC "AFLT-SYSTEMS")
+AS201624 HOMETELECOM-AS (ARANEA LLC)
+AS201631 TransasiaLogistic (Transasia LLC)
+AS201643 EGOV66-AS (GBU SO Operator of Electronic Government)
+AS201646 AS_FlexL (Flex-l Ltd)
+AS201669 UTG (JSC UTG Group)
+AS201677 TENEX-AS (JSC "Techsnabexport")
+AS201706 AS-SERVICEPIPE (SERVICEPIPE LLC)
+AS201717 Parallel-AS ("66 Parallel" LLC)
+AS201721 DVABEREGA ("AKT" LLC)
+AS201745 CSE-AS (COURIER-SERVICE, LLC)
+AS201752 NCA (JSC Commercial Bank "Sokolovsky")
+AS201757 AKBARS (Joint-Stock Commercial Bank Ak Bars (OJSC))
+AS201774 Finservice-AS (JSC "Bank Finservice")
+AS201776 MIRANDA-AS (Miranda-Media Ltd)
+AS201778 UNIVOREL (FSBE Institution of HE "I.S. TURGENEV Orlovsky STATE UNIVERSITY")
+AS201781 TELECLICK-AS (Unikalnie Technologii ltd.)
+AS201786 COMLINE-AS (OOO ComLine)
+AS201788 RUSENERGOSBYT (RUSENERGOSBYT, JSC)
+AS201794 MOSINZHPROEKT-AS (OJSC "Mosinzhproekt")
+AS201797 SB_Service-AS (SB)
+AS201800 BIA-Technologies (LLP Delovie Linii)
+AS201804 AUTOINS (Russian Association of Motor Insurers)
+AS201820 AIRKHV (JSC "Khabarovsky airport")
+AS201825 RUSPHONE-AS (Rusphone OOO)
+AS201826 era-telecom (LLC eratelecom company)
+AS201835 MFC-AS ("State Institution of the Yamal-Nenets autonomous district Multifunctional Centre of state and municipal services")
+AS201839 ZAYMER2-AS (Zaymer PJSC)
+AS201842 RCSI-ASN (RCSI)
+AS201844 RU-KORUS-AS (LLC "Korus")
+AS201848 TRADERSOFT (Trader soft LLC)
+AS201851 PIK-AS (PJSC "PIK SPECIALIZED DEVELOPER")
+AS201858 TELESETUFA-AS (OOO "MP SST")
+AS201861 Krossmiks-AS (CrossMix Ltd.)
+AS201913 THEOREMAADD (Theorema Telecom Limited)
+AS201914 ROZTEH-AS (RozTech LLC)
+AS201916 PAYSEND (PS Processing LLC)
+AS201929 SIPTelecom (Sip-Telecom LLC)
+AS201945 FTLINK-AS (FTLINK LTD)
+AS201952 Atel-Rybinsk (LTD AtelRybinsk)
+AS201956 DEVINOTELECOM (Limited Liability Company "DEVINO TELECOM")
+AS201970 ASKOMANDOR (LLC Komandor-Holding)
+AS201972 LOGL-AS ("Domain names registrar REG.RU", Ltd)
+AS201974 CLOUD_SOLUTIONS (LIMITED LIABILITY COMPANY CLOUD SOLUTIONS)
+AS201994 INCITY (Joint Stock Company "Modniy Continent")
+AS202009 TIETORUS-AS (Forais LLC)
+AS202011 ASRegionTelekom (Irkutskenergosvyaz LTD)
+AS202058 PTK-AS (Ekaterinburg-2000 LLC)
+AS202070 NNGS-AS (PJSC Gazprom Neft)
+AS202078 MIXAS (Mix LLC)
+AS202079 NIIME-AS (JSC Mikron)
+AS202082 ILOT (LLC ILOT)
+AS202091 ZEON-AS (ZEON Ltd.)
+AS202104 SERVERPLUS-AS (Server-plus LLC)
+AS202127 SPLAV-AS (Company LLC "Splav")
+AS202136 A-Siti-AS ("A-Siti" Limited Liability Company)
+AS202150 Inter-Svyaz-AS (Inter-Svyaz LLC)
+AS202156 PPFINSURANCE (LLC PPF Life Insurance)
+AS202164 NETCUBE (Netcube LLC)
+AS202173 MaximaTelecom (MaximaTelecom JSC)
+AS202181 TAMCOM-AS (Transportation Assets Management LLC)
+AS202202 SPEC-TECH-AS (LLC "ORION")
+AS202231 STOTELECOM-AS ("StoTelecom" Ltd.)
+AS202234 SemanticNetwork ("Semantic" LLC)
+AS202250 CDEK5-AS (CDEK-Global LLC)
+AS202273 MKB-AS (Credit bank of Moscow PJSC)
+AS202279 KOMTEL-DPR-AS (GYN DNR KOMTEL)
+AS202289 LOVITEL-WIFI-AS (Lovitel LLC)
+AS202290 IK-HOST-AS (IK Host Ltd.)
+AS202317 FONCOR (LLC FONCOR)
+AS202342 GNCK (Federal State Budgetary Institution "National Medical Research Center for Coloproctology named after A.N. Ryzhykh" of the Ministry of Health of the Russian Federation)
+AS202344 basealt (LLC Basalt Svobodnoe Programnoe Obespechenie)
+AS202378 METINVEST-AS (PJSC SCB "Metallinvestbank")
+AS202406 LINE-BIT (Limited Company LineBit)
+AS202423 MGNHost-AS (Tyurin Viktor Mihaylovich)
+AS202432 LINKLINE2-AS (IT Service Profit OOO)
+AS202446 SMARTS_AS (SMARTS JSC)
+AS202486 SKYTELECOM (TSK LLC)
+AS202493 INTERCOM-AS (Intercom OOO)
+AS202498 TinkoffMobile-AS (Tinkoff Mobile LLC)
+AS202501 SAKHALINSVYAZ (Joint-stock companies "Sakhalinsvyaz")
+AS202508 TR-Nord-As (FoamLine LLC)
+AS202510 nwth (North-western Trade House LLC)
+AS202533 VIBORS-AS (MC Vybor Ltd.)
+AS202535 IMPULSE-KRSK-AS (CryptoCentre LLC)
+AS202537 ETM (ETM JSC)
+AS202542 MF-Sakhalin-island (Ministry of Finance of the Sakhalin region)
+AS202570 RU-RADUGA-AM5 (BILLING SOLUTION Ltd.)
+AS202576 RU-OPTIBIT (Optibit LLC)
+AS202578 KES23-AS ("KUBANENERGOSERVICE" LLC)
+AS202594 RusSpaceSystems (Russian Space Systems JSC)
+AS202611 YCTL (Yandex.Telecom LLC)
+AS202619 DOVECOM (Dovecom LLC)
+AS202629 IMS-0 (Inmarsoft LLC)
+AS202633 TRANSOIL (Transoil LLC)
+AS202642 JSCC5-AS (CJSC Container terminal Saint-Petersburg)
+AS202650 Sarkisov-Y-L (Sarkisov-Y-L)
+AS202674 MAKS-AS (JSC "MAKC")
+AS202689 BALTLEASE (Baltiyskiy Lizing LLC)
+AS202696 TRUSTEDNETWORK-AS (Trusted Network LLC)
+AS202700 Kushkhov-AS (Individual entrepreneur Kushkhov Azret Ali Alisakhovich)
+AS202717 TELESET (TELESET LLC)
+AS202734 BEM-AS (Social Discovery Engineering Ltd)
+AS202752 AS202752 (OOO "Spacetel")
+AS202760 DIXY-Group-AS (JSC DIXY South)
+AS202764 B2B-AS (B2B Grupp OOO)
+AS202765 ANTSERV-NET (TIS Dialog LLC)
+AS202768 ARIANA-ASN (Ariana Ltd)
+AS202778 MEDSOFT-AS (Medsoft LLC)
+AS202781 ITService-AS (IT Service Ltd)
+AS202795 Trans-Missia_AS ("Trans-Missia" LLC)
+AS202800 TECHNOKOM (TechnoKom Ltd)
+AS202801 BCS-AS (BrokerCreditService LTD)
+AS202802 SBR-AS (LLC "Stavropolskiy Broiler")
+AS202804 Inplat-AS (PJSC MegaFon)
+AS202806 SKA-DC-AS (LLC "SKA")
+AS202824 ATS-AS (AO "ATS")
+AS202832 PROBANK-AS (JSC "ProBank")
+AS202835 PROM-KOMPLEKT-AS (Prom-Komplekt LLC)
+AS202838 intercom (OOO "Intercom")
+AS202852 MOLNIYA-AS ("Molniya" OOO)
+AS202871 SFERA-AS (Sibirskie Seti Ltd.)
+AS202873 AS (Ibragimkhalil Nasrutdinov PE)
+AS202880 ESK-AS (ESK AO)
+AS202906 BETAVOIP (LLC "Beta Voip")
+AS202923 MALINA-AS (LLC "KYUD")
+AS202934 SOUZELECTRO (LLC SoyuzElectro)
+AS202935 DEFO-AS (DEFO-St. Petersburg Limited Liability Company)
+AS202951 rsk ("Region Svyaz Konsalt" LLC)
+AS202961 ALABUGA-AS (JSC Special economic zone Industrial and manufacturing type"ALABUGA")
+AS202963 MASTER-AS (Master-Integration Ltd)
+AS202974 First_Service_Provider (First Service Provider Ltd.)
+AS202984 team-host (Chernyshov Aleksandr Aleksandrovich)
+AS202985 DIASOFT (DIASOFT OOO)
+AS202989 Ofis24 (Ofis24 OOO)
+AS202999 VTEL-AS (Vostok Telecom LLC)
+AS203002 KUBAN-AS (Kuban-Inet OOO)
+AS203004 GLAVTEL (GlavTel ltd)
+AS203006 ITS-AS (Information Technology Support LLC)
+AS203049 CLOUDPRO ("DATAPRO" Limited Liability Company)
+AS203093 ZARUBEZHNEFT-AS (JSC Zarubezhneft)
+AS203097 SOYUZ-UC (Soyuz LLC)
+AS203117 mtk (MTK LLC)
+AS203118 EZERDI (Ezerdi LLC)
+AS203131 EC-PhosAgro (JSC Apatit)
+AS203139 CMFT-CDN (Comfortel Ltd.)
+AS203163 INTERNET04-AS (OOO Internet 04)
+AS203173 CENTROFINANCE-AS (CentroFinance Group MFO OOO)
+AS203190 GlobalLink-AS (LLC "Global Link")
+AS203203 RTS-TENDER-AS (Limited Liability Company "RTS-tender")
+AS203252 CloudX-AS (Dolgova Alena Andreevna)
+AS203270 RU_FORWARD_ENERGO_MSC (PJSC Forward Energy)
+AS203290 asbliss (Limited Liability Company "Bliss-Pro")
+AS203319 GIR-AS-1 (GLOBAL INTERNET SOLUTIONS LLC)
+AS203337 BIMP-AS (Private Enterpreneur Kuchebo Natalia Nikolaevna)
+AS203344 TTKOM-AS (OOO TTKOM)
+AS203353 ASAGRISOVGAS (Agrisovgaz Ltd.)
+AS203371 Transinform-AS ("Trans inform" LLC)
+AS203387 ASTLX (Telix LLC)
+AS203395 ITC-AS (Konstruktor Informatsionnih tehnologii ltd)
+AS203401 URALPRESS-AS (Boxberry-soft OOO)
+AS203407 RCC-GROUP-AS (JSC RUSSIAN COPPER COMPANY)
+AS203444 MapmakersGroup ("MapMakers Group" Ltd)
+AS203451 K-Telecom-Network (K-telekom LLC)
+AS203454 KVANT-TELECOM (JSC KVANT-TELEKOM)
+AS203473 LOGINNET-AS (Servis Svyazi LOGINNET llc)
+AS203492 POWERTELECOM-AS (Closed Joint Stock Company "Power Telecom")
+AS203493 YACOLO-AS (Egor Timoshenko)
+AS203494 kbumb (Commercial bank ural interregional bank limited)
+AS203498 MSA-AS (JSC Intellin)
+AS203504 Verifield-AS (Ipsos Comcon LLC)
+AS203509 INNOPOLIS-AS (ANO VO Universitet Innopolis)
+AS203510 OMNICOMM (Omnicomm Invent Ltd)
+AS203513 LINK-AS (Link Ltd)
+AS203514 ROSSKO (ROSSKO-K Ltd.)
+AS203516 NKNH-AS (PJSC "Nizhnekamskneftekhim")
+AS203517 AVILEX-AS (Avilex LLC)
+AS203527 RADIOSET-AS (Filonenko Andrey PE)
+AS203533 ASTambovBekon (Tambovskiy bekon LLC)
+AS203542 IT-PROF-AS (IT-PROF LLC)
+AS203549 individualentrepreneurEduardUruzovAS (individual entrepreneur Eduard Uruzov)
+AS203561 KTK-TELECOM (KTK TELECOM LLC)
+AS203563 Vostok-AS (Vostok LLC)
+AS203599 Bank_Levoberezhny (Novosibirsk Social Commercial Bank "Levoberezhny" (public joint-stock company))
+AS203627 POBEDA-AS (Pobeda OOO)
+AS203668 RU-ConceptClub (LLC "ConceptGROUP")
+AS203695 ISP-AS (Saypudinov Ayatula)
+AS203697 Finservice-AS (JSC "Bank Finservice")
+AS203699 Chernogolovka-AS (OOO "UK "Chernogolovka")
+AS203714 LLCFlex-AS (LLC Flex)
+AS203725 iac-spb-as (St. Petersburg State Unitary Enterprise "St. Petersburg Information and Analytical Centre")
+AS203730 SVIAZINVESTREGION (SVIAZINVESTREGION LLC)
+AS203746 InterBCI (JSC "MBKI")
+AS203747 BURANTEL-AS (LLC Digital Network)
+AS203748 ITGRAD (Enterprise Cloud Ltd.)
+AS203749 O2Cloud (O2 Cloud, LLC)
+AS203750 CIT-ASN-RMS (State Unitary Enterprise of Krasnodar Region "Information Technology Center")
+AS203784 FiberTelecom-AS (Fiber Telecom Ltd)
+AS203791 ASKURIER (OOO Kurier)
+AS203794 Gals-Telecom-AS (LLC Gals-Telecom)
+AS203803 TELVIO-AS (TELVIO, Ltd.)
+AS203805 ASINFOLINE (Agentstvo ofisnyih tehnologiy INFOLINE Ltd.)
+AS203806 granline-as (GranLine, Ltd.)
+AS203816 Ester (OOO Ester Service)
+AS203831 NEW-POINT-AS (LLC "New Point")
+AS203832 PROITR (LLC Pro IT Resource)
+AS203841 RusAccreditation (RusAccreditation. Federal Service for accreditation)
+AS203844 INTOM-AS (Intom Ltd.)
+AS203870 AngloAmericanSchool (ANO Anglo-American School of Moscow)
+AS203883 AVERSBANK-AS (LLC Bank Avers)
+AS203891 ru-gkumo-as (GKU MO "MOC IKT")
+AS203907 EVOTOR-AS1 (EVOTOR LLC)
+AS203919 Scryabin-Denis-Dmitrievich (Scryabin Denis Dmitrievich)
+AS203921 ELBA-IX (Dataline Ltd)
+AS203922 ML-AS (Internet Service Center Ltd.)
+AS203956 IXNNOV (Panin Kirill Evgenyevich)
+AS203972 LLC-TATAISNEFT-AS (LLC TatAISneft)
+AS203988 ACTIVEHOST-LT-AS ("ActiveHost RU" LLC)
+AS204014 third-dc-as (IT Lite LLC)
+AS204039 CITYTELECOM-VOIP-MSK-AS (Citytelecom LLC)
+AS204040 NOT_USED (Citytelecom LLC)
+AS204041 CITYTELECOM-MSK (Citytelecom LLC)
+AS204048 VFT-AS (Joint Stock Volga Shipping)
+AS204049 AS_LLC3DATA (LLC 3data)
+AS204067 BIGCIRC-AS (SUE "Great Moscow State Circus on Vernadsky street")
+AS204076 citylan-east (CityLanCom LTD)
+AS204077 SVOS (Severnye volokonno-opticheskie sistemy Ltd.)
+AS204102 smartgrupp (LLC SmartGrupp)
+AS204112 G1-AS (G1 Entertainment LLC)
+AS204117 WEST-CALL-LTD-AS (OOO WestCall Ltd.)
+AS204128 AT-Telecom-AS (AT Telecom llc)
+AS204137 ORIONNET-IRK (Orion telecom ltd)
+AS204144 COMFORT-AS (Comfort XXI Century Ltd.)
+AS204153 TELEKONIKA-IX-AS (LLC "Telekonika")
+AS204159 ADK-AS (Autodoc Ltd.)
+AS204161 TRITEL-MSK-204161 (Alexey Geiner)
+AS204169 ICG-AS (Intel City Group LLC)
+AS204173 KOMPROMISS-AS (Kompromiss LLC)
+AS204198 monetaru (NCO "MONETA" (LLC))
+AS204199 SURYA-AS (Surya LLC)
+AS204211 G-I-T-AS (GENERAL IT RUS LLC)
+AS204217 SLAVIA-AS (LLC "SLAVIYA")
+AS204219 PETROLESPORT (Joint-Stock Company Petrolesport)
+AS204226 I-Teco (I-Teco JSC)
+AS204231 Systematic-AS (Systematic Ltd)
+AS204237 METALLPROFIL (Company Metall Profil, ltd.)
+AS204255 KMPP-AS (Ltd. "Myasokombinat "Kunkurskij")
+AS204259 KAMETA-NET (KAMETA LLC)
+AS204271 SHOWJET-AS (ShowJet OOO)
+AS204272 ASARTA (ASARTA LLC)
+AS204276 Eutelsat (Eutelsat Networks LLC)
+AS204277 Megalink-AS (Megalink LLC)
+AS204292 AMAN-AS (Abdulkadyrov Chingizhan Salmanovich)
+AS204297 BSTK-AS (LLC " Belgorod Networking Telecommunication Company")
+AS204298 ASTODEP (AO TODEP)
+AS204304 Neftegazholding (AO Neftegazholding)
+AS204305 Nelep-AS (Nelep Nikolay Valerievich)
+AS204311 DIRECTCREDIT-AS (M Tech LLC)
+AS204314 NSELECTRONICS-AS ("SetServisElektronika" Ltd.)
+AS204323 NOVEX-AS (Novex Ltd.)
+AS204337 RUSNANO (OOO UK ROSNANO)
+AS204338 sftmg-as (IT Lite LLC)
+AS204350 IPBOOM-AS (Ipboom Telecom LLC)
+AS204354 MBSAMARA-AS (PJSC Rostelecom)
+AS204357 VWRUS-AS (VOLKSWAGEN Group Rus)
+AS204362 ELINK48-AS (Ilin Vyacheslav Nikolaevich IP)
+AS204424 STARTM9-AS (Start.Ru LLC)
+AS204433 AS (East Media Group, LLC)
+AS204435 NCTRADE (New-Com Trade Ltd.)
+AS204459 DC-ThreeDATA-AS (LLC 3data DC)
+AS204477 URALKALI-AS (UralKali PJSC)
+AS204489 KVADO-AS (Kvartplata Online LLC.)
+AS204490 ASKONTEL (Kontel LLC)
+AS204492 NSK-AS (Scientific-Production Enterprise Business Sviaz Holding LLC)
+AS204495 SAVELIEV-AS (PE Alexander N. Saveliev)
+AS204507 baikalservise (LLC Baikal Service TC)
+AS204520 OIS-AS (CLOUDY INFORMATION SYSTEMS LLC)
+AS204525 DIGITALLAB-AS (LLC DigitalLab)
+AS204551 UTS-AS (United Toll Systems Limited Liability Company)
+AS204553 TOPMEDIA (Topmedia LLC.)
+AS204564 MIRMITINO (LLC "Mir Mitino Telecom")
+AS204574 IZ-AS (AO NIP "INFORMZASCHITA")
+AS204576 k12-servermall (Denis Dmitrievich Galyamin)
+AS204582 TCI-AS ("The Technical center of Internet" Limited Liability Company)
+AS204587 ION-AS (ION LLC)
+AS204600 REPUBLER-AS (Atlantic LLC.)
+AS204603 PARTNER-AS (AEZA GROUP LLC)
+AS204623 NEWLINE-AS (OOO New Line)
+AS204656 ServiceCloudPlus-AS (LLC "ServiceCloud Plus")
+AS204665 ThreeDATA-AS (LLC 3data DC)
+AS204678 DC_USERGATE (LLC Usergate)
+AS204696 AUCHAN-RU-AS (AUCHAN LLC)
+AS204703 planeta-cloud (Atroshchenko Maksim Vladimirovich)
+AS204713 UKK-AS (URAL CONSULTING COMPANY LTD)
+AS204720 CDNetworks (GLOBAL CLOUD NETWORK LLC)
+AS204735 BOBRTELECOM-AS (Bobr-Telecom LLC)
+AS204738 AS-ETAGI (OOO "Etazhi-Zapadnaya Sibir")
+AS204752 NSOTELECOM-AS (Rimer Anton Ivanovich)
+AS204768 SITRONICS-AS (JSC "SITRONICS")
+AS204791 STARLINK-CRIMEA-AS (Starlink Crimea Ltd.)
+AS204792 TS-AS (Telesistemy LTD)
+AS204820 MACHTA-AS (AktivCom LLC)
+AS204822 ATH-AS (Alvist LLC)
+AS204825 RESCOM-AS (Citytelecom LLC)
+AS204827 RESO-AS (JSC Bank RESO Credit)
+AS204833 VTEL-NSK-AS (Vostok Telecom LLC)
+AS204846 ROSTPAY-AS (ROSTPAY LTD)
+AS204848 COLVIR-AS (Arkona Softlab LLC)
+AS204878 CCT-M9P1 (OOO "Sovremennye setevye tekhnologii")
+AS204891 csi (LLC Crystal Service Integration)
+AS204895 SANTAPLUS-ASN (Yury Dolin)
+AS204898 AVANTELECOM-AS (OOO Avantelecom)
+AS204908 RU-SHARK (Shark Telecom LLC)
+AS204910 LEROYMERLINVOSTOK (LLC Leroy Merlin Vostok)
+AS204919 KRASAVIA (JSC "KrasAvia")
+AS204921 PLATEZHNYE-RESHENIYA-AS (PLATEZHNYE RESHENIYA, OOO)
+AS204925 CIKTRB (Center for Information and Communication Technologies of the Republic of Bashkortostan, State Unitary Enterprise)
+AS204941 TGS-AS (LLC "Tsentralnaya Gorodskaya Set")
+AS204952 VCIOM (JSC "ER-Telecom Holding")
+AS204961 RADIOMSU-UP (Federal State Budgetary Educational Institution of Higher Education Lomonosov Moscow State University)
+AS204980 TDM-TECH (TDM TECH LLC)
+AS204985 Big_Telecom-Solnechnogorsk (BIG Telecom-Solnechnogorsk LLC)
+AS204991 AVSELECTRO-AS (AVS-electro LLC)
+AS205009 FINTENDER-AS (JSC "RTS-holding")
+AS205022 ESCROW (Join-stock company "Internet Exchange"MSK-IX")
+AS205040 virtuozzo (Virtuozzo Research LLC)
+AS205047 Gevura-AS (JSC "Gevura")
+AS205060 Department_IT_of_Smolensk_region (Departament Smolenskoy oblasti po Informatsionnym tekhnologiyam)
+AS205062 LIGHTPORTALAKAN (LightPort Ltd)
+AS205063 CORTEL-AS (Cortel LLC)
+AS205070 ATST-AS (ATC Telecom LTD.)
+AS205076 PYA (Polishchuk Yaroslav Alexandrovich)
+AS205084 ASK-IT-AS (ASK-IT LLC)
+AS205126 ONELYA_AS (LLC ONELYA)
+AS205130 TELM-AS (LLC TELEMETRICA)
+AS205135 LLC12BIT-AS (12 bit LLC)
+AS205153 TSUM-AS (TSUM Trading House OJSC)
+AS205161 Sber-SPB-AS (Sberbank of Russia PJSC)
+AS205162 METATEH-AS (MetaTeh LLC)
+AS205194 info-line (LLC "INFORMATION LINES")
+AS205221 KORUS-SNG (Limited Liability Company "KORUS Consulting SNG")
+AS205226 MediaNet_AS (MediaNet LLC)
+AS205230 RTK-IT (RTK Digital Technologies LLC)
+AS205236 GIPERCOM-NET (ISP Gipercom LLC)
+AS205246 RU-SOCHITEL-AS (LLC "SochiTelecom")
+AS205264 ROCKETNET-AS (RocketNet Ltd.)
+AS205297 NSBL-AS (Nevskiy Syndicat OOO)
+AS205305 DTLN (Dataline Ltd)
+AS205312 CCT-KRD (OOO "Sovremennye setevye tekhnologii")
+AS205324 HYPERGLOBUS-AS (LLC Hyperglobus)
+AS205326 rost (ROST LLC)
+AS205349 bank-peresvet (AKB "Peresvet" (PAO))
+AS205378 GKOD (St.-Petersburg City Oncology Clinic)
+AS205391 MAP-AS (Merzlyakov A.B. PE)
+AS205396 PRIAN-AS (PRIAN LLC)
+AS205412 I-DIGITAL-AS (I-Digital Limited Liability Company)
+AS205433 Infobis_AS (Infobis LLC)
+AS205438 Studitech (Thyphone Communications LLC)
+AS205439 ippark-as (IP PARK LLC)
+AS205442 SMSTRAFFIC (SMS Traffic LLC)
+AS205454 CDS (CDS Ltd)
+AS205460 RG-SV (LLC Svyaz Invest)
+AS205482 DMAIL (Direct Mail LLC)
+AS205489 EFFORTEL_SPB (EFFORTEL SPB Ltd.)
+AS205495 LT-AS (OOO "L-Telecom")
+AS205500 MEGATEC-AS (Mega Tec LLC)
+AS205515 Telesystems (Telecommunication Systems LLC)
+AS205528 Midion-AS (Midion LLC)
+AS205553 MA1267-AS (LTD Magistral_Telecom)
+AS205562 Novacard (NovaCard JSC)
+AS205567 GEMOTEST-AS (Gemotest Laboratories)
+AS205569 REGSV-AS (REGIONSVYAZ OOO)
+AS205576 Stadion_Spartak (JSC FC Spartak-Moscow)
+AS205595 MTW-VOSTOK-AS (OOO MTW.RU)
+AS205601 DIGDES (Didgital Design Ltd)
+AS205611 DM-Basis-AS (LLC Basis Auto)
+AS205616 BALANCE-PLATFORM-AS (LLC "BALANCE-PLATFORM")
+AS205628 MIG-SRV-AS-1 (OOO MIG-Service Centre)
+AS205638 TM-AS-MSK (Tinkoff Bank JSC)
+AS205641 ELCOM-AS (ELCOM-Svyaz OOO)
+AS205652 KGKUCIT (CryptoCentre LLC)
+AS205657 SPA-Telecom-AS ("SPA-Telecom" OOO)
+AS205672 DEYMA (Deyma Ltd.)
+AS205682 GIPROSNAB-AS (INVESTREGIONPROM LLC)
+AS205701 ABSOLUT (Agenstvo Absolyut Ltd)
+AS205702 REDCODE-AS (Get-Net LLC)
+AS205710 MAKROKOM-AS (Makrokom LLC)
+AS205711 CHU-LAN (Igra-Service LLC)
+AS205717 VASH_DOHOD-AS (National Cash Desk LLC)
+AS205720 maltat (LLC Maltat)
+AS205735 Mitra-AS (LLC "Mitra")
+AS205750 CNRU-AS (CONDE NAST AO)
+AS205754 TK-ALPHA (TK Alfa JSC)
+AS205773 Telecom-Service-AS (LLC Telecom-Service)
+AS205781 CITYLAN-KRASNODAR-AS (Citylan LLC)
+AS205784 NV-Tel (NV Telecom LLC)
+AS205822 DEVINOTELECOM-AS (Limited Liability Company "DEVINO TELECOM")
+AS205824 Lagunstov (IE Laguntsov Ivan Nikolaevich)
+AS205830 CYMRG-AS (Digital Transformation Plus LLC)
+AS205840 VM-HOSTING (Dataline Ltd)
+AS205849 ISTEIT-AS (LLC "MP Group Isteit")
+AS205858 Ministry_oboroni (Ministerstvo Oboroni)
+AS205864 Edisoft-AS (Edisoft LLC)
+AS205865 ACOD (ACOD JSC)
+AS205880 SVS-AS (SPETSVYSOTSTROY JSC)
+AS205886 uGoPublishing (Ugo Publishing LLC)
+AS205922 BitrekAS (Bitrek LLC)
+AS205952 RUSONYX-AERO (Rusonyx, Ltd.)
+AS205954 Cloud-VDS (Dataline Ltd)
+AS205963 BURGERKING-AS (BURGER RUS LLC)
+AS205971 ASVOLSVL (JSC "ER-Telecom Holding")
+AS205978 LONMADI (JSC LONMADI)
+AS205998 SKYTEL-AS (Skytel LLC)
+AS206011 FREEDOM1-AS (Freedom LLC)
+AS206012 AXIOSTV-AS (AXIOSTV LTD.)
+AS206016 EZDOMAIN-AS (Vladislav Tatyanin)
+AS206027 FREIGHT-LINK-AS (Freight Link OJSC)
+AS206039 KSC (LLC "KSC")
+AS206054 TS3M-AS (TowerStream, LLC)
+AS206066 TELEDOM-AS (Teledom LLC)
+AS206069 KUFAirport-AS (JSC Kurumoch International Airport)
+AS206083 IPark (Internet-Park Ltd)
+AS206115 OBUVRUS-AS (OR Ltd.)
+AS206116 KOMTELE-COM (KomTelekom OOO)
+AS206134 ROSSTLC-AS (OOO Razvitie Optimizatsiya System Svyaz Telecom)
+AS206152 RWNETS (OOO Regional Wireless networks)
+AS206153 Prosveshcheniye-AS (Joint-Stock Company "Prosveshcheniye publishers")
+AS206156 RU-RADUGA-NEXTTELL (BILLING SOLUTION Ltd.)
+AS206167 HAMSTER (OOO Hamster)
+AS206171 IRIDIUM-RUSSIA-AS (Iridium Communications LLC)
+AS206179 GARANT-AS (OOO SDK GARANT)
+AS206181 ek-vostok (JOINT-STOCK COMPANY "ENERGOSBYTOVAYA KOMPANIYA "VOSTOK")
+AS206213 ASZHUCKOV (Zhuchkov Mikhail)
+AS206243 server21-as (Dzardanov Artur Kazbekovich)
+AS206256 REGIONTEHSVYAZ-AS (Ltd REGIONTEHSVYAZ)
+AS206269 MirTelekomAS (MIR TELEKOM LLC)
+AS206295 MedsiGroup (Joint Stock Company "Medsi group")
+AS206301 ruprofit-01 (LLC IT Expert)
+AS206323 SBI_Bank_AS (SBI Bank LLC)
+AS206333 ATLANTA-AS (Atlanta LLC)
+AS206334 START-TELE-RADIO (Teleradiocompany Start LLC)
+AS206337 IPE-RAS (Schmidt Institute of Physics of the Earth of the Russian Academy of Sciences, Federal State Budgetary Scientific Institution)
+AS206338 MRSK (MRSK Urala)
+AS206357 FAUBEHA-AS (Faubeha LLC)
+AS206365 ROSSIA-AIRLINES-AS (JSC ROSSIYA-AIRLINES)
+AS206385 SPETSTELECOM-YUG-AS (OOO "SPETSTELECOM-YUG")
+AS206386 OMEGA-AS (Omega Ltd.)
+AS206395 RCIB-AS ("Scientific and Production Enterprise Insoft" LLC)
+AS206396 ITK-AS (ItCom LLC)
+AS206403 Fund_of_Granov (Fund of Anatoly Mikhailovich Granov)
+AS206407 RECONN-SPB (RECONN LLC)
+AS206419 RKURSK-AS (State Unitary Enterprise of the Kursk region "Information Center "Region-Kursk")
+AS206424 NRB-AS (NRB-CAPITAL llc)
+AS206435 novline05-as (Individual Entrepreneur Umarov Huseyn Suleimanovich)
+AS206448 SouthTransTelecom-AS (LLC "SouthTransTelecom")
+AS206465 ORGKHIM-AS (ORGKHIM Biochemical Holding Management Company, Joint-Stock Company)
+AS206515 A1-SYSTEMS-AS2 (A1 Systems Ltd.)
+AS206527 IT-SERVICE (LLC IT Service)
+AS206536 JSNS2-AS (Joint Stock Volga Shipping)
+AS206538 ALFA-AS (Alfa-Telecom OOO)
+AS206572 BARNAUL-ADM-AS (Administration of Barnaul City)
+AS206573 vgsplus-as (Vladmirskaya Gorodskaya Set Plus LLC)
+AS206585 Mosenergo (Mosenergo PJSC)
+AS206630 STD-TLC-NET ("Standard Telecom" LLC)
+AS206631 PENOPLEX-AS (PENOPLEX SPb LLC)
+AS206647 STORM-TRADING (STROM-TRADING LLC)
+AS206649 SHAMILOV-AS (IP Shamilov Timur Gazimagomedovich)
+AS206653 Biocad_AS (Biocad JSC)
+AS206661 O1Telecom (JSC "ER-Telecom Holding")
+AS206668 markettv (MARKET TV LLC)
+AS206673 Sberbank-Telecom (Sberbank-Telecom LLC)
+AS206680 PG19-Rovenki (Consumer Internet Cooperative PG-19)
+AS206684 vniiofi (FGUP Russian Scientific Research Institute of Optical and Physical Measurements)
+AS206696 ua-webogroup (WEBO LLC)
+AS206707 IEGUTOV-AS (Individual Entrepreneur Gutov Ivan Mikhailovich)
+AS206708 Iris-tel (Sergey Cherentayev)
+AS206710 INVEST-PALATA (Invest Palata LLC)
+AS206724 LT-AS (LASNET TECHNO LLC)
+AS206728 MEDIALAND-AS (Media Land LLC)
+AS206756 BELTELE_COM (Beltelecom LLC)
+AS206760 INTPROM-AS (Intprom)
+AS206764 MEDIASOFT-AS (JSC Mediasoft ekspert)
+AS206767 TIONIX-AS (BASIS LLC)
+AS206803 asterabit (LLC Terabit)
+AS206805 T1CLOUD-AS (LLC "T1Cloud")
+AS206810 UGLETELECOM (GUP DNR "UGLETELECOM")
+AS206812 Reddock ("Domain names registrar REG.RU", Ltd)
+AS206817 AS-Sibdata (Adman LLC)
+AS206820 NICE-TELECOM-AS (Nice Telecom LLC)
+AS206827 TMTR-RU (TrackMotors LLC)
+AS206845 BAKULEV-CENTER-AS ("FSBI "SCCS of A. N. Bakulev" of the Ministry of Health of the Russian Federation")
+AS206850 neoflex (NEOFLEX CONSULTING JSC)
+AS206871 finsib (FinSib SD LLC)
+AS206873 GalaxyData (GalaxyStar LLC)
+AS206904 Citilink-AS (LLC "Citilink")
+AS206905 NII-SOKB (Research Institute of Complex Security Systems LLC)
+AS206916 GTN-HOST-AS (Get-Net LLC)
+AS206926 LETIT-AS (Letit LLC)
+AS206955 EVOTOR-AS (EVOTOR LLC)
+AS206965 CorporatsiaZNAKAS (Corporatsia ZNAK LLC)
+AS206968 ROSSETI-AS (PJSC Rosseti)
+AS206973 MCC-AS (NON-BANKING CREDIT ORGANIZATION "ELECSNET" Joint Stock Company)
+AS207005 NEO-CLOUD-AS (LLC NeoCloud)
+AS207016 AS-GUOV (OOO VTC-MOBILE)
+AS207025 RARUS (1C-RARUS Limited Liability Company)
+AS207027 Eximius-AS (LLC Eximius)
+AS207055 BCS2-AS (BrokerCreditService LTD)
+AS207056 BONCH-IT (Maloe Innovacionnoe Predpriyatie Bonch IT LLC)
+AS207064 INPLATLABS-AS (DBS Technologies LLC)
+AS207078 CREDITURALBANK-AS ("Credit Ural Bank" Joint Stock Company)
+AS207093 tele-k (Telematika Plus OOO)
+AS207103 CONVEX-KIROVGRAD (LLC Cifrovie Seti Urala)
+AS207104 BIZONE-AS ("BiZone" LLC)
+AS207124 MAKFA-AS (OJSC MAKFA)
+AS207128 STREAMLET-AS (Streamlet Ltd.)
+AS207133 RUCOMTECH-AS (RUCOMTECH LLC)
+AS207165 OOO5COM (OOO 05COM)
+AS207168 BUSINESS-TRADE-AS (Business Trade Ltd)
+AS207205 ITSS-AS (IT System Solutions LLC)
+AS207207 YL30 (Yandex.OFD LLC)
+AS207209 IT-ZAVOD (IT-Zavod LLC)
+AS207228 RAKETA-NET-AS (Uplink Ltd.)
+AS207235 GURZUF-21-VEK-AS (GURZUF-21-VEK)
+AS207239 GiG-net (LLC G&G-Telecom)
+AS207240 BNGF (JSC "Ufanet")
+AS207256 Zolotarev (Individual Entrepreneur Nikita A. Zolotarev)
+AS207258 FENIX-AS (LLC Fenix)
+AS207259 Energo (Energo Ltd)
+AS207284 ASPECT-AS1 (Aspect LLC)
+AS207288 Toledo-AS ("Trading House "Toledo" Ltd.)
+AS207321 NMG-AS (JSC National Media Group)
+AS207340 AIRNET42-AS (Kruglyakov Alexandr Yurjevich)
+AS207344 FTCRYPTO-AS (LLC Fintender-crypto)
+AS207347 CIT2-AS (GKU CIT Kuzbassa)
+AS207351 TRANSROUTE-2 (Transroute Telecom LTD)
+AS207353 Ruform (Ruform LLC)
+AS207361 AS_USERGATE (LLC Usergate)
+AS207362 LINXDATACENTER-IX (Svyaz VSD LLC)
+AS207373 ALTSPU-AS (Federal State Budgetary Educational Institution of Higher Education "Altai State Pedagogical University")
+AS207376 IKANOBANK (Ikano Bank LLC)
+AS207380 TECHNOTORG-AS (LLC PF TECHNOTORG)
+AS207382 asrlz01 (Realize LLC)
+AS207384 original-as (OOO Negotsiant)
+AS207387 GRAVITEL-AS (Gravitel OOO)
+AS207397 EFIR-MUROM-AS (Municipal unitary enterprise of the Murom district EFIR)
+AS207423 STEILSOUTH-AS (STEIL-SOUTH LTD)
+AS207433 METROVAGONMASH (JSC "METROVAGONMASH")
+AS207438 ORG-SA4498-RIPE (PETERSBURG METRO)
+AS207447 STECH-AS (OOO Smart Technologies)
+AS207457 AT-Avia (AT Telecom llc)
+AS207472 Livetex-2 (Omnichannel technologies LLC)
+AS207473 VATS_ON-AS (OOO "ZVI Telecom")
+AS207479 BSH-KLM-AS (Scientific-Production Enterprise Business Sviaz Holding LLC)
+AS207490 ISP-GBL (Individual Proprietor Boris L. Grigoryan)
+AS207496 DIGITECH-RU-AS (DIGI TECH LLC)
+AS207501 BIKIN-AS (Bikinskie Elektronnye Systemy OOO)
+AS207504 INVINN-AS (LLC Investments and Innovations)
+AS207518 NIPIGAZ-AS (JSC NIPIGAZ)
+AS207532 FORTRAN-AS (Fortran OOO)
+AS207542 INNOSETI (Innoseti LLC)
+AS207547 SVTEL-AS (Svyaztelecom LLC)
+AS207548 Shvabe (JSC Shvabe)
+AS207561 FloralAllians-AS (Limited Liability Company Floral Alliance)
+AS207581 VKONTAKTE-SPBKM-AS (VKontakte Ltd)
+AS207634 DIGITAL-LINK (Digital Link Limited Liability Company)
+AS207648 VDI-Service (VDI service, LLC)
+AS207651 VDSINA-NL (Hosting technology LTD)
+AS207657 erc-rosatom (JSC "Emergency Technical Center of Rosatom")
+AS207665 OSS-SPB-AS (OOO "Optimal'nye Sistemy Svyazi" (limited liability company))
+AS207676 BEST-LINE-AS (Best Line Ltd.)
+AS207692 CTC (CTC, Joint Stock Company)
+AS207698 ROSTURNER (The Turner scientific research institute for children's orthopedics)
+AS207713 GIR-AS (GLOBAL INTERNET SOLUTIONS LLC)
+AS207718 Ru-hoster (Udovikhin Evgenii)
+AS207744 MEGALINK-AS (MIK LLC)
+AS207753 BARNET (Barnet LLC)
+AS207769 SIBUR-RT-AS (JSC SIBUR-RT)
+AS207794 ONSEVER (Online Sever LLC)
+AS207804 ITEL (Multitelesystems LLC)
+AS207822 NPK-MSA-AS ("NPK Morsvyazavtomatica" LLC)
+AS207839 GGE (FAU GlavGosExpertiza Rossii)
+AS207853 NPO-UNIMACH-AS ("NPO Unimach" LLC)
+AS207859 GLAVSTROY-AS (GLAVSTROY Ltd)
+AS207867 Bia-tech-ASN (BIA-Technologies LLC)
+AS207873 KHR-AS (JSC "Kuchenland Home Rus")
+AS207874 TMTR-N (TrackMotors LLC)
+AS207875 KSOT-as (Nikita Sergienko)
+AS207883 KDP-TELECOM-AS (LLC KPD-TELECOM)
+AS207909 LUGOVOE (Nikolai Anatolievich Andreenkov)
+AS207911 LINKTEL-NW (LINKTEL-NW LTD)
+AS207935 INSITD-AS (INSI Steal Constructions LLC)
+AS207952 ET-AS (Evro Telecom OOO)
+AS207954 SKYTELECOM (TSK LLC)
+AS207967 IPOCEAN (Anton Mamaev)
+AS207970 mailru-as (LLC VK)
+AS207977 WI-TECH-RU-AS (Limited Liability Company SOVREMENNYE BESPROVODNYE TEHNOLOGII)
+AS207978 KSC-SB-RAS-AS (FITS KNTS SO RAN)
+AS207979 ru_apex (Dmitry Zhmurco)
+AS207984 AS-CRAZYPANDA (Crazy Panda Rus Ltd.)
+AS207986 OZON-BANK-AS (LLC OZON BANK)
+AS207997 KrasnayaZvezda (Krasnaya Zvezda LLC)
+AS208003 EMTIA-LINK (Tsyapa Oleg Anatolyevich)
+AS208008 LMV-AS (LLC Leroy Merlin Vostok)
+AS208044 CMLT-AS ("Camelot-A" LLC)
+AS208047 Inservicecenter (ALET, LLC)
+AS208056 SMARTCOMRU (Smartcom LLC)
+AS208061 TELE-CONTACT-RU (Limited Company Telecontact)
+AS208075 RSVO_Mirit_Sochi (Federal State Unitary Enterprise of the Order of the Red Banner of Labour "Russian Broad-casting and Notification Network")
+AS208083 TSK (TSK LLC)
+AS208087 EDINOS-AS (Novosibirsk Telecommunication Company Ltd.)
+AS208090 ACOSC-CRIMEA (Association of cable network operators of Crimea)
+AS208092 global-consult (Global Consult Group LLC)
+AS208099 TR-AS (TR-Project LTD)
+AS208100 Barnius (Barnius Ltd.)
+AS208102 SRVCORE (Individual Entrepreneur Rylov Roman Yrevich)
+AS208107 EvseevPavelNikolaevich (Evseev Pavel Nikolaevich)
+AS208111 Technopark (JSC "Technopark of Saint-Petersburg")
+AS208129 inetko (LLC LTDNET)
+AS208142 Rocket-Telecom-AS (LLC Rocket Telecom)
+AS208155 NUMEDY-AS (Numedy LLC)
+AS208165 SberLeasing (AKCIONERNOYE OBSCHESTVO SBERBANK LIZING)
+AS208173 CORPORATE_TELEVISION (CORPORATE TELEVISION LLC)
+AS208177 AS-CENTRINVEST (Public Joint-stock company commercial Bank "Center-invest")
+AS208178 NLR (Federal State Institution "National Library of Russia (NLR)")
+AS208186 ASN-KONSOM (CJSC "Konsom SKS")
+AS208193 Coal-Trans (Coal-Trans JSC)
+AS208207 SKGELIOS-AS (LLC The Insurance Company Gelios)
+AS208219 ROSTRANSMODERNIZATSIYA-AS (FTI ROSTRANSMODERNIZATSIYA)
+AS208221 ORIONNET-BRK (Orion telecom ltd)
+AS208274 NETUP-AS (NetUP LLC)
+AS208291 ONL-AS (LLC "Online Logic")
+AS208300 Sokirkin (Sokirkin Vasilij Yur'evich)
+AS208303 SKI-AS (LLC "Svyazkontaktinform")
+AS208312 redbytes (Red Byte LLC)
+AS208314 ACCESSTELECOM (Access Telecom Ltd.)
+AS208325 EUSPb (European University at Saint Petersburg)
+AS208335 www-net (IP Khnykin Vitaliy Yakovlevich)
+AS208345 MEBIUS-AS (Mebius JSC)
+AS208349 O2CLOUDRU (O2 Cloud LLC)
+AS208352 HKSY (ANO Hockey club "Salavat Yulaev")
+AS208357 MCCME-CPM-AS (Non-State Educational Institution "Moscow Center for Continuous Mathematical Education")
+AS208360 bubble-as (Bubble, LLC)
+AS208371 bookvoed (BUKVOED Ltd.)
+AS208380 ASMIRAM (Miram Ltd.)
+AS208388 Odezhda3000-AS (AO "Odezhda 3000")
+AS208397 INFOSTROY-AS (INFOSTROY LLC)
+AS208409 FKP-PLANT-NAMED-AFTER-YMSVERDLOV (FKP Zavod imeni Sverdlova)
+AS208411 MEDLINX-AS (MEDLINX Limited Liability Company)
+AS208413 Rubynet-as (RubyNet LLC)
+AS208435 ZUGRES-NET (Zverkov Sergey Aleksandrovich PE)
+AS208447 FASTMILE (LLC FASTMILE)
+AS208456 AS-ITPARKRU (ITGLOBALCOM RUS LLC)
+AS208461 nipbank (Natsinvestprombank (JSC))
+AS208481 dns (Sokolov Dmitry Nikolaevich)
+AS208502 NPOSAM-AS (SafeData LLC)
+AS208503 LORD-AS (LLC "LORD")
+AS208511 R-INDUSTRY-AS (Korporatsiya R-Industriya LLC)
+AS208534 Zashita-as (FSBI CENTRAL RESEARCH INSTITUTE OF ORGANIZATION AND INFORMATIZATION OF HEALTH OF THE MINISTRY OF HEALTH)
+AS208541 IT-MEDIA (LLC IT-Media)
+AS208544 PAUTINA05 (Shahaev Gadzhi Abdurahmanovich)
+AS208547 VOLGA-AS (LLC "NPK "VOLGA-AVTOMATIKA"")
+AS208573 SAYANNET-AS (Bondarev Andrei Gennadievich)
+AS208587 ARKATEK-AS-2 (OOO "ZVI Telecom")
+AS208604 PETROVISER (PETROVISER LLC.)
+AS208605 MAGADAN-IT-AS (Government of Magadan Region)
+AS208615 CDBMB-AS (Central Design Bureau of Machine Building, Joint-Stock Company Company)
+AS208626 serv-tech (ServTech LTD)
+AS208629 GoldApple (RC Company LLC)
+AS208631 PSKB-AS (PJS SCBP Primsotsbank)
+AS208640 Channel-One-RU-WW (Channel One Russia Worldwide JSC)
+AS208649 VM-CLOUD (Denis Dmitrievich Galyamin)
+AS208657 ASU-AS (Federal State Budgetary Educational Institution of Higher Education "Astrakhan State University")
+AS208677 CLOUDRU-AS ("Cloud Technologies" LLC trading as Cloud.ru)
+AS208701 Amos-as ("TRK" "AMOS" LLC)
+AS208720 ROS-LTD (LLC Rosinfokom)
+AS208729 KOZITSKIY-AM (Kozitskiy A.M. PI)
+AS208739 RU-PJSCPHARMACY-WH (PJSC Pharmacy Chain 36.6)
+AS208748 asnumarov (IE Shakhaev Gadzhi Abdurakhmanovich)
+AS208752 BaykonurSvyazInform-AS ("BaykonurSvyazInform" SUE)
+AS208762 ASCHIN (Chuvakov Igor Nikolaevich)
+AS208774 ASTTS (Joint Stock Company "TTS")
+AS208777 RU-LANCLOUD-AS01 (LANKEY INFORMATION TECHNOLOGIES LLC)
+AS208780 ASANDIAL (Andial Ltd.)
+AS208786 MILECOM-2-AS (JSC "ER-Telecom Holding")
+AS208793 as_altegro (LLC "Demo-Club")
+AS208801 ASEEC (ASE JSC)
+AS208803 ACN (ACN LLC)
+AS208811 ALFA_ALTUF (JSC "ALFA-BANK")
+AS208825 REDLN-AS (REDLINE OOO)
+AS208827 KGKUCIT (CryptoCentre LLC)
+AS208838 DOMSET (DomSet OOO)
+AS208879 TT-AS (Teraline Telecom Ltd)
+AS208890 RCK (SUE LPR "Republican Digital Communication")
+AS208894 TRM (TRM Ltd.)
+AS208903 BINP (Federal State Budgetary Institution Budker Institute of Nuclear Physics of Siberian Branch Russian Academy of Sciences)
+AS208912 startelecom (KrasPromStroy, LLC)
+AS208936 COMVIP-AS (PE Dmitry Filonenko)
+AS208945 Ustek-Chelyabinsk (Ustek-Chelyabinsk JSC)
+AS208954 UPITER-NET (OOO "UPiterTelecom")
+AS208955 URALNET-AS (UralNet LLC)
+AS208975 KNYAZEV (Individual Entrepreneur Knyazev Ilya Nikolaevich)
+AS208977 AS366RU (PJSC Pharmacy Chain 36.6)
+AS208981 DPC24 (Data Center LLC)
+AS208991 TOCHKA-AS (Tochka Dostupa Ltd.)
+AS208992 Axatel-as (Axatel LLC)
+AS209005 SB-AS (SB-Line OOO)
+AS209008 ugtelecom (UGTELECOM LLC)
+AS209019 New_Communications-as (New Communications Ltd.)
+AS209024 MTS-CLOUD-A (MTS PJSC)
+AS209030 KL-KDP (Kaspersky Lab AO)
+AS209037 MIKROTEK-AS (LLC "MIKROTEK")
+AS209038 TRITEL-MSK-209038 (Alexey Geiner)
+AS209059 GCOM-AS (G COM Ltd.)
+AS209067 AS-AVIVA-TELECOM (Aviva-Telecom Ltd.)
+AS209084 CBR-DATA (Bank of Russia)
+AS209096 ANT-DS (ANT Digital Services LTD)
+AS209099 NonStop-AS (Limited Liability Company "NonStop")
+AS209112 SKYTELECOM (TSK LLC)
+AS209119 ENERGOGARANT-AS (PJSC "Joint-Stock Insurance Company ENERGOGARANT")
+AS209141 CMI-Russia (China Mobile International (Russia), LLC)
+AS209179 WI-FI-DOM-AS (Wi-fi Dom Ltd.)
+AS209206 A3NET-AS (VORONEZH TELECOM LLC)
+AS209217 RRPK-Vl-AS (Russian Fishery LLC)
+AS209219 asdin (LLC Daginfonet)
+AS209228 MPNEDVIZHIMOST-AS (MP-Nedvizhimost LLC)
+AS209248 INTERSET-AS (Interset Ltd.)
+AS209284 EGS-TelecomKaluga-AS (EGS-TELECOM.KALUGA LLC)
+AS209289 TSK (TSK LLC)
+AS209303 ALKOTORG (ALKOTORG LTD)
+AS209307 CONVEX-EKB (LLC Cifrovie Seti Urala)
+AS209313 INSVC-AS ("Interservis" Ltd.)
+AS209339 NSC-FIX-AS (JSC National satellite company)
+AS209343 RUSSVYAZ-AS (Svyaz JSC)
+AS209351 FINAMTECH-TT2 (Joint Stock Company Investment Company FINAM)
+AS209352 FINAMTECH-INF1 (Joint Stock Company Investment Company FINAM)
+AS209361 DCE-AS (data-centr ekaterinburg OOO)
+AS209367 HAPOTELE (LLC HAPOTELE)
+AS209376 PARTYGORSK-AS (OOO Trivon Networks)
+AS209393 DONTEL-AS (OOO Dontel)
+AS209406 ipway (IpWay LLC)
+AS209415 LLC123PROD-AS (LLC 1-2-3 PRODUCTION)
+AS209420 START-AS (START LLC)
+AS209436 ORG-ML554-RIPE (Likhno Dmitriy trading as Luganet)
+AS209445 Telecom5 (Telecom five LLC)
+AS209446 VASExperts (VAS Experts Ltd)
+AS209448 AvtoGERMES-AS (AvtoGERMES-Zapad, LLC)
+AS209456 WEIR-AS (Weir Minerals RFZ Ltd.)
+AS209458 DN-Telecom-AS (DN Telecom Ltd.)
+AS209473 infodec (InfoDec LLC)
+AS209476 SKOLKOVO-AS (Non-commercial organization "Foundation for Development of the Center for Elaboration and Commercialization of New Technologies")
+AS209511 MOSGORTRANS-AS (STATE UNITARY ENTERPRISE OF THE CITY OF MOSCOW "MOSGORTRANS")
+AS209517 TCS-AS (JSC "TCS")
+AS209520 Goznak-AS (JSC Goznak)
+AS209546 NK-AS (NK-NET OOO)
+AS209592 INTERNET42-AS (Internet42 LLC)
+AS209599 sima-land (TD SIMA-LAND LLC)
+AS209636 Transmost (Transmost JSC)
+AS209639 ELS-AS (European Legal Service LLC)
+AS209655 FIBERTEL (LLC FIBERTEL)
+AS209656 Rosterminalugol-net (JSC Rosterminalugol)
+AS209657 APELSIN-AS (Svinin M.Y. PE)
+AS209660 OSASEVER-AS ("Operator skorostnikh avtomagistraley - Sever" Ltd.)
+AS209666 SHAKHMIN-AS (Private entrepreneur Shakhmin Alexandr Sergeevich)
+AS209667 SMART-OFFICE (Smart-Office LLC)
+AS209668 NEWNET74-AS (New-Net Ltd.)
+AS209679 GBUZ49 (SPB GBUZ Children's City Policlinic 49 Pushkin District)
+AS209683 runexis (INTERNOD LLC)
+AS209684 ACTION-DIGITAL (Action-digital LLC)
+AS209687 kvant2 (KVANT LLC)
+AS209695 Kucherenkov-AS (LTD Darya)
+AS209698 VSUT-AS (Federal State Budgetary Educational Institution of Higher Education "Volga State University of Technology")
+AS209701 SBERBANK-FACTORING (Sberbank-factoring Ltd.)
+AS209720 multinet-lug (LLC "Multinet-Lugan")
+AS209728 EXPERTTELECOM-AS (Expert Telecom LLC)
+AS209734 AS_RI_M (RusInfo-M LLC)
+AS209739 NSC-AS (JSC National satellite company)
+AS209746 CONVEX-NOVOURALSK (LLC Cifrovie Seti Urala)
+AS209747 may-net (Osipenko Alexander Nikolaevich)
+AS209751 AT-Vega (AT Telecom llc)
+AS209755 NEWLIME-AS (Newlime LLC)
+AS209758 KRASPOD-AS (CryptoCentre LLC)
+AS209759 ASMT6 (Moy Telecom LLC)
+AS209773 NewRadio-AS (LLC "Company New Radio")
+AS209775 SOLIDNET (Solidnet Ltd)
+AS209779 SOLID-AS (Joint Stock Company Commercial Bank "Solidarnost")
+AS209785 repro (Repropark Ltd)
+AS209787 ALLTECH (ALLTECH LLC)
+AS209788 CONVEX-REGIONS (LLC Cifrovie Seti Urala)
+AS209789 SenTokarev (Nikolay Olegovich Tokarev)
+AS209794 COOLCLEVER (Noviy Format TK Ltd.)
+AS209796 RUSHYDRO (LLC "RusHydro IT Service")
+AS209805 SBCLOUD (SBCLOUD LLC)
+AS209821 MIDNET-AS (AO MIRS)
+AS209847 ICOM-AS (Intercom LLC)
+AS209867 SCORPION-NET (LLC Security Agency "Scorpion")
+AS209873 RelyefCentrAS (Relyef Centr LLC)
+AS209885 AKIAC-AS (Altai Regional Information and Analytical Center)
+AS209890 RENAULT-AS (JSC MOSCOW AUTOMOTIVE FACTORY MOSKVICH)
+AS209911 KRAVTSOV-AS (Kravtsov Evgeniy Aleksandrovich)
+AS209926 SKYSTREAM-AS (SkyStream Ltd.)
+AS209930 DSP (DataSpace Partners LLC)
+AS209950 GIGAVIDER-AS (Voltaks-Aliance LLC)
+AS209954 STAR-TELECOM-AS (Star-Telecom Ltd.)
+AS209955 UI (USINSK-INFORM LLC)
+AS209962 MRSKVOLGI-AS (MRSK Volgi PJSC)
+AS209973 SCB-MSK-AS (PJSC Sovkombank)
+AS209974 AS-ITGLOBALCOM-RU (ITGLOBALCOM RUS LLC)
+AS210028 cs (LLC "Complex Systems")
+AS210033 MIKROTEK-BK-AS (LLC "MIKROTEK")
+AS210038 ETPGPB (LLC ETP GPB)
+AS210047 maximanm-as (Maxima, LLC)
+AS210063 COMPANY-TELECOM-AS (Company Telecom LLC)
+AS210071 WEBGET (LIMITED LIABILITY COMPANY "WEBGET")
+AS210078 INFORMHOLDING-AS ("INFORM-HOLDING" LTD.)
+AS210079 EUROBYTE (EuroByte LLC)
+AS210093 RKStroj (Alexander Sharkov)
+AS210109 kurgan-telecom-as (LLC "Kurgan-Telecom")
+AS210113 BANK-ROSSIYA-2-AS (JSC "AB ROSSIYA")
+AS210135 YUG-TELECOM-K-AS (Yug-Telecom-K Ltd.)
+AS210160 Almazergienbank-AS (AKB "Almazergienbank" JSC)
+AS210171 AVP-Technology-AS (LLC "AVP-Technology")
+AS210188 SUSHI-MASTER-AS (Sushi Master Center Ltd.)
+AS210200 CloudLite (CloudLite LLC)
+AS210201 Connected-businiess (Connected Business LLC)
+AS210209 VEELAN (LLC "VEELAN")
+AS210223 LMA-AS (LMA CJSC)
+AS210239 zniis-as (The M.I. Krivosheev Radio Research & Development Institute)
+AS210240 NTC-AS (New Communication Technologies LLC)
+AS210267 maximan-as (Maxima, LLC)
+AS210276 MSAL-AS (FEDERAL STATE BUDGET EDUCATIONAL ESTABLISHMENT OF HIGHER EDUCATION "MOSCOW STATE LAW UNIVERSITY NAMED AFTER O.E KUTAFIN (MSLA)")
+AS210328 ALMAZCLOUD (AO ALMAZ)
+AS210342 CKU-IT (CKU-IT LLC.)
+AS210352 server4-as (AEZA Group LLC)
+AS210357 SHAHB-AS (Shahbanov Ramis Magomedalievich)
+AS210380 PTL (Quantum CJSC)
+AS210416 SVRHOUSE (SVRHOUSE LLC)
+AS210431 TKH-I-AS (TKH-Invest Ltd.)
+AS210443 GoldApple2 (RC Company LLC)
+AS210447 DARKTEL-AS (Darktel llc)
+AS210451 RBK-INVEST (RBK-INVEST LLC)
+AS210471 Master (MASTER TELECOM LIMITED LIABILITY COMPANY)
+AS210481 EDGENET (Mark Liman)
+AS210491 QUANTEK-AS (OOO Quantek)
+AS210493 ITS-PRO-AS (ITS PRO Ltd.)
+AS210494 NETHOUSE (REGISTRANT LLC)
+AS210512 internettech (Internet Technologies LLC)
+AS210525 SIRIUS-NET (Nikita Sergienko)
+AS210540 T-SYSTEMS_RUS_LLC (LLC T-Systems RUS)
+AS210552 Laguna (Laguna Tech Pro LLC)
+AS210553 connect-as (Connecting LLC)
+AS210600 Seligdar (PJSC "Seligdar")
+AS210616 SIBMEDVED-AS (SM Ltd.)
+AS210656 YACLOUDBMS (Yandex.Cloud LLC)
+AS210682 A3PAY-AS (PAYMENT SERVICE A3 LLC)
+AS210698 FINUNMSK (Financial University under the Government of the Russian Federation)
+AS210702 telecomv4-as (Telecomv4 LLC)
+AS210706 STCK-AS (OOO "StroyTerminal Center Krasok")
+AS210720 internet-telecom-as (PE Novoshitskiy V.V.)
+AS210725 GLAVKINO-AS (OOO Kinostudiya "Zvezda")
+AS210726 ADVGROUP (ADV Launchpad Limited Liability Company)
+AS210735 BiT-AS (BIT LLC)
+AS210739 neolinkgroup (Neolink Grupp LLC)
+AS210753 tildapublishing-ru-1 (Tilda Publishing LLC)
+AS210756 EdgeCenterLLC (EdgeCenter LLC)
+AS210766 DS-PRAZDNIK (JSC "ER-Telecom Holding")
+AS210778 NTKOM-AS (Kazakov Aleksandr)
+AS210786 ASEFKO (Management Company EFKO JSC)
+AS210787 CDEK4-AS (CDEK-Global LLC)
+AS210827 AURORA-AS (Aurora Telecom LLC)
+AS210828 Profholod (ProfHolod Ltd.)
+AS210868 RBS-AS (Limited Liability Company "R-Business Svyaz")
+AS210889 KRASTSVETMET (KRASTSVETMET OJSC)
+AS210894 DSKOV (JSC DSC)
+AS210899 neftm-as (Torgovyi Dom Neftmagistral LLC)
+AS210914 CITYLAB (LLC "Scientific and Methodological Center for Clinical Laboratory Diagnostics Citylab")
+AS210928 RDBNN24 (RDB 24, Ltd.)
+AS210931 vdstel-as (VDS-TELECOM LLC)
+AS210954 LASPACE (Joint Stock Company "Scientific and Production Association named after S.A. Lavochkin")
+AS210989 VAC (Private institution of culture "Museum "Victoria - the Art of Being Contemporary")
+AS211000 DH-TD-AS ("DoorHan - Torgovyj Dom" LLC)
+AS211002 G2NET-AS (G2 LLC)
+AS211027 racktech (LLC Vpsville)
+AS211045 TMTR-O (TrackMotors LLC)
+AS211076 NOVATEK-AS (PJSC NOVATEK)
+AS211078 ORSAVIA (JSC "Online Reservation System")
+AS211082 ASTEHNO (Tekhno Ltd)
+AS211101 maxlink (Nasteka Maksim Viktorovich)
+AS211134 AS-Intersys (Intersys Ltd)
+AS211150 SvyazInform-Kursk-AS (SvyazInform LLC)
+AS211164 MEML1 (Metropol Esset Management LLC)
+AS211173 NZRRTA (LLC "NZRRTA")
+AS211183 AdminVPS (AdminVPS OOO)
+AS211185 RUSCHEMALLIANCE-AS (RusChemAlliance LLC)
+AS211202 GAUCIT-AS (GAU NO "CIT")
+AS211221 Stankomach-AS (JSC StankoMachComplex)
+AS211229 LION-TRADE (LLC "Lion-Trade")
+AS211240 KRASSETI (Krasseti LLC)
+AS211241 AtkomAS (ALTKOM LLC)
+AS211245 CSE (CRIMEA SYSTEMENERGY LLC)
+AS211246 INTERION (LLC Interion)
+AS211247 heyling (Heyling, LLC)
+AS211258 MGIMO (Federal state autonomous institution of higher education "Moscow State Institute of International Relations (University)")
+AS211270 ZKNET (3KNET TELEKOM LLC)
+AS211282 PG19-Veydelevka (Consumer Internet Cooperative PG-19)
+AS211291 Tulun-TeleCom-AS (Tulun-TeleCom Ltd)
+AS211311 fesco-net-2 (FESCO Transportation Group Managing Company Limited)
+AS211333 SRPNTL (Aleksander Zaruczewski)
+AS211347 CPOSO-AS (CPO of Samara region)
+AS211362 KINOAFISHA-AS (Traffic Ltd)
+AS211366 ISP-OOO-LINK-NET-AS (link LLC.)
+AS211379 ASNEOTELECOMPLUS (Neo-Telecom Plus Ltd.)
+AS211382 Sevas (Federal State Unitary Enterprise of the Order of the Red Banner of Labour "Russian Broad-casting and Notification Network")
+AS211399 DIGITALKPD-AS (KPD group OOO)
+AS211400 MONOPOLY (JSC MONOPOLY)
+AS211404 RG-AS (Resource Group LLC)
+AS211406 REANTACLOUD-AS (CLOUD PROVIDER LLC)
+AS211409 Galaxy-as (Shelter LLC)
+AS211446 A-GROUP ("A GROUP" LLC)
+AS211473 PLUMBERS (LLC 'Plumbers')
+AS211497 TAVROS-AS (UK TAVROS LLC)
+AS211503 Trinity (CJSC "TRINITY")
+AS211506 SLAVCOM (Slavcom Ltd.)
+AS211508 DOS (Educational Fund "Talent and success")
+AS211515 CifrovoyRegion (SBI SO "Cifrovoy Region")
+AS211520 AMBER (LLC "Amber")
+AS211525 WDT-AS (Joint-stock company Wartsila Digital Technologies)
+AS211529 O-TEPLOSET (Odintsovskaya teploset, JSC)
+AS211530 Cloudstack (Telecom-Birzha, LLC)
+AS211532 MTUCI-AS (Moscow Technical University of Telecommunications and Informatics)
+AS211542 RKS-ENERGO (RKS-ENERGO LLC)
+AS211563 stilkuhni (Information and Communication Technologies LLC)
+AS211590 BusinessSoftProject (Business Soft Project LLC)
+AS211605 VECTORTEL (LLC "Vectortel")
+AS211609 OKKO-AS (OKKO LLC)
+AS211613 MSS_LLC (MSS LLC)
+AS211616 RZDZDOR (JSC RZD-Zdorovie)
+AS211618 medma (LLC "Roslabsystem")
+AS211624 TETRON-AS (Tetron LTD)
+AS211625 FiveCOM (LTD 5COM)
+AS211626 TEL-AS (Transkom LLC)
+AS211631 SBERINS (Insurance company Sberbank Insurance, LLC)
+AS211637 simple-spb (SimpleTelecom LLC)
+AS211639 KORNET (Kornet LLC)
+AS211641 ArsTelecom-AS (ArsTelecom Ltd.)
+AS211642 AdminVPS (AdminVPS OOO)
+AS211674 megapolis1 (Megapolis LLC)
+AS211697 CARDSTANDART (CJSC Processing Center "CardStandard")
+AS211708 mrts-terminal (LLC MRTS Terminal)
+AS211712 AS7utra (LLC 7utra)
+AS211714 MIAC-AS (BUZ Orlovskoy oblasti MIAC)
+AS211716 TK-Alfa-net (TK Alfa JSC)
+AS211724 Systematica (Systematica LLC)
+AS211730 CPP (JSC CENTER OF PROSPECTIVE PROJECTS)
+AS211762 REGION40 (Region40 LLC)
+AS211773 VOSTOK-SERVICE-AS (AO "VOSTOK-SERVICE-SPEZKOMPLEKT")
+AS211778 Intarmit (IntarmIT LLC)
+AS211791 MEGASET (Megaset LLC)
+AS211795 FJ-VOLGA (FracJet-Volga, LLC)
+AS211796 INVASION (Invasion Universe LLC)
+AS211801 sskzvezda (LLC "ZVEZDA SHIPBUILDING COMPLEX")
+AS211805 MediaLandLLC-RU (Media Land LLC)
+AS211821 BAKAEV-AS (Individual Entrepreneur Bakaev Ivan Vladimirovich)
+AS211825 Bolshie_svyazi-as (PE Timonin Alexey Valerievich)
+AS211830 FirstVPS-LTD (First VPS ltd)
+AS211866 sintel-AS (Sintel LLC)
+AS211867 ALL-INC-AS (Osipenko Alexander Nikolaevich)
+AS211883 net_3lan_ru (LLC TRILAN)
+AS211914 AERU-NET (Alibaba.com RU LLC)
+AS211915 AS_Nikitin (Nikitin Kirill Sergeevich)
+AS211928 ALFALEASING-AS (ALFAMOBIL LLC)
+AS211930 FSKNW (Managing Company Financial and Construction Corporation North-West Ltd)
+AS211932 Olymp-AS (Olymp JSC)
+AS211933 O2-SecondAS (O2 Cloud LLC)
+AS211951 LOCALNET-AS (LocalNet+ OOO)
+AS211963 MAILRU-IS (M100 LLC)
+AS212006 KARIZON-AS (Karizon Ltd.)
+AS212015 KASATKA (LLC Kasatka)
+AS212016 ZVD423AS (OOO "ZVI Telecom")
+AS212030 Smart-AS (SMARTS-CITIES LLC)
+AS212075 RenTV-AS (LLC ACCEPT (REN TV Channel))
+AS212092 Telemnet (Telematica LLC)
+AS212093 FATTAKHOV (FATTAKHOV RINAT RASHITOVICH)
+AS212095 RECONN-GVSERVICES (RECONN LLC)
+AS212099 dengionline-net (DengiOnline LLC)
+AS212113 AVTOVAZ (JSC "AVTOVAZ")
+AS212114 bbr-net (Joint Stock Company BBR Bank)
+AS212126 ASVOLSK (Volskiye Kabelniye Seti Ltd.)
+AS212128 HORIZON (LLC "HORIZON")
+AS212134 Danfoss-net (LLC Danfoss)
+AS212136 NUBES (NUBES llc)
+AS212160 RCS-AS (JSC "RCS")
+AS212165 kvmka (Alex Group LLC)
+AS212199 KOMNETTECH-AS (LLC "Komnettechnologies")
+AS212205 TELECOMSYSTEMS-AS (Vladimirov Vladimir)
+AS212206 MaxTelecom (IP Petrosyan Maksim Markslenovich)
+AS212210 WEBSTARLINK-AS (Sheremet Aleksey Yurievich)
+AS212211 CDEK3-AS (CDEK-Global LLC)
+AS212213 PAYSEND-DL (PS Processing LLC)
+AS212214 CDEK2-AS (CDEK-Global LLC)
+AS212220 delete (Eremenko Alina Olegovna)
+AS212234 Potok-Telecom-AS (Potok-Telecom Ltd.)
+AS212236 KINESCOPE-AS (Kinescope LLC)
+AS212247 ITSERVICE-AS (ITService LLC)
+AS212254 ABRP (JSC "AB ROSSIYA")
+AS212260 BIENERGETIK (LLC "BIENERGETIK")
+AS212264 ZOLOTAYA-KORONA (Closed joint stock company "ZOLOTAYA KORONA")
+AS212266 NPCPROM-AS (JSC "Research & Development Company "Promelectronica")
+AS212272 VTK-spb (OOO VTC-MOBILE)
+AS212273 YLP (Yanino Logistics Park, LLC)
+AS212275 GMK-AS (Public Joint Stock Company Mining and Metallurgical Company "Norilsk Nickel")
+AS212277 NPFF (Non-state pension fund "Future" JSC)
+AS212278 KRAUD-AS (KRAUD LLC)
+AS212288 AGROECO-AS (AGROECO-YUG LLC)
+AS212303 CONTACT-PLUS-AS (Contact+ Ltd.)
+AS212308 LSP (LLC "Lifestyle Platform")
+AS212333 ARTEKS (ARTEKS LTD)
+AS212352 Reshenie-AS (Reshenie LLC)
+AS212395 SUENCO ("SUENCO" JSC)
+AS212410 VTBF-AS (VTB Factoring Ltd)
+AS212414 KASAT (KASAT LLC)
+AS212421 CORE-AS (IT-Yaroslavl Ltd.)
+AS212423 ALITER-AS (ALITER-AXI LLC)
+AS212429 UMAvtomatika-AS (UralMontagAvtomatika, OOO)
+AS212439 ETPGPB2 (LLC ETP GPB)
+AS212441 CLOUDASSETS (Cloud assets LLC)
+AS212443 LMA-2-AS (LMA CJSC)
+AS212452 ALITER-AS (ALITER-AXI LLC)
+AS212456 TELECOM-OREL-AS (TELECOM-OREL LLC)
+AS212461 NEMTCOV (Nemtcov Nikolai Alexandrovich)
+AS212480 RUS-AS (LLC RUS)
+AS212487 GS-AS (Gorodskie seti OOO)
+AS212490 SETI (JSC Mediasoft ekspert)
+AS212491 CONTINENT-AS (Continent Express JSC)
+AS212494 RUBIN (Rubin LLC.)
+AS212521 Malkov (Malkov D.V.)
+AS212545 FSK-AS (FSK Lider LLC)
+AS212566 VVLON-AS (Vavilon Ltd.)
+AS212575 IITRUST-AS (InfoTeCS Internet Trust JSC)
+AS212600 newnet-samara (LLC NEW NETWORK)
+AS212611 SSN (SSN Ltd.)
+AS212614 MMTR-AS (OOO MMTR Technologii)
+AS212620 RGH-AS (RusGazShelf LLC)
+AS212624 VERONIKA_YUMI (TOPLOVA VERONIKA)
+AS212667 ISPIRIA-AS (RECONN LLC)
+AS212670 IBS-DataFort (DataFort LLC)
+AS212673 INTEGRAL-AS (OOO TRK ''INTEGRAL'')
+AS212675 AS-ITGLOBALCOM-KZ (ITGLOBALCOM RUS LLC)
+AS212681 ROLF (ROLF JSC)
+AS212702 KMS-KOM (LLC KMS-KOM)
+AS212712 IP-AS (PE Alexey Grishin)
+AS212713 TELECOM-GROUP (LLC "Telecom Group")
+AS212732 JSC_TsNIIMash (JSC TsNIIMash)
+AS212740 AS_C-Telecom (C-Telecom LLC)
+AS212747 niir-as (The M.I. Krivosheev Radio Research & Development Institute)
+AS212748 Helix-AS (LLC NPF HELIX)
+AS212750 ENERGOTRANSBANK-AS (CB "ENERGOTRANSBANK" (JSC))
+AS212764 UNIWAGON-AS (Public Joint Stock Company "Research and production corporation "United Wagon Company")
+AS212776 ASEEC1 (ASE JSC)
+AS212787 KONTi-AS (KONTI-RUS JSC)
+AS212800 Cocobri-AS (Cocobri, OOO)
+AS212840 sensys-pppoe-net (Sensor Systems Limited Company)
+AS212863 BITELECOM (BI TELECOM LLC)
+AS212869 lantabank (Joint stock Company commercial bank Lanta-Bank)
+AS212883 ORION (ORION LLC)
+AS212899 mirea86 (State Educational Institution of Higher Professional Education "Moscow State Institute of a Radio engineering, Electronics and Automatics" (MIREA))
+AS212919 BIOVITRUMRU-ASN (LLC BIOVITRUM)
+AS212936 Zeonit-as (Zeonit LLC)
+AS212959 APPSOLUTIONS (Applied solutions LLC)
+AS212964 TEKSPB-AS (TEK SPB, GUP)
+AS212967 AIS-AS (GAU MO "AIS" MOSCOW REGION ")
+AS212980 CJSC_DIN-TELECOM (JSC DIN-TELECOM)
+AS213012 SVOS_NIZHNEVARTOVSK (Severnye volokonno-opticheskie sistemy Ltd.)
+AS213041 UGSK (JSC "Group of Insurance Companies "Ugoria")
+AS213046 PROCYON-AS (Procyon Telecom Ltd.)
+AS213067 TCSP-AS (Joint stock company Tuapse Commercial Sea Port)
+AS213075 STARTRU-AS (Start.Ru LLC)
+AS213077 BEYS-AS (PE Rukman Besaev)
+AS213117 RCRAB (Russian Fishery LLC)
+AS213133 CORPNETACADEMY (Corporate Networking Academy ANO)
+AS213175 tesla-svyaz (Tesla Svyaz LLC.)
+AS213182 EDVER-AS (CATV System Edver Ltd.)
+AS213191 IVC-DON-AS (Osipenko Alexander Nikolaevich)
+AS213203 MIRTELECOM-AS (MIR TELECOM LLC)
+AS213220 DATA-CHEAP-AS (Delta Ltd)
+AS213235 mailru-as (LLC VK)
+AS213254 RAIT-TELECOM (OOO RAIT TELECOM)
+AS213258 CHYUS-NET-1 (Cherkasov Yuriy Sergiyovuch)
+AS213278 as_sensys_cloud (Sensor Systems Limited Company)
+AS213304 YUZHMORRYBFLOT (Joint Stock Company "YUZHMORRYBFLOT")
+AS213329 GLIPTIKA-AS (Gliptika LLC)
+AS213334 as_irs (LLC Innovative technologies of communication)
+AS213348 OPTEL-AS (PE Andrey Slesarev)
+AS213369 SFERA-AS (Sfera Telecom LLC)
+AS213381 PANDORATRADE-AS (Pandora Trade LLC)
+AS213393 RU-RTDC-DEFIR-AS (SafeData LLC)
+AS213403 KAIROS-AS (Kairos Ltd.)
+AS215013 YACLOUDCDN (Yandex.Cloud LLC)
+AS215031 uni-web (Uni-Web LLC)
+AS215032 ELKOMA-AS (Elkoma LLC)
+AS215037 DATARUCLOUD (DATARU OBLAKO LLC)
+AS215055 TENSOR-LTD (Tensor Company Ltd)
+AS215070 WB-WH (LLC Wildberries)
+AS215074 ROSSTEL (RossTel Company LLC)
+AS215077 SKAISKOR-AS (Skaiskor LLC)
+AS215092 HINT-AS (Home Internet Ltd)
+AS215096 MADHOST-AS (PE Ruslan Ulyanov)
+AS215098 SSK (LLC Stroysvyazkonsaling)
+AS215106 SISZ (OOO Svyaz'-Invest Severo-Zapad)
+AS215110 KEAZ-AO (KEAZ AO)
+AS215115 Optics-Kuban-AS (Kovalishin Alexey Sergeevich PE)
+AS215116 IP-Barkowski-AS (LLC IT Business)
+AS215121 SMINEX-AS (LLC "SMINEX ASSET MANAGEMENT")
+AS215167 KRYMTELECOM_LTD (KRYMTELECOM LTD)
+AS215170 INTESYS-AS (INTESYS LLC)
+AS215179 SHLLC-AS (Smart Home Limited Liability Company)
+AS215182 Avelacom-Business (Avelacom Business Ltd.)
+AS215206 KAS-as (KHOMUTOV ARTEM SERGEEVICH)
+AS215226 sirius-as (Sirius LLC)
+AS215244 Red_Wings (JSC RED WINGS)
+AS215247 RYADKOM-AS (RYADKOM LLC.)
+AS215279 Bazis (OOO Bazis)
+AS215302 TecsGroup-AS (TecsGroup Ltd)
+AS215305 PLANETA-AS (Planeta LLC)
+AS215306 TILDA-AS (Tilda LLC)
+AS215307 MOVETEL (Movetel LTD)
+AS215314 HELOU-AS (Helou LLC)
+AS215336 ALMIRA-AS (Almira LLC)
+AS215346 BIGDATAHOST-AS (Big Data Host LLC)
+AS215349 ITUSLUGI-SPB-AS (ITUslugi SPB LLC)
+AS215357 NETLINK-TELEKOM (NETLINK-TELECOM LLC.)
+AS215376 mlcloud (ML Cloud Ltd)
+AS215394 IVA-AS (JSC IVA Partners)
+AS215402 ASAD-AS (Asadov Ruslan Rafaelevich)
+AS215425 STC_LTD ("STC" LTD)
+AS215438 LEBEDEV-A-E (ANDREY LEBEDEV)
+AS215443 ECODE-AS (Eduard Ilin)
+AS215445 NK-NET (NK-NET Ltd.)
+AS215455 G-I-T-KRASNODAR-AS (GENERAL IT RUS LLC)
+AS215456 Gazstroyprom-AS (Gazstroyprom JSC)
+AS215457 DCS_LLC (DCS LLC)
+AS215469 VDSPLUS-AS (Shevale Andrei)
+AS215474 Maybe-as (MAYBE LLC)
+AS215498 FONCOR (NetOne Rus JSC)
+AS215503 MORE-TELECOM (MUE "SEA TELECOM" VGA MELITOPOL ZAPORIZHIE REGION)
+AS215534 ING-AS (PLAZMATELEKOM LLC)
+AS215572 GOODPROVIDER-AS (Signal-Service LLC)
+AS215584 IT-NS (IT-NS LLC)
+AS215591 ETO-NET (ETO NET, OOO)
+AS215601 ALLHOSTINGS (Innovative IT Solutions LLC)
+AS215613 PE-LEVIN-AS (PE Levin Anton Aleksandrovich)
+AS215623 Lugalink (OOO "LUGALINK")
+AS215632 UMATELECOM-AS (UMA-TELECOM LLC)
+AS215646 FL-AS (FRESHCOM LLC)
+AS215654 GenicheskOnline (Genichesk Online LLC)
+AS215678 KEV (Krapivnoy Eduard Vasilievich)
+AS215688 MODUM-AS (MODUM-TRANS LLC)
+AS215705 ms-as (Maria Sergienko)
+AS215721 zn-as (Zinchenko Natalya)
+AS215796 LANGAME (Langame Software Solutions LLC)
+AS215805 CXNI-AS (Maksim Denisov)
+AS215818 B4Com (B4Com Technologies LLC)
+AS215851 JOINNET-AS (JoinNet LLC)
+AS215881 ELYTRIUM-AS (Elytrium LLC)
+AS215882 HiperLineASN (HiperLine LTD)
+AS215895 RU_ZIBEN (Ziben Group LLC)
+AS215897 NEUROLAND (NEUROLAND ltd)
+AS215924 ORO-AS (ORO LLC)
+AS215948 STAVCOM (LLC STAVCOM)
+AS215979 MAKSAVIT-AS (LLC "MC "MAKSAVIT")
+AS215983 LIPTSoft (LLC "LIPT Soft")
+AS215997 AQ-AS (PC Aquarius LLC)
+AS216011 DOBNWFD-AS (Federal State Budgetary Institution "Department for the Operation of Buildings in the North-Western Federal District")
+AS216027 Teatro-79 (Nikolaev Boris Georgievich)
+AS216033 GIGABYTE-AS-2 (Ergashova Lemara Alimovna)
+AS216062 RNCB-AS-2 (Russian National Commercial Bank (PAO))
+AS216068 BEAPI (Biapi LLC)
+AS216080 FGUP-ZIT-AS (FSUE ZashchitaInfoTrans)
+AS216090 SERVICE-V (Service-V LLC)
+AS216103 PAYMENTCENTER (Credit Union "Payment Center" Ltd.)
+AS216109 UG-as (LLC "UnityGroup")
+AS216119 ericom-as (ERICOM LLC)
+AS216140 SPLF (Join Stock Company Serenity Platforms)
+AS216158 TeleportMedia-AS (Teleport Rus LLC)
+AS216185 Biletik_Onlain (Biletik-Onlain LTD)
+AS216203 PHSTD-AS (LLC Farmstandart)
+AS216214 PROFINF (Profinform LLC)
+AS216218 DATA-1-as ("DATA 1" LLC)
+AS216234 yy-as (Komskov Vadim Aleksandrovich)
+AS216235 cyberp-net (LIMITED LIABILITY COMPANY "CYBERPROTECT")
+AS216246 RU-AEZA-AS (Aeza Group Ltd.)
+AS216247 SITI-LAJT-AS (OOO SITI LAJT)
+AS216248 INFERIT-AS (LLC INFERIT)
+AS216264 ASINTELCOM (Intelcom Ltd.)
+AS216317 TRUBNAYASIV (Trubnaya SIV LLC)
+AS216322 Atomdata-inn-AS (Atomdata-Innopolis JSC)
+AS216332 cyberbyte-as (Advanced Placement Technologies LLC)
+AS216334 landvps-as (New Hosting Technologies LLC)
+AS216335 Kalibr-SB-AS (OOO Kalibr SB)
+AS216348 MV-AS (Vassiliy Malyshev)
+AS216363 istra-dot-net-AS (OOO Istra.net)
+AS216365 CLOUD_SOLUTIONS_2 (LIMITED LIABILITY COMPANY CLOUD SOLUTIONS)
+AS216366 Smart-tel (SMART-TEL LLC)
+AS216377 CTDL-MSK (Citadel LLC)
+AS216378 jkrab (Artem Mukhailov)
+AS216379 CifraBeat (Joint Stock Company "CifraBeat")
+AS216423 EVILINK-AS (Evilink Ltd.)
