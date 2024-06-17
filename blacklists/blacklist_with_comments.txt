@@ -13,20 +13,20 @@
 176.109.0.0/21
 # Networks announced by AS61280
 # AS-Name (ORG): CMU_GRCHC (FGUP "GRCHC")
-212.192.158.0/24
-2a0c:a9c7:156::/48
 2a0c:a9c7:157::/48
-185.224.228.0/24
-185.224.231.0/24
-185.224.229.0/24
-195.209.121.0/24
-195.209.120.0/24
-195.209.123.0/24
-185.224.230.0/24
-195.209.122.0/24
-212.192.157.0/24
+212.192.158.0/24
 2a0c:a9c7:158::/48
+195.209.122.0/24
 212.192.156.0/24
+195.209.121.0/24
+185.224.228.0/24
+195.209.123.0/24
+212.192.157.0/24
+2a0c:a9c7:156::/48
+185.224.229.0/24
+195.209.120.0/24
+185.224.231.0/24
+185.224.230.0/24
 # Networks announced by AS197153
 # AS-Name (ORG): guvd (Glavnoe Upravlenie Vnutrennih Del po Sverdlovskoi Oblasti)
 91.217.34.0/23
@@ -761,7 +761,7 @@
 83.69.207.248/29
 # NET-Name: 93.190.110.0/24 KEMFGUP SIBSET-MNT () [FGUP "Protection" MVD of Russia, Kemerovo branch Kemerovo, Russia]
 93.190.110.0/24
-# NET-Name: 94.25.53.56/29 VerfiFGUP ROSTELECOM-MNT () [JSC Rostelecom client  (city S.Peterburg) 08-10394]
+# NET-Name: 94.25.53.56/29 VerfiFGUP ROSTELECOM-MNT () [JSC Rostelecom client (city S.Peterburg) 08-10394]
 94.25.53.56/29
 # NET-Name: 78.37.69.160/27 RU-NIIVS AS8997-MNT () [FGUP SPbNIIVS FMBA Rossii, production of medicines]
 78.37.69.160/27
@@ -873,7 +873,7 @@
 83.229.232.16/29
 # NET-Name: 89.175.8.192/30 FGUPOhrana COMSTAR-MNT () ["FGUP Ohrana" LLC]
 89.175.8.192/30
-# NET-Name: 94.25.119.228/30 UVD_po_Amurskoy_oblasti ROSTELECOM-MNT () [Ticket  09-07295-1]
+# NET-Name: 94.25.119.228/30 UVD_po_Amurskoy_oblasti ROSTELECOM-MNT () [Ticket 09-07295-1]
 94.25.119.228/30
 # NET-Name: 95.167.5.64/28 FGUP_NIIR_Lesnoy ROSTELECOM-MNT () [Ticket 09-10814, RISS 8725, CF]
 95.167.5.64/28
