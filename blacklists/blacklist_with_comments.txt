@@ -1,32 +1,32 @@
 # Networks announced by AS34500
 # AS-Name (ORG): CTSPI (FGUP CTSPI MGA Russia)
-80.73.16.0/21
-80.73.16.0/20
 80.73.16.0/24
+80.73.16.0/20
+80.73.16.0/21
 # Networks announced by AS51932
 # AS-Name (ORG): ORVD-AS (FGUP Goskorporatsiya po OrVD)
+91.221.141.0/24
 91.221.140.0/23
 91.221.140.0/24
-91.221.141.0/24
 # Networks announced by AS57835
 # AS-Name (ORG): FGUP-ELEKTROSVYAZ-AS (JSC ELEKTROSVYAZ)
 176.109.0.0/21
 # Networks announced by AS61280
 # AS-Name (ORG): CMU_GRCHC (FGUP "GRCHC")
+212.192.156.0/24
+212.192.157.0/24
+2a0c:a9c7:156::/48
 185.224.230.0/24
+185.224.231.0/24
 2a0c:a9c7:157::/48
 2a0c:a9c7:158::/48
+185.224.229.0/24
+212.192.158.0/24
+195.209.122.0/24
+195.209.123.0/24
 195.209.120.0/24
 185.224.228.0/24
-185.224.229.0/24
-2a0c:a9c7:156::/48
 195.209.121.0/24
-195.209.122.0/24
-212.192.157.0/24
-212.192.156.0/24
-212.192.158.0/24
-195.209.123.0/24
-185.224.231.0/24
 # Networks announced by AS197153
 # AS-Name (ORG): guvd (Glavnoe Upravlenie Vnutrennih Del po Sverdlovskoi Oblasti)
 91.217.34.0/23
@@ -1224,9 +1224,9 @@
 93.188.20.72/29
 # NET-Name: 212.15.115.80/28 tsniimash-net cnt-mnt () [FGUP "TSNII Mashinostroeniya"]
 212.15.115.80/28
-# NET-Name: 185.149.161.0/24 RU-ZTK-MOS-DC01-NET161 ru-zonatelecom-1-mnt () [Network for Moscow DC]
+# NET-Name: 185.149.161.0/24 RU-ZT-MOS-DC01-NET161 ru-zonatelecom-1-mnt () [Network for Moscow DC]
 185.149.161.0/24
-# NET-Name: 185.149.163.0/24 RU-ZTK-TUL-DC01-NET163 ru-zonatelecom-1-mnt () []
+# NET-Name: 185.149.163.0/24 RU-ZT-TUL-DC01-NET163 ru-zonatelecom-1-mnt () []
 185.149.163.0/24
 # NET-Name: 109.124.78.108/30 PSKPOZHARY-ORTPC-LAN PSTAR-MNT () [FGUP RTRS Pskov JSC PeterStar]
 109.124.78.108/30
@@ -1540,7 +1540,7 @@
 194.67.63.200/30
 # NET-Name: 212.32.198.64/29 gumvd SAMTEL-MNT () [MVD]
 212.32.198.64/29
-# NET-Name: 185.149.162.0/24 RU-ZTK-TUL-DC01-NET162 ZTLC-MNT ru-zonatelecom-1-mnt ru-stokru-1-mnt () []
+# NET-Name: 185.149.162.0/24 RU-ZT-TUL-DC01-NET162 ZTLC-MNT ru-zonatelecom-1-mnt ru-stokru-1-mnt () []
 185.149.162.0/24
 # NET-Name: 80.237.98.80/28 FGUP-NIIR-NET TRANSTELECOM-MNT () [(MS009344) Fgup-niir, Moscow, Russia]
 80.237.98.80/28
@@ -1580,9 +1580,9 @@
 178.248.238.155/32
 # NET-Name: 178.248.239.215/32 QRATOR-17206 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
 178.248.239.215/32
-# NET-Name: 185.179.224.0/24 RU-ZTK-MOS-DC01-NET00 ru-zonatelecom-1-mnt () []
+# NET-Name: 185.179.224.0/24 RU-ZT-MOS-DC01-NET224 ru-zonatelecom-1-mnt () []
 185.179.224.0/24
-# NET-Name: 185.179.226.0/24 RU-ZTK-MOS-DC01-NET02 ru-zonatelecom-1-mnt () []
+# NET-Name: 185.179.226.0/24 RU-ZT-MOS-DC01-NET226 ru-zonatelecom-1-mnt () []
 185.179.226.0/24
 # NET-Name: 92.101.253.152/29 RU-KGNC AS8997-MNT () [FGUP KGNC]
 92.101.253.152/29
@@ -1592,3 +1592,13 @@
 62.33.199.80/29
 # NET-Name: 212.192.156.0/22 CMU_GRCHC ROSNIIROS-MNT (ORG-CSFG1-RIPE) [FGUP "GRCHC"]
 212.192.156.0/22
+# NET-Name: 194.140.247.0/25 RU-ZT-MOS-DC01-NET-194-140-247-0 ru-zonatelecom-1-mnt lir-ru-ztk-1-MNT () []
+194.140.247.0/25
+# NET-Name: 194.140.247.128/25 RU-ZT-MOS-DC01-NET-194-140-247-128 ru-zonatelecom-1-mnt lir-ru-ztk-1-MNT () []
+194.140.247.128/25
+# NET-Name: 185.149.160.0/24 RU-ZT-MOS-DC01-NET160 lir-ru-ztk-1-MNT ru-zonatelecom-1-mnt () []
+185.149.160.0/24
+# NET-Name: 185.179.225.0/24 RU-ZT-MOS-DC01-NET225 lir-ru-ztk-1-MNT ru-zonatelecom-1-mnt () []
+185.179.225.0/24
+# NET-Name: 185.179.227.0/24 RU-ZT-MOS-DC01-NET227 lir-ru-ztk-1-MNT ru-zonatelecom-1-mnt () []
+185.179.227.0/24
