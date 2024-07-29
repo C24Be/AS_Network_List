@@ -1,32 +1,32 @@
 # Networks announced by AS34500
 # AS-Name (ORG): CTSPI (FGUP CTSPI MGA Russia)
-80.73.16.0/20
-80.73.16.0/21
 80.73.16.0/24
+80.73.16.0/21
+80.73.16.0/20
 # Networks announced by AS51932
 # AS-Name (ORG): ORVD-AS (FGUP Goskorporatsiya po OrVD)
-91.221.140.0/23
 91.221.140.0/24
 91.221.141.0/24
+91.221.140.0/23
 # Networks announced by AS57835
 # AS-Name (ORG): FGUP-ELEKTROSVYAZ-AS (JSC ELEKTROSVYAZ)
 176.109.0.0/21
 # Networks announced by AS61280
 # AS-Name (ORG): CMU_GRCHC (FGUP "GRCHC")
-195.209.120.0/24
+195.209.122.0/24
+2a0c:a9c7:158::/48
+2a0c:a9c7:157::/48
+185.224.231.0/24
+195.209.123.0/24
+212.192.158.0/24
 212.192.157.0/24
 195.209.121.0/24
 212.192.156.0/24
-185.224.229.0/24
 185.224.230.0/24
+185.224.229.0/24
 2a0c:a9c7:156::/48
-2a0c:a9c7:157::/48
-195.209.123.0/24
-195.209.122.0/24
-2a0c:a9c7:158::/48
+195.209.120.0/24
 185.224.228.0/24
-212.192.158.0/24
-185.224.231.0/24
 # Networks announced by AS197153
 # AS-Name (ORG): guvd (Glavnoe Upravlenie Vnutrennih Del po Sverdlovskoi Oblasti)
 91.217.34.0/23
@@ -1482,58 +1482,6 @@
 213.172.17.252/30
 # NET-Name: 195.209.120.0/22 CMU_GRCHC ROSNIIROS-MNT (ORG-CSFG1-RIPE) [FGUP "GRCHC"]
 195.209.120.0/22
-# NET-Name: 178.248.232.137/32 QRATOR-4482 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.232.137/32
-# NET-Name: 178.248.232.46/32 QRATOR-1731 MNT-QRATOR MNT-QROBOT () [FGUP GNIVC FNS Rossii 125373, g. Moskva, Pohodnyj proezd, domovladenie 3, str.1]
-178.248.232.46/32
-# NET-Name: 178.248.232.60/32 QRATOR-10710 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.232.60/32
-# NET-Name: 178.248.233.136/32 QRATOR-4476 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.233.136/32
-# NET-Name: 178.248.233.244/32 QRATOR-11484 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.233.244/32
-# NET-Name: 178.248.233.245/32 QRATOR-11490 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.233.245/32
-# NET-Name: 178.248.233.26/32 QRATOR-750 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.233.26/32
-# NET-Name: 178.248.233.32/32 QRATOR-661 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.233.32/32
-# NET-Name: 178.248.233.60/32 QRATOR-1292 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.233.60/32
-# NET-Name: 178.248.234.136/32 QRATOR-4477 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.234.136/32
-# NET-Name: 178.248.234.204/32 QRATOR-11473 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.234.204/32
-# NET-Name: 178.248.234.33/32 QRATOR-670 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.234.33/32
-# NET-Name: 178.248.234.53/32 QRATOR-1733 MNT-QRATOR MNT-QROBOT () [FGUP GNIVC FNS Rossii 125373, g. Moskva, Pohodnyj proezd, domovladenie 3, str.1]
-178.248.234.53/32
-# NET-Name: 178.248.234.60/32 QRATOR-1294 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.234.60/32
-# NET-Name: 178.248.234.83/32 QRATOR-4479 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.234.83/32
-# NET-Name: 178.248.235.244/32 QRATOR-11486 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.235.244/32
-# NET-Name: 178.248.235.53/32 QRATOR-1734 MNT-QRATOR MNT-QROBOT () [FGUP GNIVC FNS Rossii 125373, g. Moskva, Pohodnyj proezd, domovladenie 3, str.1]
-178.248.235.53/32
-# NET-Name: 178.248.235.60/32 QRATOR-1295 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.235.60/32
-# NET-Name: 178.248.235.75/32 QRATOR-4478 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.235.75/32
-# NET-Name: 178.248.236.20/32 QRATOR-1377 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.236.20/32
-# NET-Name: 178.248.236.244/32 QRATOR-11487 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.236.244/32
-# NET-Name: 178.248.236.83/32 QRATOR-4480 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.236.83/32
-# NET-Name: 178.248.237.136/32 QRATOR-4481 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.237.136/32
-# NET-Name: 178.248.237.18/32 QRATOR-749 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.237.18/32
-# NET-Name: 178.248.237.242/32 QRATOR-11476 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.237.242/32
-# NET-Name: 178.248.237.47/32 QRATOR-1732 MNT-QRATOR MNT-QROBOT () [FGUP GNIVC FNS Rossii 125373, g. Moskva, Pohodnyj proezd, domovladenie 3, str.1]
-178.248.237.47/32
 # NET-Name: 81.3.168.148/30 FGUP-ATOMFLOT-LAN PSTAR-MNT () [Murmansk, Hlobystova, 14/5 St.Petersburg JSC PeterStar]
 81.3.168.148/30
 # NET-Name: 194.67.63.200/30 RU-SOVINTEL-MRM-GRChC-FGuP-NET SOVINTEL-MNT () [183032 Russia Murmansk Kirova ul, 44]
@@ -1548,38 +1496,8 @@
 213.24.152.0/22
 # NET-Name: 213.24.128.0/22 RTCOMM-MICROGEN AS8342-MNT rostelecom-MNT () [FGUP NPO Microgen]
 213.24.128.0/22
-# NET-Name: 178.248.238.102/32 QRATOR-15334 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.238.102/32
-# NET-Name: 178.248.238.172/32 QRATOR-15426 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.238.172/32
 # NET-Name: 89.175.6.64/27 Nauka-NETWORK MTU-NOC MTU-NOC () [FGUP «Izdatel'stvo «Nauka»]
 89.175.6.64/27
-# NET-Name: 178.248.234.228/32 QRATOR-15514 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.234.228/32
-# NET-Name: 178.248.234.238/32 QRATOR-15567 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.234.238/32
-# NET-Name: 178.248.238.55/32 QRATOR-15570 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.238.55/32
-# NET-Name: 178.248.238.255/32 QRATOR-15583 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.238.255/32
-# NET-Name: 178.248.238.128/32 QRATOR-15584 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.238.128/32
-# NET-Name: 178.248.238.129/32 QRATOR-15585 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.238.129/32
-# NET-Name: 178.248.238.136/32 QRATOR-15587 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.238.136/32
-# NET-Name: 178.248.234.30/32 QRATOR-15673 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.234.30/32
-# NET-Name: 178.248.234.79/32 QRATOR-15695 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.234.79/32
-# NET-Name: 178.248.237.98/32 QRATOR-15743 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.237.98/32
-# NET-Name: 178.248.238.205/32 QRATOR-17204 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.238.205/32
-# NET-Name: 178.248.238.155/32 QRATOR-17205 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.238.155/32
-# NET-Name: 178.248.239.215/32 QRATOR-17206 MNT-QRATOR MNT-QROBOT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
-178.248.239.215/32
 # NET-Name: 185.179.224.0/24 RU-ZT-MOS-DC01-NET224 ru-zonatelecom-1-mnt () []
 185.179.224.0/24
 # NET-Name: 185.179.226.0/24 RU-ZT-MOS-DC01-NET226 ru-zonatelecom-1-mnt () []
@@ -1602,3 +1520,89 @@
 185.179.225.0/24
 # NET-Name: 185.179.227.0/24 RU-ZT-MOS-DC01-NET227 lir-ru-ztk-1-MNT ru-zonatelecom-1-mnt () []
 185.179.227.0/24
+# NET-Name: 178.248.233.32/32 QRATOR-661 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.233.32/32
+# NET-Name: 178.248.234.33/32 QRATOR-670 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.33/32
+# NET-Name: 178.248.237.18/32 QRATOR-749 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.237.18/32
+# NET-Name: 178.248.233.26/32 QRATOR-750 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.233.26/32
+# NET-Name: 178.248.233.60/32 QRATOR-1292 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.233.60/32
+# NET-Name: 178.248.234.60/32 QRATOR-1294 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.60/32
+# NET-Name: 178.248.235.60/32 QRATOR-1295 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.235.60/32
+# NET-Name: 178.248.236.20/32 QRATOR-1377 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.236.20/32
+# NET-Name: 178.248.232.46/32 QRATOR-1731 HLL2-MNT HLL3-MNT () [FGUP GNIVC FNS Rossii 127381, g. Moskva, ul. Neglinnaa, d. 23]
+178.248.232.46/32
+# NET-Name: 178.248.237.47/32 QRATOR-1732 HLL2-MNT HLL3-MNT () [FGUP GNIVC FNS Rossii 127381, g. Moskva, ul. Neglinnaa, d. 23]
+178.248.237.47/32
+# NET-Name: 178.248.234.53/32 QRATOR-1733 HLL2-MNT HLL3-MNT () [FGUP GNIVC FNS Rossii 127381, g. Moskva, ul. Neglinnaa, d. 23]
+178.248.234.53/32
+# NET-Name: 178.248.235.53/32 QRATOR-1734 HLL2-MNT HLL3-MNT () [FGUP GNIVC FNS Rossii 127381, g. Moskva, ul. Neglinnaa, d. 23]
+178.248.235.53/32
+# NET-Name: 178.248.233.136/32 QRATOR-4476 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.233.136/32
+# NET-Name: 178.248.234.136/32 QRATOR-4477 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.136/32
+# NET-Name: 178.248.235.75/32 QRATOR-4478 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.235.75/32
+# NET-Name: 178.248.234.83/32 QRATOR-4479 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.83/32
+# NET-Name: 178.248.236.83/32 QRATOR-4480 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.236.83/32
+# NET-Name: 178.248.237.136/32 QRATOR-4481 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.237.136/32
+# NET-Name: 178.248.232.137/32 QRATOR-4482 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.232.137/32
+# NET-Name: 178.248.232.60/32 QRATOR-10710 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.232.60/32
+# NET-Name: 178.248.234.204/32 QRATOR-11473 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.204/32
+# NET-Name: 178.248.237.242/32 QRATOR-11476 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.237.242/32
+# NET-Name: 178.248.233.244/32 QRATOR-11484 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.233.244/32
+# NET-Name: 178.248.235.244/32 QRATOR-11486 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.235.244/32
+# NET-Name: 178.248.236.244/32 QRATOR-11487 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.236.244/32
+# NET-Name: 178.248.233.245/32 QRATOR-11490 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.233.245/32
+# NET-Name: 178.248.238.102/32 QRATOR-15334 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.102/32
+# NET-Name: 178.248.238.172/32 QRATOR-15426 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.172/32
+# NET-Name: 178.248.234.228/32 QRATOR-15514 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.228/32
+# NET-Name: 178.248.234.238/32 QRATOR-15567 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.238/32
+# NET-Name: 178.248.238.55/32 QRATOR-15570 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.55/32
+# NET-Name: 178.248.238.255/32 QRATOR-15583 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.255/32
+# NET-Name: 178.248.238.128/32 QRATOR-15584 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.128/32
+# NET-Name: 178.248.238.129/32 QRATOR-15585 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.129/32
+# NET-Name: 178.248.238.136/32 QRATOR-15587 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.136/32
+# NET-Name: 178.248.234.30/32 QRATOR-15673 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.30/32
+# NET-Name: 178.248.234.79/32 QRATOR-15695 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.234.79/32
+# NET-Name: 178.248.237.98/32 QRATOR-15743 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.237.98/32
+# NET-Name: 178.248.239.110/32 QRATOR-16253 HLL2-MNT HLL3-MNT () [FGUP ZashchitaInfoTrans 117105, Moskva, Varshavskoe shosse, dom 9, stroenie 1 (korpus Meshcherin), antresol mansardy, pom. 664]
+178.248.239.110/32
+# NET-Name: 178.248.238.205/32 QRATOR-17204 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.205/32
+# NET-Name: 178.248.238.155/32 QRATOR-17205 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.238.155/32
+# NET-Name: 178.248.239.215/32 QRATOR-17206 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+178.248.239.215/32
+# NET-Name: 185.65.149.170/32 QRATOR-18146 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
+185.65.149.170/32
