@@ -944,11 +944,6 @@ netname: RU-RUSCOMNET-20030515
 ######### РКН-related #########
 ###############################
 
-netname: RU-RTK-20070321
-# org: ORG-JR8-RIPE
-# descr: NCNET
-# origin: AS42610
-
 # name: server referenced as "oldip" in DNS of 1whois
 netname: STARNET-VPN
 # descr: ISP "Starnet" - Home LAN's in Moscow
