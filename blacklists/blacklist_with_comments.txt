@@ -1,30 +1,30 @@
 # Networks announced by AS34500
 # AS-Name (ORG): CTSPI (FGUP CTSPI MGA Russia)
+80.73.16.0/21
 80.73.16.0/20
 80.73.16.0/24
-80.73.16.0/21
 # Networks announced by AS51932
 # AS-Name (ORG): ORVD-AS (FGUP Goskorporatsiya po OrVD)
-91.221.140.0/24
-91.221.140.0/23
 91.221.141.0/24
+91.221.140.0/23
+91.221.140.0/24
 # Networks announced by AS57835
 # AS-Name (ORG): FGUP-ELEKTROSVYAZ-AS (JSC ELEKTROSVYAZ)
 176.109.0.0/21
 # Networks announced by AS61280
 # AS-Name (ORG): CMU_GRCHC (FGUP "GRCHC")
-2a0c:a9c7:156::/48
-195.209.122.0/24
-212.192.158.0/24
+2a0c:a9c7:157::/48
 185.224.230.0/24
-212.192.157.0/24
+185.224.229.0/24
 212.192.156.0/24
 185.224.231.0/24
+212.192.157.0/24
 195.209.123.0/24
-2a0c:a9c7:157::/48
+212.192.158.0/24
+195.209.122.0/24
+2a0c:a9c7:156::/48
 185.224.228.0/24
 2a0c:a9c7:158::/48
-185.224.229.0/24
 # Network name: Roskomnadzor-net
 46.228.0.232/29
 87.226.213.0/24
@@ -447,12 +447,6 @@
 212.17.17.176/28
 # NET-Name: 212.48.53.252/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
 212.48.53.252/30
-# NET-Name: 83.237.68.168/29 FGUPS-UFPS-Mospochtamt MTU-NOC () [FGUPS UFPS "Mospochtamt" Moscow, Russia]
-83.237.68.168/29
-# NET-Name: 83.237.93.188/30 FGUP-Kreml-UDP-RF MTU-NOC () [FGUP "Kreml" UDP RF Moscow, Russia]
-83.237.93.188/30
-# NET-Name: 83.237.77.44/30 FGUP-Apteka-KSSP-KB-N6-FU-Medbioekstrem MTU-NOC () [FGUP "Apteka KSSP KB N6" FU "Medbioekstrem" Moscow, Russia]
-83.237.77.44/30
 # NET-Name: 212.48.54.52/30 GBUMSE-NET TELMOS-MNT () [FGUP «GBUMSE»]
 212.48.54.52/30
 # NET-Name: 212.48.54.56/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
@@ -597,8 +591,6 @@
 62.5.242.80/28
 # NET-Name: 81.195.150.248/30 MTU-CUST-E232EA85 MTU-NOC () [427 UNR - filial FGUP "SU MVO MO RF"]
 81.195.150.248/30
-# NET-Name: 83.237.87.8/29 MTU-CUST-62AC7E97 MTU-NOC () [FGUP Goscentr "Priroda"]
-83.237.87.8/29
 # NET-Name: 62.118.239.128/29 MTU-CUST-9E7F010C MTU-NOC () [FGUP Institut Plasticheskoj Hirurgii i Kosmetologii]
 62.118.239.128/29
 # NET-Name: 81.195.120.16/29 MTU-CUST-9E7F010C MTU-NOC () [FGUP Institut Plasticheskoj Hirurgii i Kosmetologii]
@@ -619,8 +611,6 @@
 81.195.182.64/28
 # NET-Name: 62.118.19.40/30 MTU-CUST-42DE527C MTU-NOC () [FGUP "GosNII BP"]
 62.118.19.40/30
-# NET-Name: 83.237.79.64/29 MTU-CUST-39992870 MTU-NOC () [FGUP 3 CNII Minoboroni Rossii]
-83.237.79.64/29
 # NET-Name: 81.195.50.72/29 MTU-CUST-A89FBE5D MTU-NOC () [FGUP ATEKS]
 81.195.50.72/29
 # NET-Name: 81.195.118.128/30 MTU-CUST-73D8C4FE MTU-NOC () [Stroitelno-montazhnij poezd N 250 filial FGUP "Trest Moselektrotjagstroj"]
@@ -827,8 +817,6 @@
 188.128.119.104/30
 # NET-Name: 89.175.8.52/30 FGUPOhrana COMSTAR-MNT () ["FGUP Ohrana" LLC]
 89.175.8.52/30
-# NET-Name: 83.237.91.216/29 mfvsegei MTU-NOC () [FGUP "VSEGEI" Moscow, Russia]
-83.237.91.216/29
 # NET-Name: 79.142.88.0/28 FGUP-VNIITVCH-LAN OBIT-MNT () [FGUP VNIITVCH network Obit Telecommunications St.Petersburg]
 79.142.88.0/28
 # NET-Name: 188.128.112.240/29 GUVD_Rostov-na-Dony ROSTELECOM-MNT () [RISS 9475, UgF]
@@ -895,8 +883,6 @@
 62.118.101.184/29
 # NET-Name: 62.118.127.240/28 MTU-CUST-A5557D77 MTU-NOC () [FGUPGKPC im.M.V.Hrunicheva "Strukturnoe podrazdelenie DVS Fili" Moscow, Russia]
 62.118.127.240/28
-# NET-Name: 83.237.93.101/32 MTU-CUST-A612ED8D MTU-NOC () [FGUP TPO "Kinostudija "Sojuzmultfilm" Moscow, Russia]
-83.237.93.101/32
 # NET-Name: 85.141.17.24/30 MTU-CUST-8FBBE3CD MTU-NOC () [FGUP "SPB INZHTEHCENTR" Moscow, Russia]
 85.141.17.24/30
 # NET-Name: 85.141.33.0/28 MTU-CUST-8CD842B2 MTU-NOC () [FGUP FNPC "PO "Start" im. M.V.Procenko" Moscow, Russia]
@@ -1585,8 +1571,6 @@
 178.248.234.79/32
 # NET-Name: 178.248.237.98/32 QRATOR-15743 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
 178.248.237.98/32
-# NET-Name: 178.248.239.110/32 QRATOR-16253 HLL2-MNT HLL3-MNT () [FGUP ZashchitaInfoTrans 117105, Moskva, Varshavskoe shosse, dom 9, stroenie 1 (korpus Meshcherin), antresol mansardy, pom. 664]
-178.248.239.110/32
 # NET-Name: 178.248.238.205/32 QRATOR-17204 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
 178.248.238.205/32
 # NET-Name: 178.248.238.155/32 QRATOR-17205 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
@@ -1597,3 +1581,5 @@
 185.65.149.170/32
 # NET-Name: 62.76.98.0/24 CMU_GRCHC ROSNIIROS-MNT (ORG-CSFG1-RIPE) [FGUP "GRCHC"]
 62.76.98.0/24
+# NET-Name: 212.48.34.184/29 Mintrans MTU-NOC () [FGUP «UVO Mintransa Rossii»]
+212.48.34.184/29
