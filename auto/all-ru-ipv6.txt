@@ -2230,5 +2230,5 @@
 2a14:7a00::/29 RU-MUTIN-SA-5-20231102 (SERGEY MUTIN)
 2a14:7e40::/29 RU-IRTELCOM-20241118 (Limited Liability Company Irtelcom)
 2a14:7fc0::/29 RU-SDK-20241120 (SDK Ltd.)
-2a14:a400::/29 -no-description- (No org name found)
-2a14:e600::/29 -no-description- (No org name found)
+2a14:a400::/29 RU-AU-20241205 (Auction LLC)
+2a14:e600::/29 RU-LOCAL-20241224 (LIR LLC)
