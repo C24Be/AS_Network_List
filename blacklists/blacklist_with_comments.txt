@@ -28,6 +28,9 @@
 # Networks announced by AS197153
 # AS-Name (ORG): guvd (Glavnoe Upravlenie Vnutrennih Del po Sverdlovskoi Oblasti)
 91.217.34.0/23
+# Networks announced by AS206684
+# AS-Name (ORG): vniiofi (FGUP Russian Scientific Research Institute of Optical and Physical Measurements)
+176.100.254.0/24
 # Network name: Roskomnadzor-net
 46.228.0.232/29
 87.226.213.0/24
