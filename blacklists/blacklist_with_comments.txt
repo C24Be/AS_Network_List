@@ -1,8 +1,8 @@
 # Networks announced by AS34500
 # AS-Name (ORG): CTSPI (FGUP CTSPI MGA Russia)
-80.73.16.0/24
 80.73.16.0/21
 80.73.16.0/20
+80.73.16.0/24
 # Networks announced by AS51932
 # AS-Name (ORG): ORVD-AS (FGUP Goskorporatsiya po OrVD)
 91.221.141.0/24
@@ -14,16 +14,16 @@
 # Networks announced by AS61280
 # AS-Name (ORG): CMU_GRCHC (FGUP "GRCHC")
 195.209.122.0/24
-212.192.156.0/24
-185.224.231.0/24
-185.224.230.0/24
-185.224.229.0/24
 2a0c:a9c7:157::/48
-2a0c:a9c7:156::/48
-195.209.123.0/24
 2a0c:a9c7:158::/48
-212.192.158.0/24
 185.224.228.0/24
+185.224.231.0/24
+185.224.229.0/24
+212.192.156.0/24
+195.209.123.0/24
+212.192.158.0/24
+185.224.230.0/24
+2a0c:a9c7:156::/48
 212.192.157.0/24
 # Networks announced by AS197153
 # AS-Name (ORG): guvd (Glavnoe Upravlenie Vnutrennih Del po Sverdlovskoi Oblasti)
@@ -1508,14 +1508,6 @@
 178.248.235.60/32
 # NET-Name: 178.248.236.20/32 QRATOR-1377 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
 178.248.236.20/32
-# NET-Name: 178.248.232.46/32 QRATOR-1731 HLL2-MNT HLL3-MNT () [FGUP GNIVC FNS Rossii 127381, g. Moskva, ul. Neglinnaa, d. 23]
-178.248.232.46/32
-# NET-Name: 178.248.237.47/32 QRATOR-1732 HLL2-MNT HLL3-MNT () [FGUP GNIVC FNS Rossii 127381, g. Moskva, ul. Neglinnaa, d. 23]
-178.248.237.47/32
-# NET-Name: 178.248.234.53/32 QRATOR-1733 HLL2-MNT HLL3-MNT () [FGUP GNIVC FNS Rossii 127381, g. Moskva, ul. Neglinnaa, d. 23]
-178.248.234.53/32
-# NET-Name: 178.248.235.53/32 QRATOR-1734 HLL2-MNT HLL3-MNT () [FGUP GNIVC FNS Rossii 127381, g. Moskva, ul. Neglinnaa, d. 23]
-178.248.235.53/32
 # NET-Name: 178.248.233.136/32 QRATOR-4476 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
 178.248.233.136/32
 # NET-Name: 178.248.234.136/32 QRATOR-4477 HLL2-MNT HLL3-MNT () [FGUP MIA "Rossia segodna" 119021, g. Moskva, Zubovskij bul'var, d. 4]
