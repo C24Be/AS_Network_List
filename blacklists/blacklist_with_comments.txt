@@ -1,8 +1,8 @@
 # Networks announced by AS34500
 # AS-Name (ORG): CTSPI (FGUP CTSPI MGA Russia)
-80.73.16.0/24
-80.73.16.0/20
 80.73.16.0/21
+80.73.16.0/20
+80.73.16.0/24
 # Networks announced by AS51932
 # AS-Name (ORG): ORVD-AS (FGUP Goskorporatsiya po OrVD)
 # Network name: Roskomnadzor-net
@@ -293,7 +293,6 @@
 213.234.8.8/30
 # Network name: TNTrade-NET
 89.175.8.68/30
-89.175.82.240/29
 # Network name: Rospotrebnadzor-Kam
 77.82.124.112/29
 # Network name: Rospotrebnadzor-NET
