@@ -1,8 +1,8 @@
 # Networks announced by AS34500
 # AS-Name (ORG): CTSPI (FGUP CTSPI MGA Russia)
+80.73.16.0/20
 80.73.16.0/21
 80.73.16.0/24
-80.73.16.0/20
 # Networks announced by AS51932
 # AS-Name (ORG): ORVD-AS (FGUP Goskorporatsiya po OrVD)
 91.221.140.0/24
