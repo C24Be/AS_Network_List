@@ -188,8 +188,8 @@
 130.49.224.0/19
 # Networks announced by AS49281
 # AS-Name (ORG): M100 (M100 LLC)
-2a00:a300::/32
 85.198.106.0/24
+2a00:a300::/32
 # Networks announced by AS49797
 # AS-Name (ORG): NESSLY (LLC VK)
 79.137.142.0/24
