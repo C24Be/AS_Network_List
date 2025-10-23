@@ -1,6 +1,6 @@
 # IPSet blacklist configuration (mixed IPv4/IPv6)
 # Auto-generated from blacklist.txt
-# Last updated: 2025-10-23 22:21:24 UTC
+# Last updated: 2025-10-23 22:22:36 UTC
 #
 # Usage:
 #   1. Load the ipset:
