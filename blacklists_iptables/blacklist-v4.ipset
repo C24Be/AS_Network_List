@@ -1,6 +1,6 @@
 # IPSet blacklist configuration (IPv4 only)
 # Auto-generated from blacklist-v4.txt
-# Last updated: 2025-10-23 10:26:49 UTC
+# Last updated: 2025-10-23 10:28:36 UTC
 #
 # Usage:
 #   1. Load the ipset:
@@ -15,7 +15,7 @@
 #      ipset destroy blacklist-v4
 #
 
-create blacklist-v4 hash:net family inet hashsize 1148 maxelem 2296
+create blacklist-v4 hash:net family inet hashsize 1169 maxelem 2338
 add blacklist-v4 109.120.180.0/22
 add blacklist-v4 109.120.180.0/23
 add blacklist-v4 109.120.182.0/23
@@ -63,6 +63,10 @@ add blacklist-v4 176.109.0.0/21
 add blacklist-v4 176.112.168.0/21
 add blacklist-v4 176.116.96.0/20
 add blacklist-v4 178.16.156.148/30
+add blacklist-v4 178.17.176.0/23
+add blacklist-v4 178.17.178.0/23
+add blacklist-v4 178.17.180.0/23
+add blacklist-v4 178.17.182.0/23
 add blacklist-v4 178.20.234.224/29
 add blacklist-v4 178.22.88.0/21
 add blacklist-v4 178.22.88.0/24
@@ -219,6 +223,7 @@ add blacklist-v4 188.93.62.0/24
 add blacklist-v4 188.93.63.0/24
 add blacklist-v4 193.203.40.0/22
 add blacklist-v4 193.232.70.0/24
+add blacklist-v4 193.33.230.0/23
 add blacklist-v4 193.47.146.0/24
 add blacklist-v4 194.140.247.0/25
 add blacklist-v4 194.140.247.128/25
@@ -266,6 +271,7 @@ add blacklist-v4 195.211.23.0/24
 add blacklist-v4 195.218.168.0/24
 add blacklist-v4 195.218.175.40/29
 add blacklist-v4 195.218.190.0/23
+add blacklist-v4 195.226.203.0/24
 add blacklist-v4 195.239.113.0/24
 add blacklist-v4 195.239.247.0/24
 add blacklist-v4 195.239.80.32/29
@@ -422,6 +428,8 @@ add blacklist-v4 213.172.27.224/30
 add blacklist-v4 213.172.27.252/30
 add blacklist-v4 213.172.30.136/30
 add blacklist-v4 213.172.4.192/26
+add blacklist-v4 213.176.232.0/23
+add blacklist-v4 213.176.234.0/23
 add blacklist-v4 213.177.111.0/24
 add blacklist-v4 213.183.253.56/29
 add blacklist-v4 213.219.212.0/22
@@ -519,6 +527,7 @@ add blacklist-v4 217.69.128.0/20
 add blacklist-v4 217.69.128.0/21
 add blacklist-v4 217.69.132.0/24
 add blacklist-v4 217.69.136.0/21
+add blacklist-v4 31.148.205.0/24
 add blacklist-v4 31.177.104.0/22
 add blacklist-v4 31.177.95.0/24
 add blacklist-v4 31.44.63.64/29
@@ -689,6 +698,9 @@ add blacklist-v4 79.137.240.0/21
 add blacklist-v4 79.137.240.0/22
 add blacklist-v4 79.137.244.0/22
 add blacklist-v4 79.142.88.0/28
+add blacklist-v4 79.143.229.0/24
+add blacklist-v4 79.143.230.0/24
+add blacklist-v4 79.143.232.0/24
 add blacklist-v4 80.237.11.88/29
 add blacklist-v4 80.237.39.112/29
 add blacklist-v4 80.237.98.80/28
@@ -1010,6 +1022,12 @@ add blacklist-v4 90.156.218.0/23
 add blacklist-v4 90.156.232.0/21
 add blacklist-v4 90.156.248.0/22
 add blacklist-v4 91.103.194.184/29
+add blacklist-v4 91.135.212.0/22
+add blacklist-v4 91.135.216.0/21
+add blacklist-v4 91.135.220.0/24
+add blacklist-v4 91.135.221.0/24
+add blacklist-v4 91.195.136.0/23
+add blacklist-v4 91.208.20.0/24
 add blacklist-v4 91.215.168.0/22
 add blacklist-v4 91.217.34.0/23
 add blacklist-v4 91.219.192.0/22
@@ -1162,5 +1180,8 @@ add blacklist-v4 95.213.44.0/24
 add blacklist-v4 95.213.45.0/24
 add blacklist-v4 95.213.48.0/20
 add blacklist-v4 95.213.64.0/18
+add blacklist-v4 95.47.189.0/24
+add blacklist-v4 95.47.191.0/24
+add blacklist-v4 95.47.244.0/24
 add blacklist-v4 95.53.248.0/29
 add blacklist-v4 95.54.193.80/28
