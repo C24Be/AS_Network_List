@@ -7,7 +7,8 @@ blacklist_v6_file="blacklists/blacklist-v6.txt"
 
 auto_black_ass="auto/black_ass.txt"
 
-black_names="uvd|umvd|fgup|grchc|roskomnad|federalnaya sluzhba|ufsb|zonatelecom|llc vk|vkontakte|ODNOKLASSNIKI|VKCOMPANY|mail.ru|mail-ru|mail_ru|VK-AS"
+black_names="uvd|umvd|fgup|grchc|roskomnad|federalnaya sluzhba|ufsb|zonatelecom|llc vk|vkontakte|ODNOKLASSNIKI|VKCOMPANY|mail.ru|mail-ru|mail_ru|VK-AS|M100"
+# M100 - mail.ru
 white_names="ruvds"
 
 grep -iE "${black_names}" auto/all-ru-asn.txt   | grep -viE "${white_names}" | awk '{ print "# AS-Name: " $0 "\n" $1}' > ${auto_black_ass}
