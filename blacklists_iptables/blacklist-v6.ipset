@@ -1,6 +1,6 @@
 # IPSet blacklist configuration (IPv6 only)
 # Auto-generated from blacklist-v6.txt
-# Last updated: 2025-10-23 09:43:00 UTC
+# Last updated: 2025-10-23 10:18:13 UTC
 #
 # Usage:
 #   1. Load the ipset:
@@ -15,7 +15,26 @@
 #      ipset destroy blacklist-v6
 #
 
-create blacklist-v6 hash:net family inet6 hashsize 1024 maxelem 6
+create blacklist-v6 hash:net family inet6 hashsize 1024 maxelem 44
+add blacklist-v6 2a00:1148::/29
+add blacklist-v6 2a00:1148::/32
+add blacklist-v6 2a00:b4c0::/32
+add blacklist-v6 2a00:bdc0:8000::/34
+add blacklist-v6 2a00:bdc0::/33
+add blacklist-v6 2a00:bdc0:c000::/35
+add blacklist-v6 2a00:bdc0:e002::/48
+add blacklist-v6 2a00:bdc0:e003::/48
+add blacklist-v6 2a00:bdc0:e004::/48
+add blacklist-v6 2a00:bdc0:e005::/48
+add blacklist-v6 2a00:bdc0:e007::/48
+add blacklist-v6 2a00:bdc0:f000::/36
+add blacklist-v6 2a00:bdc1::/32
+add blacklist-v6 2a00:bdc2::/31
+add blacklist-v6 2a00:bdc4::/30
 add blacklist-v6 2a0c:a9c7:156::/48
 add blacklist-v6 2a0c:a9c7:157::/48
 add blacklist-v6 2a0c:a9c7:158::/48
+add blacklist-v6 2a14:25c0::/32
+add blacklist-v6 2a14:25c5::/32
+add blacklist-v6 2a14:25c6::/32
+add blacklist-v6 2a14:25c7::/32
