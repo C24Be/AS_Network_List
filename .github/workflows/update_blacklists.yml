@@ -9,6 +9,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 6 * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   update:
@@ -26,7 +29,9 @@ jobs:
           fetch-depth: 0                         # this is required to fetch all history for all branches and tags
           token: ${{ env.GH_PAT }}
       - uses: ./.github/actions/pyInstall
-      - run: ./blacklists_updater.sh
+      - run: ./blacklists_updater_txt.sh
+      - run: ./blacklists_updater_nginx.sh
+      - run: ./blacklists_updater_iptables.sh
       - uses: ./.github/actions/gitPush
         env:
-          PUSH_FILES: blacklists/
+          PUSH_FILES: blacklists/ blacklists_nginx/ blacklists_iptables/

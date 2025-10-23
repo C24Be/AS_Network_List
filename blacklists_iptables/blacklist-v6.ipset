@@ -1,0 +1,21 @@
+# IPSet blacklist configuration (IPv6 only)
+# Auto-generated from blacklist-v6.txt
+# Last updated: 2025-10-23 09:43:00 UTC
+#
+# Usage:
+#   1. Load the ipset:
+#      ipset restore < blacklist-v6.ipset
+#
+#   2. Use with iptables/ip6tables:
+#      iptables -I INPUT -m set --match-set blacklist-v6 src -j DROP
+#      iptables -I FORWARD -m set --match-set blacklist-v6 src -j DROP
+#
+#   3. To flush/delete the set:
+#      ipset flush blacklist-v6
+#      ipset destroy blacklist-v6
+#
+
+create blacklist-v6 hash:net family inet6 hashsize 1024 maxelem 6
+add blacklist-v6 2a0c:a9c7:156::/48
+add blacklist-v6 2a0c:a9c7:157::/48
+add blacklist-v6 2a0c:a9c7:158::/48
