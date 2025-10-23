@@ -186,6 +186,10 @@
 90.156.148.0/22
 5.188.140.0/22
 130.49.224.0/19
+# Networks announced by AS49281
+# AS-Name (ORG): M100 (M100 LLC)
+2a00:a300::/32
+85.198.106.0/24
 # Networks announced by AS49797
 # AS-Name (ORG): NESSLY (LLC VK)
 79.137.142.0/24
@@ -660,6 +664,8 @@
 91.231.132.0/22
 # NET-Name: 212.57.133.0/24 CHUVD ROSTELECOM-MNT () [Computing Center of Regional Police Department of Chelyabinsk region]
 212.57.133.0/24
+# NET-Name: 213.147.55.108/30 CONNECTORS MTU-NOC () [Subnetwork for TM10068-RIPE]
+213.147.55.108/30
 # NET-Name: 195.131.63.24/29 FGUP-NET TI-MNT () [FGUP Management of Federal post communication of Saint Petersburg Saint-Petersburg, Russia]
 195.131.63.24/29
 # NET-Name: 213.33.171.240/29 SOVINTEL-SG-Trans-NET SOVINTEL-MNT () [Moscow Russia FGUP SG-trans is the Russian LPG transort Company]
@@ -1666,6 +1672,8 @@
 46.47.199.76/30
 # NET-Name: 37.29.59.56/30 UFSB-LAN MNT-MF-NWGSM PSTAR-MNT () [UFSB network North-West Region North-West Branch of OJSC MegaFon Network, Fixed broadband]
 37.29.59.56/30
+# NET-Name: 79.137.183.0/24 M100-COLO DN-MNT () [M100 Colocation]
+79.137.183.0/24
 # NET-Name: 212.48.54.0/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
 212.48.54.0/30
 # NET-Name: 212.48.54.8/30 GBUMSE-NET MTU-NOC () [FGUP «GBUMSE»]
