@@ -207,6 +207,10 @@
 176.109.0.0/21
 # Networks announced by AS57973
 # AS-Name (ORG): CLOUDGAMING-REGION-AS (LLC VK)
+89.221.233.0/24
+195.211.22.0/24
+46.245.234.0/24
+89.221.234.0/24
 # Networks announced by AS60863
 # AS-Name (ORG): VK-AS (LLC VK)
 185.6.244.0/22
