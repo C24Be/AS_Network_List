@@ -230,16 +230,6 @@
 212.192.158.0/24
 # Networks announced by AS62243
 # AS-Name (ORG): VKONTAKTE-SPBZN-AS (VKontakte Ltd)
-185.29.130.0/24
-# Networks announced by AS62331
-# AS-Name (ORG): TVK-AS (Media Holding TVK Ltd.)
-31.148.205.0/24
-95.47.189.0/24
-95.47.191.0/24
-95.47.244.0/24
-# Networks announced by AS197153
-# AS-Name (ORG): guvd (Glavnoe Upravlenie Vnutrennih Del po Sverdlovskoi Oblasti)
-91.217.34.0/23
 # Network name: Roskomnadzor-net
 46.228.0.232/29
 87.226.213.0/24
