@@ -1,6 +1,6 @@
 # IPSet blacklist configuration (IPv4 only)
 # Auto-generated from blacklist-v4.txt
-# Last updated: 2025-11-30 06:21:47 UTC
+# Last updated: 2025-12-01 06:24:25 UTC
 #
 # Usage:
 #   1. Load the ipset:
@@ -15,7 +15,7 @@
 #      ipset destroy blacklist-v4
 #
 
-create blacklist-v4 hash:net family inet hashsize 1173 maxelem 2346
+create blacklist-v4 hash:net family inet hashsize 1164 maxelem 2328
 add blacklist-v4 109.120.180.0/22
 add blacklist-v4 109.120.180.0/23
 add blacklist-v4 109.120.182.0/23
@@ -75,13 +75,7 @@ add blacklist-v4 178.17.180.0/23
 add blacklist-v4 178.17.182.0/23
 add blacklist-v4 178.20.234.224/29
 add blacklist-v4 178.22.88.0/21
-add blacklist-v4 178.22.88.0/24
-add blacklist-v4 178.22.89.0/26
-add blacklist-v4 178.22.89.128/25
 add blacklist-v4 178.22.89.64/26
-add blacklist-v4 178.22.90.0/24
-add blacklist-v4 178.22.91.0/24
-add blacklist-v4 178.22.92.0/23
 add blacklist-v4 178.22.94.0/23
 add blacklist-v4 178.237.16.0/20
 add blacklist-v4 178.237.16.0/21
@@ -222,11 +216,9 @@ add blacklist-v4 188.93.56.0/21
 add blacklist-v4 188.93.56.0/24
 add blacklist-v4 188.93.57.0/24
 add blacklist-v4 188.93.58.0/24
-add blacklist-v4 188.93.59.0/24
 add blacklist-v4 188.93.60.0/24
 add blacklist-v4 188.93.61.0/24
 add blacklist-v4 188.93.62.0/24
-add blacklist-v4 188.93.63.0/24
 add blacklist-v4 193.203.40.0/22
 add blacklist-v4 193.232.70.0/24
 add blacklist-v4 193.33.230.0/23
@@ -271,7 +263,6 @@ add blacklist-v4 195.209.120.0/22
 add blacklist-v4 195.209.122.0/24
 add blacklist-v4 195.209.123.0/24
 add blacklist-v4 195.211.20.0/22
-add blacklist-v4 195.211.20.0/23
 add blacklist-v4 195.211.22.0/24
 add blacklist-v4 195.211.23.0/24
 add blacklist-v4 195.218.175.40/29
