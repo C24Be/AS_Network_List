@@ -21,12 +21,12 @@ generate_ipset_config() {
     local ip_version="$3"
     local set_name="$4"
     local family="$5"
-    
+
     # Count entries for hash size calculation
     local count=$(wc -l < "${input_file}" | tr -d ' ')
     local hashsize=$((count > 1024 ? count : 1024))
     local maxelem=$((count * 2))
-    
+
     # Generate ipset configuration with header
     cat > "${output_file}" << EOF
 # IPSet blacklist configuration ${ip_version}
@@ -38,8 +38,8 @@ generate_ipset_config() {
 #      ipset restore < $(basename ${output_file})
 #
 #   2. Use with iptables/ip6tables:
-#      iptables -I INPUT -m set --match-set ${set_name} src -j DROP
-#      iptables -I FORWARD -m set --match-set ${set_name} src -j DROP
+#      iptables -I INPUT -m set --match-set ${set_name} src -m conntrack --ctstate NEW -j DROP
+#      iptables -I FORWARD -m set --match-set ${set_name} src -m conntrack --ctstate NEW -j DROP
 #
 #   3. To flush/delete the set:
 #      ipset flush ${set_name}
@@ -55,7 +55,7 @@ EOF
         [ -z "${network}" ] && continue
         echo "add ${set_name} ${network}" >> "${output_file}"
     done < "${input_file}"
-    
+
     echo "✓ Generated ${ip_version}: ${output_file}"
     echo "  Total entries: ${count}"
 }
@@ -75,10 +75,10 @@ cat > "${iptables_output_file}" << EOF
 #      ipset restore < $(basename ${iptables_output_file})
 #
 #   2. Use with iptables/ip6tables:
-#      iptables -I INPUT -m set --match-set blacklist-v4 src -j DROP
-#      iptables -I FORWARD -m set --match-set blacklist-v4 src -j DROP
-#      ip6tables -I INPUT -m set --match-set blacklist-v6 src -j DROP
-#      ip6tables -I FORWARD -m set --match-set blacklist-v6 src -j DROP
+#      iptables -I INPUT -m set --match-set blacklist-v4 src -m conntrack --ctstate NEW -j DROP
+#      iptables -I FORWARD -m set --match-set blacklist-v4 src -m conntrack --ctstate NEW -j DROP
+#      ip6tables -I INPUT -m set --match-set blacklist-v6 src -m conntrack --ctstate NEW -j DROP
+#      ip6tables -I FORWARD -m set --match-set blacklist-v6 src -m conntrack --ctstate NEW -j DROP
 #
 #   3. To flush/delete the sets:
 #      ipset flush blacklist-v4 && ipset destroy blacklist-v4
