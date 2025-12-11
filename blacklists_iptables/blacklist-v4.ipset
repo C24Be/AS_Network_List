@@ -1,14 +1,14 @@
 # IPSet blacklist configuration (IPv4 only)
 # Auto-generated from blacklist-v4.txt
-# Last updated: 2025-12-11 06:25:09 UTC
+# Last updated: 2025-12-11 14:42:03 UTC
 #
 # Usage:
 #   1. Load the ipset:
 #      ipset restore < blacklist-v4.ipset
 #
 #   2. Use with iptables/ip6tables:
-#      iptables -I INPUT -m set --match-set blacklist-v4 src -j DROP
-#      iptables -I FORWARD -m set --match-set blacklist-v4 src -j DROP
+#      iptables -I INPUT -m set --match-set blacklist-v4 src -m conntrack --ctstate NEW -j DROP
+#      iptables -I FORWARD -m set --match-set blacklist-v4 src -m conntrack --ctstate NEW -j DROP
 #
 #   3. To flush/delete the set:
 #      ipset flush blacklist-v4
