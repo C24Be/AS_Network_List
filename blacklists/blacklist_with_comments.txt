@@ -1,194 +1,194 @@
 # Networks announced by AS28709
 # AS-Name (ORG): VKONTAKTE-REGIONAL-CDN (VKontakte Ltd)
-185.32.251.0/24
+95.142.203.0/24
+185.32.249.0/24
+178.237.21.0/24
+178.237.22.0/24
 2a00:bdc0:e003::/48
-128.140.170.0/24
-95.142.202.0/24
+185.32.251.0/24
 2a00:bdc0:e004::/48
 178.237.28.0/24
-178.237.22.0/24
-2a00:bdc0:e002::/48
-178.237.24.0/24
 2a00:bdc0:e007::/48
-178.237.21.0/24
-95.142.203.0/24
-95.142.201.0/24
-185.32.249.0/24
+128.140.170.0/24
+178.237.24.0/24
+2a00:bdc0:e002::/48
 2a00:bdc0:e005::/48
+95.142.201.0/24
+95.142.202.0/24
 # Networks announced by AS34500
 # AS-Name (ORG): CTSPI (FGUP CTSPI MGA Russia)
-80.73.16.0/20
 80.73.16.0/24
 80.73.16.0/21
+80.73.16.0/20
 # Networks announced by AS43038
 # AS-Name (ORG): TVK-AS (MTS PJSC)
-178.17.188.0/22
-79.143.232.0/24
-178.17.182.0/23
-79.143.229.0/24
 213.176.232.0/23
-91.208.20.0/24
-178.17.176.0/23
-193.33.230.0/23
-213.176.234.0/23
-79.143.230.0/24
 178.17.180.0/23
+178.17.178.0/23
+193.33.230.0/23
+178.17.182.0/23
+91.208.20.0/24
+79.143.229.0/24
+79.143.232.0/24
+178.17.176.0/23
+178.17.188.0/22
 178.17.184.0/22
 195.226.203.0/24
-178.17.178.0/23
+79.143.230.0/24
+213.176.234.0/23
 # Networks announced by AS43720
 # AS-Name (ORG): TVK-AS (MTS OJSC)
-91.135.220.0/24
-91.195.136.0/23
-91.135.216.0/21
 91.135.221.0/24
+91.195.136.0/23
 91.135.212.0/22
+91.135.220.0/24
+91.135.216.0/21
 # Networks announced by AS47541
 # AS-Name (ORG): VKONTAKTE-SPB-AS (VKontakte Ltd)
-79.137.164.0/24
-95.213.45.0/24
+79.137.183.0/24
+2a00:bdc0:c000::/35
+185.32.248.0/22
+87.240.167.0/24
+87.240.166.0/24
+95.213.44.0/24
+2a00:bdc0:8000::/34
+79.137.139.0/24
+2a00:bdc0::/33
 91.231.134.0/24
 2a00:bdc2::/31
-95.213.44.0/24
-95.142.192.0/20
-217.69.132.0/24
-95.213.0.0/18
-87.240.166.0/24
-91.231.132.0/24
-2a00:bdc0:c000::/35
 91.231.133.0/24
-93.186.224.0/21
-2a00:bdc4::/30
-2a14:25c5::/32
-79.137.183.0/24
-79.137.139.0/24
-2a00:bdc0:8000::/34
-95.142.192.0/21
-95.213.0.0/17
-2a14:25c7::/32
-87.240.128.0/18
-2a00:bdc0::/33
-87.240.167.0/24
-185.131.68.0/23
 2a00:bdc1::/32
-185.32.248.0/22
-93.186.232.0/21
+185.131.68.0/23
+93.186.224.0/21
 79.137.180.0/24
+87.240.128.0/18
+95.213.0.0/17
+217.69.132.0/24
+2a14:25c7::/32
+95.213.0.0/18
+93.186.232.0/21
+2a00:bdc4::/30
+91.231.132.0/24
+95.142.192.0/21
+95.142.192.0/20
+2a14:25c5::/32
+95.213.45.0/24
+79.137.164.0/24
 # Networks announced by AS47542
 # AS-Name (ORG): VKONTAKTE-MSK-CDN-AS (VKontakte Ltd)
 95.213.45.0/24
-87.240.166.0/24
-95.142.204.0/23
+95.213.44.0/24
 2a00:bdc0:f000::/36
+95.142.207.0/24
 128.140.173.0/24
 87.240.167.0/24
-95.142.207.0/24
-95.213.44.0/24
+95.142.204.0/23
+87.240.166.0/24
 # Networks announced by AS47764
 # AS-Name (ORG): VK-AS (LLC VK)
-109.120.188.0/22
-89.208.220.0/22
-37.139.32.0/22
-185.226.52.0/22
-178.237.16.0/20
-2a14:25c0::/32
-83.166.232.0/21
-185.86.144.0/22
-176.112.168.0/21
-90.156.216.0/22
-195.211.20.0/22
-90.156.232.0/21
-89.221.235.0/24
-94.139.244.0/22
-95.163.32.0/19
-146.185.240.0/22
-91.231.132.0/22
-94.139.244.0/24
-109.120.180.0/22
-5.181.61.0/24
-185.16.148.0/22
-193.203.40.0/22
-185.5.136.0/22
-194.186.63.0/24
-83.217.216.0/22
-185.16.246.0/24
-178.22.88.0/21
-84.23.52.0/22
-89.221.232.0/22
-130.49.224.0/19
-89.208.196.0/22
-95.163.180.0/22
-89.208.208.0/22
-87.239.104.0/21
-83.166.248.0/21
-185.100.104.0/22
-185.180.200.0/22
-5.181.60.0/22
-155.212.192.0/20
-37.139.40.0/22
-5.61.232.0/21
-95.163.216.0/22
-87.242.112.0/22
-185.187.63.0/24
-146.185.208.0/22
-217.174.188.0/22
-185.130.112.0/22
-89.208.218.0/23
-90.156.212.0/22
-2a00:b4c0::/32
-89.208.228.0/22
-217.16.16.0/20
-45.136.20.0/22
-212.233.72.0/21
-5.61.16.0/21
-91.231.134.0/24
-83.222.28.0/22
-85.192.32.0/22
-195.218.190.0/23
-62.217.160.0/20
-94.100.176.0/20
-2a00:1148::/32
-212.111.84.0/22
-128.140.168.0/21
-217.20.144.0/20
-185.16.247.0/24
-178.237.29.0/24
-89.208.216.0/23
-212.233.88.0/21
-79.137.157.0/24
-213.219.212.0/22
-185.241.192.0/22
-2a00:1148::/29
-90.156.151.0/24
-2a14:25c6::/32
-90.156.148.0/22
-91.219.224.0/22
-79.137.174.0/23
-95.163.248.0/21
-5.188.140.0/22
-5.101.40.0/22
-185.16.244.0/22
 89.208.84.0/22
-185.16.244.0/23
-212.233.96.0/22
-217.69.128.0/20
+85.192.32.0/22
+95.163.248.0/21
+83.217.216.0/22
+217.16.16.0/20
+185.16.148.0/22
+128.140.168.0/21
+185.16.247.0/24
 45.84.128.0/22
+90.156.212.0/22
+91.231.134.0/24
+217.174.188.0/22
+146.185.208.0/22
+94.139.244.0/24
+178.22.88.0/21
+146.185.240.0/22
+195.211.20.0/22
+95.163.133.0/24
+95.163.180.0/22
+109.120.188.0/22
+94.100.176.0/20
+2a14:25c0::/32
+89.208.228.0/22
+185.86.144.0/22
+217.20.144.0/20
+62.217.160.0/20
+91.219.224.0/22
+185.226.52.0/22
+176.112.168.0/21
+212.233.88.0/21
+2a00:b4c0::/32
+89.208.220.0/22
+79.137.174.0/23
+178.237.16.0/20
+90.156.216.0/22
 31.177.104.0/22
 212.233.120.0/22
+185.100.104.0/22
+5.61.16.0/21
+95.163.32.0/19
+5.101.40.0/22
+89.221.236.0/22
+2a00:1148::/32
+212.111.84.0/22
+185.130.112.0/22
+185.187.63.0/24
+87.242.112.0/22
+194.186.63.0/24
+79.137.157.0/24
+95.163.216.0/22
+37.139.40.0/22
+90.156.232.0/21
+185.131.68.0/22
+212.233.72.0/21
+91.231.133.0/24
+185.16.244.0/22
+83.222.28.0/22
+109.120.180.0/22
+89.221.232.0/22
+89.208.196.0/22
+90.156.148.0/22
+94.139.244.0/22
+91.231.132.0/22
+188.93.56.0/21
+95.163.208.0/21
+217.69.128.0/20
+83.166.232.0/21
+185.5.136.0/22
+195.218.190.0/23
+193.203.40.0/22
+37.139.32.0/22
+83.166.248.0/21
+5.181.60.0/22
+185.180.200.0/22
+5.188.140.0/22
+89.221.235.0/24
+89.208.216.0/23
+87.239.104.0/21
+89.208.208.0/22
+130.49.224.0/19
+84.23.52.0/22
+185.16.246.0/24
+155.212.192.0/20
+212.233.96.0/22
+89.208.218.0/23
+5.181.61.0/24
+90.156.151.0/24
+2a00:1148::/29
+5.61.232.0/21
+178.237.29.0/24
+185.241.192.0/22
+213.219.212.0/22
+2a14:25c6::/32
+45.136.20.0/22
+185.16.244.0/23
 89.221.228.0/22
 79.137.240.0/21
-95.163.208.0/21
-89.221.236.0/22
-95.163.133.0/24
-185.131.68.0/22
-91.231.133.0/24
-188.93.56.0/21
 2a00:46e0:2::/48
 2a00:46e0::/32
 # Networks announced by AS49281
 # AS-Name (ORG): M100 (M100 LLC)
-2a00:a300::/32
 85.198.106.0/24
+2a00:a300::/32
 # Networks announced by AS49797
 # AS-Name (ORG): NESSLY (LLC VK)
 79.137.142.0/24
@@ -203,43 +203,43 @@
 91.221.140.0/24
 # Networks announced by AS57835
 # AS-Name (ORG): FGUP-ELEKTROSVYAZ-AS (JSC ELEKTROSVYAZ)
-176.109.1.0/24
-176.109.2.0/24
-176.109.0.0/24
 176.109.5.0/24
-176.109.6.0/24
 176.109.3.0/24
+176.109.1.0/24
+176.109.0.0/24
+176.109.2.0/24
+176.109.6.0/24
 # Networks announced by AS57973
 # AS-Name (ORG): CLOUDGAMING-REGION-AS (LLC VK)
-46.245.234.0/24
-89.221.234.0/24
-195.211.22.0/24
 89.221.233.0/24
+195.211.22.0/24
+89.221.234.0/24
+46.245.234.0/24
 # Networks announced by AS60863
 # AS-Name (ORG): VK-AS (LLC VK)
 185.6.244.0/22
 # Networks announced by AS61280
 # AS-Name (ORG): CMU_GRCHC (FGUP "GRCHC")
-2a0c:a9c7:157::/48
-195.209.123.0/24
-195.209.122.0/24
-185.224.228.0/24
-2a0c:a9c7:156::/48
-212.192.158.0/24
-185.224.230.0/24
-185.224.231.0/24
-212.192.156.0/24
-2a0c:a9c7:158::/48
 185.224.229.0/24
+195.209.123.0/24
+2a0c:a9c7:158::/48
+212.192.158.0/24
+212.192.156.0/24
+2a0c:a9c7:156::/48
+185.224.228.0/24
 212.192.157.0/24
+185.224.230.0/24
+2a0c:a9c7:157::/48
+195.209.122.0/24
+185.224.231.0/24
 # Networks announced by AS62243
 # AS-Name (ORG): VKONTAKTE-SPBZN-AS (VKontakte Ltd)
 185.29.130.0/24
 # Networks announced by AS62331
 # AS-Name (ORG): TVK-AS (Media Holding TVK Ltd.)
-31.148.205.0/24
-95.47.189.0/24
 95.47.191.0/24
+95.47.189.0/24
+31.148.205.0/24
 95.47.244.0/24
 # Networks announced by AS197153
 # AS-Name (ORG): guvd (Glavnoe Upravlenie Vnutrennih Del po Sverdlovskoi Oblasti)
@@ -723,11 +723,11 @@
 81.17.2.192/28
 # NET-Name: 81.17.3.16/29 NEXCOM-GUVD TRON-MNT () [Ekaterinburg, Company Tron Clients Ethernet, GUVD]
 81.17.3.16/29
-# NET-Name: 212.120.184.48/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 38, Sovetskaya str., Chaikovskiy,]
+# NET-Name: 212.120.184.48/29 GIBDD-GUVD-PERM ROSTELECOM-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 38, Sovetskaya str., Chaikovskiy,]
 212.120.184.48/29
-# NET-Name: 212.120.184.64/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm, Russia]
+# NET-Name: 212.120.184.64/29 GIBDD-GUVD-PERM ROSTELECOM-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm, Russia]
 212.120.184.64/29
-# NET-Name: 212.120.190.112/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 27, Karla Marksa str., Kungur,]
+# NET-Name: 212.120.190.112/29 GIBDD-GUVD-PERM ROSTELECOM-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 27, Karla Marksa str., Kungur,]
 212.120.190.112/29
 # NET-Name: 82.200.22.144/28 fgup_omo_network ZSTTK-MNT () [FGUP OMO im.Baranova West Siberia, Russia]
 82.200.22.144/28
@@ -807,7 +807,7 @@
 213.242.215.68/30
 # NET-Name: 85.90.120.72/29 Rostehinventarizaciya-NET MNT-TELECOM-TZ () [FGUP "Rostehinventarizaciya"]
 85.90.120.72/29
-# NET-Name: 212.120.174.88/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 67, Lunacharskogo str., Nytva,]
+# NET-Name: 212.120.174.88/29 GIBDD-GUVD-PERM ROSTELECOM-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 67, Lunacharskogo str., Nytva,]
 212.120.174.88/29
 # NET-Name: 85.90.102.168/29 ZARUBEZhUGOL-NET MNT-TELECOM-TZ () [FGUP Vneshneekonomicheskoe Ob'edinenie "ZARUBEZhUGOL'"]
 85.90.102.168/29
@@ -825,7 +825,7 @@
 212.48.138.240/28
 # NET-Name: 62.63.98.24/29 Moselectrotyagstroy-Net ARTX-RIPE-MNT () [SMP 643 Filial FGUP "Trest Moselectrotyagstroy" Moscow]
 62.63.98.24/29
-# NET-Name: 212.120.169.48/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm, Russia 80, Gagarina park., Perm,]
+# NET-Name: 212.120.169.48/29 GIBDD-GUVD-PERM ROSTELECOM-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm, Russia 80, Gagarina park., Perm,]
 212.120.169.48/29
 # NET-Name: 85.90.127.16/29 Zarubezhatomenergostroy-NET MNT-TELECOM-TZ () [FGUP "VPO "Zarubezhatomenergostroy"]
 85.90.127.16/29
@@ -915,7 +915,7 @@
 81.195.118.128/30
 # NET-Name: 195.170.218.24/29 INF-CLNT-TITAN INFOTEL-MNT () [CLIENT FGUP SKB Titan]
 195.170.218.24/29
-# NET-Name: 212.120.189.208/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 5, Entuziastov str., Krasnokamsk,]
+# NET-Name: 212.120.189.208/29 GIBDD-GUVD-PERM ROSTELECOM-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 5, Entuziastov str., Krasnokamsk,]
 212.120.189.208/29
 # NET-Name: 80.254.119.168/29 GUOVOUVD-SHAKHT-NET ROSTOV-TELEGRAF-MNT () [GU OVO UVD Shakhtu Shaxtu, Pariskoi Kommunu str., 85 Shaxtu, Rostovskaia oblast, 346500]
 80.254.119.168/29
@@ -1035,7 +1035,7 @@
 195.54.221.0/24
 # NET-Name: 195.131.7.8/29 UVDT-NET TI-MNT () [IP-Network for office]
 195.131.7.8/29
-# NET-Name: 80.82.43.24/29 FGUP-OHRANA-VO VSI-MNT () [Filial FGUP "Ohrana" MVD Russia from Voronezh region]
+# NET-Name: 80.82.43.24/29 FGUP-OHRANA-VO ROSTELECOM-MNT () [Filial FGUP "Ohrana" MVD Russia from Voronezh region]
 80.82.43.24/29
 # NET-Name: 213.85.2.64/28 UTC-Novogorsk cnt-mnt () [FGUP UTC "Novogorsk"]
 213.85.2.64/28
@@ -1067,13 +1067,13 @@
 78.37.69.160/27
 # NET-Name: 93.153.194.160/29 FGUP-GOSZEMKADASTRSEMKA-LAN PSTAR-MNT () [FGUP Goszemkadastrsemka St.Petersburg JSC PeterStar]
 93.153.194.160/29
-# NET-Name: 195.54.28.72/30 OHRANA-MVD MFIST-MNT () [FGUP Ohrana 18, Severokrimskaya str., Chelyabinsk, Russia,]
+# NET-Name: 195.54.28.72/30 OHRANA-MVD ROSTELECOM-MNT () [FGUP Ohrana 18, Severokrimskaya str., Chelyabinsk, Russia,]
 195.54.28.72/30
 # NET-Name: 62.63.100.160/30 ROSOBORONSTANDART-Net ARTX-RIPE-MNT () [FGUP "ROSOBORONSTANDART" Moscow, Russia]
 62.63.100.160/30
 # NET-Name: 92.39.106.20/30 VLG-UVD_Irk20 UNICO-MNT () [Volgograd Police Department]
 92.39.106.20/30
-# NET-Name: 212.57.159.0/24 UFPS MFIST-MNT () [FGUP "Pochta Rossii" Chelyabinsk, Russia]
+# NET-Name: 212.57.159.0/24 UFPS ROSTELECOM-MNT () [FGUP "Pochta Rossii" Chelyabinsk, Russia]
 212.57.159.0/24
 # NET-Name: 94.25.57.224/28 UFSB ROSTELECOM-MNT () [JSC Rostelecom Client (city Rostov-na-Donu)]
 94.25.57.224/28
@@ -1349,13 +1349,13 @@
 93.153.183.104/30
 # NET-Name: 188.128.89.0/30 FGUP_NIIR ROSTELECOM-MNT () [Ticket 09-10814-1]
 188.128.89.0/30
-# NET-Name: 88.83.195.248/30 FGUP-NET VSI-MNT () [FGUP Ohrana Voronezh, Russia]
+# NET-Name: 88.83.195.248/30 FGUP-NET ROSTELECOM-MNT () [FGUP Ohrana Voronezh, Russia]
 88.83.195.248/30
-# NET-Name: 90.150.189.32/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 11, Kommunarov str., Lysva,]
+# NET-Name: 90.150.189.32/29 GIBDD-GUVD-PERM ROSTELECOM-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 11, Kommunarov str., Lysva,]
 90.150.189.32/29
-# NET-Name: 83.219.13.128/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 24, Karla Marksa str., Karagay,]
+# NET-Name: 83.219.13.128/29 GIBDD-GUVD-PERM ROSTELECOM-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 24, Karla Marksa str., Karagay,]
 83.219.13.128/29
-# NET-Name: 83.219.13.184/29 GIBDD-GUVD-PERM MFIST-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 227, 20 let pobedy str., Solikamsk,]
+# NET-Name: 83.219.13.184/29 GIBDD-GUVD-PERM ROSTELECOM-MNT () [Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge Perm region, Russia 227, 20 let pobedy str., Solikamsk,]
 83.219.13.184/29
 # NET-Name: 95.167.176.0/23 Pochta-Russia_Volgograd ROSTELECOM-MNT () [UFPS Sviazi Volgogradskoy Oblasti - Filial FGUP Pochta Rossii]
 95.167.176.0/23
