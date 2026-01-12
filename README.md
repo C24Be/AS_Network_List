@@ -200,6 +200,20 @@ See the README files in each folder for detailed usage instructions.
     ./network_list_from_netname.py --help
     ```
 
+### `generate_nft_blacklist.py`
+1. Generate nftables config from blacklist:
+
+    ```bash
+    ./generate_nft_blacklist.py blacklists/blacklist.txt blacklist.nft
+    ```
+
+### `check_nft_blacklist.py`
+1. Check IP address against generated config:
+
+    ```bash
+    ./check_nft_blacklist.py blacklist.nft 77.37.166.239
+    ```
+
 ## Screenshots
 
 <img width="320" alt="image" src="https://github.com/C24Be/AS_Network_List/assets/153936414/71bd0ed4-0e9b-42f0-8e91-01964ea9b8e1">
