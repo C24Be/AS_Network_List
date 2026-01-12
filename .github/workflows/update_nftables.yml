@@ -1,0 +1,33 @@
+name: Update nftables Blacklists
+
+on:
+  schedule:
+    - cron: '30 2 * * *'  # Daily at 02:30 UTC
+  workflow_dispatch:
+
+jobs:
+  update-nftables:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+        
+    - name: Generate nftables blacklists
+      run: |
+        chmod +x blacklists_updater_nftables.sh
+        ./blacklists_updater_nftables.sh
+        
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add blacklists_nftables/
+        git diff --quiet && git diff --staged --quiet || \
+          (git commit -m "Auto-update nftables blacklists [skip ci]" && git push)
+
