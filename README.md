@@ -20,6 +20,8 @@ This repository contains Python scripts that allow you to retrieve network lists
 - `get_info_from_ripe.py`: Retrieves information about Russian AS numbers and Networks from RIPE database for the further analysis.
 - `get_description.py`: Retrieves network names, AS names and organisation names from RIPE. Updates the lists in the folder `auto/`.
 - `parse_ripe_db.py`: Parses the whole RIPE database to get information about Networks for the further analysis.
+- `generate_nft_blacklist.py`: Takes text blacklist on the input and generates nftables config with sets.
+- `check_nft_blacklist.py`: Checks IPv4/IPv6 address against generated nftables config.
 
 ### Blacklist Generators
 
