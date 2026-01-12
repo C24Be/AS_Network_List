@@ -35,4 +35,4 @@ jobs:
       - run: ./blacklists_updater_nftables.sh
       - uses: ./.github/actions/gitPush
         env:
-          PUSH_FILES: blacklists/ blacklists_nginx/ blacklists_iptables/
+          PUSH_FILES: blacklists/ blacklists_nginx/ blacklists_iptables/ blacklists_nftables/
