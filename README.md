@@ -50,6 +50,14 @@ This repository contains Python scripts that allow you to retrieve network lists
 - `blacklist-v6.ipset`: IPSet configuration for IPv6 only (**daily generated**)
 - `README.md`: Complete usage documentation for iptables integration
 
+**nftables Format** (`blacklists_nftables/` folder):
+
+* `blacklist.nft`: nftables configuration for mixed IPv4/IPv6 (**daily generated**)
+* `blacklist-v4.nft`: nftables configuration for IPv4 only (**daily generated**)
+* `blacklist-v6.nft`: nftables configuration for IPv6 only (**daily generated**)
+* `README.md`: Complete usage documentation for nftables integration
+
+
 ### Reference Lists
 
 **Contributors are welcome!**
@@ -89,6 +97,15 @@ ipset restore < blacklist.ipset
 iptables -I INPUT -m set --match-set blacklist-v4 src -j DROP
 ip6tables -I INPUT -m set --match-set blacklist-v6 src -j DROP
 ```
+
+**For nftables:**
+````bash
+# Download and load into nftables
+wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_nftables/blacklist.nft
+sudo nft -f blacklist.nft
+# View the loaded rules
+sudo nft list ruleset
+````
 
 **For Custom Applications:**
 
@@ -181,6 +198,20 @@ See the README files in each folder for detailed usage instructions.
 
     ```bash
     ./network_list_from_netname.py --help
+    ```
+
+### `generate_nft_blacklist.py`
+1. Generate nftables config from blacklist:
+
+    ```bash
+    ./generate_nft_blacklist.py blacklists/blacklist.txt blacklist.nft
+    ```
+
+### `check_nft_blacklist.py`
+1. Check IP address against generated config:
+
+    ```bash
+    ./check_nft_blacklist.py blacklist.nft 77.37.166.239
     ```
 
 ## Screenshots
