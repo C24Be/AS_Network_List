@@ -1,6 +1,6 @@
 # IPSet blacklist configuration (IPv4 only)
 # Auto-generated from blacklist-v4.txt
-# Last updated: 2026-01-13 06:25:25 UTC
+# Last updated: 2026-01-14 06:24:55 UTC
 #
 # Usage:
 #   1. Load the ipset:
@@ -15,7 +15,7 @@
 #      ipset destroy blacklist-v4
 #
 
-create blacklist-v4 hash:net family inet hashsize 1147 maxelem 2294
+create blacklist-v4 hash:net family inet hashsize 1146 maxelem 2292
 add blacklist-v4 109.120.180.0/22
 add blacklist-v4 109.120.180.0/23
 add blacklist-v4 109.120.182.0/23
@@ -749,7 +749,6 @@ add blacklist-v4 81.222.194.200/29
 add blacklist-v4 81.222.209.136/29
 add blacklist-v4 81.222.210.24/29
 add blacklist-v4 81.3.168.148/30
-add blacklist-v4 82.110.69.200/29
 add blacklist-v4 82.140.65.240/29
 add blacklist-v4 82.142.162.104/29
 add blacklist-v4 82.151.107.136/29
