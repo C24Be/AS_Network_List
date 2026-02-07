@@ -1,6 +1,6 @@
 # IPSet blacklist configuration (mixed IPv4/IPv6)
 # Auto-generated from blacklist.txt
-# Last updated: 2026-02-06 06:45:45 UTC
+# Last updated: 2026-02-07 06:34:40 UTC
 #
 # Usage:
 #   1. Load the ipset:
@@ -17,7 +17,7 @@
 #      ipset flush blacklist-v6 && ipset destroy blacklist-v6
 #
 
-create blacklist-v4 hash:net family inet hashsize 1141 maxelem 2282
+create blacklist-v4 hash:net family inet hashsize 1149 maxelem 2298
 add blacklist-v4 109.120.180.0/22
 add blacklist-v4 109.120.180.0/23
 add blacklist-v4 109.120.182.0/23
@@ -697,6 +697,8 @@ add blacklist-v4 80.247.46.0/24
 add blacklist-v4 80.254.100.40/29
 add blacklist-v4 80.254.119.168/29
 add blacklist-v4 80.73.16.0/20
+add blacklist-v4 80.73.16.0/21
+add blacklist-v4 80.73.16.0/24
 add blacklist-v4 80.73.168.80/28
 add blacklist-v4 80.73.169.244/30
 add blacklist-v4 80.82.43.24/29
@@ -724,6 +726,7 @@ add blacklist-v4 81.195.151.0/24
 add blacklist-v4 81.195.151.172/30
 add blacklist-v4 81.195.155.0/30
 add blacklist-v4 81.195.161.12/30
+add blacklist-v4 81.195.164.0/24
 add blacklist-v4 81.195.165.64/28
 add blacklist-v4 81.195.168.24/30
 add blacklist-v4 81.195.177.160/30
@@ -1006,6 +1009,11 @@ add blacklist-v4 90.156.218.0/23
 add blacklist-v4 90.156.232.0/21
 add blacklist-v4 90.156.248.0/22
 add blacklist-v4 91.103.194.184/29
+add blacklist-v4 91.135.212.0/22
+add blacklist-v4 91.135.216.0/21
+add blacklist-v4 91.135.220.0/24
+add blacklist-v4 91.135.221.0/24
+add blacklist-v4 91.195.136.0/23
 add blacklist-v4 91.208.20.0/24
 add blacklist-v4 91.215.168.0/22
 add blacklist-v4 91.217.34.0/23
