@@ -1,6 +1,6 @@
 # IPSet blacklist configuration (IPv4 only)
 # Auto-generated from blacklist-v4.txt
-# Last updated: 2026-03-01 06:38:03 UTC
+# Last updated: 2026-03-02 06:49:32 UTC
 #
 # Usage:
 #   1. Load the ipset:
@@ -15,7 +15,7 @@
 #      ipset destroy blacklist-v4
 #
 
-create blacklist-v4 hash:net family inet hashsize 1149 maxelem 2298
+create blacklist-v4 hash:net family inet hashsize 1136 maxelem 2272
 add blacklist-v4 109.120.180.0/22
 add blacklist-v4 109.120.180.0/23
 add blacklist-v4 109.120.182.0/23
@@ -580,31 +580,20 @@ add blacklist-v4 5.61.239.48/28
 add blacklist-v4 5.61.239.64/26
 add blacklist-v4 62.105.158.200/29
 add blacklist-v4 62.112.110.64/28
-add blacklist-v4 62.118.0.208/28
 add blacklist-v4 62.118.101.184/29
 add blacklist-v4 62.118.113.232/29
 add blacklist-v4 62.118.125.188/30
 add blacklist-v4 62.118.127.240/28
-add blacklist-v4 62.118.15.16/28
-add blacklist-v4 62.118.17.152/29
-add blacklist-v4 62.118.19.112/30
-add blacklist-v4 62.118.19.40/30
 add blacklist-v4 62.118.193.8/29
 add blacklist-v4 62.118.205.68/30
 add blacklist-v4 62.118.208.100/30
 add blacklist-v4 62.118.209.192/30
-add blacklist-v4 62.118.21.160/29
 add blacklist-v4 62.118.216.60/30
 add blacklist-v4 62.118.219.184/30
 add blacklist-v4 62.118.230.4/30
 add blacklist-v4 62.118.233.224/29
 add blacklist-v4 62.118.234.64/29
 add blacklist-v4 62.118.239.128/29
-add blacklist-v4 62.118.25.112/28
-add blacklist-v4 62.118.37.168/30
-add blacklist-v4 62.118.37.180/30
-add blacklist-v4 62.118.37.4/30
-add blacklist-v4 62.118.38.212/30
 add blacklist-v4 62.141.125.0/25
 add blacklist-v4 62.217.160.0/20
 add blacklist-v4 62.217.160.0/21
@@ -613,7 +602,6 @@ add blacklist-v4 62.28.169.168/30
 add blacklist-v4 62.33.199.80/29
 add blacklist-v4 62.33.34.16/28
 add blacklist-v4 62.33.87.128/28
-add blacklist-v4 62.33.87.152/29
 add blacklist-v4 62.5.130.104/29
 add blacklist-v4 62.5.132.224/29
 add blacklist-v4 62.5.189.80/29
@@ -1005,7 +993,6 @@ add blacklist-v4 90.156.216.0/22
 add blacklist-v4 90.156.216.0/23
 add blacklist-v4 90.156.218.0/23
 add blacklist-v4 90.156.232.0/21
-add blacklist-v4 90.156.248.0/22
 add blacklist-v4 91.103.194.184/29
 add blacklist-v4 91.135.212.0/22
 add blacklist-v4 91.135.216.0/21
