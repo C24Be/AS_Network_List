@@ -1,13 +1,13 @@
 # IPSet blacklist configuration (VK names, IPv4 only)
 # Auto-generated from blacklist-vk-v4.txt
-# Last updated: 2026-03-24 18:20:34 UTC
+# Last updated: 2026-03-24 18:23:22 UTC
 #
 # Usage:
 #   1. Load the ipset:
 #      ipset restore < blacklist-vk-v4.ipset
 #
 #   2. Use with iptables/ip6tables:
-#      iptables -I OUTPUT -m set --match-set blacklist-vk-v4 dst -m conntrack --ctstate NEW -j REJECT
+#      iptables -I OUTPUT -m set --match-set blacklist-vk-v4 dst -j REJECT
 
 #
 #   3. To flush/delete the set:
@@ -15,7 +15,7 @@
 #      ipset destroy blacklist-vk-v4
 #
 
-create blacklist-vk-v4 hash:net family inet hashsize 1024 maxelem 518
+create blacklist-vk-v4 hash:net family inet hashsize 1024 maxelem 532
 add blacklist-vk-v4 109.120.180.0/22
 add blacklist-vk-v4 109.120.180.0/23
 add blacklist-vk-v4 109.120.182.0/23
@@ -67,6 +67,7 @@ add blacklist-vk-v4 185.241.192.0/22
 add blacklist-vk-v4 185.241.192.0/23
 add blacklist-vk-v4 185.241.194.0/23
 add blacklist-vk-v4 185.29.128.0/22
+add blacklist-vk-v4 185.29.130.0/24
 add blacklist-vk-v4 185.32.248.0/22
 add blacklist-vk-v4 185.32.248.0/23
 add blacklist-vk-v4 185.32.250.0/23
@@ -91,6 +92,11 @@ add blacklist-vk-v4 194.84.16.12/30
 add blacklist-vk-v4 195.211.20.0/22
 add blacklist-vk-v4 195.211.22.0/24
 add blacklist-vk-v4 195.211.23.0/24
+add blacklist-vk-v4 212.111.84.0/22
+add blacklist-vk-v4 212.233.120.0/22
+add blacklist-vk-v4 212.233.72.0/21
+add blacklist-vk-v4 212.233.88.0/21
+add blacklist-vk-v4 212.233.96.0/22
 add blacklist-vk-v4 213.219.212.0/22
 add blacklist-vk-v4 213.219.212.0/23
 add blacklist-vk-v4 213.219.214.0/23
@@ -224,6 +230,7 @@ add blacklist-vk-v4 90.156.216.0/22
 add blacklist-vk-v4 90.156.216.0/23
 add blacklist-vk-v4 90.156.218.0/23
 add blacklist-vk-v4 90.156.232.0/21
+add blacklist-vk-v4 91.219.224.0/22
 add blacklist-vk-v4 91.231.132.0/22
 add blacklist-vk-v4 91.237.76.0/24
 add blacklist-vk-v4 93.153.255.84/30

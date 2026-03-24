@@ -1,13 +1,13 @@
 # IPSet blacklist configuration (VK names, IPv6 only)
 # Auto-generated from blacklist-vk-v6.txt
-# Last updated: 2026-03-24 18:20:34 UTC
+# Last updated: 2026-03-24 18:23:22 UTC
 #
 # Usage:
 #   1. Load the ipset:
 #      ipset restore < blacklist-vk-v6.ipset
 #
 #   2. Use with iptables/ip6tables:
-#      ip6tables -I OUTPUT -m set --match-set blacklist-vk-v6 dst -m conntrack --ctstate NEW -j REJECT
+#      ip6tables -I OUTPUT -m set --match-set blacklist-vk-v6 dst -j REJECT
 
 #
 #   3. To flush/delete the set:
