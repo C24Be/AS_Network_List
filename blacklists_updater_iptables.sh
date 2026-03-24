@@ -48,6 +48,18 @@ generate_ipset_config() {
     local ip_version="$3"
     local set_name="$4"
     local family="$5"
+    local iptables_cmd="iptables"
+    local rule_primary=""
+    local rule_secondary=""
+
+    [ "${family}" = "inet6" ] && iptables_cmd="ip6tables"
+
+    if printf "%s" "${set_name}" | grep -q '^blacklist-vk'; then
+        rule_primary="${iptables_cmd} -I OUTPUT -m set --match-set ${set_name} dst -j REJECT"
+    else
+        rule_primary="${iptables_cmd} -I INPUT -m set --match-set ${set_name} src -m conntrack --ctstate NEW -j DROP"
+        rule_secondary="${iptables_cmd} -I FORWARD -m set --match-set ${set_name} src -m conntrack --ctstate NEW -j DROP"
+    fi
 
     # Count entries for hash size calculation
     local count=$(wc -l < "${input_file}" | tr -d ' ')
@@ -65,8 +77,8 @@ generate_ipset_config() {
 #      ipset restore < $(basename ${output_file})
 #
 #   2. Use with iptables/ip6tables:
-#      iptables -I INPUT -m set --match-set ${set_name} src -m conntrack --ctstate NEW -j DROP
-#      iptables -I FORWARD -m set --match-set ${set_name} src -m conntrack --ctstate NEW -j DROP
+#      ${rule_primary}
+${rule_secondary:+#      ${rule_secondary}}
 #
 #   3. To flush/delete the set:
 #      ipset flush ${set_name}
@@ -135,14 +147,8 @@ cat > "${iptables_vk_output_file}" << EOF
 #      ipset restore < $(basename "${iptables_vk_output_file}")
 #
 #   2. Use with iptables/ip6tables:
-#      iptables -I INPUT -m set --match-set blacklist-vk-v4 src -m conntrack --ctstate NEW -j DROP
-#      iptables -I FORWARD -m set --match-set blacklist-vk-v4 src -m conntrack --ctstate NEW -j DROP
-#      ip6tables -I INPUT -m set --match-set blacklist-vk-v6 src -m conntrack --ctstate NEW -j DROP
-#      ip6tables -I FORWARD -m set --match-set blacklist-vk-v6 src -m conntrack --ctstate NEW -j DROP
-#
-#   2a. Block outgoing traffic to VK destination networks:
-#      iptables -I OUTPUT -m set --match-set blacklist-vk-v4 dst -m conntrack --ctstate NEW -j REJECT
-#      ip6tables -I OUTPUT -m set --match-set blacklist-vk-v6 dst -m conntrack --ctstate NEW -j REJECT
+#      iptables -I OUTPUT -m set --match-set blacklist-vk-v4 dst -j REJECT
+#      ip6tables -I OUTPUT -m set --match-set blacklist-vk-v6 dst -j REJECT
 #
 #   3. To flush/delete the sets:
 #      ipset flush blacklist-vk-v4 && ipset destroy blacklist-vk-v4
@@ -161,7 +167,7 @@ echo "  Total entries: $(wc -l < "${blacklist_vk_file}" | tr -d ' ')"
 echo ""
 echo "VK outgoing block examples (iptables/ipset):"
 echo "  ipset restore < ${iptables_vk_output_file}"
-echo "  iptables -I OUTPUT -m set --match-set blacklist-vk-v4 dst -m conntrack --ctstate NEW -j REJECT"
-echo "  ip6tables -I OUTPUT -m set --match-set blacklist-vk-v6 dst -m conntrack --ctstate NEW -j REJECT"
+echo "  iptables -I OUTPUT -m set --match-set blacklist-vk-v4 dst -j REJECT"
+echo "  ip6tables -I OUTPUT -m set --match-set blacklist-vk-v6 dst -j REJECT"
 echo ""
 echo "Tip: Do not install Messenger MAX on the same phone/device that has VPN access configured."

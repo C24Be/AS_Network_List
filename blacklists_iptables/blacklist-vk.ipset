@@ -1,18 +1,12 @@
 # IPSet blacklist configuration (VK names: VK Cloud / VKCOMPANY / VKONTAKTE)
 # Auto-generated from name-filtered auto/*.txt sources
-# Last updated: 2026-03-24 18:07:55 UTC
+# Last updated: 2026-03-24 18:20:34 UTC
 #
 # Usage:
 #   1. Load the ipset:
 #      ipset restore < blacklist-vk.ipset
 #
 #   2. Use with iptables/ip6tables:
-#      iptables -I INPUT -m set --match-set blacklist-vk-v4 src -m conntrack --ctstate NEW -j DROP
-#      iptables -I FORWARD -m set --match-set blacklist-vk-v4 src -m conntrack --ctstate NEW -j DROP
-#      ip6tables -I INPUT -m set --match-set blacklist-vk-v6 src -m conntrack --ctstate NEW -j DROP
-#      ip6tables -I FORWARD -m set --match-set blacklist-vk-v6 src -m conntrack --ctstate NEW -j DROP
-#
-#   2a. Block outgoing traffic to VK destination networks:
 #      iptables -I OUTPUT -m set --match-set blacklist-vk-v4 dst -m conntrack --ctstate NEW -j REJECT
 #      ip6tables -I OUTPUT -m set --match-set blacklist-vk-v6 dst -m conntrack --ctstate NEW -j REJECT
 #
@@ -21,7 +15,7 @@
 #      ipset flush blacklist-vk-v6 && ipset destroy blacklist-vk-v6
 #
 
-create blacklist-vk-v4 hash:net family inet hashsize 1024 maxelem 532
+create blacklist-vk-v4 hash:net family inet hashsize 1024 maxelem 518
 add blacklist-vk-v4 109.120.180.0/22
 add blacklist-vk-v4 109.120.180.0/23
 add blacklist-vk-v4 109.120.182.0/23
@@ -73,7 +67,6 @@ add blacklist-vk-v4 185.241.192.0/22
 add blacklist-vk-v4 185.241.192.0/23
 add blacklist-vk-v4 185.241.194.0/23
 add blacklist-vk-v4 185.29.128.0/22
-add blacklist-vk-v4 185.29.130.0/24
 add blacklist-vk-v4 185.32.248.0/22
 add blacklist-vk-v4 185.32.248.0/23
 add blacklist-vk-v4 185.32.250.0/23
@@ -98,11 +91,6 @@ add blacklist-vk-v4 194.84.16.12/30
 add blacklist-vk-v4 195.211.20.0/22
 add blacklist-vk-v4 195.211.22.0/24
 add blacklist-vk-v4 195.211.23.0/24
-add blacklist-vk-v4 212.111.84.0/22
-add blacklist-vk-v4 212.233.120.0/22
-add blacklist-vk-v4 212.233.72.0/21
-add blacklist-vk-v4 212.233.88.0/21
-add blacklist-vk-v4 212.233.96.0/22
 add blacklist-vk-v4 213.219.212.0/22
 add blacklist-vk-v4 213.219.212.0/23
 add blacklist-vk-v4 213.219.214.0/23
@@ -236,7 +224,6 @@ add blacklist-vk-v4 90.156.216.0/22
 add blacklist-vk-v4 90.156.216.0/23
 add blacklist-vk-v4 90.156.218.0/23
 add blacklist-vk-v4 90.156.232.0/21
-add blacklist-vk-v4 91.219.224.0/22
 add blacklist-vk-v4 91.231.132.0/22
 add blacklist-vk-v4 91.237.76.0/24
 add blacklist-vk-v4 93.153.255.84/30
