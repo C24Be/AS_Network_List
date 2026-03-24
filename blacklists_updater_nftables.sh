@@ -68,3 +68,11 @@ python3 "$SCRIPT_DIR/generate_nft_blacklist.py" \
 rm -f "$TMP_V4_FILE" "$TMP_V6_FILE"
 
 echo "nftables blacklists generated successfully!"
+echo ""
+echo "VK outgoing block examples (nftables):"
+echo "  sudo nft -f $OUTPUT_DIR/blacklist-vk.nft"
+echo "  sudo nft add chain inet filter output '{ type filter hook output priority 0; policy accept; }'"
+echo "  sudo nft add rule inet filter output ip daddr @blacklist_v4 counter reject"
+echo "  sudo nft add rule inet filter output ip6 daddr @blacklist_v6 counter reject"
+echo ""
+echo "Tip: Do not install Messenger MAX on the same phone/device that has VPN access configured."
