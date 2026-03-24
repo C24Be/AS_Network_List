@@ -56,6 +56,7 @@ generate_ipset_config() {
 
     if printf "%s" "${set_name}" | grep -q '^blacklist-vk'; then
         rule_primary="${iptables_cmd} -I OUTPUT -m set --match-set ${set_name} dst -j REJECT"
+        rule_secondary="${iptables_cmd} -I FORWARD -m set --match-set ${set_name} dst -j REJECT"
     else
         rule_primary="${iptables_cmd} -I INPUT -m set --match-set ${set_name} src -m conntrack --ctstate NEW -j DROP"
         rule_secondary="${iptables_cmd} -I FORWARD -m set --match-set ${set_name} src -m conntrack --ctstate NEW -j DROP"
