@@ -2,6 +2,11 @@
 
 ### Blacklists are updated daily!
 
+> [!IMPORTANT]
+> A very important feature has been added: dedicated lists of VK Cloud / VK networks that can be used to block **OUTGOING** traffic from your server (iptables/ipset and nftables formats are available).
+> This can help reduce the risk of Messenger MAX being used to compromise your VPN server.
+> The best security option is to avoid installing Messenger MAX at all on a phone where VPN access is configured.
+
 This repository contains Python scripts that allow you to retrieve network lists based on either an Autonomous System (AS) name or a Network name. Also you can download and parse the whole RIPE database to get information about Networks for the further analysis.
 
 **Ready-to-use blacklists in multiple formats:**
