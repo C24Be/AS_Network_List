@@ -148,7 +148,9 @@ cat > "${iptables_vk_output_file}" << EOF
 #
 #   2. Use with iptables/ip6tables:
 #      iptables -I OUTPUT -m set --match-set blacklist-vk-v4 dst -j REJECT
+#      iptables -I FORWARD -m set --match-set blacklist-vk-v4 dst -j REJECT
 #      ip6tables -I OUTPUT -m set --match-set blacklist-vk-v6 dst -j REJECT
+#      ip6tables -I FORWARD -m set --match-set blacklist-vk-v6 dst -j REJECT
 #
 #   3. To flush/delete the sets:
 #      ipset flush blacklist-vk-v4 && ipset destroy blacklist-vk-v4
@@ -168,6 +170,8 @@ echo ""
 echo "VK outgoing block examples (iptables/ipset):"
 echo "  ipset restore < ${iptables_vk_output_file}"
 echo "  iptables -I OUTPUT -m set --match-set blacklist-vk-v4 dst -j REJECT"
+echo "  iptables -I FORWARD -m set --match-set blacklist-vk-v4 dst -j REJECT"
 echo "  ip6tables -I OUTPUT -m set --match-set blacklist-vk-v6 dst -j REJECT"
+echo "  ip6tables -I FORWARD -m set --match-set blacklist-vk-v6 dst -j REJECT"
 echo ""
 echo "Tip: Do not install Messenger MAX on the same phone/device that has VPN access configured."
