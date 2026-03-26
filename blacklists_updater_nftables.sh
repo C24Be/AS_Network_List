@@ -34,6 +34,11 @@ grep ':' "$VK_INPUT_FILE" | sort -u > "$VK_INPUT_V6_FILE" || true
 grep -v ':' "$VK_INPUT_FILE" | sort -u > "$VK_INPUT_V4_FILE" || true
 rm -f "$TMP_VK_FILE"
 
+# Generate mixed IPv4/IPv6 blacklist (recommended single-file load)
+python3 "$SCRIPT_DIR/generate_nft_blacklist.py" \
+    "$INPUT_FILE" \
+    "$OUTPUT_DIR/blacklist.nft"
+
 # Generate IPv4-only blacklist
 TMP_V4_FILE="/tmp/blacklist-v4.txt"
 TMP_V6_FILE="/tmp/blacklist-v6.txt"
@@ -50,14 +55,14 @@ python3 "$SCRIPT_DIR/generate_nft_blacklist.py" \
 
 # Generate VK-only blacklists (network names: VK Cloud / VKCOMPANY / VKONTAKTE)
 python3 "$SCRIPT_DIR/generate_nft_blacklist.py" \
+    "$VK_INPUT_FILE" \
+    "$OUTPUT_DIR/blacklist-vk.nft"
+python3 "$SCRIPT_DIR/generate_nft_blacklist.py" \
     "$VK_INPUT_V4_FILE" \
     "$OUTPUT_DIR/blacklist-vk-v4.nft"
 python3 "$SCRIPT_DIR/generate_nft_blacklist.py" \
     "$VK_INPUT_V6_FILE" \
     "$OUTPUT_DIR/blacklist-vk-v6.nft"
-
-# Remove deprecated mixed summary files if they exist
-rm -f "$OUTPUT_DIR/blacklist.nft" "$OUTPUT_DIR/blacklist-vk.nft"
 
 # Clean up temp files
 rm -f "$TMP_V4_FILE" "$TMP_V6_FILE"
@@ -65,6 +70,7 @@ rm -f "$TMP_V4_FILE" "$TMP_V6_FILE"
 echo "nftables blacklists generated successfully!"
 echo ""
 echo "VM incoming block examples (all lists, nftables):"
+echo "  sudo nft -f $OUTPUT_DIR/blacklist.nft"
 echo "  sudo nft -f $OUTPUT_DIR/blacklist-v4.nft"
 echo "  sudo nft -f $OUTPUT_DIR/blacklist-v6.nft"
 echo "  sudo nft add chain inet filter input '{ type filter hook input priority 0; policy accept; }'"
@@ -72,10 +78,11 @@ echo "  sudo nft add rule inet filter input ip saddr @blacklist_v4 counter rejec
 echo "  sudo nft add rule inet filter input ip6 saddr @blacklist_v6 counter reject"
 echo ""
 echo "VK outbound block examples for VPN clients via NAT (nftables):"
+echo "  sudo nft -f $OUTPUT_DIR/blacklist-vk.nft"
 echo "  sudo nft -f $OUTPUT_DIR/blacklist-vk-v4.nft"
 echo "  sudo nft -f $OUTPUT_DIR/blacklist-vk-v6.nft"
 echo "  sudo nft add chain inet filter forward '{ type filter hook forward priority 0; policy accept; }'"
-echo "  sudo nft add rule inet filter forward iifname \"<VPN_IFACE>\" ip daddr @blacklist_v4 counter reject"
-echo "  sudo nft add rule inet filter forward iifname \"<VPN_IFACE>\" ip6 daddr @blacklist_v6 counter reject"
+echo "  sudo nft add rule inet filter forward iifname \"<VPN_IFACE>\" ip daddr @blacklist_vk_v4 counter reject"
+echo "  sudo nft add rule inet filter forward iifname \"<VPN_IFACE>\" ip6 daddr @blacklist_vk_v6 counter reject"
 echo ""
 echo "Tip: Do not install Messenger MAX on the same phone/device that has VPN access configured."
