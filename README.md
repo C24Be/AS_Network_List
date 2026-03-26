@@ -9,6 +9,16 @@
 
 This repository contains Python scripts that allow you to retrieve network lists based on either an Autonomous System (AS) name or a Network name. Also you can download and parse the whole RIPE database to get information about Networks for the further analysis.
 
+## Important Links
+
+**Ready-to-use blacklists in multiple formats:**
+
+- [Text blacklists in `blacklists/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists) - Plain text format with IPv4/IPv6 separation
+- [Nginx configurations in `blacklists_nginx/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists_nginx) - Ready to include in your nginx config
+- [IPTables/IPSet files in `blacklists_iptables/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists_iptables) - Optimized for iptables with ipset
+- [nftables files in `blacklists_nftables/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists_nftables) - Ready-to-load sets and rules for nftables
+- [Linux route files in `blacklists_route/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists_route) - VK route blackholes to loopback (IPv4/IPv6)
+
 ## Files and features
 
 ### Core Scripts
