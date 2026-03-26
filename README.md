@@ -14,6 +14,8 @@ This repository contains Python scripts that allow you to retrieve network lists
 - [Text blacklists in `blacklists/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists) - Plain text format with IPv4/IPv6 separation
 - [Nginx configurations in `blacklists_nginx/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists_nginx) - Ready to include in your nginx config
 - [IPTables/IPSet files in `blacklists_iptables/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists_iptables) - Optimized for iptables with ipset
+- [nftables files in `blacklists_nftables/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists_nftables) - Ready-to-load sets and rules for nftables
+- [Linux route files in `blacklists_route/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists_route) - VK route blackholes to loopback (IPv4/IPv6)
 - [Other network and ASN lists in `auto/`](https://github.com/C24Be/AS_Network_List/tree/main/auto) - Comprehensive Russian network data
 
 ## Files and features
@@ -33,6 +35,8 @@ This repository contains Python scripts that allow you to retrieve network lists
 - `blacklists_updater_txt.sh`: Generates text-based blacklists with IPv4/IPv6 separation
 - `blacklists_updater_nginx.sh`: Generates nginx configuration files with deny directives
 - `blacklists_updater_iptables.sh`: Generates ipset configuration files for iptables/ip6tables
+- `blacklists_updater_nftables.sh`: Generates nftables blacklist files (mixed/v4/v6 and VK-specific)
+- `blacklists_updater_routes.sh`: Generates Linux route files to send VK networks to loopback (`127.0.0.1` / `::1`)
 
 ### Generated Blacklists
 
@@ -62,7 +66,15 @@ This repository contains Python scripts that allow you to retrieve network lists
 * `blacklist.nft`: nftables configuration for mixed IPv4/IPv6 (**daily generated**)
 * `blacklist-v4.nft`: nftables configuration for IPv4 only (**daily generated**)
 * `blacklist-v6.nft`: nftables configuration for IPv6 only (**daily generated**)
+* `blacklist-vk.nft`: nftables configuration for VK-only networks (**daily generated**)
+* `blacklist-vk-v4.nft`: nftables configuration for VK-only IPv4 networks (**daily generated**)
+* `blacklist-vk-v6.nft`: nftables configuration for VK-only IPv6 networks (**daily generated**)
 * `README.md`: Complete usage documentation for nftables integration
+
+**Linux Routes Format** (`blacklists_route/` folder):
+
+* `blacklist-vk-v4.routes`: IPv4 routes for VK-only networks to `127.0.0.1` via `lo` (**daily generated**)
+* `blacklist-vk-v6.routes`: IPv6 routes for VK-only networks to `::1` via `lo` (**daily generated**)
 
 
 ### Reference Lists
@@ -110,9 +122,32 @@ ip6tables -I INPUT -m set --match-set blacklist-v6 src -j DROP
 # Download and load into nftables
 wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_nftables/blacklist.nft
 sudo nft -f blacklist.nft
+
+# Protect VM from incoming blacklist sources
+sudo nft add chain inet filter input '{ type filter hook input priority 0; policy accept; }'
+sudo nft add rule inet filter input ip saddr @blacklist_v4 counter reject
+sudo nft add rule inet filter input ip6 saddr @blacklist_v6 counter reject
+
+# VK-only outbound blocking for VPN clients via NAT/FORWARD
+wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_nftables/blacklist-vk.nft
+sudo nft -f blacklist-vk.nft
+sudo nft add chain inet filter forward '{ type filter hook forward priority 0; policy accept; }'
+sudo nft add rule inet filter forward iifname "<VPN_IFACE>" ip daddr @blacklist_v4 counter reject
+sudo nft add rule inet filter forward iifname "<VPN_IFACE>" ip6 daddr @blacklist_v6 counter reject
+
 # View the loaded rules
 sudo nft list ruleset
 ````
+
+**For Linux Routes (VK loopback blackhole):**
+
+```bash
+# Download and apply VK route files
+wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_route/blacklist-vk-v4.routes
+wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_route/blacklist-vk-v6.routes
+sudo sh blacklist-vk-v4.routes
+sudo sh blacklist-vk-v6.routes
+```
 
 **For Custom Applications:**
 

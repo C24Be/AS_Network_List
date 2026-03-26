@@ -33,6 +33,7 @@ jobs:
       - run: ./blacklists_updater_nginx.sh
       - run: ./blacklists_updater_iptables.sh
       - run: ./blacklists_updater_nftables.sh
+      - run: ./blacklists_updater_routes.sh
       - uses: ./.github/actions/gitPush
         env:
           PUSH_FILES: blacklists/ blacklists_nginx/ blacklists_iptables/ blacklists_nftables/
