@@ -19,9 +19,10 @@ This repository contains Python scripts that allow you to retrieve network lists
 - [nftables files in `blacklists_nftables/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists_nftables) - Ready-to-load sets and rules for nftables
 - [Linux route files in `blacklists_route/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists_route) - VK route blackholes to loopback (IPv4/IPv6)
 
+**Download links for the latest blacklists:**
+
 ### Text blacklists
 
-- Folder: https://github.com/C24Be/AS_Network_List/tree/main/blacklists
 - `blacklist.txt`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists/blacklist.txt
 - `blacklist-v4.txt`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists/blacklist-v4.txt
 - `blacklist-v6.txt`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists/blacklist-v6.txt
@@ -32,13 +33,11 @@ This repository contains Python scripts that allow you to retrieve network lists
 
 ### Nginx blacklists
 
-- Folder: https://github.com/C24Be/AS_Network_List/tree/main/blacklists_nginx
 - `blacklist-v4.conf`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_nginx/blacklist-v4.conf
 - `blacklist-v6.conf`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_nginx/blacklist-v6.conf
 
 ### IPTables/IPSet blacklists
 
-- Folder: https://github.com/C24Be/AS_Network_List/tree/main/blacklists_iptables
 - `blacklist-v4.ipset`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_iptables/blacklist-v4.ipset
 - `blacklist-v6.ipset`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_iptables/blacklist-v6.ipset
 
@@ -47,7 +46,6 @@ This repository contains Python scripts that allow you to retrieve network lists
 
 ### nftables blacklists
 
-- Folder: https://github.com/C24Be/AS_Network_List/tree/main/blacklists_nftables
 - `blacklist-v4.nft`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_nftables/blacklist-v4.nft
 - `blacklist-v6.nft`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_nftables/blacklist-v6.nft
 
@@ -56,7 +54,6 @@ This repository contains Python scripts that allow you to retrieve network lists
 
 ### Linux route blacklists
 
-- Folder: https://github.com/C24Be/AS_Network_List/tree/main/blacklists_route
 - `blacklist-vk-v4.routes`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_route/blacklist-vk-v4.routes
 - `blacklist-vk-v6.routes`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_route/blacklist-vk-v6.routes
 
