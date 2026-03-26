@@ -9,6 +9,8 @@
 
 This repository contains Python scripts that allow you to retrieve network lists based on either an Autonomous System (AS) name or a Network name. Also you can download and parse the whole RIPE database to get information about Networks for the further analysis.
 
+## Important Links
+
 **Ready-to-use blacklists in multiple formats:**
 
 - [Text blacklists in `blacklists/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists) - Plain text format with IPv4/IPv6 separation
@@ -16,7 +18,47 @@ This repository contains Python scripts that allow you to retrieve network lists
 - [IPTables/IPSet files in `blacklists_iptables/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists_iptables) - Optimized for iptables with ipset
 - [nftables files in `blacklists_nftables/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists_nftables) - Ready-to-load sets and rules for nftables
 - [Linux route files in `blacklists_route/`](https://github.com/C24Be/AS_Network_List/tree/main/blacklists_route) - VK route blackholes to loopback (IPv4/IPv6)
-- [Other network and ASN lists in `auto/`](https://github.com/C24Be/AS_Network_List/tree/main/auto) - Comprehensive Russian network data
+
+### Text blacklists
+
+- Folder: https://github.com/C24Be/AS_Network_List/tree/main/blacklists
+- `blacklist.txt`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists/blacklist.txt
+- `blacklist-v4.txt`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists/blacklist-v4.txt
+- `blacklist-v6.txt`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists/blacklist-v6.txt
+
+- `blacklist-vk.txt`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists/blacklist-vk.txt
+- `blacklist-vk-v4.txt`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists/blacklist-vk-v4.txt
+- `blacklist-vk-v6.txt`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists/blacklist-vk-v6.txt
+
+### Nginx blacklists
+
+- Folder: https://github.com/C24Be/AS_Network_List/tree/main/blacklists_nginx
+- `blacklist-v4.conf`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_nginx/blacklist-v4.conf
+- `blacklist-v6.conf`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_nginx/blacklist-v6.conf
+
+### IPTables/IPSet blacklists
+
+- Folder: https://github.com/C24Be/AS_Network_List/tree/main/blacklists_iptables
+- `blacklist-v4.ipset`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_iptables/blacklist-v4.ipset
+- `blacklist-v6.ipset`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_iptables/blacklist-v6.ipset
+
+- `blacklist-vk-v4.ipset`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_iptables/blacklist-vk-v4.ipset
+- `blacklist-vk-v6.ipset`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_iptables/blacklist-vk-v6.ipset
+
+### nftables blacklists
+
+- Folder: https://github.com/C24Be/AS_Network_List/tree/main/blacklists_nftables
+- `blacklist-v4.nft`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_nftables/blacklist-v4.nft
+- `blacklist-v6.nft`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_nftables/blacklist-v6.nft
+
+- `blacklist-vk-v4.nft`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_nftables/blacklist-vk-v4.nft
+- `blacklist-vk-v6.nft`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_nftables/blacklist-vk-v6.nft
+
+### Linux route blacklists
+
+- Folder: https://github.com/C24Be/AS_Network_List/tree/main/blacklists_route
+- `blacklist-vk-v4.routes`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_route/blacklist-vk-v4.routes
+- `blacklist-vk-v6.routes`: https://raw.githubusercontent.com/C24Be/AS_Network_List/refs/heads/main/blacklists_route/blacklist-vk-v6.routes
 
 ## Files and features
 

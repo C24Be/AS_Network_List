@@ -66,7 +66,7 @@ def make_nft_config(agg_v4, agg_v6, comment=None, usage_profile="vm_input"):
     lines.append("")
     lines.append("table inet filter {")
     lines.append("")
-    
+
     # Define IPv4 blacklist set
     lines.append("    set blacklist_v4 {")
     lines.append("        type ipv4_addr")
@@ -79,7 +79,7 @@ def make_nft_config(agg_v4, agg_v6, comment=None, usage_profile="vm_input"):
         lines.append("        }")
     lines.append("    }")
     lines.append("")
-    
+
     # Define IPv6 blacklist set
     lines.append("    set blacklist_v6 {")
     lines.append("        type ipv6_addr")
@@ -92,7 +92,7 @@ def make_nft_config(agg_v4, agg_v6, comment=None, usage_profile="vm_input"):
         lines.append("        }")
     lines.append("    }")
     lines.append("")
-    
+
     # Define input chain with set lookups
     lines.append("    chain input {")
     lines.append("        type filter hook input priority 0;")
