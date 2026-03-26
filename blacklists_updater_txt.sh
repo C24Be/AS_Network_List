@@ -11,6 +11,8 @@ black_names="uvd|umvd|fgup|grchc|roskomnad|federalnaya sluzhba|ufsb|zonatelecom|
 # M100 - mail.ru
 white_names="ruvds"
 
+mkdir -p blacklists auto
+
 grep -iE "${black_names}" auto/all-ru-asn.txt   | grep -viE "${white_names}" | awk '{ print "# AS-Name: " $0 "\n" $1}' > ${auto_black_ass}
 ./network_list_from_as.py ${auto_black_ass} > ${outfile_w_comments}
 ./network_list_from_netname.py lists/ru-gov-netnames.txt >> ${outfile_w_comments}

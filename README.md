@@ -63,10 +63,8 @@ This repository contains Python scripts that allow you to retrieve network lists
 
 **nftables Format** (`blacklists_nftables/` folder):
 
-* `blacklist.nft`: nftables configuration for mixed IPv4/IPv6 (**daily generated**)
 * `blacklist-v4.nft`: nftables configuration for IPv4 only (**daily generated**)
 * `blacklist-v6.nft`: nftables configuration for IPv6 only (**daily generated**)
-* `blacklist-vk.nft`: nftables configuration for VK-only networks (**daily generated**)
 * `blacklist-vk-v4.nft`: nftables configuration for VK-only IPv4 networks (**daily generated**)
 * `blacklist-vk-v6.nft`: nftables configuration for VK-only IPv6 networks (**daily generated**)
 * `README.md`: Complete usage documentation for nftables integration
@@ -120,8 +118,10 @@ ip6tables -I INPUT -m set --match-set blacklist-v6 src -j DROP
 **For nftables:**
 ````bash
 # Download and load into nftables
-wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_nftables/blacklist.nft
-sudo nft -f blacklist.nft
+wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_nftables/blacklist-v4.nft
+wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_nftables/blacklist-v6.nft
+sudo nft -f blacklist-v4.nft
+sudo nft -f blacklist-v6.nft
 
 # Protect VM from incoming blacklist sources
 sudo nft add chain inet filter input '{ type filter hook input priority 0; policy accept; }'
@@ -129,8 +129,10 @@ sudo nft add rule inet filter input ip saddr @blacklist_v4 counter reject
 sudo nft add rule inet filter input ip6 saddr @blacklist_v6 counter reject
 
 # VK-only outbound blocking for VPN clients via NAT/FORWARD
-wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_nftables/blacklist-vk.nft
-sudo nft -f blacklist-vk.nft
+wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_nftables/blacklist-vk-v4.nft
+wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_nftables/blacklist-vk-v6.nft
+sudo nft -f blacklist-vk-v4.nft
+sudo nft -f blacklist-vk-v6.nft
 sudo nft add chain inet filter forward '{ type filter hook forward priority 0; policy accept; }'
 sudo nft add rule inet filter forward iifname "<VPN_IFACE>" ip daddr @blacklist_v4 counter reject
 sudo nft add rule inet filter forward iifname "<VPN_IFACE>" ip6 daddr @blacklist_v6 counter reject

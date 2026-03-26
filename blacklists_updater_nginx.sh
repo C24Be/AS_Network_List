@@ -11,8 +11,8 @@ nginx_output_file="${nginx_output_dir}/blacklist.conf"
 nginx_v4_output_file="${nginx_output_dir}/blacklist-v4.conf"
 nginx_v6_output_file="${nginx_output_dir}/blacklist-v6.conf"
 
-# Create nginx directory if it doesn't exist
-mkdir -p "${nginx_output_dir}"
+# Create required directories if they don't exist
+mkdir -p "${nginx_output_dir}" "blacklists"
 
 # Function to generate nginx config from input file
 generate_nginx_config() {

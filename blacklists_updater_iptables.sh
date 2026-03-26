@@ -20,15 +20,13 @@ blacklist_vk_v6_file="${SCRIPT_DIR}/blacklists/blacklist-vk-v6.txt"
 
 # Output directory and files
 iptables_output_dir="${SCRIPT_DIR}/blacklists_iptables"
-iptables_output_file="${iptables_output_dir}/blacklist.ipset"
 iptables_v4_output_file="${iptables_output_dir}/blacklist-v4.ipset"
 iptables_v6_output_file="${iptables_output_dir}/blacklist-v6.ipset"
-iptables_vk_output_file="${iptables_output_dir}/blacklist-vk.ipset"
 iptables_vk_v4_output_file="${iptables_output_dir}/blacklist-vk-v4.ipset"
 iptables_vk_v6_output_file="${iptables_output_dir}/blacklist-vk-v6.ipset"
 
-# Create iptables directory if it doesn't exist
-mkdir -p "${iptables_output_dir}"
+# Create required directories if they don't exist
+mkdir -p "${iptables_output_dir}" "${SCRIPT_DIR}/blacklists"
 
 # Build additional VK-only blacklist from network names in auto/*.txt files
 tmp_vk_file="$(mktemp "${SCRIPT_DIR}/blacklists/.blacklist-vk.XXXXXX")"
@@ -106,70 +104,10 @@ generate_ipset_config "${blacklist_v6_file}" "${iptables_v6_output_file}" "(IPv6
 generate_ipset_config "${blacklist_vk_v4_file}" "${iptables_vk_v4_output_file}" "(VK names, IPv4 only)" "blacklist-vk-v4" "inet"
 generate_ipset_config "${blacklist_vk_v6_file}" "${iptables_vk_v6_output_file}" "(VK names, IPv6 only)" "blacklist-vk-v6" "inet6"
 
-# For mixed file, we need to create two sets (IPv4 and IPv6) as ipset doesn't support mixed families
-cat > "${iptables_output_file}" << EOF
-# IPSet blacklist configuration (mixed IPv4/IPv6)
-# Auto-generated from $(basename ${blacklist_file})
-# Last updated: $(date -u +"%Y-%m-%d %H:%M:%S UTC")
-#
-# Usage:
-#   1. Load the ipset:
-#      ipset restore < $(basename ${iptables_output_file})
-#
-#   2. Use with iptables/ip6tables:
-#      iptables -I INPUT -m set --match-set blacklist-v4 src -m conntrack --ctstate NEW -j DROP
-#      iptables -I FORWARD -m set --match-set blacklist-v4 src -m conntrack --ctstate NEW -j DROP
-#      ip6tables -I INPUT -m set --match-set blacklist-v6 src -m conntrack --ctstate NEW -j DROP
-#      ip6tables -I FORWARD -m set --match-set blacklist-v6 src -m conntrack --ctstate NEW -j DROP
-#
-#   3. To flush/delete the sets:
-#      ipset flush blacklist-v4 && ipset destroy blacklist-v4
-#      ipset flush blacklist-v6 && ipset destroy blacklist-v6
-#
-
-EOF
-
-# Append both IPv4 and IPv6 sets to the mixed file
-tail -n +2 "${iptables_v4_output_file}" | grep -E "^(create|add)" >> "${iptables_output_file}"
-echo "" >> "${iptables_output_file}"
-tail -n +2 "${iptables_v6_output_file}" | grep -E "^(create|add)" >> "${iptables_output_file}"
-
-echo "✓ Generated (mixed IPv4/IPv6): ${iptables_output_file}"
-echo "  Total entries: $(wc -l < "${blacklist_file}" | tr -d ' ')"
-
-# Generate mixed VK-only ipset file (contains both v4 and v6 sets)
-cat > "${iptables_vk_output_file}" << EOF
-# IPSet blacklist configuration (VK names: VK Cloud / VKCOMPANY / VKONTAKTE)
-# Auto-generated from name-filtered auto/*.txt sources
-# Last updated: $(date -u +"%Y-%m-%d %H:%M:%S UTC")
-#
-# Usage:
-#   1. Load the ipset:
-#      ipset restore < $(basename "${iptables_vk_output_file}")
-#
-#   2. Use with iptables/ip6tables:
-#      iptables -I OUTPUT -m set --match-set blacklist-vk-v4 dst -j REJECT
-#      iptables -I FORWARD -m set --match-set blacklist-vk-v4 dst -j REJECT
-#      ip6tables -I OUTPUT -m set --match-set blacklist-vk-v6 dst -j REJECT
-#      ip6tables -I FORWARD -m set --match-set blacklist-vk-v6 dst -j REJECT
-#
-#   3. To flush/delete the sets:
-#      ipset flush blacklist-vk-v4 && ipset destroy blacklist-vk-v4
-#      ipset flush blacklist-vk-v6 && ipset destroy blacklist-vk-v6
-#
-
-EOF
-
-tail -n +2 "${iptables_vk_v4_output_file}" | grep -E "^(create|add)" >> "${iptables_vk_output_file}"
-echo "" >> "${iptables_vk_output_file}"
-tail -n +2 "${iptables_vk_v6_output_file}" | grep -E "^(create|add)" >> "${iptables_vk_output_file}"
-
-echo "✓ Generated (VK names, mixed IPv4/IPv6): ${iptables_vk_output_file}"
-echo "  Total entries: $(wc -l < "${blacklist_vk_file}" | tr -d ' ')"
-
 echo ""
 echo "VK outgoing block examples (iptables/ipset):"
-echo "  ipset restore < ${iptables_vk_output_file}"
+echo "  ipset restore < ${iptables_vk_v4_output_file}"
+echo "  ipset restore < ${iptables_vk_v6_output_file}"
 echo "  iptables -I OUTPUT -m set --match-set blacklist-vk-v4 dst -j REJECT"
 echo "  iptables -I FORWARD -m set --match-set blacklist-vk-v4 dst -j REJECT"
 echo "  ip6tables -I OUTPUT -m set --match-set blacklist-vk-v6 dst -j REJECT"
