@@ -57,15 +57,18 @@ This repository contains Python scripts that allow you to retrieve network lists
 
 **IPTables/IPSet Format** (`blacklists_iptables/` folder):
 
-- `blacklist.ipset`: IPSet configuration for mixed IPv4/IPv6 (**daily generated**)
 - `blacklist-v4.ipset`: IPSet configuration for IPv4 only (**daily generated**)
 - `blacklist-v6.ipset`: IPSet configuration for IPv6 only (**daily generated**)
+- `blacklist-vk-v4.ipset`: IPSet configuration for VK-only IPv4 networks (**daily generated**)
+- `blacklist-vk-v6.ipset`: IPSet configuration for VK-only IPv6 networks (**daily generated**)
 - `README.md`: Complete usage documentation for iptables integration
 
 **nftables Format** (`blacklists_nftables/` folder):
 
+* `blacklist.nft`: nftables set definitions for mixed IPv4/IPv6 (**daily generated**)
 * `blacklist-v4.nft`: nftables configuration for IPv4 only (**daily generated**)
 * `blacklist-v6.nft`: nftables configuration for IPv6 only (**daily generated**)
+* `blacklist-vk.nft`: nftables set definitions for VK-only mixed IPv4/IPv6 (**daily generated**)
 * `blacklist-vk-v4.nft`: nftables configuration for VK-only IPv4 networks (**daily generated**)
 * `blacklist-vk-v6.nft`: nftables configuration for VK-only IPv6 networks (**daily generated**)
 * `README.md`: Complete usage documentation for nftables integration
@@ -81,7 +84,7 @@ This repository contains Python scripts that allow you to retrieve network lists
 **Contributors are welcome!**
 
 - `lists/ru-gov-netnames.txt`: A list of network names associated with the Russian government.
-- `lists/ru-gov-asns.txt`: A list of AS numbers associated with the Russian government.
+- ASN candidates used for blacklists are derived automatically from `auto/all-ru-asn.txt`.
 
 ### Auto-Generated Data
 
@@ -109,18 +112,22 @@ wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_ngi
 **For IPTables/IPSet:**
 
 ```bash
-# Download and load into ipset
-wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_iptables/blacklist.ipset
-ipset restore < blacklist.ipset
-iptables -I INPUT -m set --match-set blacklist-v4 src -j DROP
-ip6tables -I INPUT -m set --match-set blacklist-v6 src -j DROP
+# Download and load IPv4/IPv6 sets into ipset
+wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_iptables/blacklist-v4.ipset
+wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_iptables/blacklist-v6.ipset
+ipset restore < blacklist-v4.ipset
+ipset restore < blacklist-v6.ipset
+iptables -I INPUT -m set --match-set blacklist-v4 src -m conntrack --ctstate NEW -j DROP
+ip6tables -I INPUT -m set --match-set blacklist-v6 src -m conntrack --ctstate NEW -j DROP
 ```
 
 **For nftables:**
 ````bash
-# Download and load into nftables
+# Download and load nftables sets
+wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_nftables/blacklist.nft
 wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_nftables/blacklist-v4.nft
 wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_nftables/blacklist-v6.nft
+sudo nft -f blacklist.nft
 sudo nft -f blacklist-v4.nft
 sudo nft -f blacklist-v6.nft
 
@@ -130,13 +137,15 @@ sudo nft add rule inet filter input ip saddr @blacklist_v4 counter reject
 sudo nft add rule inet filter input ip6 saddr @blacklist_v6 counter reject
 
 # VK-only outbound blocking for VPN clients via NAT/FORWARD
+wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_nftables/blacklist-vk.nft
 wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_nftables/blacklist-vk-v4.nft
 wget https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists_nftables/blacklist-vk-v6.nft
+sudo nft -f blacklist-vk.nft
 sudo nft -f blacklist-vk-v4.nft
 sudo nft -f blacklist-vk-v6.nft
 sudo nft add chain inet filter forward '{ type filter hook forward priority 0; policy accept; }'
-sudo nft add rule inet filter forward iifname "<VPN_IFACE>" ip daddr @blacklist_v4 counter reject
-sudo nft add rule inet filter forward iifname "<VPN_IFACE>" ip6 daddr @blacklist_v6 counter reject
+sudo nft add rule inet filter forward iifname "<VPN_IFACE>" ip daddr @blacklist_vk_v4 counter reject
+sudo nft add rule inet filter forward iifname "<VPN_IFACE>" ip6 daddr @blacklist_vk_v6 counter reject
 
 # View the loaded rules
 sudo nft list ruleset
@@ -201,16 +210,16 @@ See the README files in each folder for detailed usage instructions.
     ./network_list_from_as.py AS61280
     ```
 
-2. Run the script with a URL to a file in a GitHub repository as an argument:
+2. Run the script with a URL to a file with one ASN per line:
 
     ```bash
-    ./network_list_from_as.py https://github.com/C24Be/AS_Network_List/blob/main/lists/ru-gov-asns.txt
+    ./network_list_from_as.py https://example.com/asns.txt
     ```
 
     Or better use the raw file link:
 
     ```bash
-    ./network_list_from_as.py https://raw.githubusercontent.com/C24Be/AS_Network_List/main/lists/ru-gov-asns.txt
+    ./network_list_from_as.py https://example.com/asns-raw.txt
     ```
 
 3. To display a help message, use the `-h` or `--help` switch:

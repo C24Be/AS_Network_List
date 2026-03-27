@@ -1,6 +1,6 @@
 # nftables blacklists
 
-Short: ready-to-use nftables blacklist files (general and VK-only, separated by IPv4/IPv6).
+Short: ready-to-use nftables set files (general and VK-only, separated by IPv4/IPv6).
 
 ## Download links
 
@@ -15,7 +15,7 @@ Short: ready-to-use nftables blacklist files (general and VK-only, separated by 
 
 ### 1) Protect VM from incoming connections (general blacklists)
 
-Load either mixed or split general files:
+Load either mixed or split general set files:
 
 ```bash
 sudo nft -f blacklist.nft
@@ -34,7 +34,7 @@ sudo nft add rule inet filter input ip6 saddr @blacklist_v6 counter reject
 
 ### 2) Block VK outbound traffic for VPN clients via NAT/FORWARD
 
-Load either mixed or split VK files:
+Load either mixed or split VK set files:
 
 ```bash
 sudo nft -f blacklist-vk.nft

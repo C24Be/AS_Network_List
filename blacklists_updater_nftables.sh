@@ -11,7 +11,7 @@ OUTPUT_DIR="$SCRIPT_DIR/blacklists_nftables"
 AUTO_ALL_V4_FILE="$SCRIPT_DIR/auto/all-ru-ipv4.txt"
 AUTO_ALL_V6_FILE="$SCRIPT_DIR/auto/all-ru-ipv6.txt"
 AUTO_RIPE_V4_FILE="$SCRIPT_DIR/auto/ripe-ru-ipv4.txt"
-VK_NAME_PATTERN='VK[[:space:]-]*CLOUD|VKCOMPANY|VKONTAKTE'
+VK_NAME_PATTERN='vk[[:space:]-]*cloud|vkcompany|vkontakte'
 
 # Additional VK-only text blacklists
 VK_INPUT_FILE="$SCRIPT_DIR/blacklists/blacklist-vk.txt"
@@ -27,7 +27,7 @@ echo "Generating nftables blacklists..."
 TMP_VK_FILE="$(mktemp "$SCRIPT_DIR/blacklists/.blacklist-vk.XXXXXX")"
 for source_file in "$AUTO_ALL_V4_FILE" "$AUTO_ALL_V6_FILE" "$AUTO_RIPE_V4_FILE"; do
     [[ -f "$source_file" ]] || continue
-    awk -v pattern="$VK_NAME_PATTERN" 'BEGIN { IGNORECASE = 1 } $0 ~ pattern { print $1 }' "$source_file" >> "$TMP_VK_FILE"
+    awk -v pattern="$VK_NAME_PATTERN" 'tolower($0) ~ pattern { print $1 }' "$source_file" >> "$TMP_VK_FILE"
 done
 sort -u "$TMP_VK_FILE" > "$VK_INPUT_FILE"
 grep ':' "$VK_INPUT_FILE" | sort -u > "$VK_INPUT_V6_FILE" || true

@@ -12,6 +12,27 @@ import re
 from ipaddress import ip_address, ip_network, AddressValueError
 from pathlib import Path
 
+def iter_set_blocks(content):
+    current_name = None
+    current_lines = []
+    brace_depth = 0
+
+    for line in content.splitlines():
+        if current_name is None:
+            match = re.match(r"\s*set\s+([A-Za-z0-9_]+)\s*\{", line)
+            if match:
+                current_name = match.group(1)
+                current_lines = [line]
+                brace_depth = line.count("{") - line.count("}")
+            continue
+
+        current_lines.append(line)
+        brace_depth += line.count("{") - line.count("}")
+        if brace_depth == 0:
+            yield current_name, "\n".join(current_lines)
+            current_name = None
+            current_lines = []
+
 def parse_nft_config(config_path):
     """Extract IPv4 and IPv6 prefixes from nftables config."""
     p = Path(config_path)
@@ -21,37 +42,20 @@ def parse_nft_config(config_path):
     content = p.read_text(encoding="utf-8")
     v4_prefixes = []
     v6_prefixes = []
-    
-    # Parse IPv4 set (blacklist_v4)
-    v4_match = re.search(
-        r'set blacklist_v4\s*\{[^}]*elements\s*=\s*\{([^}]+)\}',
-        content,
-        re.DOTALL
-    )
-    if v4_match:
-        elements = v4_match.group(1)
-        # Extract all CIDR notations
-        for match in re.finditer(r'(\d+\.\d+\.\d+\.\d+(?:/\d+)?)', elements):
-            try:
-                v4_prefixes.append(ip_network(match.group(1), strict=False))
-            except Exception as e:
-                print(f"Warning: Could not parse IPv4 prefix '{match.group(1)}': {e}", file=sys.stderr)
-    
-    # Parse IPv6 set (blacklist_v6)
-    v6_match = re.search(
-        r'set blacklist_v6\s*\{[^}]*elements\s*=\s*\{([^}]+)\}',
-        content,
-        re.DOTALL
-    )
-    if v6_match:
-        elements = v6_match.group(1)
-        # Extract all IPv6 CIDR notations
-        for match in re.finditer(r'([0-9a-fA-F:]+(?:/\d+)?)', elements):
-            try:
-                v6_prefixes.append(ip_network(match.group(1), strict=False))
-            except Exception as e:
-                # Skip false matches from comments or other text
-                pass
+
+    for _, block in iter_set_blocks(content):
+        if "type ipv4_addr" in block:
+            for match in re.finditer(r"(\d+\.\d+\.\d+\.\d+(?:/\d+)?)", block):
+                try:
+                    v4_prefixes.append(ip_network(match.group(1), strict=False))
+                except Exception as e:
+                    print(f"Warning: Could not parse IPv4 prefix '{match.group(1)}': {e}", file=sys.stderr)
+        elif "type ipv6_addr" in block:
+            for match in re.finditer(r"([0-9a-fA-F:]+(?:/\d+)?)", block):
+                try:
+                    v6_prefixes.append(ip_network(match.group(1), strict=False))
+                except Exception:
+                    pass
     
     return v4_prefixes, v6_prefixes
 

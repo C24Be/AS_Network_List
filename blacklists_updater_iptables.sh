@@ -11,7 +11,7 @@ blacklist_v6_file="${SCRIPT_DIR}/blacklists/blacklist-v6.txt"
 auto_all_v4_file="${SCRIPT_DIR}/auto/all-ru-ipv4.txt"
 auto_all_v6_file="${SCRIPT_DIR}/auto/all-ru-ipv6.txt"
 auto_ripe_v4_file="${SCRIPT_DIR}/auto/ripe-ru-ipv4.txt"
-vk_name_pattern='VK[[:space:]-]*CLOUD|VKCOMPANY|VKONTAKTE'
+vk_name_pattern='vk[[:space:]-]*cloud|vkcompany|vkontakte'
 
 # Additional VK-only text blacklists
 blacklist_vk_file="${SCRIPT_DIR}/blacklists/blacklist-vk.txt"
@@ -32,7 +32,7 @@ mkdir -p "${iptables_output_dir}" "${SCRIPT_DIR}/blacklists"
 tmp_vk_file="$(mktemp "${SCRIPT_DIR}/blacklists/.blacklist-vk.XXXXXX")"
 for source_file in "${auto_all_v4_file}" "${auto_all_v6_file}" "${auto_ripe_v4_file}"; do
     [ -f "${source_file}" ] || continue
-    awk -v pattern="${vk_name_pattern}" 'BEGIN { IGNORECASE = 1 } $0 ~ pattern { print $1 }' "${source_file}" >> "${tmp_vk_file}"
+    awk -v pattern="${vk_name_pattern}" 'tolower($0) ~ pattern { print $1 }' "${source_file}" >> "${tmp_vk_file}"
 done
 sort -u "${tmp_vk_file}" > "${blacklist_vk_file}"
 grep ':' "${blacklist_vk_file}" | sort -u > "${blacklist_vk_v6_file}" || true
