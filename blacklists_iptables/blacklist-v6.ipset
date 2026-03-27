@@ -1,0 +1,40 @@
+# IPSet blacklist configuration (IPv6 only)
+# Auto-generated from blacklist-v6.txt
+# Last updated: 2026-03-27 06:59:36 UTC
+#
+# Usage:
+#   1. Load the ipset:
+#      ipset restore < blacklist-v6.ipset
+#
+#   2. Use with iptables/ip6tables:
+#      ip6tables -I INPUT -m set --match-set blacklist-v6 src -m conntrack --ctstate NEW -j DROP
+#      ip6tables -I FORWARD -m set --match-set blacklist-v6 src -m conntrack --ctstate NEW -j DROP
+#
+#   3. To flush/delete the set:
+#      ipset flush blacklist-v6
+#      ipset destroy blacklist-v6
+#
+
+create blacklist-v6 hash:net family inet6 hashsize 1024 maxelem 44
+add blacklist-v6 2a00:1148::/29
+add blacklist-v6 2a00:1148::/32
+add blacklist-v6 2a00:46e0:2::/48
+add blacklist-v6 2a00:46e0::/32
+add blacklist-v6 2a00:a300::/32
+add blacklist-v6 2a00:b4c0::/32
+add blacklist-v6 2a00:bdc0:8000::/34
+add blacklist-v6 2a00:bdc0::/33
+add blacklist-v6 2a00:bdc0:c000::/35
+add blacklist-v6 2a00:bdc0:e002::/48
+add blacklist-v6 2a00:bdc0:e003::/48
+add blacklist-v6 2a00:bdc0:e004::/48
+add blacklist-v6 2a00:bdc0:e005::/48
+add blacklist-v6 2a00:bdc0:e007::/48
+add blacklist-v6 2a00:bdc0:f000::/36
+add blacklist-v6 2a00:bdc1::/32
+add blacklist-v6 2a00:bdc2::/31
+add blacklist-v6 2a00:bdc4::/30
+add blacklist-v6 2a14:25c0::/32
+add blacklist-v6 2a14:25c5::/32
+add blacklist-v6 2a14:25c6::/32
+add blacklist-v6 2a14:25c7::/32
