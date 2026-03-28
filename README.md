@@ -284,16 +284,6 @@ This repository uses GitHub Actions to automatically update blacklists:
 
 All blacklists are automatically regenerated and committed to ensure you always have the latest data.
 
-## Blacklist Format Comparison
-
-| Format | Best For | Performance | Ease of Use | File Size |
-|--------|----------|-------------|-------------|-----------|
-| **Text** | Custom scripts, analysis | N/A | ⭐⭐⭐⭐⭐ | Small |
-| **Nginx** | Web servers, reverse proxies | Good | ⭐⭐⭐⭐ | Medium |
-| **IPSet** | Firewalls, large-scale blocking | Excellent | ⭐⭐⭐ | Medium |
-
-**Recommendation**: Use IPSet for firewall-level blocking (best performance), Nginx for web application layer, and text format for custom integrations.
-
 ## Additional information
 
 - [RIPE DB Inetnum](https://ftp.ripe.net/ripe/dbase/split/ripe.db.inetnum.gz)
