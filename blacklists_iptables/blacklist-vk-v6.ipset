@@ -1,6 +1,6 @@
 # IPSet blacklist configuration (VK names, IPv6 only)
 # Auto-generated from blacklist-vk-v6.txt
-# Last updated: 2026-04-04 06:53:12 UTC
+# Last updated: 2026-04-05 06:57:51 UTC
 #
 # Usage:
 #   1. Load the ipset:
