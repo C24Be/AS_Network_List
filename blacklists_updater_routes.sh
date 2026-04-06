@@ -3,38 +3,18 @@
 set -e
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-
-# Source files for name-based VK filtering
-AUTO_ALL_V4_FILE="${SCRIPT_DIR}/auto/all-ru-ipv4.txt"
-AUTO_ALL_V6_FILE="${SCRIPT_DIR}/auto/all-ru-ipv6.txt"
-AUTO_RIPE_V4_FILE="${SCRIPT_DIR}/auto/ripe-ru-ipv4.txt"
-VK_NAME_PATTERN='vk[[:space:]-]*cloud|vkcompany|vkontakte'
-
-# Additional VK-only text blacklists
-VK_INPUT_FILE="${SCRIPT_DIR}/blacklists/blacklist-vk.txt"
-VK_INPUT_V4_FILE="${SCRIPT_DIR}/blacklists/blacklist-vk-v4.txt"
-VK_INPUT_V6_FILE="${SCRIPT_DIR}/blacklists/blacklist-vk-v6.txt"
+. "${SCRIPT_DIR}/blacklists_updater_common.subr"
 
 # Output directory and files
 ROUTES_OUTPUT_DIR="${SCRIPT_DIR}/blacklists_route"
 ROUTES_V4_FILE="${ROUTES_OUTPUT_DIR}/blacklist-vk-v4.routes"
 ROUTES_V6_FILE="${ROUTES_OUTPUT_DIR}/blacklist-vk-v6.routes"
 
-mkdir -p "${ROUTES_OUTPUT_DIR}" "${SCRIPT_DIR}/blacklists"
+mkdir -p "${ROUTES_OUTPUT_DIR}" "${BLACKLISTS_DIR}"
 
 echo "Generating VK route blacklists..."
 
-# Build additional VK-only blacklist from network names in auto/*.txt files
-TMP_VK_FILE="$(mktemp "${SCRIPT_DIR}/blacklists/.blacklist-vk.XXXXXX")"
-for source_file in "${AUTO_ALL_V4_FILE}" "${AUTO_ALL_V6_FILE}" "${AUTO_RIPE_V4_FILE}"; do
-	[ -f "${source_file}" ] || continue
-	awk -v pattern="${VK_NAME_PATTERN}" 'tolower($0) ~ pattern { print $1 }' "${source_file}" >> "${TMP_VK_FILE}"
-done
-
-sort -u "${TMP_VK_FILE}" > "${VK_INPUT_FILE}"
-grep ':' "${VK_INPUT_FILE}" | sort -u > "${VK_INPUT_V6_FILE}" || true
-grep -v ':' "${VK_INPUT_FILE}" | sort -u > "${VK_INPUT_V4_FILE}" || true
-rm -f "${TMP_VK_FILE}"
+build_vk_name_blacklists
 
 # Generate IPv4 routes file (route VK prefixes to loopback via 127.0.0.1)
 cat > "${ROUTES_V4_FILE}" << EOF
@@ -51,7 +31,7 @@ EOF
 while IFS= read -r network; do
 	[ -n "${network}" ] || continue
 	printf 'ip route replace %s via 127.0.0.1 dev lo onlink\n' "${network}" >> "${ROUTES_V4_FILE}"
-done < "${VK_INPUT_V4_FILE}"
+done < "${BLACKLIST_VK_V4_FILE}"
 
 # Generate IPv6 routes file (route VK prefixes to loopback via ::1)
 cat > "${ROUTES_V6_FILE}" << EOF
@@ -68,10 +48,10 @@ EOF
 while IFS= read -r network; do
 	[ -n "${network}" ] || continue
 	printf 'ip -6 route replace %s via ::1 dev lo\n' "${network}" >> "${ROUTES_V6_FILE}"
-done < "${VK_INPUT_V6_FILE}"
+done < "${BLACKLIST_VK_V6_FILE}"
 
-echo "✓ Generated: ${ROUTES_V4_FILE} (entries: $(wc -l < "${VK_INPUT_V4_FILE}" | tr -d ' '))"
-echo "✓ Generated: ${ROUTES_V6_FILE} (entries: $(wc -l < "${VK_INPUT_V6_FILE}" | tr -d ' '))"
+echo "✓ Generated: ${ROUTES_V4_FILE} (entries: $(wc -l < "${BLACKLIST_VK_V4_FILE}" | tr -d ' '))"
+echo "✓ Generated: ${ROUTES_V6_FILE} (entries: $(wc -l < "${BLACKLIST_VK_V6_FILE}" | tr -d ' '))"
 echo ""
 echo "Examples:"
 echo "  sudo sh ${ROUTES_V4_FILE}"

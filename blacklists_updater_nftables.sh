@@ -4,35 +4,16 @@
 set -e
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-INPUT_FILE="$SCRIPT_DIR/blacklists/blacklist.txt"
+. "${SCRIPT_DIR}/blacklists_updater_common.subr"
+INPUT_FILE="${BLACKLIST_FILE}"
 OUTPUT_DIR="$SCRIPT_DIR/blacklists_nftables"
 
-# Source files for name-based VK filtering
-AUTO_ALL_V4_FILE="$SCRIPT_DIR/auto/all-ru-ipv4.txt"
-AUTO_ALL_V6_FILE="$SCRIPT_DIR/auto/all-ru-ipv6.txt"
-AUTO_RIPE_V4_FILE="$SCRIPT_DIR/auto/ripe-ru-ipv4.txt"
-VK_NAME_PATTERN='vk[[:space:]-]*cloud|vkcompany|vkontakte'
-
-# Additional VK-only text blacklists
-VK_INPUT_FILE="$SCRIPT_DIR/blacklists/blacklist-vk.txt"
-VK_INPUT_V4_FILE="$SCRIPT_DIR/blacklists/blacklist-vk-v4.txt"
-VK_INPUT_V6_FILE="$SCRIPT_DIR/blacklists/blacklist-vk-v6.txt"
-
 # Create required directories if they don't exist
-mkdir -p "$OUTPUT_DIR" "$SCRIPT_DIR/blacklists"
+mkdir -p "$OUTPUT_DIR" "${BLACKLISTS_DIR}"
 
 echo "Generating nftables blacklists..."
 
-# Build additional VK-only blacklist from network names in auto/*.txt files
-TMP_VK_FILE="$(mktemp "$SCRIPT_DIR/blacklists/.blacklist-vk.XXXXXX")"
-for source_file in "$AUTO_ALL_V4_FILE" "$AUTO_ALL_V6_FILE" "$AUTO_RIPE_V4_FILE"; do
-    [[ -f "$source_file" ]] || continue
-    awk -v pattern="$VK_NAME_PATTERN" 'tolower($0) ~ pattern { print $1 }' "$source_file" >> "$TMP_VK_FILE"
-done
-sort -u "$TMP_VK_FILE" > "$VK_INPUT_FILE"
-grep ':' "$VK_INPUT_FILE" | sort -u > "$VK_INPUT_V6_FILE" || true
-grep -v ':' "$VK_INPUT_FILE" | sort -u > "$VK_INPUT_V4_FILE" || true
-rm -f "$TMP_VK_FILE"
+build_vk_name_blacklists
 
 # Generate mixed IPv4/IPv6 blacklist (recommended single-file load)
 python3 "$SCRIPT_DIR/generate_nft_blacklist.py" \
@@ -53,15 +34,15 @@ python3 "$SCRIPT_DIR/generate_nft_blacklist.py" \
     "$TMP_V6_FILE" \
     "$OUTPUT_DIR/blacklist-v6.nft"
 
-# Generate VK-only blacklists (network names: VK Cloud / VKCOMPANY / VKONTAKTE)
+# Generate VK-only blacklists from the narrowed MAX/VK service name filter
 python3 "$SCRIPT_DIR/generate_nft_blacklist.py" \
-    "$VK_INPUT_FILE" \
+    "${BLACKLIST_VK_FILE}" \
     "$OUTPUT_DIR/blacklist-vk.nft"
 python3 "$SCRIPT_DIR/generate_nft_blacklist.py" \
-    "$VK_INPUT_V4_FILE" \
+    "${BLACKLIST_VK_V4_FILE}" \
     "$OUTPUT_DIR/blacklist-vk-v4.nft"
 python3 "$SCRIPT_DIR/generate_nft_blacklist.py" \
-    "$VK_INPUT_V6_FILE" \
+    "${BLACKLIST_VK_V6_FILE}" \
     "$OUTPUT_DIR/blacklist-vk-v6.nft"
 
 # Clean up temp files

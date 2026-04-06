@@ -1,0 +1,56 @@
+#!/bin/sh
+
+# Shared config for blacklists_updater_*.sh scripts.
+# Scripts are expected to define SCRIPT_DIR before sourcing this file.
+
+: "${SCRIPT_DIR:?SCRIPT_DIR must be set before sourcing blacklists_updater_common.subr}"
+
+BLACKLISTS_DIR="${SCRIPT_DIR}/blacklists"
+AUTO_DIR="${SCRIPT_DIR}/auto"
+
+BLACKLIST_FILE="${BLACKLISTS_DIR}/blacklist.txt"
+BLACKLIST_WITH_COMMENTS_FILE="${BLACKLISTS_DIR}/blacklist_with_comments.txt"
+BLACKLIST_V4_FILE="${BLACKLISTS_DIR}/blacklist-v4.txt"
+BLACKLIST_V6_FILE="${BLACKLISTS_DIR}/blacklist-v6.txt"
+BLACKLIST_VK_FILE="${BLACKLISTS_DIR}/blacklist-vk.txt"
+BLACKLIST_VK_V4_FILE="${BLACKLISTS_DIR}/blacklist-vk-v4.txt"
+BLACKLIST_VK_V6_FILE="${BLACKLISTS_DIR}/blacklist-vk-v6.txt"
+
+AUTO_ALL_ASN_FILE="${AUTO_DIR}/all-ru-asn.txt"
+AUTO_ALL_V4_FILE="${AUTO_DIR}/all-ru-ipv4.txt"
+AUTO_ALL_V6_FILE="${AUTO_DIR}/all-ru-ipv6.txt"
+AUTO_RIPE_V4_FILE="${AUTO_DIR}/ripe-ru-ipv4.txt"
+AUTO_BLACK_ASS_FILE="${AUTO_DIR}/black_ass.txt"
+
+NETWORK_LIST_FROM_AS="${SCRIPT_DIR}/network_list_from_as.py"
+NETWORK_LIST_FROM_NETNAME="${SCRIPT_DIR}/network_list_from_netname.py"
+RU_GOV_NETNAMES_FILE="${SCRIPT_DIR}/lists/ru-gov-netnames.txt"
+
+BLACK_NAMES='uvd|umvd|fgup|grchc|roskomnad|federalnaya sluzhba|ufsb|zonatelecom|llc vk|vkontakte|ODNOKLASSNIKI|VKCOMPANY|mail.ru|mail-ru|mail_ru|VK-AS|M100'
+WHITE_NAMES='ruvds'
+#VK_NAME_PATTERN='ru-netbridge-(19911202|20061117)|ru-odnoklassniki-(20100830|20120307|20120626)|odnoklassniki-front'
+#VK_NAME_PATTERN='ru-netbridge-(19911202|20061117)|odnoklassniki'
+VK_NAME_PATTERN='ru-netbridge-(19911202|20061117)|odnoklassniki|vkcompany|vkontakte|llc vk'
+VK_NAME_EXCLUDE_PATTERN='VK Cloud Solutions VK Hosting'
+
+ensure_blacklist_base_dirs() {
+    mkdir -p "${BLACKLISTS_DIR}" "${AUTO_DIR}"
+}
+
+build_vk_name_blacklists() {
+    ensure_blacklist_base_dirs
+
+    tmp_vk_file="$(mktemp "${BLACKLISTS_DIR}/.blacklist-vk.XXXXXX")" || return 1
+
+    for source_file in "${AUTO_ALL_V4_FILE}" "${AUTO_ALL_V6_FILE}" "${AUTO_RIPE_V4_FILE}"; do
+        [ -f "${source_file}" ] || continue
+        awk -v pattern="${VK_NAME_PATTERN}" 'tolower($0) ~ pattern { print }' "${source_file}" \
+            | grep -viF "${VK_NAME_EXCLUDE_PATTERN}" \
+            | awk '{ print $1 }' >> "${tmp_vk_file}"
+    done
+
+    sort -u "${tmp_vk_file}" > "${BLACKLIST_VK_FILE}"
+    grep ':' "${BLACKLIST_VK_FILE}" | sort -u > "${BLACKLIST_VK_V6_FILE}" || true
+    grep -v ':' "${BLACKLIST_VK_FILE}" | sort -u > "${BLACKLIST_VK_V4_FILE}" || true
+    rm -f "${tmp_vk_file}"
+}
