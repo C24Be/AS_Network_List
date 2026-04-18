@@ -1,6 +1,6 @@
 # IPSet blacklist configuration (IPv4 only)
 # Auto-generated from blacklist-v4.txt
-# Last updated: 2026-04-17 07:24:04 UTC
+# Last updated: 2026-04-18 06:59:58 UTC
 #
 # Usage:
 #   1. Load the ipset:
