@@ -1,6 +1,6 @@
 # IPSet blacklist configuration (VK names, IPv4 only)
 # Auto-generated from blacklist-vk-v4.txt
-# Last updated: 2026-05-01 08:05:11 UTC
+# Last updated: 2026-05-02 07:23:13 UTC
 #
 # Usage:
 #   1. Load the ipset:
@@ -15,7 +15,7 @@
 #      ipset destroy blacklist-vk-v4
 #
 
-create blacklist-vk-v4 hash:net family inet hashsize 1024 maxelem 406
+create blacklist-vk-v4 hash:net family inet hashsize 1024 maxelem 404
 add blacklist-vk-v4 109.120.180.0/22
 add blacklist-vk-v4 109.120.188.0/22
 add blacklist-vk-v4 128.140.168.0/21
@@ -175,7 +175,6 @@ add blacklist-vk-v4 90.156.148.0/22
 add blacklist-vk-v4 90.156.212.0/22
 add blacklist-vk-v4 90.156.216.0/22
 add blacklist-vk-v4 90.156.232.0/21
-add blacklist-vk-v4 90.156.248.0/22
 add blacklist-vk-v4 91.231.132.0/22
 add blacklist-vk-v4 91.237.76.0/24
 add blacklist-vk-v4 93.153.255.84/30
