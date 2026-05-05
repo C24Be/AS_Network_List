@@ -1,6 +1,6 @@
 # IPSet blacklist configuration (IPv6 only)
 # Auto-generated from blacklist-v6.txt
-# Last updated: 2026-05-04 08:22:07 UTC
+# Last updated: 2026-05-05 07:59:31 UTC
 #
 # Usage:
 #   1. Load the ipset:
