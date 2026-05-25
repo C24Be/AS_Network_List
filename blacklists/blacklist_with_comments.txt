@@ -1,46 +1,46 @@
 # Networks announced by AS28709
 # AS-Name (ORG): VKONTAKTE-REGIONAL-CDN (LLC VK)
-178.237.24.0/24
-178.237.21.0/24
-2a00:bdc0:e004::/48
 185.32.251.0/24
 185.32.249.0/24
-178.237.28.0/24
-2a00:bdc0:e007::/48
-95.142.203.0/24
-2a00:bdc0:e005::/48
-2a00:bdc0:e003::/48
-95.142.202.0/24
 128.140.170.0/24
-2a00:bdc0:e002::/48
 178.237.22.0/24
+2a00:bdc0:e007::/48
+2a00:bdc0:e003::/48
 95.142.201.0/24
+2a00:bdc0:e004::/48
+2a00:bdc0:e005::/48
+178.237.21.0/24
+95.142.202.0/24
+95.142.203.0/24
+2a00:bdc0:e002::/48
+178.237.28.0/24
+178.237.24.0/24
 # Networks announced by AS28709
 # AS-Name (ORG): VKONTAKTE-REGIONAL-CDN (LLC VK)
-178.237.24.0/24
-178.237.21.0/24
-2a00:bdc0:e004::/48
 185.32.251.0/24
 185.32.249.0/24
-178.237.28.0/24
-2a00:bdc0:e007::/48
-95.142.203.0/24
-2a00:bdc0:e005::/48
-2a00:bdc0:e003::/48
-95.142.202.0/24
 128.140.170.0/24
-2a00:bdc0:e002::/48
 178.237.22.0/24
+2a00:bdc0:e007::/48
+2a00:bdc0:e003::/48
 95.142.201.0/24
+2a00:bdc0:e004::/48
+2a00:bdc0:e005::/48
+178.237.21.0/24
+95.142.202.0/24
+95.142.203.0/24
+2a00:bdc0:e002::/48
+178.237.28.0/24
+178.237.24.0/24
 # Networks announced by AS34500
 # AS-Name (ORG): CTSPI (FGUP CTSPI MGA Russia)
-80.73.16.0/21
 80.73.16.0/24
+80.73.16.0/21
 80.73.16.0/20
 # Networks announced by AS34500
 # AS-Name (ORG): CTSPI (FGUP CTSPI MGA Russia)
-80.73.16.0/21
 80.73.16.0/24
+80.73.16.0/21
 80.73.16.0/20
 # Network name: Roskomnadzor-net
 46.228.0.232/29
@@ -551,7 +551,7 @@
 85.90.127.16/29
 # NET-Name: 85.90.98.144/30 NCPLG-NET MNT-TELECOM-TZ () [FGUP GosNII GA (NC PLGVS GosNII GA)]
 85.90.98.144/30
-# NET-Name: 89.109.250.28/30 CTC_CLIENTS MNT-CTC () [FGKU UVO GU MVD Rossii po Moskovskoy oblasti SPAM issues: balovo@mail.ru]
+# NET-Name: 89.109.250.28/30 CTC_CLIENTS ROSTELECOM-MNT () [FGKU UVO GU MVD Rossii po Moskovskoy oblasti SPAM issues: balovo@mail.ru]
 89.109.250.28/30
 # NET-Name: 85.90.125.96/29 NICITEP-NET MNT-TELECOM-TZ () [FGUP NIC ITEP]
 85.90.125.96/29
@@ -641,7 +641,7 @@
 85.21.204.208/28
 # NET-Name: 195.170.218.88/29 INF-CLNT-GRPZ INFOTEL-MNT () [CLIENT FGUP Gosudarstvennyj Ryazanskij Pribornyj Zavod]
 195.170.218.88/29
-# NET-Name: 89.109.250.132/30 CTC_CLIENTS MNT-CTC () [FGKU UVO GU MVD Rossii po Moskovskoy oblasti SPAM issues:  balovo@mail.ru]
+# NET-Name: 89.109.250.132/30 CTC_CLIENTS ROSTELECOM-MNT () [FGKU UVO GU MVD Rossii po Moskovskoy oblasti SPAM issues: balovo@mail.ru]
 89.109.250.132/30
 # NET-Name: 89.179.155.192/28 CORBINA-FGUPVNIITF RU-CORBINA-MNT () [FGUP VNIIT FA Moscow, Varshavskoe shosse, 46]
 89.179.155.192/28
@@ -673,7 +673,7 @@
 89.175.165.208/28
 # NET-Name: 195.218.190.0/23 RU-SOVINTEL-MSK-MAILRU-OFFICE-NET SOVINTEL-MNT () [121005 Moscow Russia Leningradsky pr-t, 47 NetBridge Services, CRC-1011761 http://corp.mail.ru/]
 195.218.190.0/23
-# NET-Name: 89.109.250.140/30 CTC_CLIENTS MNT-CTC () [FGKU UVO GU MVD Rossii po Moskovskoy oblasti SPAM issues: ovo_5012@mail.ru]
+# NET-Name: 89.109.250.140/30 CTC_CLIENTS ROSTELECOM-MNT () [FGKU UVO GU MVD Rossii po Moskovskoy oblasti SPAM issues: ovo_5012@mail.ru]
 89.109.250.140/30
 # NET-Name: 81.1.195.0/28 FFGUPKO-NET ZSTTK-MNT () [FFGUP "Oxrana" MVD RF po Kemerovo area Kemerovo, Russia]
 81.1.195.0/28
@@ -1195,7 +1195,7 @@
 185.7.234.188/30
 # NET-Name: 92.39.111.84/30 FGUP-GNIVC-FNS-VLG UNICO-MNT () [FGUP GNIVC FNS, Volgograd (Unico Network)]
 92.39.111.84/30
-# NET-Name: 89.109.250.88/29 CTC_CLIENTS MNT-CTC () [FGUP MNIIRIP]
+# NET-Name: 89.109.250.88/29 CTC_CLIENTS ROSTELECOM-MNT () [FGUP MNIIRIP]
 89.109.250.88/29
 # NET-Name: 62.33.34.16/28 GUVD-NET TRANSTELECOM-MNT () [(RS000417) GUVD po KDR, Krasnodar, Russia]
 62.33.34.16/28
@@ -1215,9 +1215,9 @@
 109.124.66.160/28
 # NET-Name: 84.204.7.144/29 FGUP-GosNIIPP-LAN PSTAR-MNT () [FGUP-GosNIIPP-LAN St.Petersburg JSC PeterStar]
 84.204.7.144/29
-# NET-Name: 89.109.250.96/30 CTC_CLIENTS MNT-CTC () [FGKU UVO GU MVD Rossii po Moskovskoy oblasti SPAM issues: balovo@mail.ru]
+# NET-Name: 89.109.250.96/30 CTC_CLIENTS ROSTELECOM-MNT () [FGKU UVO GU MVD Rossii po Moskovskoy oblasti SPAM issues: balovo@mail.ru]
 89.109.250.96/30
-# NET-Name: 89.109.250.80/30 CTC_CLIENTS MNT-CTC () [FGKU UVO GU MVD Rossii po Moskovskoy oblasti SPAM issues: ovo-chehov@mail.ru]
+# NET-Name: 89.109.250.80/30 CTC_CLIENTS ROSTELECOM-MNT () [FGKU UVO GU MVD Rossii po Moskovskoy oblasti SPAM issues: ovo-chehov@mail.ru]
 89.109.250.80/30
 # NET-Name: 185.32.248.0/22 RU-VKONTAKTE-20130814 RIPE-NCC-HM-MNT VKCOMPANY-MNT (ORG-VL47-RIPE) []
 185.32.248.0/22
