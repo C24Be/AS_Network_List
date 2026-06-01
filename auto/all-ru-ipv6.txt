@@ -313,7 +313,9 @@
 2001:7f8:ee::/48 -no-description-
 2001:7f8:f1::/48 -no-description-
 2001:7f8:100::/48 -no-description-
+2001:7f8:12c::/48 -no-description-
 2001:7f8:13d::/48 -no-description-
+2001:7f8:179::/48 -no-description-
 2001:a58::/32 -no-description-
 2001:b08::/32 -no-description-
 2001:1b00::/32 -no-description-
@@ -925,6 +927,7 @@
 2a03:cf80::/29 -no-description-
 2a03:d000::/29 -no-description-
 2a03:d0c0::/32 -no-description-
+2a03:d580::/29 -no-description-
 2a03:d700::/32 -no-description-
 2a03:db00::/29 -no-description-
 2a03:dcc0::/32 -no-description-
@@ -1070,6 +1073,7 @@
 2a05:7400::/29 -no-description-
 2a05:7e80::/29 -no-description-
 2a05:81c0::/29 -no-description-
+2a05:8600::/29 -no-description-
 2a05:8980::/29 -no-description-
 2a05:8ac0::/29 -no-description-
 2a05:8e80::/29 -no-description-
@@ -1222,6 +1226,7 @@
 2a07:f540::/29 -no-description-
 2a07:f5c0::/29 -no-description-
 2a07:f8c0::/29 -no-description-
+2a07:fb80::/29 -no-description-
 2a07:fc80::/29 -no-description-
 2a07:fcc0::/29 -no-description-
 2a09:180::/32 -no-description-
