@@ -539,7 +539,7 @@
 37.49.192.0/19 RU-TTKS-20120126 (Limited Liability Company "TTK-Svyaz")
 37.58.32.0/21 RU-TRANSTELECOM-20120116 (Joint Stock Company TransTeleCom)
 37.60.16.0/21 RU-METROSET-20120117 (Metroset Ltd.)
-37.60.176.0/21 RU-YAR-TT-20120118 (Limited Liability Company YarTranzitTelecom)
+37.60.176.0/21 RU-BUSINESSSVIAZ-20120118 (Scientific-Production Enterprise Business Sviaz Holding LLC)
 37.60.208.0/20 RU-TIS-DIALOG-20120119 (TIS Dialog LLC)
 37.61.176.0/21 RU-TRANSTELECOM-20120120 (Joint Stock Company TransTeleCom)
 37.72.64.0/19 RU-MTU-20120126 (MTS PJSC)
@@ -596,7 +596,7 @@
 37.143.96.0/20 RU-METROSET-20120302 (Metroset Ltd.)
 37.144.0.0/14 RU-CORBINA-20120302 (PJSC "Vimpelcom")
 37.153.0.0/18 RU-SETIWEBA-20120313 (SETI WEBA LTD)
-37.153.64.0/21 SERVERS_Part3_VM (No org name found)
+37.153.64.0/21 RU-SETIWEBA-20120313 (SETI WEBA LTD)
 37.157.16.0/21 RU-RTK-20120314 (PJSC Rostelecom)
 37.157.24.0/21 RU-SOUTHTEL-20120314 (UG-TELECOM Ltd.)
 37.157.232.0/21 RU-SMARTKOM-20110316 (Joint Stock Company Smartkom)
@@ -926,7 +926,7 @@
 45.154.1.0/24 RU-BEGET-20190916 (Beget LLC)
 45.154.2.0/23 RU-BEGET-20190916 (Beget LLC)
 45.154.184.0/22 RU-LLCSMARTAPE-20190917 (LLC Smart Ape)
-45.155.6.0/24 RU-IGKH-20190917 (Inna Grigorevna Khoruzhaya)
+45.155.6.0/24 RU-K-TELEKOM-20190917 (K-telekom LLC)
 45.155.60.0/24 RU-TILDAPUBLISHING-20190918 (Tilda Publishing JSC)
 45.155.92.0/22 RU-CENTRINVEST-20190918 (Public Joint-stock company commercial Bank "Center-invest")
 45.155.104.0/22 RU-NLR-20190918 (Federal State Institution "National Library of Russia (NLR)")
@@ -935,7 +935,7 @@
 45.155.236.0/22 RU-NUMEDY-20190919 (Numedy LLC)
 45.156.0.0/22 RU-ERLYVIDEO-20190919 (Erlivideo LLC)
 45.156.20.0/24 RU-BEGET-20190919 (Beget LLC)
-45.156.21.0/24 RocketCloud (No org name found)
+45.156.21.0/24 RU-CLOUD4Y-20190919 (LLC Flex)
 45.156.22.0/23 RU-CLOUD4Y-20190919 (LLC Flex)
 45.156.24.0/22 RU-CLOUD4Y-20190919 (LLC Flex)
 45.156.212.0/22 RU-PIN-20190924 (Petersburg Internet Network ltd.)
@@ -977,7 +977,7 @@
 46.21.252.0/22 RU-START2-20101115 (Start2 LLC)
 46.22.48.0/20 RU-RCN-20101123 (RECONN LLC)
 46.22.240.0/20 RU-SIGNAL-20101201 (Signal Service LLC)
-46.23.144.0/20 RU-RAID-20101208 (JSC "ER-Telecom Holding")
+46.23.144.0/20 RU-RAID-20101208 (JSC "ER-Telecom Holding" Barnaul Branch)
 46.23.176.0/20 RU-MTU-20101209 (MTS PJSC)
 46.28.16.0/21 RU-INTERFAX-20100716 (Joint Stock Company Interfax)
 46.28.88.0/21 RU-MATRIXTELECOM-20100721 (JSC Avantel)
@@ -1356,7 +1356,6 @@
 62.122.212.0/24 SUB-ALLOCATED (Yedinaya Setevaya Kompaniya Ltd)
 62.122.213.0/24 RS-Media-net (RS-Media LLC)
 62.122.214.0/23 RS-Media-net (RS-Media LLC)
-62.122.216.0/22 RU-SELECTEL-20180618 (JSC Selectel)
 62.122.240.0/21 RU-MTU (MTS PJSC)
 62.133.60.0/22 RU-FIRSTDC-20181002 (Perviy TSOD LLC)
 62.133.160.0/19 RU-BASHTEL-20030303 (PJSC "Bashinformsvyaz")
@@ -1400,6 +1399,7 @@
 62.183.0.0/17 RU-RTK-20021209 (PJSC Rostelecom)
 62.192.32.0/19 RU-HYPERNET-20071224 (Limited Liability Company HyperNet)
 62.192.224.0/19 RU-RTK-20030424 (PJSC Rostelecom)
+62.204.57.0/24 RU-CLUSTER-20211011 (Cluster LLC)
 62.205.160.0/19 RU-CORBINA-20020328 (PJSC "Vimpelcom")
 62.213.0.0/19 RU-RTK-20000718 (PJSC Rostelecom)
 62.213.32.0/19 RU-SPUTNIKOVAYASVYAZ-20030515 (Sputnikovaya svyaz LLC)
@@ -1513,6 +1513,7 @@
 77.87.208.0/21 FILANCO-NET-77-208-215 (Registrator LLC)
 77.88.0.0/18 RU-YANDEX-20070315 (YANDEX LLC)
 77.91.192.0/21 RU-VERMONT-IT-20070523 (Vermont-IT Limited Liability Company)
+77.91.208.0/24 RU-IMOLNIYA-20260611 (Molniya LLC)
 77.91.224.0/21 RU-FLYGROUP-20070523 (OOO Fly Engeneering Group)
 77.93.96.0/19 RU-MTU-20080222 (MTS PJSC)
 77.94.32.0/20 RU-SATGATE-20070524 (SatGate LLC)
@@ -1528,7 +1529,7 @@
 77.95.170.0/24 RU-IT-PARK-20250117 (IT PARK JSC)
 77.95.200.0/21 RU-NTEL-20070614 (JSC SC NTEL)
 77.105.145.0/24 RU-KMISAEV-20061206 (Isaev Kamil Magomedovich)
-77.105.146.0/23 RU-KMISAEV-20061206 (Isaev Kamil Magomedovich)
+77.105.146.0/23 RU-OOOMIR-20061206 (OOO "MIR")
 77.105.148.0/22 RU-IT-GRAD-20061206 (ITGLOBAL.COM RUS Ltd)
 77.105.152.0/22 RU-IT-GRAD-20061206 (ITGLOBAL.COM RUS Ltd)
 77.105.156.0/22 RU-O2CLOUD-20061206 (O2 Cloud LLC)
@@ -1674,7 +1675,7 @@
 78.108.192.0/20 RU-SUNTEL-20070626 (OOO Suntel)
 78.109.32.0/20 RU-MTU-20070704 (MTS PJSC)
 78.109.112.0/20 RU-MEGAFON-20070709 (PJSC MegaFon)
-78.109.128.0/20 RU-RAID-20070711 (JSC "ER-Telecom Holding")
+78.109.128.0/20 RU-RAID-20070711 (JSC "ER-Telecom Holding" Barnaul Branch)
 78.110.48.0/20 RU-CITYTELECOM1-20070806 (Citytelecom LLC)
 78.110.144.0/20 RU-IRTELCOM-20070814 (Limited Liability Company Irtelcom)
 78.110.240.0/20 RU-SOVINTEL-20070822 (PJSC "Vimpelcom")
@@ -1904,8 +1905,8 @@
 80.71.240.0/20 RU-RIALCOM-20050118 (Rial Com JSC)
 80.72.28.0/22 RU-UMNYESETI-20050124 (Grand Ltd)
 80.72.112.0/20 RU-SOTCOM-20050124 (JSC Telephone Company "Sotcom")
-80.72.208.0/22 TRUENETWORK-80-72-208 (Truenetwork LLC)
-80.72.212.0/23 TRUENETWORK-80-72-212 (Truenetwork LLC)
+80.72.208.0/22 TOMGATE-NET (TomGate LLC)
+80.72.212.0/23 TOMGATE-NET (TomGate LLC)
 80.72.214.0/24 RU-RTK-20050131 (PJSC Rostelecom)
 80.72.215.0/24 RU-TOMGATE-20050131 (TomGate LLC)
 80.72.216.0/21 RU-KDV-20050131 (LLC KDV Grupp)
@@ -1919,7 +1920,7 @@
 80.75.128.0/20 RU-MTT-20010620 (JSC Multiregional Transittelecom)
 80.75.223.0/24 RU-LYTKIN-NO-1-20240109 (Nikolai Lytkin)
 80.76.40.0/22 RU-VPSVILLE1-20181004 (LLC Vpsville)
-80.76.96.0/20 RU-TEXNOKOM-20100921 (LLC "Telekonika")
+80.76.96.0/20 RU-JOINT-STOCK1-20100921 (JOINT-STOCK COMPANY "TELEPORT TELECOM")
 80.76.128.0/20 RU-TAHION-20050224 (LLC SIP "NIS")
 80.76.176.0/20 RU-ORN-20050301 ("Resurs-Svyaz" Ltd)
 80.76.224.0/20 RU-FTELECOM-20051221 (First Telecom Ltd)
@@ -2268,7 +2269,6 @@
 82.146.32.0/19 RU-WEBDC-20030618 (JSC Datacenter)
 82.147.64.0/19 RU-SIBTEL-20040226 (Siberian Telecommunications Ltd.)
 82.147.96.0/19 RU-RAID-20030704 (JSC "ER-Telecom Holding")
-82.148.0.0/21 RU-SELECTEL-20030710 (JSC Selectel)
 82.148.8.0/22 RU-IICLLC-20030710 (IIC LLC)
 82.148.12.0/22 RU-SELECTEL-20030710 (JSC Selectel)
 82.148.16.0/20 RU-SELECTEL-20030710 (JSC Selectel)
@@ -2321,7 +2321,6 @@
 83.69.192.0/19 -no-description- (No org name found)
 83.69.224.0/19 -no-description- (No org name found)
 83.97.0.0/21 -no-description- (No org name found)
-83.97.73.0/24 -no-description- (No org name found)
 83.97.104.0/21 -no-description- (No org name found)
 83.102.128.0/17 -no-description- (No org name found)
 83.136.24.0/21 -no-description- (No org name found)
@@ -2510,6 +2509,9 @@
 84.253.64.0/18 -no-description- (No org name found)
 84.254.192.0/18 -no-description- (No org name found)
 85.8.155.0/24 -no-description- (No org name found)
+85.8.194.0/24 -no-description- (No org name found)
+85.8.201.0/24 -no-description- (No org name found)
+85.8.215.0/24 -no-description- (No org name found)
 85.12.192.0/18 -no-description- (No org name found)
 85.15.64.0/18 -no-description- (No org name found)
 85.15.128.0/18 -no-description- (No org name found)
@@ -2686,7 +2688,8 @@
 87.236.40.0/21 -no-description- (No org name found)
 87.236.80.0/22 -no-description- (No org name found)
 87.236.84.0/23 -no-description- (No org name found)
-87.236.86.0/23 -no-description- (No org name found)
+87.236.86.0/24 -no-description- (No org name found)
+87.236.87.0/24 -no-description- (No org name found)
 87.236.184.0/21 -no-description- (No org name found)
 87.237.40.0/21 -no-description- (No org name found)
 87.237.112.0/21 -no-description- (No org name found)
@@ -3105,7 +3108,6 @@
 89.232.168.0/22 -no-description- (No org name found)
 89.232.176.0/22 -no-description- (No org name found)
 89.232.180.0/22 -no-description- (No org name found)
-89.232.184.0/22 -no-description- (No org name found)
 89.232.188.0/22 -no-description- (No org name found)
 89.232.192.0/18 -no-description- (No org name found)
 89.235.128.0/18 -no-description- (No org name found)
@@ -3216,6 +3218,7 @@
 91.107.119.0/24 -no-description- (No org name found)
 91.107.120.0/21 -no-description- (No org name found)
 91.108.168.0/21 -no-description- (No org name found)
+91.108.187.0/24 -no-description- (No org name found)
 91.109.64.0/19 -no-description- (No org name found)
 91.109.128.0/19 -no-description- (No org name found)
 91.109.200.0/21 -no-description- (No org name found)
@@ -4612,13 +4615,12 @@
 91.240.90.0/23 -no-description- (No org name found)
 91.240.102.0/23 -no-description- (No org name found)
 91.240.110.0/23 -no-description- (No org name found)
-91.240.112.0/23 -no-description- (No org name found)
-91.240.114.0/23 -no-description- (No org name found)
-91.240.119.0/24 -no-description- (No org name found)
+91.240.112.0/23 -no-description-
+91.240.114.0/23 -no-description-
+91.240.119.0/24 -no-description-
 91.240.120.0/22 -no-description-
 91.240.124.0/22 -no-description-
 91.240.144.0/24 -no-description-
-91.240.155.0/24 -no-description-
 91.240.162.0/24 -no-description-
 91.240.168.0/22 -no-description-
 91.240.172.0/24 -no-description-
@@ -5063,7 +5065,10 @@
 93.190.16.0/21 -no-description-
 93.190.104.0/21 -no-description-
 93.190.176.0/21 -no-description-
-93.190.200.0/21 -no-description-
+93.190.200.0/23 -no-description-
+93.190.202.0/24 -no-description-
+93.190.203.0/24 -no-description-
+93.190.204.0/22 -no-description-
 93.190.224.0/21 -no-description-
 93.191.8.0/21 -no-description-
 93.191.16.0/21 -no-description-
@@ -5172,7 +5177,20 @@
 94.139.252.0/22 -no-description-
 94.140.128.0/19 -no-description-
 94.140.192.0/19 -no-description-
-94.140.224.0/19 -no-description-
+94.140.224.0/21 -no-description-
+94.140.232.0/22 -no-description-
+94.140.236.0/23 -no-description-
+94.140.238.0/24 -no-description-
+94.140.239.0/24 -no-description-
+94.140.240.0/23 -no-description-
+94.140.242.0/23 -no-description-
+94.140.244.0/23 -no-description-
+94.140.246.0/24 -no-description-
+94.140.247.0/24 -no-description-
+94.140.248.0/22 -no-description-
+94.140.252.0/23 -no-description-
+94.140.254.0/24 -no-description-
+94.140.255.0/24 -no-description-
 94.141.32.0/19 -no-description-
 94.141.104.0/22 -no-description-
 94.141.108.0/22 -no-description-
@@ -5197,7 +5215,6 @@
 94.154.64.0/20 -no-description-
 94.154.80.0/21 -no-description-
 94.154.88.0/21 -no-description-
-94.154.128.0/22 -no-description-
 94.158.0.0/20 -no-description-
 94.158.16.0/22 -no-description-
 94.158.22.0/23 -no-description-
@@ -5241,7 +5258,8 @@
 94.228.240.0/20 -no-description-
 94.229.16.0/22 -no-description-
 94.229.20.0/22 -no-description-
-94.229.24.0/21 -no-description-
+94.229.24.0/22 -no-description-
+94.229.28.0/22 -no-description-
 94.229.224.0/20 -no-description-
 94.229.240.0/20 -no-description-
 94.230.0.0/20 -no-description-
@@ -5838,6 +5856,8 @@
 130.255.128.0/20 -no-description-
 131.117.216.0/21 -no-description-
 131.222.134.0/23 -no-description-
+131.222.202.0/24 -no-description-
+132.243.176.0/21 -no-description-
 134.0.96.0/20 -no-description-
 134.0.112.0/21 -no-description-
 134.19.128.0/21 -no-description-
@@ -5865,7 +5885,9 @@
 138.16.136.0/24 -no-description-
 138.16.137.0/24 -no-description-
 138.16.140.0/22 -no-description-
-138.16.144.0/20 -no-description-
+138.16.144.0/21 -no-description-
+138.16.152.0/22 -no-description-
+138.16.156.0/22 -no-description-
 138.16.160.0/19 -no-description-
 138.16.192.0/20 -no-description-
 138.16.208.0/20 -no-description-
@@ -5904,6 +5926,13 @@
 141.105.32.0/20 -no-description-
 141.105.48.0/21 -no-description-
 141.105.64.0/21 -no-description-
+141.133.128.0/24 -no-description-
+141.133.129.0/24 -no-description-
+141.133.130.0/24 -no-description-
+141.133.131.0/24 -no-description-
+141.133.136.0/22 -no-description-
+141.133.176.0/20 -no-description-
+141.133.192.0/19 -no-description-
 141.133.224.0/19 -no-description-
 141.136.112.0/21 -no-description-
 144.206.0.0/16 -no-description-
@@ -5987,6 +6016,11 @@
 152.89.196.0/24 -no-description-
 152.89.216.0/22 -no-description-
 153.51.32.0/19 -no-description-
+153.51.64.0/19 -no-description-
+153.51.96.0/19 -no-description-
+153.51.160.0/19 -no-description-
+153.76.160.0/20 -no-description-
+153.76.178.0/23 -no-description-
 153.80.172.0/22 -no-description-
 153.80.176.0/23 -no-description-
 153.80.178.0/23 -no-description-
@@ -6072,9 +6106,11 @@
 160.20.156.0/22 -no-description-
 161.104.16.0/22 -no-description-
 161.104.20.0/22 -no-description-
-161.104.24.0/21 -no-description-
+161.104.24.0/22 -no-description-
+161.104.28.0/22 -no-description-
 161.104.32.0/19 -no-description-
-161.104.88.0/21 -no-description-
+161.104.92.0/23 -no-description-
+161.104.94.0/23 -no-description-
 161.104.96.0/22 -no-description-
 161.104.100.0/22 -no-description-
 161.104.104.0/21 -no-description-
@@ -6087,6 +6123,11 @@
 164.215.64.0/21 -no-description-
 164.215.72.0/21 -no-description-
 164.215.80.0/20 -no-description-
+168.113.232.0/21 -no-description-
+168.113.240.0/22 -no-description-
+168.113.244.0/22 -no-description-
+168.113.248.0/22 -no-description-
+168.113.252.0/22 -no-description-
 168.222.128.0/21 -no-description-
 168.222.136.0/22 -no-description-
 168.222.140.0/22 -no-description-
@@ -6166,7 +6207,19 @@
 176.96.184.0/21 -no-description-
 176.97.32.0/21 -no-description-
 176.97.40.0/21 -no-description-
-176.97.96.0/20 -no-description-
+176.97.96.0/24 -no-description-
+176.97.97.0/24 -no-description-
+176.97.98.0/24 -no-description-
+176.97.99.0/24 -no-description-
+176.97.100.0/24 -no-description-
+176.97.101.0/24 -no-description-
+176.97.102.0/23 -no-description-
+176.97.104.0/24 -no-description-
+176.97.105.0/24 -no-description-
+176.97.106.0/24 -no-description-
+176.97.107.0/24 -no-description-
+176.97.108.0/23 -no-description-
+176.97.110.0/23 -no-description-
 176.97.128.0/21 -no-description-
 176.97.160.0/19 -no-description-
 176.97.193.0/24 -no-description-
@@ -6442,7 +6495,13 @@
 178.18.217.0/24 -no-description-
 178.18.218.0/23 -no-description-
 178.18.220.0/22 -no-description-
-178.19.240.0/20 -no-description-
+178.19.240.0/21 -no-description-
+178.19.248.0/23 -no-description-
+178.19.250.0/24 -no-description-
+178.19.251.0/24 -no-description-
+178.19.252.0/23 -no-description-
+178.19.254.0/24 -no-description-
+178.19.255.0/24 -no-description-
 178.20.40.0/22 -no-description-
 178.20.44.0/22 -no-description-
 178.20.128.0/21 -no-description-
@@ -6704,6 +6763,7 @@
 178.255.236.0/22 -no-description-
 178.255.248.0/21 -no-description-
 185.0.12.0/22 -no-description-
+185.0.44.0/22 -no-description-
 185.1.0.0/24 -no-description-
 185.1.13.0/24 -no-description-
 185.1.19.0/24 -no-description-
@@ -6716,7 +6776,6 @@
 185.1.81.0/24 -no-description-
 185.1.117.0/24 -no-description-
 185.1.118.0/24 -no-description-
-185.1.152.0/23 -no-description-
 185.1.162.0/24 -no-description-
 185.1.165.0/24 -no-description-
 185.2.72.0/22 -no-description-
@@ -7012,6 +7071,7 @@
 185.35.160.0/22 -no-description-
 185.35.168.0/22 -no-description-
 185.35.192.0/22 -no-description-
+185.36.23.0/24 -no-description-
 185.36.60.0/22 -no-description-
 185.36.100.0/24 -no-description-
 185.36.104.0/22 -no-description-
@@ -7271,7 +7331,6 @@
 185.75.221.0/24 -no-description-
 185.75.248.0/23 -no-description-
 185.75.250.0/23 -no-description-
-185.76.12.0/22 -no-description-
 185.76.80.0/22 -no-description-
 185.76.108.0/22 -no-description-
 185.76.144.0/22 -no-description-
@@ -7357,7 +7416,9 @@
 185.89.99.0/24 -no-description-
 185.89.104.0/22 -no-description-
 185.89.108.0/22 -no-description-
-185.90.100.0/22 -no-description-
+185.90.100.0/24 -no-description-
+185.90.101.0/24 -no-description-
+185.90.102.0/23 -no-description-
 185.90.144.0/22 -no-description-
 185.90.224.0/22 -no-description-
 185.91.52.0/22 -no-description-
@@ -7664,6 +7725,7 @@
 185.149.64.0/22 -no-description-
 185.149.96.0/22 -no-description-
 185.149.124.0/22 -no-description-
+185.149.144.0/22 -no-description-
 185.149.160.0/22 -no-description-
 185.149.194.0/24 -no-description-
 185.149.196.0/22 -no-description-
@@ -7742,6 +7804,7 @@
 185.165.200.0/22 -no-description-
 185.165.216.0/22 -no-description-
 185.165.224.0/22 -no-description-
+185.166.2.0/24 -no-description-
 185.166.16.0/22 -no-description-
 185.166.72.0/22 -no-description-
 185.166.196.0/22 -no-description-
@@ -8047,7 +8110,6 @@
 185.227.36.0/22 -no-description-
 185.227.84.0/22 -no-description-
 185.228.48.0/22 -no-description-
-185.228.88.0/22 -no-description-
 185.228.112.0/22 -no-description-
 185.228.132.0/22 -no-description-
 185.228.232.0/22 -no-description-
@@ -8625,7 +8687,6 @@
 193.36.35.0/24 -no-description-
 193.36.41.0/24 -no-description-
 193.36.56.0/22 -no-description-
-193.36.91.0/24 -no-description-
 193.37.36.0/24 -no-description-
 193.37.68.0/22 -no-description-
 193.37.134.0/24 -no-description-
@@ -8764,6 +8825,7 @@
 193.105.156.0/24 -no-description-
 193.105.169.0/24 -no-description-
 193.105.175.0/24 -no-description-
+193.105.194.0/24 -no-description-
 193.105.198.0/24 -no-description-
 193.105.213.0/24 -no-description-
 193.105.222.0/24 -no-description-
@@ -8881,7 +8943,6 @@
 193.148.44.0/24 -no-description-
 193.148.52.0/22 -no-description-
 193.148.62.0/24 -no-description-
-193.149.16.0/22 -no-description-
 193.150.0.0/23 -no-description-
 193.150.20.0/24 -no-description-
 193.150.32.0/23 -no-description-
@@ -8977,7 +9038,6 @@
 193.169.176.0/23 -no-description-
 193.169.178.0/23 -no-description-
 193.169.202.0/23 -no-description-
-193.169.210.0/23 -no-description-
 193.169.213.0/24 -no-description-
 193.169.220.0/23 -no-description-
 193.169.222.0/23 -no-description-
@@ -10110,7 +10170,8 @@
 195.88.52.0/23 -no-description-
 195.88.58.0/23 -no-description-
 195.88.62.0/23 -no-description-
-195.88.68.0/23 -no-description-
+195.88.68.0/24 -no-description-
+195.88.69.0/24 -no-description-
 195.88.92.0/23 -no-description-
 195.88.102.0/23 -no-description-
 195.88.112.0/23 -no-description-
@@ -10210,6 +10271,7 @@
 195.140.144.0/22 -no-description-
 195.140.180.0/22 -no-description-
 195.140.204.0/22 -no-description-
+195.140.216.0/24 -no-description-
 195.144.0.0/24 -no-description-
 195.144.1.0/24 -no-description-
 195.144.6.0/24 -no-description-
@@ -10452,7 +10514,8 @@
 195.242.142.0/23 -no-description-
 195.242.144.0/23 -no-description-
 195.242.147.0/24 -no-description-
-195.242.216.0/23 -no-description-
+195.242.216.0/24 -no-description-
+195.242.217.0/24 -no-description-
 195.244.4.0/23 -no-description-
 195.244.24.0/23 -no-description-
 195.245.76.0/23 -no-description-
@@ -10980,13 +11043,11 @@
 213.232.199.0/24 -no-description-
 213.232.207.0/24 -no-description-
 213.232.208.0/21 -no-description-
-213.232.225.0/24 -no-description-
 213.232.227.0/24 -no-description-
 213.232.228.0/23 -no-description-
 213.232.233.0/24 -no-description-
 213.232.235.0/24 -no-description-
 213.232.240.0/24 -no-description-
-213.232.245.0/24 -no-description-
 213.232.249.0/24 -no-description-
 213.232.250.0/24 -no-description-
 213.232.251.0/24 -no-description-
@@ -11071,6 +11132,7 @@
 217.20.144.0/20 -no-description-
 217.21.96.0/20 -no-description-
 217.21.208.0/20 -no-description-
+217.22.9.0/24 -no-description-
 217.22.160.0/24 -no-description-
 217.22.161.0/24 -no-description-
 217.22.162.0/24 -no-description-
@@ -11181,7 +11243,6 @@
 217.78.176.0/20 -no-description-
 217.78.224.0/22 -no-description-
 217.78.228.0/24 -no-description-
-217.78.229.0/24 -no-description-
 217.78.230.0/24 -no-description-
 217.78.231.0/24 -no-description-
 217.78.232.0/24 -no-description-
