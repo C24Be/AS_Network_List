@@ -274493,15 +274493,6 @@
     },
     {
         "inetnum": [
-            "193.34.12.0/22"
-        ],
-        "descr": "",
-        "netname": "OSS-NET RIPE-NCC-END-MNT OSSRU-MNT",
-        "country": "RU",
-        "org": "ORG-OL49-RIPE"
-    },
-    {
-        "inetnum": [
             "195.72.227.80/30"
         ],
         "descr": "Subnet for customer 2427",
@@ -287215,28 +287206,6 @@
         ],
         "descr": "IP address space for Rostov-on-Don Regional Data exchange Network",
         "netname": "ROSTOV-GSPD-NET KUBANGSM-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "77.50.0.0/19",
-            "77.50.32.0/20",
-            "77.50.48.0/21",
-            "77.50.56.0/22",
-            "77.50.60.0/23",
-            "77.50.62.0/24",
-            "77.50.63.0/25",
-            "77.50.63.128/26",
-            "77.50.63.192/27",
-            "77.50.63.224/28",
-            "77.50.63.240/29",
-            "77.50.63.248/30",
-            "77.50.63.252/31",
-            "77.50.63.254/32"
-        ],
-        "descr": "starlink block 1",
-        "netname": "STARLINK-NET MNT-STRL",
         "country": "RU",
         "org": ""
     },
@@ -384847,15 +384816,6 @@
     {
         "inetnum": [
             "90.157.87.0/24"
-        ],
-        "descr": "Teleset-Servis Ltd. Russian Federation, Ekaterinburg",
-        "netname": "KABINET ROSTELECOM-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "90.157.89.0/24"
         ],
         "descr": "Teleset-Servis Ltd. Russian Federation, Ekaterinburg",
         "netname": "KABINET ROSTELECOM-MNT",
@@ -485753,15 +485713,6 @@
     },
     {
         "inetnum": [
-            "195.88.92.0/23"
-        ],
-        "descr": "",
-        "netname": "Get-Net-Network RIPE-NCC-END-MNT GET-NET-MNT mnt-ru-get-net-1",
-        "country": "RU",
-        "org": "ORG-GL362-RIPE"
-    },
-    {
-        "inetnum": [
             "213.85.105.128/25"
         ],
         "descr": "Russian Central Telegraph, Moscow",
@@ -516961,15 +516912,6 @@
     },
     {
         "inetnum": [
-            "94.31.157.0/24"
-        ],
-        "descr": "Teleset-Servis Ltd. Russian Federation, Ekaterinburg",
-        "netname": "KABINET ROSTELECOM-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
             "94.31.158.0/24"
         ],
         "descr": "LLC KOMTEHCENTR FTTB Customers Yekaterinburg, Russian Federation",
@@ -517105,34 +517047,7 @@
     },
     {
         "inetnum": [
-            "94.31.181.0/24"
-        ],
-        "descr": "Teleset-Servis Ltd. Russian Federation, Ekaterinburg",
-        "netname": "KABINET ROSTELECOM-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
             "94.31.182.0/24"
-        ],
-        "descr": "Teleset-Servis Ltd. Russian Federation, Ekaterinburg",
-        "netname": "KABINET ROSTELECOM-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "94.31.183.0/24"
-        ],
-        "descr": "Teleset-Servis Ltd. Russian Federation, Ekaterinburg",
-        "netname": "KABINET ROSTELECOM-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "94.31.186.0/24"
         ],
         "descr": "Teleset-Servis Ltd. Russian Federation, Ekaterinburg",
         "netname": "KABINET ROSTELECOM-MNT",
@@ -517160,24 +517075,6 @@
     {
         "inetnum": [
             "94.31.189.0/24"
-        ],
-        "descr": "Teleset-Servis Ltd. Russian Federation, Ekaterinburg",
-        "netname": "KABINET ROSTELECOM-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "94.31.190.0/24"
-        ],
-        "descr": "Teleset-Servis Ltd. Russian Federation, Ekaterinburg",
-        "netname": "KABINET ROSTELECOM-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "94.31.191.0/24"
         ],
         "descr": "Teleset-Servis Ltd. Russian Federation, Ekaterinburg",
         "netname": "KABINET ROSTELECOM-MNT",
@@ -517357,15 +517254,6 @@
     },
     {
         "inetnum": [
-            "94.31.223.0/24"
-        ],
-        "descr": "Teleset-Servis Ltd. Russian Federation, Ekaterinburg",
-        "netname": "KABINET ROSTELECOM-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
             "94.31.227.0/24"
         ],
         "descr": "Teleset-Servis Ltd. Russian Federation, Ekaterinburg",
@@ -517448,24 +517336,6 @@
     {
         "inetnum": [
             "94.31.239.0/24"
-        ],
-        "descr": "Teleset-Servis Ltd. Russian Federation, Ekaterinburg",
-        "netname": "KABINET ROSTELECOM-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "94.31.242.0/24"
-        ],
-        "descr": "Teleset-Servis Ltd. Russian Federation, Ekaterinburg",
-        "netname": "KABINET ROSTELECOM-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "94.31.244.0/24"
         ],
         "descr": "Teleset-Servis Ltd. Russian Federation, Ekaterinburg",
         "netname": "KABINET ROSTELECOM-MNT",
@@ -522238,15 +522108,6 @@
         "netname": "SMOLSTAT AS8342-MNT",
         "country": "RU",
         "org": ""
-    },
-    {
-        "inetnum": [
-            "194.190.13.0/24"
-        ],
-        "descr": "LLC Aspect Pugacheva ul. 2A,  of 29 197375 St.Peterburg Russia",
-        "netname": "ASPECT ROSNIIROS-MNT",
-        "country": "RU",
-        "org": "ORG-JA121-RIPE"
     },
     {
         "inetnum": [
@@ -542294,15 +542155,6 @@
         "netname": "BELRTS ROSNIIROS-MNT",
         "country": "RU",
         "org": "ORG-RT8-RIPE"
-    },
-    {
-        "inetnum": [
-            "194.190.32.0/22"
-        ],
-        "descr": "Malomoskovskaya 22, 1 129626 Moscow Russia",
-        "netname": "Summit-Systems ROSNIIROS-MNT",
-        "country": "RU",
-        "org": "ORG-SSC9-RIPE"
     },
     {
         "inetnum": [
@@ -661364,8 +661216,8 @@
         "inetnum": [
             "195.239.203.80/28"
         ],
-        "descr": "119017 Russia Moscow, ZC- 15980621 Bolshaya Ordynka, 44, KL- 6018825 KON.TROL LLC, http://www.",
-        "netname": "RU-BeeLine-MSK-KoN-TRoL-NET SOVINTEL-MNT",
+        "descr": "119017 Russia Moscow, ZC-22478634 B2B Client EST, 44, KL-7052905",
+        "netname": "RU-BeeLine-MSK-B2B-EST-NET SOVINTEL-MNT",
         "country": "RU",
         "org": ""
     },
@@ -722520,7 +722372,7 @@
     },
     {
         "inetnum": [
-            "46.149.128.0/20"
+            "46.174.104.0/21"
         ],
         "descr": "",
         "netname": "BRAVOTELECOM-NET RIPE-NCC-END-MNT BACKSTAGE-MNT",
@@ -1016557,8 +1016409,8 @@
         "inetnum": [
             "176.58.59.0/24"
         ],
-        "descr": "MnogoByte CDN Global",
-        "netname": "MNOGOBYTE-CDN-WORLD MNT-MBNET",
+        "descr": "MnogoByte",
+        "netname": "MNOGOBYTE MNT-MBNET",
         "country": "RU",
         "org": ""
     },
@@ -1017601,6 +1017453,15 @@
         "netname": "RU-COMDI-20140117 RIPE-NCC-HM-MNT MMN33-MNT",
         "country": "RU",
         "org": "ORG-CL178-RIPE"
+    },
+    {
+        "inetnum": [
+            "213.180.213.28/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-213-180-213-28 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
     },
     {
         "inetnum": [
@@ -1096828,15 +1096689,6 @@
     },
     {
         "inetnum": [
-            "217.22.167.0/24"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-20001002 RIPE-NCC-HM-MNT RU-MATRIXTELECOM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
-    },
-    {
-        "inetnum": [
             "93.153.255.80/30"
         ],
         "descr": "A-Deko St.Petersburg JSC PeterStar",
@@ -1098478,24 +1098330,6 @@
         ],
         "descr": "TVService LLC, Cable operator",
         "netname": "TVSERVICE AS44539-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "195.206.252.0/24"
-        ],
-        "descr": "FOXCLOUD LLP",
-        "netname": "FOXCLOUD-SERVICES FOXCLOUD-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "195.206.253.0/24"
-        ],
-        "descr": "FOXCLOUD LLP",
-        "netname": "FOXCLOUD-SERVICES FOXCLOUD-MNT",
         "country": "RU",
         "org": ""
     },
@@ -1123341,7 +1123175,7 @@
         "descr": "",
         "netname": "Intellekt ru-ip84-1-mnt",
         "country": "RU",
-        "org": "ORG-IL933-RIPE"
+        "org": ""
     },
     {
         "inetnum": [
@@ -1137995,10 +1137829,10 @@
         "inetnum": [
             "185.177.112.0/24"
         ],
-        "descr": "VPSVILLE-RU VPS HOSTING",
-        "netname": "VPSVILLE-RU ru-llccloud-1-mnt VPSVILLE-mnt",
+        "descr": "159.ru",
+        "netname": "IP-Platonov ru-llccloud-1-mnt VPSVILLE-mnt",
         "country": "RU",
-        "org": ""
+        "org": "ORG-IPAA2-RIPE"
     },
     {
         "inetnum": [
@@ -1142078,108 +1141912,6 @@
         "netname": "Lesopererabotka NTLR",
         "country": "RU",
         "org": ""
-    },
-    {
-        "inetnum": [
-            "212.24.34.0/24"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-990216 RIPE-NCC-HM-MNT RU-MATRIXTELECOM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
-    },
-    {
-        "inetnum": [
-            "212.24.42.0/24"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-990216 RIPE-NCC-HM-MNT RU-MATRIXTELECOM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
-    },
-    {
-        "inetnum": [
-            "212.24.45.0/24",
-            "212.24.46.0/24"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-990216 RIPE-NCC-HM-MNT RU-MATRIXTELECOM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
-    },
-    {
-        "inetnum": [
-            "212.24.49.0/24"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-990216 RIPE-NCC-HM-MNT RU-MATRIXTELECOM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
-    },
-    {
-        "inetnum": [
-            "212.24.51.0/24",
-            "212.24.52.0/23",
-            "212.24.54.0/24"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-990216 RIPE-NCC-HM-MNT RU-MATRIXTELECOM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
-    },
-    {
-        "inetnum": [
-            "212.24.59.0/24"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-990216 RIPE-NCC-HM-MNT RU-MATRIXTELECOM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
-    },
-    {
-        "inetnum": [
-            "212.158.173.0/24"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-990714 RIPE-NCC-HM-MNT RU-MATRIXTELECOM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
-    },
-    {
-        "inetnum": [
-            "217.23.130.0/23"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-20001005 RIPE-NCC-HM-MNT RU-MATRIXTELECOM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
-    },
-    {
-        "inetnum": [
-            "217.23.142.0/24"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-20001005 RIPE-NCC-HM-MNT RU-MATRIXTELECOM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
-    },
-    {
-        "inetnum": [
-            "217.23.146.0/24"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-20001005 RIPE-NCC-HM-MNT RU-MATRIXTELECOM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
-    },
-    {
-        "inetnum": [
-            "217.23.151.0/24"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-20001005 RIPE-NCC-HM-MNT RU-MATRIXTELECOM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
     },
     {
         "inetnum": [
@@ -1158080,16 +1157812,6 @@
     },
     {
         "inetnum": [
-            "217.22.163.0/24",
-            "217.22.164.0/24"
-        ],
-        "descr": "Avantel Nefteugansk branch",
-        "netname": "RU-MATRIXTELECOM-20001002 RIPE-NCC-HM-MNT RU-MATRIXTELECOM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
-    },
-    {
-        "inetnum": [
             "193.240.229.112/30"
         ],
         "descr": "THE-BOSTON-CONSULTING-GROUP",
@@ -1164568,15 +1164290,6 @@
         "netname": "FIFA-STADIA-ISP-STA-PRESENTATION-LAN PSTAR-MNT",
         "country": "RU",
         "org": ""
-    },
-    {
-        "inetnum": [
-            "217.22.160.0/23"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-20001002 RIPE-NCC-HM-MNT RU-MATRIXTELECOM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
     },
     {
         "inetnum": [
@@ -1179259,15 +1178972,6 @@
     },
     {
         "inetnum": [
-            "217.22.166.0/24"
-        ],
-        "descr": "",
-        "netname": "RU-RAID-20001002 RIPE-NCC-HM-MNT RAID-MNT",
-        "country": "RU",
-        "org": "ORG-RA21-RIPE"
-    },
-    {
-        "inetnum": [
             "94.125.184.0/24"
         ],
         "descr": "",
@@ -1188292,15 +1187996,6 @@
         "netname": "RU-KAMALINK-NET TRANSITTELECOM-MNT",
         "country": "RU",
         "org": "ORG-TCKL3-RIPE"
-    },
-    {
-        "inetnum": [
-            "213.134.192.0/19"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-20000426 RIPE-NCC-HM-MNT RU-MATRIXTELECOM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
     },
     {
         "inetnum": [
@@ -1291000,6 +1290695,15 @@
     },
     {
         "inetnum": [
+            "37.9.93.128/27"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-37-9-93-128 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
             "77.88.4.80/30"
         ],
         "descr": "Yandex enterprise network",
@@ -1296858,7 +1296562,7 @@
         "descr": "",
         "netname": "PINVDS MNT-PINSUPPORT MNT-PIN",
         "country": "RU",
-        "org": "ORG-PO71-RIPE"
+        "org": "ORG-PINl1-RIPE"
     },
     {
         "inetnum": [
@@ -1297065,7 +1296769,7 @@
         "descr": "",
         "netname": "Intellekt protonserv-mnt",
         "country": "RU",
-        "org": "ORG-IL933-RIPE"
+        "org": ""
     },
     {
         "inetnum": [
@@ -1320037,9 +1319741,9 @@
             "91.197.192.0/22"
         ],
         "descr": "Avantel, St.Petersburg",
-        "netname": "Avantel-SPB mnt-ru-avantelspb-1 RU-MATRIXTELECOM-MNT RIPE-NCC-END-MNT",
+        "netname": "Avantel-SPB mnt-ru-avantelspb-1 RU-MATRIXTELECOM-MNT RIPE-NCC-END-MNT RAID-MNT",
         "country": "RU",
-        "org": "ORG-Mt4-RIPE"
+        "org": "ORG-RA21-RIPE"
     },
     {
         "inetnum": [
@@ -1365009,7 +1364713,7 @@
             "193.233.196.0/24"
         ],
         "descr": "OJSC DIN-TELECOM",
-        "netname": "DATA69-NET-196 FREENET-MNT",
+        "netname": "DATA69-NET-196 CITYTELECOM-RIPE-MNT",
         "country": "RU",
         "org": "ORG-CD160-RIPE"
     },
@@ -1387337,9 +1387041,9 @@
             "45.135.214.0/24"
         ],
         "descr": "",
-        "netname": "Barnius CMFT-MNT CMFT-MNT",
+        "netname": "PK CMFT-MNT",
         "country": "RU",
-        "org": "ORG-BA1250-RIPE"
+        "org": "ORG-LA2122-RIPE"
     },
     {
         "inetnum": [
@@ -1405835,33 +1405539,6 @@
     },
     {
         "inetnum": [
-            "195.234.140.0/24"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-20191125 RU-MATRIXTELECOM-MNT RIPE-NCC-HM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
-    },
-    {
-        "inetnum": [
-            "195.234.143.0/24"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-20191125 RU-MATRIXTELECOM-MNT RIPE-NCC-HM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
-    },
-    {
-        "inetnum": [
-            "195.234.130.0/24"
-        ],
-        "descr": "",
-        "netname": "RU-MATRIXTELECOM-20191125 RU-MATRIXTELECOM-MNT RIPE-NCC-HM-MNT",
-        "country": "RU",
-        "org": "ORG-Mt4-RIPE"
-    },
-    {
-        "inetnum": [
             "212.100.149.192/30"
         ],
         "descr": "Network for COMCOR-B2B-Clients",
@@ -1417992,15 +1417669,6 @@
     },
     {
         "inetnum": [
-            "176.101.184.0/22"
-        ],
-        "descr": "",
-        "netname": "HOMEOPTIC-NET RIPE-NCC-END-MNT HOMEOPTIC-MNT",
-        "country": "RU",
-        "org": "ORG-HL171-RIPE"
-    },
-    {
-        "inetnum": [
             "176.101.188.0/22"
         ],
         "descr": "",
@@ -1420467,9 +1420135,9 @@
             "46.226.228.0/24"
         ],
         "descr": "",
-        "netname": "CIT-RMS-NET5 MNT-CIT",
+        "netname": "CIT-VH-NET1 MNT-CIT",
         "country": "RU",
-        "org": ""
+        "org": "ORG-SUEo2-RIPE"
     },
     {
         "inetnum": [
@@ -1420485,9 +1420153,9 @@
             "46.226.231.0/24"
         ],
         "descr": "",
-        "netname": "CIT-RMS-NET8 MNT-CIT",
+        "netname": "CIT-VH-NET2 MNT-CIT",
         "country": "RU",
-        "org": "ORG-DK123-RIPE"
+        "org": "ORG-SUEo2-RIPE"
     },
     {
         "inetnum": [
@@ -1423667,15 +1423335,6 @@
         "netname": "RU-IGKH-20201029 mnt-ru-igkh-1 RIPE-NCC-HM-MNT",
         "country": "RU",
         "org": "ORG-IGK1-RIPE"
-    },
-    {
-        "inetnum": [
-            "188.42.87.0/24"
-        ],
-        "descr": "",
-        "netname": "SERVERS-RU-MOW1 EXEPTO-MNT",
-        "country": "RU",
-        "org": "ORG-SL92-RIPE"
     },
     {
         "inetnum": [
@@ -1435688,6 +1435347,15 @@
     },
     {
         "inetnum": [
+            "193.176.227.0/24"
+        ],
+        "descr": "",
+        "netname": "AE-FN-20191118 FN-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-FL351-RIPE"
+    },
+    {
+        "inetnum": [
             "193.135.134.0/23"
         ],
         "descr": "",
@@ -1442223,15 +1441891,6 @@
         "netname": "Philipp_Plein MTU-NOC",
         "country": "RU",
         "org": ""
-    },
-    {
-        "inetnum": [
-            "46.174.88.0/22"
-        ],
-        "descr": "",
-        "netname": "RU-ALTRUMLTD lir-ru-altrumltd-1-MNT RIPE-NCC-END-MNT",
-        "country": "RU",
-        "org": "ORG-AL960-RIPE"
     },
     {
         "inetnum": [
@@ -1462457,15 +1462116,6 @@
     },
     {
         "inetnum": [
-            "46.174.92.0/22"
-        ],
-        "descr": "",
-        "netname": "RU-ALTRUMLTD lir-ru-altrumltd-1-MNT RIPE-NCC-END-MNT",
-        "country": "RU",
-        "org": "ORG-AL960-RIPE"
-    },
-    {
-        "inetnum": [
             "212.45.29.88/30"
         ],
         "descr": "Network for COMCOR-B2B-Clients",
@@ -1466757,15 +1466407,6 @@
     },
     {
         "inetnum": [
-            "188.42.179.0/24"
-        ],
-        "descr": "",
-        "netname": "SERVERS-RU-MOW1 EXEPTO-MNT",
-        "country": "RU",
-        "org": "ORG-SL92-RIPE"
-    },
-    {
-        "inetnum": [
             "188.42.180.0/24"
         ],
         "descr": "",
@@ -1467285,9 +1466926,9 @@
             "78.41.142.0/24"
         ],
         "descr": "",
-        "netname": "RU-DIANETRU1-20240112 MNT-DIANET RIPE-NCC-HM-MNT",
+        "netname": "RU-RAID-20240112 RAID-MNT RIPE-NCC-HM-MNT",
         "country": "RU",
-        "org": "ORG-DA1282-RIPE"
+        "org": "ORG-RA21-RIPE"
     },
     {
         "inetnum": [
@@ -1468791,15 +1468432,6 @@
     },
     {
         "inetnum": [
-            "46.38.128.0/24"
-        ],
-        "descr": "",
-        "netname": "GSXIP AZMA-MNT interlir-mnt",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
             "212.109.216.0/21"
         ],
         "descr": "",
@@ -1469176,6 +1468808,15 @@
         ],
         "descr": "",
         "netname": "SC-NET-20190725 T-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-IL878-RIPE"
+    },
+    {
+        "inetnum": [
+            "193.193.160.0/24"
+        ],
+        "descr": "",
+        "netname": "SC-NET-20191118 T-MNT RIPE-NCC-HM-MNT",
         "country": "RU",
         "org": "ORG-IL878-RIPE"
     },
@@ -1469781,15 +1469422,6 @@
         ],
         "descr": "",
         "netname": "SC-NET-20211007 T-MNT RIPE-NCC-HM-MNT",
-        "country": "RU",
-        "org": "ORG-IL878-RIPE"
-    },
-    {
-        "inetnum": [
-            "195.69.150.0/24"
-        ],
-        "descr": "",
-        "netname": "SC-NET-20210723 T-MNT RIPE-NCC-HM-MNT",
         "country": "RU",
         "org": "ORG-IL878-RIPE"
     },
@@ -1471726,15 +1471358,6 @@
     },
     {
         "inetnum": [
-            "185.212.112.0/24"
-        ],
-        "descr": "",
-        "netname": "SC-NET-20210907 T-MNT RIPE-NCC-HM-MNT",
-        "country": "RU",
-        "org": "ORG-IL878-RIPE"
-    },
-    {
-        "inetnum": [
             "178.217.100.0/23"
         ],
         "descr": "",
@@ -1471963,8 +1471586,8 @@
         "inetnum": [
             "178.130.132.0/24"
         ],
-        "descr": "",
-        "netname": "RU-VPSVILLE1-20100315 ru-vpsville1-1-mnt",
+        "descr": "vpsville VPS hosting",
+        "netname": "vpsville-net ru-vpsville1-1-mnt",
         "country": "RU",
         "org": "ORG-VL264-RIPE"
     },
@@ -1472047,15 +1471670,6 @@
         ],
         "descr": "",
         "netname": "SC-NET-20181120 T-MNT RIPE-NCC-HM-MNT",
-        "country": "RU",
-        "org": "ORG-IL878-RIPE"
-    },
-    {
-        "inetnum": [
-            "195.225.96.0/24"
-        ],
-        "descr": "",
-        "netname": "SC-NET-20210723 T-MNT RIPE-NCC-HM-MNT",
         "country": "RU",
         "org": "ORG-IL878-RIPE"
     },
@@ -1473371,15 +1472985,6 @@
         ],
         "descr": "",
         "netname": "STC-NET SEVEREN-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "46.38.130.0/24"
-        ],
-        "descr": "",
-        "netname": "interlir AZMA-MNT interlir-mnt",
         "country": "RU",
         "org": ""
     },
@@ -1477147,6 +1476752,15 @@
     },
     {
         "inetnum": [
+            "91.240.71.0/24"
+        ],
+        "descr": "",
+        "netname": "HK-NEXT-20191112 TELECOM-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-NL608-RIPE"
+    },
+    {
+        "inetnum": [
             "80.77.170.0/23"
         ],
         "descr": "Fryazino.net",
@@ -1480525,15 +1480139,6 @@
     },
     {
         "inetnum": [
-            "195.19.27.0/24"
-        ],
-        "descr": "Sibirskaya str., 29/1 634061 Tomsk Russia",
-        "netname": "PLEXOR ROSNIIROS-MNT",
-        "country": "RU",
-        "org": "ORG-IL885-RIPE"
-    },
-    {
-        "inetnum": [
             "91.247.79.0/24"
         ],
         "descr": "",
@@ -1483415,15 +1483020,6 @@
         ],
         "descr": "Network for COMCOR-B2B-Clients",
         "netname": "COMCOR-B2B-Clients AS8732-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "195.208.26.164/30"
-        ],
-        "descr": "",
-        "netname": "yandex-85 RUIX-MNT",
         "country": "RU",
         "org": ""
     },
@@ -1491674,15 +1491270,6 @@
     },
     {
         "inetnum": [
-            "178.248.232.105/32"
-        ],
-        "descr": "HLL LLC Moscow, Russia",
-        "netname": "QRATOR-7573 HLL2-MNT HLL3-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
             "178.248.235.145/32"
         ],
         "descr": "AO NKO \"Eleksnet\" g. Moskva, Ocakovskoe sosse, d. 10, korp. 2, str. 1",
@@ -1494374,15 +1493961,6 @@
     },
     {
         "inetnum": [
-            "178.248.235.173/32"
-        ],
-        "descr": "Obshchestvo s ogranichennoy otvetstvennostyu HLL 123290, RF,g.Moskva, 1 Magistralniy tup., d.5a",
-        "netname": "QRATOR-14866 HLL2-MNT HLL3-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
             "178.248.235.175/32"
         ],
         "descr": "OOO PMBK Moskva, 4-j Monetcikovskij pereulok, dom 7",
@@ -1496804,15 +1496382,6 @@
     },
     {
         "inetnum": [
-            "185.65.149.15/32"
-        ],
-        "descr": "Zakritoe akcionernoe obshestvo CROC incorporated 111033, Moskva, Volochaevskaya st. 5",
-        "netname": "QRATOR-16455 HLL2-MNT HLL3-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
             "185.65.148.20/32"
         ],
         "descr": "Obshchestvo s ogranichennoy otvetstvennostyu HLL 123290, RF,g.Moskva, 1 Magistralniy tup., d.5a",
@@ -1497596,15 +1497165,6 @@
     },
     {
         "inetnum": [
-            "178.248.234.248/32"
-        ],
-        "descr": "OOO \"Vega\" (Tanuki)",
-        "netname": "QRATOR-17256 HLL2-MNT HLL3-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
             "178.248.237.155/32"
         ],
         "descr": "OOO <<NTS>>",
@@ -1497735,15 +1497295,6 @@
         ],
         "descr": "OOO <<Amaama Avto>>",
         "netname": "QRATOR-17496 HLL2-MNT HLL3-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "185.65.148.116/32"
-        ],
-        "descr": "OOO <<Amaama Avto>>",
-        "netname": "QRATOR-17497 HLL2-MNT HLL3-MNT",
         "country": "RU",
         "org": ""
     },
@@ -1499711,15 +1499262,6 @@
     },
     {
         "inetnum": [
-            "185.65.148.75/32"
-        ],
-        "descr": "OOO \"MKB INVESTICII\" G.Moskva, 119021, Zubovskij b-r, 11A",
-        "netname": "QRATOR-19662 HLL2-MNT HLL3-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
             "185.65.148.80/32"
         ],
         "descr": "AO \"TK \"Centr\" 109316, g. Moskva, Volgogradskij pr-t, d. 43, korp. 3",
@@ -1499936,69 +1499478,6 @@
     },
     {
         "inetnum": [
-            "185.65.149.147/32"
-        ],
-        "descr": "OOO \"RSG-Biznes Servis\" 123317, Moskva g, Presnenskaa nab, dom No 6, stroenie 2",
-        "netname": "QRATOR-19860 HLL2-MNT HLL3-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "185.65.148.150/32"
-        ],
-        "descr": "OOO \"RSG-Biznes Servis\" 123317, Moskva g, Presnenskaa nab, dom No 6, stroenie 2",
-        "netname": "QRATOR-19861 HLL2-MNT HLL3-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "185.65.149.152/32"
-        ],
-        "descr": "OOO \"RSG-Biznes Servis\" 123317, Moskva g, Presnenskaa nab, dom No 6, stroenie 2",
-        "netname": "QRATOR-19863 HLL2-MNT HLL3-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "185.65.149.153/32"
-        ],
-        "descr": "OOO \"RSG-Biznes Servis\" 123317, Moskva g, Presnenskaa nab, dom No 6, stroenie 2",
-        "netname": "QRATOR-19864 HLL2-MNT HLL3-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "185.65.148.154/32"
-        ],
-        "descr": "OOO \"RSG-Biznes Servis\" 123317, Moskva g, Presnenskaa nab, dom No 6, stroenie 2",
-        "netname": "QRATOR-19865 HLL2-MNT HLL3-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "185.65.149.154/32"
-        ],
-        "descr": "OOO \"RSG-Biznes Servis\" 123317, Moskva g, Presnenskaa nab, dom No 6, stroenie 2",
-        "netname": "QRATOR-19866 HLL2-MNT HLL3-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "178.248.236.153/32"
-        ],
-        "descr": "OOO \"RSG-Biznes Servis\" 123317, Moskva g, Presnenskaa nab, dom No 6, stroenie 2",
-        "netname": "QRATOR-19869 HLL2-MNT HLL3-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
             "178.248.235.164/32"
         ],
         "descr": "",
@@ -1500084,15 +1499563,6 @@
         ],
         "descr": "AO <<LabKvest>>",
         "netname": "QRATOR-19925 HLL2-MNT HLL3-MNT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
-            "178.248.236.138/32"
-        ],
-        "descr": "Autonomous non-profit organization Internet-encyclopedia RUWIKI 125040, g. Moskva, Leningradskiy prospekt, 15-14",
-        "netname": "QRATOR-19929 HLL2-MNT HLL3-MNT",
         "country": "RU",
         "org": ""
     },
@@ -1507525,6 +1506995,15 @@
         ],
         "descr": "",
         "netname": "HK-NEXT-20210809 TELECOM-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-NL608-RIPE"
+    },
+    {
+        "inetnum": [
+            "185.251.22.0/24"
+        ],
+        "descr": "",
+        "netname": "HK-NEXT-20210909 TELECOM-MNT RIPE-NCC-HM-MNT",
         "country": "RU",
         "org": "ORG-NL608-RIPE"
     },
@@ -1522466,6 +1521945,15 @@
     },
     {
         "inetnum": [
+            "213.180.213.18/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-213-180-213-18 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
             "89.237.0.0/21"
         ],
         "descr": "Southern Urals TransTelecom",
@@ -1525673,7 +1525161,7 @@
             "109.207.167.0/24"
         ],
         "descr": "",
-        "netname": "ORG-LBO3-RIPE MNT-NPO-AIDMA NETONERUS-MNT bk-olimp-mnt RIPE-NCC-END-MNT",
+        "netname": "ORG-LBO3-RIPE NETONERUS-MNT bk-olimp-mnt RIPE-NCC-END-MNT",
         "country": "RU",
         "org": "ORG-LBO3-RIPE"
     },
@@ -1541273,6 +1540761,16 @@
     },
     {
         "inetnum": [
+            "46.173.16.0/22",
+            "46.173.20.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-BEGET BEGET-MNT RIPE-NCC-END-MNT",
+        "country": "RU",
+        "org": "ORG-BL131-RIPE"
+    },
+    {
+        "inetnum": [
             "46.173.0.0/20"
         ],
         "descr": "",
@@ -1546817,132 +1546315,6 @@
         ],
         "descr": "Yandex enterprise network",
         "netname": "YANDEX-87-250-239-0 YANDEX-MNT",
-        "country": "RU",
-        "org": "ORG-YA1-RIPE"
-    },
-    {
-        "inetnum": [
-            "93.158.182.160/30"
-        ],
-        "descr": "Yandex enterprise network",
-        "netname": "YANDEX-93-158-182-160 YANDEX-MNT",
-        "country": "RU",
-        "org": "ORG-YA1-RIPE"
-    },
-    {
-        "inetnum": [
-            "93.158.182.164/30"
-        ],
-        "descr": "Yandex enterprise network",
-        "netname": "YANDEX-93-158-182-164 YANDEX-MNT",
-        "country": "RU",
-        "org": "ORG-YA1-RIPE"
-    },
-    {
-        "inetnum": [
-            "93.158.182.168/31"
-        ],
-        "descr": "Yandex enterprise network",
-        "netname": "YANDEX-93-158-182-168 YANDEX-MNT",
-        "country": "RU",
-        "org": "ORG-YA1-RIPE"
-    },
-    {
-        "inetnum": [
-            "93.158.182.170/31"
-        ],
-        "descr": "Yandex enterprise network",
-        "netname": "YANDEX-93-158-182-170 YANDEX-MNT",
-        "country": "RU",
-        "org": "ORG-YA1-RIPE"
-    },
-    {
-        "inetnum": [
-            "93.158.182.172/31"
-        ],
-        "descr": "Yandex enterprise network",
-        "netname": "YANDEX-93-158-182-172 YANDEX-MNT",
-        "country": "RU",
-        "org": "ORG-YA1-RIPE"
-    },
-    {
-        "inetnum": [
-            "93.158.182.174/31"
-        ],
-        "descr": "Yandex enterprise network",
-        "netname": "YANDEX-93-158-182-174 YANDEX-MNT",
-        "country": "RU",
-        "org": "ORG-YA1-RIPE"
-    },
-    {
-        "inetnum": [
-            "93.158.182.176/31"
-        ],
-        "descr": "Yandex enterprise network",
-        "netname": "YANDEX-93-158-182-176 YANDEX-MNT",
-        "country": "RU",
-        "org": "ORG-YA1-RIPE"
-    },
-    {
-        "inetnum": [
-            "93.158.182.178/31"
-        ],
-        "descr": "Yandex enterprise network",
-        "netname": "YANDEX-93-158-182-178 YANDEX-MNT",
-        "country": "RU",
-        "org": "ORG-YA1-RIPE"
-    },
-    {
-        "inetnum": [
-            "93.158.182.180/31"
-        ],
-        "descr": "Yandex enterprise network",
-        "netname": "YANDEX-93-158-182-180 YANDEX-MNT",
-        "country": "RU",
-        "org": "ORG-YA1-RIPE"
-    },
-    {
-        "inetnum": [
-            "93.158.182.182/31"
-        ],
-        "descr": "Yandex enterprise network",
-        "netname": "YANDEX-93-158-182-182 YANDEX-MNT",
-        "country": "RU",
-        "org": "ORG-YA1-RIPE"
-    },
-    {
-        "inetnum": [
-            "93.158.182.184/31"
-        ],
-        "descr": "Yandex enterprise network",
-        "netname": "YANDEX-93-158-182-184 YANDEX-MNT",
-        "country": "RU",
-        "org": "ORG-YA1-RIPE"
-    },
-    {
-        "inetnum": [
-            "93.158.182.186/31"
-        ],
-        "descr": "Yandex enterprise network",
-        "netname": "YANDEX-93-158-182-186 YANDEX-MNT",
-        "country": "RU",
-        "org": "ORG-YA1-RIPE"
-    },
-    {
-        "inetnum": [
-            "93.158.182.188/31"
-        ],
-        "descr": "Yandex enterprise network",
-        "netname": "YANDEX-93-158-182-188 YANDEX-MNT",
-        "country": "RU",
-        "org": "ORG-YA1-RIPE"
-    },
-    {
-        "inetnum": [
-            "93.158.182.190/31"
-        ],
-        "descr": "Yandex enterprise network",
-        "netname": "YANDEX-93-158-182-190 YANDEX-MNT",
         "country": "RU",
         "org": "ORG-YA1-RIPE"
     },
@@ -1559978,33 +1559350,6 @@
     },
     {
         "inetnum": [
-            "93.186.96.0/20"
-        ],
-        "descr": "",
-        "netname": "AE-SESAMEWARE-20080624 lir-ae-sesameware-1-MNT RIPE-NCC-HM-MNT",
-        "country": "RU",
-        "org": "ORG-SF250-RIPE"
-    },
-    {
-        "inetnum": [
-            "193.203.60.0/22"
-        ],
-        "descr": "",
-        "netname": "AE-SESAMEWARE lir-ae-sesameware-1-MNT RIPE-NCC-END-MNT",
-        "country": "RU",
-        "org": "ORG-SF250-RIPE"
-    },
-    {
-        "inetnum": [
-            "37.235.128.0/17"
-        ],
-        "descr": "",
-        "netname": "AE-SESAMEWARE-20120416 lir-ae-sesameware-1-MNT RIPE-NCC-HM-MNT",
-        "country": "RU",
-        "org": "ORG-SF250-RIPE"
-    },
-    {
-        "inetnum": [
             "212.15.46.0/24"
         ],
         "descr": "",
@@ -1568777,15 +1568122,6 @@
     },
     {
         "inetnum": [
-            "93.186.105.0/24"
-        ],
-        "descr": "Azbuka Telecom Pool",
-        "netname": "Azbuka-Telecom-Pool AT-RIPE-MNT",
-        "country": "RU",
-        "org": "ORG-AT276-RIPE"
-    },
-    {
-        "inetnum": [
             "5.45.234.202/31"
         ],
         "descr": "Yandex enterprise network",
@@ -1573409,34 +1572745,6 @@
     },
     {
         "inetnum": [
-            "93.186.106.0/23",
-            "93.186.108.0/22"
-        ],
-        "descr": "LANTA IPoE Service Customers",
-        "netname": "LANTA-NETWORK lir-ae-sesameware-1-MNT",
-        "country": "RU",
-        "org": "ORG-LL562-RIPE"
-    },
-    {
-        "inetnum": [
-            "93.186.104.0/24"
-        ],
-        "descr": "LANTA IPoE Service Customers",
-        "netname": "LANTA-NETWORK lir-ae-sesameware-1-MNT",
-        "country": "RU",
-        "org": "ORG-LL562-RIPE"
-    },
-    {
-        "inetnum": [
-            "93.186.96.0/21"
-        ],
-        "descr": "LANTA IPoE Service Customers",
-        "netname": "LANTA-NETWORK lir-ae-sesameware-1-MNT",
-        "country": "RU",
-        "org": "ORG-LL562-RIPE"
-    },
-    {
-        "inetnum": [
             "81.20.192.0/20"
         ],
         "descr": "",
@@ -1573461,24 +1572769,6 @@
         "netname": "RU-ADMINVPS-19880518 ru-adminvps-1-mnt RIPE-NCC-HM-MNT",
         "country": "RU",
         "org": "ORG-AL501-RIPE"
-    },
-    {
-        "inetnum": [
-            "37.235.128.0/18"
-        ],
-        "descr": "LANTA IPoE Service Customers",
-        "netname": "LANTA-NETWORK lir-ae-sesameware-1-MNT",
-        "country": "RU",
-        "org": "ORG-LL562-RIPE"
-    },
-    {
-        "inetnum": [
-            "37.235.192.0/18"
-        ],
-        "descr": "LANTA IPoE Service Customers",
-        "netname": "LANTA-NETWORK lir-ae-sesameware-1-MNT",
-        "country": "RU",
-        "org": "ORG-LL562-RIPE"
     },
     {
         "inetnum": [
@@ -1606921,15 +1606211,6 @@
     },
     {
         "inetnum": [
-            "176.120.21.0/24"
-        ],
-        "descr": "",
-        "netname": "RU-ADMINVPS-20240827 ru-adminvps-1-mnt RIPE-NCC-HM-MNT",
-        "country": "RU",
-        "org": "ORG-AL501-RIPE"
-    },
-    {
-        "inetnum": [
             "153.79.188.0/22"
         ],
         "descr": "",
@@ -1606945,15 +1606226,6 @@
         "netname": "RU-DONTEL-19910923 mnt-ru-dontel-1 RIPE-NCC-HM-MNT",
         "country": "RU",
         "org": "ORG-OD35-RIPE"
-    },
-    {
-        "inetnum": [
-            "94.183.214.0/24"
-        ],
-        "descr": "",
-        "netname": "Geodema lir-ae-goldip-1-MNT",
-        "country": "RU",
-        "org": ""
     },
     {
         "inetnum": [
@@ -1607526,15 +1606798,6 @@
     },
     {
         "inetnum": [
-            "143.246.176.192/32"
-        ],
-        "descr": "Network Russia",
-        "netname": "RU-NET KTB SBMT",
-        "country": "RU",
-        "org": ""
-    },
-    {
-        "inetnum": [
             "129.101.88.0/21"
         ],
         "descr": "",
@@ -1607592,28 +1606855,19 @@
         "inetnum": [
             "185.202.0.0/24"
         ],
-        "descr": "RTK-Tranzit leased lines dhcp costumers",
-        "netname": "RTKPRIM-NET RTK-MNT ALLIANCERU-MNT",
+        "descr": "LLC \"SMART CENTER\"",
+        "netname": "RU-DEDIC64 RTK-MNT ALLIANCERU-MNT",
         "country": "RU",
-        "org": ""
+        "org": "ORG-LC229-RIPE"
     },
     {
         "inetnum": [
             "159.200.201.0/24"
         ],
         "descr": "",
-        "netname": "ORG-GUL20-RIPE MNT-GCXC-EU RIPE-NCC-LEGACY-MNT",
+        "netname": "RU-TUNDRA-TC lir-ru-tundra-tc-1-MNT RIPE-NCC-LEGACY-MNT",
         "country": "RU",
-        "org": "ORG-GUL20-RIPE"
-    },
-    {
-        "inetnum": [
-            "168.113.160.0/20"
-        ],
-        "descr": "",
-        "netname": "RU-AZNET lir-ru-techrush-1-MNT RIPE-NCC-END-MNT",
-        "country": "RU",
-        "org": "ORG-AZ78-RIPE"
+        "org": "ORG-LT208-RIPE"
     },
     {
         "inetnum": [
@@ -1607836,7 +1607090,7 @@
             "193.187.111.0/24"
         ],
         "descr": "",
-        "netname": "LocalNCC LocalNCC-mnt",
+        "netname": "IEDS5 LocalNCC-mnt",
         "country": "RU",
         "org": "ORG-IEDS5-RIPE"
     },
@@ -1608300,15 +1607554,6 @@
         "netname": "DeltaLtd TOKOWA-MNT",
         "country": "RU",
         "org": ""
-    },
-    {
-        "inetnum": [
-            "31.59.222.0/24"
-        ],
-        "descr": "-----BEGIN TOKEN-----ab8fdcfca631c2420f4c11cc84f4d70c7cf2906ddcee2b5dff5472a8dbb18e9531dadcc25d7e130c796f45899852b8345ad50f52f9135c8ed5894b9801586e1b-----END TOKEN-----",
-        "netname": "TURTLEGUARD lir-ae-goldip-1-MNT",
-        "country": "RU",
-        "org": "ORG-EIL20-RIPE"
     },
     {
         "inetnum": [
@@ -1611069,15 +1610314,6 @@
     },
     {
         "inetnum": [
-            "78.17.171.0/24"
-        ],
-        "descr": "Rawi-Network",
-        "netname": "IE-Georgiy-Moskalev interlir-mnt",
-        "country": "RU",
-        "org": "ORG-MG419-RIPE"
-    },
-    {
-        "inetnum": [
             "212.74.244.109/32"
         ],
         "descr": "",
@@ -1611201,5 +1610437,1182 @@
         "netname": "NET3_TPTEL lir-ru-joint-stock1-1-MNT",
         "country": "RU",
         "org": "ORG-JCT9-RIPE"
+    },
+    {
+        "inetnum": [
+            "193.34.12.0/22"
+        ],
+        "descr": "",
+        "netname": "NET68-RU-NET RIPE-DB-MNT RIPE-NCC-END-MNT",
+        "country": "RU",
+        "org": "ORG-UCST1-RIPE"
+    },
+    {
+        "inetnum": [
+            "5.255.209.16/29"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-5-255-209-16 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "5.255.224.192/29"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-5-255-224-192 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "37.9.97.144/28"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-37-9-97-144 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "37.140.140.32/27"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-37-140-140-32 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "37.140.145.48/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-37-140-145-48 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "37.140.145.50/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-37-140-145-50 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "37.140.145.52/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-37-140-145-52 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "37.140.145.54/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-37-140-145-54 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "37.140.146.80/28"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-37-140-146-80 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "37.140.160.144/28"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-37-140-160-144 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "37.140.165.192/29"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-37-140-165-192 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "37.140.180.64/27"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-37-140-180-64 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "77.88.7.0/27"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-77-88-7-0 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "77.88.39.212/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-77-88-39-212 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "77.88.57.250/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-77-88-57-250 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "84.252.172.160/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-84-252-172-160 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "84.252.172.162/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-84-252-172-162 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "84.252.172.164/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-84-252-172-164 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "84.252.172.166/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-84-252-172-166 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "141.8.129.194/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-141-8-129-194 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "213.180.195.0/27"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-213-180-195-0 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "195.234.130.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-20191125 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "195.234.140.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-20191125 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "195.234.143.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-20191125 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "212.24.34.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-990216 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "212.24.42.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-990216 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "212.24.45.0/24",
+            "212.24.46.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-990216 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "212.24.49.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-990216 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "212.24.51.0/24",
+            "212.24.52.0/23",
+            "212.24.54.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-990216 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "212.24.59.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-990216 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "212.158.173.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-990714 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "213.134.192.0/19"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-20000426 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "217.22.160.0/23"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-20001002 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "217.22.163.0/24",
+            "217.22.164.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-20001002 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "217.23.130.0/23"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-20001005 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "217.23.142.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-20001005 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "217.23.146.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-20001005 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "217.23.151.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-20001005 RAID-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "217.22.166.0/23"
+        ],
+        "descr": "",
+        "netname": "RU-RAID-20001002 RIPE-NCC-HM-MNT RAID-MNT",
+        "country": "RU",
+        "org": "ORG-RA21-RIPE"
+    },
+    {
+        "inetnum": [
+            "77.50.0.0/20",
+            "77.50.16.0/21",
+            "77.50.24.0/22"
+        ],
+        "descr": "starlink block 1",
+        "netname": "STARLINK-NET MNT-STRL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "77.50.30.0/23",
+            "77.50.32.0/19"
+        ],
+        "descr": "starlink block 1.1",
+        "netname": "STARLINK-NET MNT-STRL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "77.50.28.0/24"
+        ],
+        "descr": "Prostaya Svyaz LLC",
+        "netname": "PROSVYAZ-NET MNT-STRL",
+        "country": "RU",
+        "org": "ORG-PSL62-RIPE"
+    },
+    {
+        "inetnum": [
+            "77.50.29.0/24"
+        ],
+        "descr": "Neksus Telekom LLC",
+        "netname": "NEKSUSTEL-NET MNT-STRL",
+        "country": "RU",
+        "org": "ORG-NTL87-RIPE"
+    },
+    {
+        "inetnum": [
+            "62.33.46.192/26"
+        ],
+        "descr": "(NS168088) TelecomSeti, Khabarovsk, Russia",
+        "netname": "TELECOM-NET TRANSTELECOM-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "212.192.208.0/24"
+        ],
+        "descr": "",
+        "netname": "Customer interlir-mnt",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "195.208.26.164/31"
+        ],
+        "descr": "",
+        "netname": "cctld-16 RUIX-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "62.33.46.160/27"
+        ],
+        "descr": "(NS168260) IP Kameneckaya, Ozernyj, Russia",
+        "netname": "KAMENETSKAYA-NET TRANSTELECOM-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "194.190.210.0/23"
+        ],
+        "descr": "Studencheskaya str., 5a 600005 Vladimir Russia",
+        "netname": "VLADINFO ROSNIIROS-MNT",
+        "country": "RU",
+        "org": "ORG-LLC12-RIPE"
+    },
+    {
+        "inetnum": [
+            "185.208.157.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-H3LLO-CLOUD-20261006 lir-ru-h3llo-cloud-1-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-HL376-RIPE"
+    },
+    {
+        "inetnum": [
+            "195.206.252.0/23"
+        ],
+        "descr": "",
+        "netname": "AE-PULSECORE-20100504 PULSECORE-MNT RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-PTL91-RIPE"
+    },
+    {
+        "inetnum": [
+            "185.212.112.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-IGKH-20210907 mnt-ru-igkh-1 RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-IGK1-RIPE"
+    },
+    {
+        "inetnum": [
+            "195.225.96.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-IGKH-20210723 mnt-ru-igkh-1 RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-IGK1-RIPE"
+    },
+    {
+        "inetnum": [
+            "194.190.32.0/24"
+        ],
+        "descr": "Malomoskovskaya 22, 1 129626 Moscow Russia",
+        "netname": "Summit-Systems ROSNIIROS-MNT",
+        "country": "RU",
+        "org": "ORG-SSC9-RIPE"
+    },
+    {
+        "inetnum": [
+            "194.190.33.0/24"
+        ],
+        "descr": "Malomoskovskaya 22, 1 129626 Moscow Russia",
+        "netname": "Summit-Systems ROSNIIROS-MNT",
+        "country": "RU",
+        "org": "ORG-SSC9-RIPE"
+    },
+    {
+        "inetnum": [
+            "194.190.34.0/23"
+        ],
+        "descr": "Malomoskovskaya 22, 1 129626 Moscow Russia",
+        "netname": "Summit-Systems ROSNIIROS-MNT",
+        "country": "RU",
+        "org": "ORG-SSC9-RIPE"
+    },
+    {
+        "inetnum": [
+            "179.253.176.0/24"
+        ],
+        "descr": "Rawi-Network",
+        "netname": "Rawi-Network interlir-mnt",
+        "country": "RU",
+        "org": "ORG-MG419-RIPE"
+    },
+    {
+        "inetnum": [
+            "179.253.177.0/24"
+        ],
+        "descr": "Rawi-Network",
+        "netname": "Rawi-Network interlir-mnt",
+        "country": "RU",
+        "org": "ORG-MG419-RIPE"
+    },
+    {
+        "inetnum": [
+            "168.113.160.0/21"
+        ],
+        "descr": "",
+        "netname": "RU-AZNET lir-ru-techrush-1-MNT RIPE-NCC-END-MNT",
+        "country": "RU",
+        "org": "ORG-AZ78-RIPE"
+    },
+    {
+        "inetnum": [
+            "83.234.207.44/30"
+        ],
+        "descr": "(IR167310) Sibcom, Chita, Russia",
+        "netname": "SIBCOM-NET TRANSTELECOM-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "178.170.244.0/24"
+        ],
+        "descr": "St. Petersburg State Public Institution \"St. Petersburg Information and Analytical Center\"",
+        "netname": "iac-spb-net LIDERTELECOM-mnt",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "84.252.67.0/24"
+        ],
+        "descr": "",
+        "netname": "IEDS5 LocalNCC-mnt",
+        "country": "RU",
+        "org": "ORG-IEDS5-RIPE"
+    },
+    {
+        "inetnum": [
+            "186.2.172.0/24"
+        ],
+        "descr": "",
+        "netname": "IQWEB-LLC-NET-RU LIR-AE-IQWEB-LLC-2-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "185.141.34.0/24"
+        ],
+        "descr": "",
+        "netname": "SVP LocalNCC-mnt",
+        "country": "RU",
+        "org": "ORG-SVP2-RIPE"
+    },
+    {
+        "inetnum": [
+            "185.254.239.0/24"
+        ],
+        "descr": "",
+        "netname": "SVP LocalNCC-mnt",
+        "country": "RU",
+        "org": "ORG-SVP2-RIPE"
+    },
+    {
+        "inetnum": [
+            "195.206.252.0/24"
+        ],
+        "descr": "TRUSTEDNETWORK LLC",
+        "netname": "TRUSTEDNETWORK-LLC TRUSTEDNETWORK-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "195.206.253.0/24"
+        ],
+        "descr": "TRUSTEDNETWORK LLC",
+        "netname": "TRUSTEDNETWORK-LLC TRUSTEDNETWORK-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.2.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.3.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "45.140.17.0/24"
+        ],
+        "descr": "",
+        "netname": "RU-DELTA-ELECTRONICS-20261008 IP-RIPE",
+        "country": "RU",
+        "org": "ORG-DL655-RIPE"
+    },
+    {
+        "inetnum": [
+            "5.255.224.200/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-5-255-224-200 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "5.255.224.202/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-5-255-224-202 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "5.255.224.204/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-5-255-224-204 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "5.255.224.206/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-5-255-224-206 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "37.9.82.56/29"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-37-9-82-56 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "77.88.39.214/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-77-88-39-214 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "93.158.169.216/29"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-93-158-169-216 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "93.158.191.48/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-93-158-191-48 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "93.158.191.50/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-93-158-191-50 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "141.8.180.60/31"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-141-8-180-60 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "213.180.195.88/29"
+        ],
+        "descr": "Yandex enterprise network",
+        "netname": "YANDEX-213-180-195-88 YANDEX-MNT",
+        "country": "RU",
+        "org": "ORG-YA1-RIPE"
+    },
+    {
+        "inetnum": [
+            "135.106.212.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "135.106.213.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "135.106.214.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "135.106.215.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "168.113.128.0/21"
+        ],
+        "descr": "VK Cloud Solutions VK Hosting",
+        "netname": "VKCS lir-ru-nextllc-1-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "168.113.136.0/21"
+        ],
+        "descr": "VK Cloud Solutions VK Hosting",
+        "netname": "VKCS lir-ru-nextllc-1-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "160.5.208.0/21"
+        ],
+        "descr": "VK Cloud Solutions VK Hosting",
+        "netname": "VKCS lir-ru-nextllc-1-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "160.5.216.0/21"
+        ],
+        "descr": "VK Cloud Solutions VK Hosting",
+        "netname": "VKCS lir-ru-nextllc-1-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "90.188.202.0/24"
+        ],
+        "descr": "",
+        "netname": "ZETTELEKOM ROSTELECOM-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "90.157.89.0/24"
+        ],
+        "descr": "LLC KOMTEHCENTR FTTB Customers Yekaterinburg, Russian Federation",
+        "netname": "MIRALOGIC-NET ROSTELECOM-MNT EXTRIM-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "94.31.157.0/24"
+        ],
+        "descr": "LLC KOMTEHCENTR FTTB Customers Yekaterinburg, Russian Federation",
+        "netname": "MIRALOGIC-NET ROSTELECOM-MNT EXTRIM-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "94.31.181.0/24"
+        ],
+        "descr": "LLC KOMTEHCENTR FTTB Customers Yekaterinburg, Russian Federation",
+        "netname": "MIRALOGIC-NET ROSTELECOM-MNT EXTRIM-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "94.31.183.0/24"
+        ],
+        "descr": "LLC KOMTEHCENTR FTTB Customers Yekaterinburg, Russian Federation",
+        "netname": "MIRALOGIC-NET ROSTELECOM-MNT EXTRIM-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "94.31.186.0/24"
+        ],
+        "descr": "LLC KOMTEHCENTR FTTB Customers Yekaterinburg, Russian Federation",
+        "netname": "MIRALOGIC-NET ROSTELECOM-MNT EXTRIM-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "94.31.190.0/24"
+        ],
+        "descr": "LLC KOMTEHCENTR FTTB Customers Yekaterinburg, Russian Federation",
+        "netname": "MIRALOGIC-NET ROSTELECOM-MNT EXTRIM-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "94.31.191.0/24"
+        ],
+        "descr": "LLC KOMTEHCENTR FTTB Customers Yekaterinburg, Russian Federation",
+        "netname": "MIRALOGIC-NET ROSTELECOM-MNT EXTRIM-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "94.31.223.0/24"
+        ],
+        "descr": "LLC KOMTEHCENTR FTTB Customers Yekaterinburg, Russian Federation",
+        "netname": "MIRALOGIC-NET ROSTELECOM-MNT EXTRIM-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "94.31.242.0/24"
+        ],
+        "descr": "LLC KOMTEHCENTR FTTB Customers Yekaterinburg, Russian Federation",
+        "netname": "MIRALOGIC-NET ROSTELECOM-MNT EXTRIM-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "94.31.244.0/24"
+        ],
+        "descr": "LLC KOMTEHCENTR FTTB Customers Yekaterinburg, Russian Federation",
+        "netname": "MIRALOGIC-NET ROSTELECOM-MNT EXTRIM-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "168.113.168.0/21"
+        ],
+        "descr": "",
+        "netname": "RU-ADMINVPS-19940324 ru-adminvps-1-mnt RIPE-NCC-HM-MNT",
+        "country": "RU",
+        "org": "ORG-AL501-RIPE"
+    },
+    {
+        "inetnum": [
+            "176.101.184.0/22"
+        ],
+        "descr": "",
+        "netname": "ORG-OL286-RIPE lir-ru-sergienko-1-MNT RIPE-NCC-END-MNT",
+        "country": "RU",
+        "org": "ORG-OL286-RIPE"
+    },
+    {
+        "inetnum": [
+            "212.192.5.0/24"
+        ],
+        "descr": "",
+        "netname": "Customer interlir-mnt",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.64.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.65.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.66.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.67.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.68.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.69.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.70.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.71.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.72.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.73.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.74.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.75.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.76.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.77.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.78.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.79.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.16.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.17.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.18.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "136.234.19.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "130.49.208.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "130.49.209.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "130.49.210.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "130.49.211.0/24"
+        ],
+        "descr": "Selectel Network",
+        "netname": "SELECTEL-NET MNT-SELECTEL",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "95.164.52.0/24"
+        ],
+        "descr": "",
+        "netname": "TIPTOPVPN-NET MEREZHA-MNT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "143.246.176.192/32"
+        ],
+        "descr": "Network Russia",
+        "netname": "RU-NET KTB SBMT",
+        "country": "RU",
+        "org": ""
+    },
+    {
+        "inetnum": [
+            "146.255.24.232/30"
+        ],
+        "descr": "Residential broadband - Kazan",
+        "netname": "RU-KAZAN MNT-KRAJA",
+        "country": "RU",
+        "org": ""
     }
 ]
