@@ -7,7 +7,7 @@ import sys
 import requests
 
 from pylib.ip import convert_to_cidr
-from pylib.whois import whois_query
+from pylib.whois import WhoisError, whois_query
 
 def convert_to_raw_github_url(url):
     return url.replace("https://github.com/", "https://raw.githubusercontent.com/").replace("/blob", "")
@@ -36,7 +36,7 @@ def extract_netname(filename_or_url, quiet=False):
             lines = file.readlines()
 
     for netname in iter_netnames(lines):
-        response = whois_query(netname, "inetnum")
+        response = whois_query(f"-r {netname}", "inetnum")
         if response is not None and len(response) > 0:
             if not quiet:
                 print(f"# Network name: {netname}")
@@ -59,7 +59,7 @@ def main(argv=None):
     args = parser.parse_args(argv)
     try:
         extract_netname(args.filename_or_url, quiet=args.quiet)
-    except requests.RequestException as exc:
+    except (requests.RequestException, WhoisError) as exc:
         print(f"ERROR: failed to fetch netname data: {exc}", file=sys.stderr)
         return 1
     except OSError as exc:
