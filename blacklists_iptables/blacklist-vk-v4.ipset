@@ -1,6 +1,6 @@
 # IPSet blacklist configuration (VK names, IPv4 only)
 # Auto-generated from blacklist-vk-v4.txt
-# Last updated: 2026-11-19 15:01:47 UTC
+# Last updated: 2026-11-20 14:44:03 UTC
 #
 # Usage:
 #   1. Load the ipset:
