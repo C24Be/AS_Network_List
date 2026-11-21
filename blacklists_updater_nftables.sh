@@ -34,7 +34,7 @@ python3 "$SCRIPT_DIR/generate_nft_blacklist.py" \
     "$TMP_V6_FILE" \
     "$OUTPUT_DIR/blacklist-v6.nft"
 
-# Generate VK-only blacklists from the narrowed MAX/VK service name filter
+# Generate VK-only configurations from name matches and announced prefixes
 python3 "$SCRIPT_DIR/generate_nft_blacklist.py" \
     "${BLACKLIST_VK_FILE}" \
     "$OUTPUT_DIR/blacklist-vk.nft"

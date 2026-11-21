@@ -26,13 +26,16 @@ NETWORK_LIST_FROM_AS="${SCRIPT_DIR}/network_list_from_as.py"
 NETWORK_LIST_FROM_NETNAME="${SCRIPT_DIR}/network_list_from_netname.py"
 RU_GOV_NETNAMES_FILE="${SCRIPT_DIR}/lists/ru-gov-netnames.txt"
 
-# Match VK-AS as a complete name to avoid unrelated names such as TVK-AS.
-BLACK_NAMES='uvd|umvd|fgup|grchc|roskomnad|federalnaya sluzhba|ufsb|zonatelecom|llc vk|vkontakte|ODNOKLASSNIKI|VKCOMPANY|mail.ru|mail-ru|mail_ru|(^|[^[:alnum:]_-])VK-AS([^[:alnum:]_-]|$)|M100'
+# Match known ASN names as whole tokens, not arbitrary VK*AS names such as VKE-AS.
+VK_ASN_NAME_PATTERN='(^|[^[:alnum:]_-])(vk-?as|vk(ontakte|company)([-_][[:alnum:]]+)*[-_]as|llc[[:space:]]+vk|vk[[:space:]]+llc)([^[:alnum:]_-]|$)'
+VK_IDENTITY_PATTERN="${VK_ASN_NAME_PATTERN}|(^|[^[:alnum:]])(vkontakte|vkcompany)([^[:alnum:]]|$)"
+BLACK_NAMES="uvd|umvd|fgup|grchc|roskomnad|federalnaya sluzhba|ufsb|zonatelecom|ODNOKLASSNIKI|mail.ru|mail-ru|mail_ru|M100|${VK_IDENTITY_PATTERN}"
 WHITE_NAMES='ruvds'
 #VK_NAME_PATTERN='ru-netbridge-(19911202|20061117)|ru-odnoklassniki-(20100830|20120307|20120626)|odnoklassniki-front'
 #VK_NAME_PATTERN='ru-netbridge-(19911202|20061117)|odnoklassniki'
-VK_NAME_PATTERN='ru-netbridge-(19911202|20061117)|odnoklassniki|vkcompany|vkontakte|llc vk'
+VK_NAME_PATTERN="ru-netbridge-(19911202|20061117)|odnoklassniki|${VK_IDENTITY_PATTERN}"
 VK_NAME_EXCLUDE_PATTERN='VK Cloud Solutions VK Hosting'
+VK_BGP_ASN='AS47764'
 
 ensure_blacklist_base_dirs() {
     mkdir -p "${BLACKLISTS_DIR}" "${AUTO_DIR}"
@@ -42,6 +45,34 @@ build_vk_name_blacklists() {
     ensure_blacklist_base_dirs
 
     tmp_vk_file="$(mktemp "${BLACKLISTS_DIR}/.blacklist-vk.XXXXXX")" || return 1
+
+    if ! "${NETWORK_LIST_FROM_AS}" --quiet "${VK_BGP_ASN}" > "${tmp_vk_file}" ||
+        [ ! -s "${tmp_vk_file}" ]; then
+        printf 'ERROR: failed to load announced prefixes for %s\n' "${VK_BGP_ASN}" >&2
+        rm -f "${tmp_vk_file}"
+        return 1
+    fi
+
+    if [ -f "${AUTO_ALL_ASN_FILE}" ]; then
+        if ! named_vk_asns="$(awk -v pattern="${VK_ASN_NAME_PATTERN}" \
+            -v exclude="${VK_NAME_EXCLUDE_PATTERN}" -v known="${VK_BGP_ASN}" '
+            tolower($0) ~ pattern && !index(tolower($0), tolower(exclude)) {
+                asn = toupper($1)
+                if (asn ~ /^AS[0-9]+$/ && asn != known && !seen[asn]++) print asn
+            }
+        ' "${AUTO_ALL_ASN_FILE}")"; then
+            rm -f "${tmp_vk_file}"
+            return 1
+        fi
+
+        for vk_asn in ${named_vk_asns}; do
+            if ! "${NETWORK_LIST_FROM_AS}" --quiet "${vk_asn}" >> "${tmp_vk_file}"; then
+                printf 'ERROR: failed to load announced prefixes for %s\n' "${vk_asn}" >&2
+                rm -f "${tmp_vk_file}"
+                return 1
+            fi
+        done
+    fi
 
     for source_file in "${AUTO_ALL_V4_FILE}" "${AUTO_ALL_V6_FILE}" "${AUTO_RIPE_V4_FILE}"; do
         [ -f "${source_file}" ] || continue

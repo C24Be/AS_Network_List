@@ -12,7 +12,7 @@ iptables_vk_v6_output_file="${iptables_output_dir}/blacklist-vk-v6.ipset"
 
 # Create required directories if they don't exist
 mkdir -p "${iptables_output_dir}" "${BLACKLISTS_DIR}"
-build_vk_name_blacklists
+build_vk_name_blacklists || exit $?
 
 # Function to generate ipset config from input file
 generate_ipset_config() {
