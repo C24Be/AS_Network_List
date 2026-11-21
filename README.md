@@ -48,6 +48,14 @@ This repository contains Python scripts that allow you to retrieve network lists
 - `blacklist-v6.txt`: IPv6-only blacklist (**daily generated**)
 - `blacklist_with_comments.txt`: Blacklist with network metadata (**daily generated**)
 
+The VK-only lists combine network registration-name matches with IPv4 and IPv6
+announcements from ASNs matched by known names such as `VK-AS`, `VKAS`,
+`VKONTAKTE-SPB-AS`, `VKCOMPANY-CLOUD-AS`, `LLC VK`, and `VK LLC`.
+Similar names such as `TVK-AS` and `VKE-AS` do not count as VK names.
+[AS47764 (VK-AS)](https://stat.ripe.net/resource/AS47764) is always queried,
+even if its name is missing from the local ASN data. A failed BGP lookup, or
+an empty result for AS47764, leaves the existing VK-only lists in place.
+
 **Nginx Format** (`blacklists_nginx/` folder):
 
 - `blacklist.conf`: Nginx deny rules for mixed IPv4/IPv6 (**daily generated**)

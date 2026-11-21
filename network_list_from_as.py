@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import argparse
+import ipaddress
 import re
 import sys
 
@@ -12,6 +13,10 @@ from pylib.whois import WhoisError, whois_query
 
 ASN_RE = re.compile(r"\bAS\d+\b", re.IGNORECASE)
 ANNOUNCED_PREFIXES_URL = "https://stat.ripe.net/data/announced-prefixes/data.json?resource={asn}"
+
+
+class InvalidPrefixError(ValueError):
+    pass
 
 
 def build_session(backoff_factor=5):
@@ -35,7 +40,17 @@ def get_as_prefixes(asn):
     response.raise_for_status()
     data = response.json()
     prefixes = data["data"]["prefixes"]
-    return [prefix["prefix"] for prefix in prefixes]
+    networks = []
+    for entry in prefixes:
+        prefix = entry["prefix"]
+        if not isinstance(prefix, str) or not re.fullmatch(r"[0-9A-Fa-f:.]+/[0-9]+", prefix):
+            raise InvalidPrefixError(f"invalid prefix for {asn}: {prefix!r}")
+        try:
+            ipaddress.ip_network(prefix)
+        except ValueError as exc:
+            raise InvalidPrefixError(f"invalid prefix for {asn}: {prefix!r}") from exc
+        networks.append(prefix)
+    return networks
 
 def convert_to_raw_github_url(url):
     return url.replace("https://github.com/", "https://raw.githubusercontent.com/").replace("/blob", "")
@@ -100,7 +115,7 @@ def main(argv=None):
     args = parser.parse_args(argv)
     try:
         extract_asses(args.asn_filename_or_url, quiet=args.quiet)
-    except (requests.RequestException, WhoisError) as exc:
+    except (requests.RequestException, WhoisError, InvalidPrefixError) as exc:
         print(f"ERROR: failed to fetch ASN data: {exc}", file=sys.stderr)
         return 1
     except OSError as exc:
