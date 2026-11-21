@@ -5,14 +5,33 @@ import re
 import sys
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
-from pylib.whois import whois_query
+from pylib.whois import WhoisError, whois_query
 
 ASN_RE = re.compile(r"\bAS\d+\b", re.IGNORECASE)
+ANNOUNCED_PREFIXES_URL = "https://stat.ripe.net/data/announced-prefixes/data.json?resource={asn}"
+
+
+def build_session(backoff_factor=5):
+    retry = Retry(
+        total=5,
+        backoff_factor=backoff_factor,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=("GET",),
+    )
+    session = requests.Session()
+    session.mount("https://", HTTPAdapter(max_retries=retry))
+    session.mount("http://", HTTPAdapter(max_retries=retry))
+    return session
+
+
+SESSION = build_session()
+
 
 def get_as_prefixes(asn):
-    url = f"https://stat.ripe.net/data/announced-prefixes/data.json?resource={asn}"
-    response = requests.get(url, timeout=30)
+    response = SESSION.get(ANNOUNCED_PREFIXES_URL.format(asn=asn), timeout=30)
     response.raise_for_status()
     data = response.json()
     prefixes = data["data"]["prefixes"]
@@ -81,7 +100,7 @@ def main(argv=None):
     args = parser.parse_args(argv)
     try:
         extract_asses(args.asn_filename_or_url, quiet=args.quiet)
-    except requests.RequestException as exc:
+    except (requests.RequestException, WhoisError) as exc:
         print(f"ERROR: failed to fetch ASN data: {exc}", file=sys.stderr)
         return 1
     except OSError as exc:
