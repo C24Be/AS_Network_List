@@ -80,6 +80,17 @@ class NetworkListFromAsTests(unittest.TestCase):
         self.assertEqual(code, 1)
         self.assertIn("ERROR: failed to fetch ASN data", err.getvalue())
 
+    def test_invalid_prefix_is_rejected_before_printing_any_prefixes(self):
+        response = mock.Mock()
+        response.json.return_value = {
+            "data": {"prefixes": [{"prefix": "192.0.2.0/24"}, {"prefix": "2001:db8::/129"}]}
+        }
+        with mock.patch.object(network_list_from_as.SESSION, "get", return_value=response):
+            code, out, err = self.run_main()
+        self.assertEqual(code, 1)
+        self.assertEqual(out, "")
+        self.assertIn("invalid prefix for AS64496", err)
+
 
 class NetworkListFromNetnameTests(unittest.TestCase):
     def run_main(self, whois):
