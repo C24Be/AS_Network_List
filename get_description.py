@@ -2,7 +2,8 @@
 
 import argparse
 import re
-from pylib.whois import whois_query
+import sys
+from pylib.whois import WhoisError, whois_query
 
 def resolve(filename):
     with open(filename, 'r') as f:
@@ -40,4 +41,7 @@ if not (args.filename):
     parser.print_help()
     exit()
 
-resolve(args.filename)
+try:
+    resolve(args.filename)
+except WhoisError as exc:
+    sys.exit(f"ERROR: {exc}; stopping with {args.filename} unchanged")
