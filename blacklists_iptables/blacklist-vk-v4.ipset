@@ -1,6 +1,6 @@
 # IPSet blacklist configuration (VK names, IPv4 only)
 # Auto-generated from blacklist-vk-v4.txt
-# Last updated: 2026-11-23 17:01:17 UTC
+# Last updated: 2026-11-24 16:49:17 UTC
 #
 # Usage:
 #   1. Load the ipset:
@@ -15,7 +15,7 @@
 #      ipset destroy blacklist-vk-v4
 #
 
-create blacklist-vk-v4 hash:net family inet hashsize 1024 maxelem 408
+create blacklist-vk-v4 hash:net family inet hashsize 1024 maxelem 496
 add blacklist-vk-v4 109.120.180.0/22
 add blacklist-vk-v4 109.120.188.0/22
 add blacklist-vk-v4 128.140.168.0/21
@@ -26,17 +26,30 @@ add blacklist-vk-v4 128.140.172.0/22
 add blacklist-vk-v4 130.49.224.0/19
 add blacklist-vk-v4 138.16.192.0/20
 add blacklist-vk-v4 138.16.240.0/20
+add blacklist-vk-v4 138.16.240.0/24
 add blacklist-vk-v4 146.185.208.0/22
 add blacklist-vk-v4 146.185.240.0/22
+add blacklist-vk-v4 154.90.70.0/24
+add blacklist-vk-v4 154.90.71.0/24
 add blacklist-vk-v4 155.212.192.0/20
+add blacklist-vk-v4 160.5.208.0/20
 add blacklist-vk-v4 161.104.104.0/21
+add blacklist-vk-v4 168.113.128.0/20
 add blacklist-vk-v4 176.112.168.0/21
 add blacklist-vk-v4 178.22.88.0/21
 add blacklist-vk-v4 178.22.89.64/26
 add blacklist-vk-v4 178.22.94.0/23
 add blacklist-vk-v4 178.237.16.0/20
 add blacklist-vk-v4 178.237.16.0/21
+add blacklist-vk-v4 178.237.16.0/24
+add blacklist-vk-v4 178.237.17.0/24
+add blacklist-vk-v4 178.237.18.0/24
+add blacklist-vk-v4 178.237.19.0/24
+add blacklist-vk-v4 178.237.21.0/24
+add blacklist-vk-v4 178.237.22.0/24
 add blacklist-vk-v4 178.237.24.0/22
+add blacklist-vk-v4 178.237.24.0/24
+add blacklist-vk-v4 178.237.28.0/24
 add blacklist-vk-v4 178.237.30.0/23
 add blacklist-vk-v4 185.100.104.0/22
 add blacklist-vk-v4 185.100.104.0/23
@@ -49,6 +62,8 @@ add blacklist-vk-v4 185.16.150.0/23
 add blacklist-vk-v4 185.16.244.0/22
 add blacklist-vk-v4 185.16.244.0/23
 add blacklist-vk-v4 185.16.246.0/23
+add blacklist-vk-v4 185.16.246.0/24
+add blacklist-vk-v4 185.16.247.0/24
 add blacklist-vk-v4 185.180.200.0/22
 add blacklist-vk-v4 185.187.63.0/24
 add blacklist-vk-v4 185.187.63.0/25
@@ -61,7 +76,9 @@ add blacklist-vk-v4 185.29.128.0/22
 add blacklist-vk-v4 185.29.130.0/24
 add blacklist-vk-v4 185.32.248.0/22
 add blacklist-vk-v4 185.32.248.0/23
+add blacklist-vk-v4 185.32.249.0/24
 add blacklist-vk-v4 185.32.250.0/23
+add blacklist-vk-v4 185.32.251.0/24
 add blacklist-vk-v4 185.5.136.0/22
 add blacklist-vk-v4 185.5.136.0/23
 add blacklist-vk-v4 185.5.138.0/23
@@ -77,12 +94,20 @@ add blacklist-vk-v4 188.93.60.0/24
 add blacklist-vk-v4 188.93.61.0/24
 add blacklist-vk-v4 188.93.62.0/24
 add blacklist-vk-v4 193.203.40.0/22
+add blacklist-vk-v4 194.186.63.0/24
 add blacklist-vk-v4 194.84.16.12/30
 add blacklist-vk-v4 195.211.20.0/22
 add blacklist-vk-v4 195.211.22.0/24
 add blacklist-vk-v4 195.211.23.0/24
+add blacklist-vk-v4 195.218.190.0/23
 add blacklist-vk-v4 195.239.247.0/24
+add blacklist-vk-v4 212.111.84.0/22
+add blacklist-vk-v4 212.233.120.0/22
+add blacklist-vk-v4 212.233.72.0/21
+add blacklist-vk-v4 212.233.88.0/21
+add blacklist-vk-v4 212.233.96.0/22
 add blacklist-vk-v4 213.219.212.0/22
+add blacklist-vk-v4 217.16.16.0/20
 add blacklist-vk-v4 217.174.188.0/22
 add blacklist-vk-v4 217.174.188.0/23
 add blacklist-vk-v4 217.174.190.0/23
@@ -98,6 +123,7 @@ add blacklist-vk-v4 217.20.159.0/24
 add blacklist-vk-v4 217.69.128.0/20
 add blacklist-vk-v4 217.69.128.0/21
 add blacklist-vk-v4 217.69.136.0/21
+add blacklist-vk-v4 31.177.104.0/22
 add blacklist-vk-v4 37.139.32.0/22
 add blacklist-vk-v4 37.139.40.0/22
 add blacklist-vk-v4 45.136.20.0/22
@@ -135,6 +161,7 @@ add blacklist-vk-v4 79.137.132.128/25
 add blacklist-vk-v4 79.137.139.0/24
 add blacklist-vk-v4 79.137.139.0/25
 add blacklist-vk-v4 79.137.139.128/25
+add blacklist-vk-v4 79.137.157.0/24
 add blacklist-vk-v4 79.137.157.0/25
 add blacklist-vk-v4 79.137.157.128/25
 add blacklist-vk-v4 79.137.164.0/24
@@ -158,6 +185,7 @@ add blacklist-vk-v4 83.217.216.0/22
 add blacklist-vk-v4 83.222.28.0/22
 add blacklist-vk-v4 84.23.52.0/22
 add blacklist-vk-v4 85.114.31.108/30
+add blacklist-vk-v4 85.142.115.0/24
 add blacklist-vk-v4 85.192.32.0/22
 add blacklist-vk-v4 85.198.106.0/24
 add blacklist-vk-v4 85.198.107.0/24
@@ -169,16 +197,27 @@ add blacklist-vk-v4 87.242.112.0/22
 add blacklist-vk-v4 89.208.196.0/22
 add blacklist-vk-v4 89.208.208.0/22
 add blacklist-vk-v4 89.208.216.0/21
+add blacklist-vk-v4 89.208.216.0/23
+add blacklist-vk-v4 89.208.218.0/23
+add blacklist-vk-v4 89.208.220.0/22
 add blacklist-vk-v4 89.208.228.0/22
 add blacklist-vk-v4 89.208.84.0/22
 add blacklist-vk-v4 89.221.228.0/22
 add blacklist-vk-v4 89.221.232.0/21
+add blacklist-vk-v4 89.221.232.0/22
+add blacklist-vk-v4 89.221.235.0/24
+add blacklist-vk-v4 89.221.236.0/22
 add blacklist-vk-v4 90.156.148.0/22
+add blacklist-vk-v4 90.156.151.0/24
 add blacklist-vk-v4 90.156.212.0/22
 add blacklist-vk-v4 90.156.216.0/22
 add blacklist-vk-v4 90.156.232.0/21
+add blacklist-vk-v4 91.219.224.0/22
 add blacklist-vk-v4 91.231.132.0/22
+add blacklist-vk-v4 91.231.133.0/24
+add blacklist-vk-v4 91.231.134.0/24
 add blacklist-vk-v4 91.237.76.0/24
+add blacklist-vk-v4 92.38.217.0/24
 add blacklist-vk-v4 93.153.255.84/30
 add blacklist-vk-v4 93.186.224.0/20
 add blacklist-vk-v4 93.186.224.0/21
@@ -187,9 +226,14 @@ add blacklist-vk-v4 94.100.176.0/20
 add blacklist-vk-v4 94.100.176.0/21
 add blacklist-vk-v4 94.100.184.0/21
 add blacklist-vk-v4 94.139.244.0/22
+add blacklist-vk-v4 94.139.244.0/24
 add blacklist-vk-v4 95.142.192.0/20
 add blacklist-vk-v4 95.142.192.0/21
 add blacklist-vk-v4 95.142.200.0/21
+add blacklist-vk-v4 95.142.201.0/24
+add blacklist-vk-v4 95.142.202.0/24
+add blacklist-vk-v4 95.142.203.0/24
+add blacklist-vk-v4 95.163.133.0/24
 add blacklist-vk-v4 95.163.180.0/22
 add blacklist-vk-v4 95.163.208.0/21
 add blacklist-vk-v4 95.163.216.0/22
