@@ -117,10 +117,10 @@ class NetworkListFromNetnameTests(unittest.TestCase):
         self.assertNotIn("FIRST", out)
         self.assertIn("# Network name: SECOND", out)
 
-    def test_lookup_skips_contact_objects(self):
+    def test_lookup_sends_the_bare_netname(self):
         whois = mock.Mock(return_value=[])
         self.run_main(whois)
-        whois.assert_any_call("-r FIRST", "inetnum")
+        whois.assert_any_call("FIRST", "inetnum")
 
 
 if __name__ == "__main__":

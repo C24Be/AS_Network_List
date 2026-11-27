@@ -36,7 +36,7 @@ def extract_netname(filename_or_url, quiet=False):
             lines = file.readlines()
 
     for netname in iter_netnames(lines):
-        response = whois_query(f"-r {netname}", "inetnum")
+        response = whois_query(netname, "inetnum")
         if response is not None and len(response) > 0:
             if not quiet:
                 print(f"# Network name: {netname}")
